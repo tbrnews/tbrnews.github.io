@@ -1,386 +1,426 @@
 {
   "schema_version": 1,
   "stats": {
-    "last_run": "2026-10-04T18:55:35.168Z",
+    "last_run": "2026-10-04T20:03:55.855Z",
     "sources_pulled": 74,
-    "headlines_read": 80,
-    "headlines_written": 68,
-    "summaries_written": 21,
-    "summaries_failed": 0,
-    "run_count": 1
+    "headlines_read": 90,
+    "headlines_written": 80,
+    "summaries_written": 20,
+    "summaries_failed": 1,
+    "run_count": 3
   },
   "headlines": [
     {
       "id": [
-        "62"
+        "64"
       ],
-      "title": "AI professionals quit industry, warn of existential risks",
-      "links": [
-        "https://www.france24.com/en/tv-shows/tech-24/20261004-why-i-quit-the-movement-shaping-ai"
-      ],
-      "category": "AI",
-      "rank": 0,
-      "summary": "Orbital images from NASA’s Mars Reconnaissance Orbiter reveal striking coral‑like rock formations in the Arabia Terra region, suggesting a cyclical ancient climate shaped by dust storms and groundwater before Mars lost its surface water. Captured in enhanced color by the HiRISE camera, the layers consist of iron‑rich volcanic basalt interspersed with lighter salt‑ and clay‑rich deposits, all sculpted by wind and erosion. Researchers analyze these sedimentary layers to reconstruct past shifts in the planet’s surface and atmospheric conditions, likely involving water. While current remote sensing provides only indirect insights, a future rover mission could yield direct chemical and mineralogical data to clarify these ancient processes on a planet once more hospitable to water."
-    },
-    {
-      "id": [
-        "4"
-      ],
-      "title": "Call for universal hard budget caps across industries",
-      "links": [
-        "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"
-      ],
-      "category": "AI",
-      "rank": 1,
-      "summary": "Orbital images from NASA’s Mars Reconnaissance Orbiter reveal striking coral‑like rock formations in the Arabia Terra region, suggesting a cyclical ancient climate shaped by dust storms and groundwater before Mars lost its surface water. Captured in enhanced color by the HiRISE camera, the layers consist of iron‑rich volcanic basalt interspersed with lighter salt‑ and clay‑rich deposits, all sculpted by wind and erosion. Researchers analyze these sedimentary layers to reconstruct past shifts in the planet’s surface and atmospheric conditions, likely involving water. While current remote sensing provides only indirect insights, a future rover mission could yield direct chemical and mineralogical data to clarify these ancient processes on a planet once more hospitable to water."
-    },
-    {
-      "id": [
-        "10"
-      ],
-      "title": "Enrollment deadline approaching for AI Evals October cohort",
-      "links": [
-        "https://blog.bytebytego.com/p/new-course-ai-evals-in-practice-starts"
-      ],
-      "category": "AI",
-      "rank": 2,
-      "summary": "Orbital images from NASA’s Mars Reconnaissance Orbiter reveal striking coral‑like rock formations in the Arabia Terra region, suggesting a cyclical ancient climate shaped by dust storms and groundwater before Mars lost its surface water. Captured in enhanced color by the HiRISE camera, the layers consist of iron‑rich volcanic basalt interspersed with lighter salt‑ and clay‑rich deposits, all sculpted by wind and erosion. Researchers analyze these sedimentary layers to reconstruct past shifts in the planet’s surface and atmospheric conditions, likely involving water. While current remote sensing provides only indirect insights, a future rover mission could yield direct chemical and mineralogical data to clarify these ancient processes on a planet once more hospitable to water."
-    },
-    {
-      "id": [
-        "11"
-      ],
-      "title": "Anthropic requests Claude users voluntarily provide voice data for model training",
-      "links": [
-        "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/"
-      ],
-      "category": "AI",
-      "rank": 3
-    },
-    {
-      "id": [
-        "12"
-      ],
-      "title": "Google Gemini may soon access all Mac files, apps, and web without prompts",
-      "links": [
-        "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/"
-      ],
-      "category": "AI",
-      "rank": 4
-    },
-    {
-      "id": [
-        "14"
-      ],
-      "title": "Fulcrum Echo claims to generate AI-written text mimicking any author – review",
-      "links": [
-        "https://www.theregister.com/ai-and-ml/2026/10/04/fulcrum-echo-promises-ai-text-in-the-style-of-any-writer-so-i-tested-it/5300944"
-      ],
-      "category": "AI",
-      "rank": 5
-    },
-    {
-      "id": [
-        "54"
-      ],
-      "title": "Anthropic reports possible Russian disinformation campaigns using Claude AI in Africa",
+      "title": "Anthropic report alleges Russian use of AI model Claude for disinformation campaigns",
       "links": [
         "https://www.dw.com/en/anthropic-report-is-russia-using-ai-for-disinformation-in-the-central-african-republic-and-elsewhere/a-79476947?maca=en-rss-en-all-1573-xml-mrss"
       ],
       "category": "AI",
-      "rank": 6
+      "rank": 0,
+      "summary": "A recent report by US AI company Anthropic alleges that Russian operatives misused its language model, Claude, to support disinformation campaigns targeting Central African Republic (CAR) opposition figures and amplify pro-Russian narratives via Radio Lengo Songo. The operation, documented in Anthropic’s September report, entailed propaganda creation, surveillance of opposition leaders—reflecting past practices linked to Russia’s Wagner Group—and efforts to portray opponents as threats to destabilize the ruling regime. While Russia denied the claims as “vague allegations,” the report also implicates similar AI-driven influence operations in the Democratic Republic of Congo, Kenya, Sudan, and Mali, including fake news networks and fabricated evidence. Anthropic claims it shut down these activities between December 2025 and August 2026, raising concerns about the weaponization of AI for covert influence. Observers see this as further evidence of widening AI-supported foreign interference tactics in African and global geopolitics."
     },
     {
       "id": [
-        "56"
+        "66",
+        "72"
       ],
-      "title": "President Trump appoints AI czar to lead new White House artificial intelligence task force",
+      "title": "President Trump appoints Jay Clayton as White House AI czar heading new super‑intelligence task force",
       "links": [
-        "https://www.dw.com/en/trump-names-ai-czar-to-head-white-house-task-force/a-79537966?maca=en-rss-en-all-1573-xml-mrss"
+        "https://www.dw.com/en/trump-names-ai-czar-to-head-white-house-task-force/a-79537966?maca=en-rss-en-all-1573-xml-mrss",
+        "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump"
       ],
       "category": "AI",
-      "rank": 7
-    },
-    {
-      "id": [
-        "78"
-      ],
-      "title": "Blue Origin reveals large lunar Power Tower to enhance solar energy",
-      "links": [
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdjd6WExfQWVJektiREpDa2J0Q0JQNFU0RHI3RS1TNFF5NWtoX0RiX1ZtS3RjU29wNFlGZ016b3FybTlQdVF6a0E4QW9wRWxENnUyYlFRWjczaHNLVG9xajVBM2ItRm5MMUhDcU1oQTU5Z2x1eTJaMXVzMVpZS1FRUEV4QnIyMjVJbXBhOGRkTnVSZXpwZFphTUxKeEx2QzVaVFZFbVlQUkRpV0xMUkgycWlQOERyRldvdUE?oc=5"
-      ],
-      "category": "Space",
-      "rank": 0,
-      "summary": "Orbital images from NASA’s Mars Reconnaissance Orbiter reveal striking coral‑like rock formations in the Arabia Terra region, suggesting a cyclical ancient climate shaped by dust storms and groundwater before Mars lost its surface water. Captured in enhanced color by the HiRISE camera, the layers consist of iron‑rich volcanic basalt interspersed with lighter salt‑ and clay‑rich deposits, all sculpted by wind and erosion. Researchers analyze these sedimentary layers to reconstruct past shifts in the planet’s surface and atmospheric conditions, likely involving water. While current remote sensing provides only indirect insights, a future rover mission could yield direct chemical and mineralogical data to clarify these ancient processes on a planet once more hospitable to water."
-    },
-    {
-      "id": [
-        "79"
-      ],
-      "title": "Mars rock formations resembling coral reefs offer clues to ancient climate",
-      "links": [
-        "https://nautil.us/coral-reef-like-rock-layers-on-mars-reveal-ancient-climate-secrets-1285515/"
-      ],
-      "category": "Space",
       "rank": 1,
-      "summary": "Orbital images from NASA’s Mars Reconnaissance Orbiter reveal striking coral‑like rock formations in the Arabia Terra region, suggesting a cyclical ancient climate shaped by dust storms and groundwater before Mars lost its surface water. Captured in enhanced color by the HiRISE camera, the layers consist of iron‑rich volcanic basalt interspersed with lighter salt‑ and clay‑rich deposits, all sculpted by wind and erosion. Researchers analyze these sedimentary layers to reconstruct past shifts in the planet’s surface and atmospheric conditions, likely involving water. While current remote sensing provides only indirect insights, a future rover mission could yield direct chemical and mineralogical data to clarify these ancient processes on a planet once more hospitable to water."
+      "summary": "President Donald Trump has established a White House task force called the “Super Intelligence Force,” led by White House AI czar Jay Clayton, to coordinate the administration’s response to artificial intelligence under its preferred rebranding of “super intelligence.” Composed of senior officials including intelligence director Andrew Ferguson and Pentagon technology officers, the group aims to engage with industry, consumer groups, and religious organizations while avoiding strict new regulations that could impede AI growth. The move follows pressure on Trump to address rising concerns about AI risks from researchers and tech leaders, including calls for voluntary self-regulation by figures like Elon Musk and Sam Altman. While Trump has hosted discussions with major AI companies and endorsed a non-binding safety pact, critics argue his approach lacks binding oversight mechanisms to manage emerging risks from rapidly advancing AI technologies."
+    },
+    {
+      "id": [
+        "16"
+      ],
+      "title": "Google Gemini may soon be granted unrestricted access to macOS files, applications, and web browsing",
+      "links": [
+        "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/"
+      ],
+      "category": "AI",
+      "rank": 2,
+      "summary": "Google is testing a new desktop control feature for its Gemini AI on macOS that would allow it to access files, open applications, and browse the web without repeated permissions, with a hidden setting called \"Additional sandbox options\" hinting at expanded functionality. While still in development and not officially confirmed by Google, the feature could enable Gemini to read, modify, or delete files beyond those explicitly connected to it, as well as interact with apps like Mail or Safari—though sensitive actions would still require user approval. The move aligns with Google’s broader strategy to transform Gemini into a more integrated desktop assistant rather than a tool confined to a chat interface. Apple’s stricter stance on AI agents accessing personal data can’t access personal data on Mac, but Google’s new option would mirror the permission-asking model seen in other AI tools like Anthropic’s Claude. The timing and specific Gemini models for this capability remain unclear."
     },
     {
       "id": [
         "3"
       ],
-      "title": "Former NASA flight director Milt Windler, key to Apollo 13 rescue, passes away",
+      "title": "Homa protocol proposed to replace TCP in AI computing clusters",
       "links": [
-        "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/"
+        "https://www.youtube.com/watch?v=eZ8WWZzoaR0"
       ],
-      "category": "Space",
-      "rank": 2,
-      "summary": "Orbital images from NASA’s Mars Reconnaissance Orbiter reveal striking coral‑like rock formations in the Arabia Terra region, suggesting a cyclical ancient climate shaped by dust storms and groundwater before Mars lost its surface water. Captured in enhanced color by the HiRISE camera, the layers consist of iron‑rich volcanic basalt interspersed with lighter salt‑ and clay‑rich deposits, all sculpted by wind and erosion. Researchers analyze these sedimentary layers to reconstruct past shifts in the planet’s surface and atmospheric conditions, likely involving water. While current remote sensing provides only indirect insights, a future rover mission could yield direct chemical and mineralogical data to clarify these ancient processes on a planet once more hospitable to water."
+      "category": "AI",
+      "rank": 3
     },
     {
       "id": [
-        "17"
+        "7"
       ],
-      "title": "Astronomy Picture of the Day features supernumerary rainbows over New Jersey",
+      "title": "Analysis argues AI reshapes rather than compromises cybersecurity",
       "links": [
-        "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/"
+        "https://salivan.substack.com/p/big-bad-wolf"
       ],
-      "category": "Space",
-      "rank": 3
+      "category": "AI",
+      "rank": 4
+    },
+    {
+      "id": [
+        "15"
+      ],
+      "title": "Anthropic requests Claude users voluntarily submit voice recordings to improve models",
+      "links": [
+        "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/"
+      ],
+      "category": "AI",
+      "rank": 5
+    },
+    {
+      "id": [
+        "8"
+      ],
+      "title": "Call for universal hard caps on computational budgets",
+      "links": [
+        "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"
+      ],
+      "category": "AI",
+      "rank": 6
     },
     {
       "id": [
         "18"
       ],
-      "title": "European Space Agency explores crewed transport and its own space station with new launchers",
+      "title": "Review of Fulcrum Echo's AI‑generated prose mimicking various authors",
+      "links": [
+        "https://www.theregister.com/ai-and-ml/2026/10/04/fulcrum-echo-promises-ai-text-in-the-style-of-any-writer-so-i-tested-it/5300944"
+      ],
+      "category": "AI",
+      "rank": 7
+    },
+    {
+      "id": [
+        "4"
+      ],
+      "title": "GitHub project offers script to delete macOS AI model files",
+      "links": [
+        "https://github.com/omlahore/RemoveMacAI"
+      ],
+      "category": "AI",
+      "rank": 8
+    },
+    {
+      "id": [
+        "5"
+      ],
+      "title": "Art project curated jointly with artificial intelligence",
+      "links": [
+        "https://bodilyoddities.com/blog/this-project-is-co-curated-with-ai/"
+      ],
+      "category": "AI",
+      "rank": 9
+    },
+    {
+      "id": [
+        "14"
+      ],
+      "title": "Enrollment deadline approaching for October cohort of AI Evals program",
+      "links": [
+        "https://blog.bytebytego.com/p/new-course-ai-evals-in-practice-starts"
+      ],
+      "category": "AI",
+      "rank": 10
+    },
+    {
+      "id": [
+        "26"
+      ],
+      "title": "New evidence suggests early‑universe magnetic fields may explain Hubble tension",
+      "links": [
+        "https://www.sciencedaily.com/releases/2026/10/261002080026.htm"
+      ],
+      "category": "Space",
+      "rank": 0,
+      "summary": "Recent simulations suggest that tiny magnetic fields generated shortly after the Big Bang may help resolve the Hubble tension, the discrepancy between two independent measurements of the universe’s expansion rate—67 km/s/Mpc inferred from the cosmic microwave background versus 73 km/s/Mpc observed in distant galaxies. These primordial magnetic fields would have influenced the moment when hydrogen first formed, altering the cosmic microwave background and changing the inferred expansion rate. The study uses detailed 3D simulations to show these fields leave a viable imprint in the background radiation, aligning with field strengths that could also explain galaxy-scale magnetism. While not conclusive, the findings offer a plausible new window into early-universe physics and guide future observations aimed at testing this hypothesis."
+    },
+    {
+      "id": [
+        "21"
+      ],
+      "title": "Analysis identifies missing elements in NASA’s Artemis lunar return program",
+      "links": [
+        "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/"
+      ],
+      "category": "Space",
+      "rank": 1,
+      "summary": "Richard Spolzino, an aerospace engineer at NASA’s Langley Research Center, plays a pivotal role in identifying critical knowledge gaps that could impact missions under the agency’s Artemis program and future Mars exploration, documenting these gaps to guide industry and international partners in developing targeted data solutions. With a background spanning physics and space architecture, he joined NASA not for its prestige but for the opportunity to make a wide-reaching impact, leveraging his systems-level expertise to bridge unknowns in lunar regolith properties and data prioritization for lunar missions. His team has expanded the formal list of documented data gaps from 25 to a projected 60 in a year, directly influencing partner projects like Astrobotic’s Griffin-1 lunar lander and NASA’s instrument selection process. The work underscores that NASA’s reputation relies on ongoing collaboration and real-time problem-solving, offering early-career professionals like Spolzino meaningful avenues for contribution beyond rigid job descriptions. At its core, the effort highlights the meticulous, iterative groundwork essential to sustaining ambitious human and robotic exploration beyond Earth."
+    },
+    {
+      "id": [
+        "23"
+      ],
+      "title": "ESA explores crewed transport and European‑led orbital station as new launchers debut",
       "links": [
         "https://www.nasaspaceflight.com/2026/10/europe-update/"
+      ],
+      "category": "Space",
+      "rank": 2,
+      "summary": "The European Space Agency (ESA) is advancing plans for independent European capabilities in human spaceflight and orbital infrastructure as the International Space Station nears retirement and new European launchers enter service. The agency is exploring the development of a European crew transport system—estimated to cost around €10 billion and take about a decade—as well as studying the feasibility of a European-led space station, with two industry consortia conducting feasibility studies over the next nine months. Europe’s fleet is also expanding, with Isar Aerospace’s Spectrum rocket achieving orbit in September and other new launchers under the European Launcher Challenge contributing to a ramp-up in launch capacity projected to peak around 2030. Meanwhile, ESA is securing access to future commercial stations, including missions with European astronauts, and renegotiating contributions to NASA’s Artemis program in pursuit of a European astronaut landing on the Moon."
+    },
+    {
+      "id": [
+        "27"
+      ],
+      "title": "Reanalysis shows Oklahoma impact crater formed 370 million years ago, much later than previously believed",
+      "links": [
+        "https://www.sciencedaily.com/releases/2026/10/261002080012.htm"
+      ],
+      "category": "Space",
+      "rank": 3
+    },
+    {
+      "id": [
+        "28"
+      ],
+      "title": "Latest gamma‑ray observations tighten constraints on dark matter annihilation near Milky Way center",
+      "links": [
+        "https://phys.org/news/2026-09-gamma-ray-limits-dark-annihilation.html"
       ],
       "category": "Space",
       "rank": 4
     },
     {
       "id": [
-        "19"
+        "29"
       ],
-      "title": "Anniversary of Sputnik 1 launch on October 4, 1957",
+      "title": "Astronomers detect previously unseen X‑ray emission phase in probable neutron‑star merger",
       "links": [
-        "https://www.astronomy.com/today-in-the-history-of-astronomy/oct-4th-1957-sputnik-launches/"
+        "https://phys.org/news/2026-09-hidden-ray-phase-revealed-neutron.html"
       ],
       "category": "Space",
       "rank": 5
     },
     {
       "id": [
-        "20"
+        "30"
       ],
-      "title": "Saturn opposite the Sun in the sky reaches opposition on October 4",
+      "title": "Study explains chemical diversity of ice grains formed from Enceladus ocean plumes",
       "links": [
-        "https://www.astronomy.com/observing/the-sky-today-sunday-october-4-2026/"
+        "https://phys.org/news/2026-09-enceladus-ocean-spray-chemically-diverse.html"
       ],
       "category": "Space",
       "rank": 6
     },
     {
       "id": [
-        "21"
+        "87"
       ],
-      "title": "New evidence of primordial magnetic fields may explain Hubble tension",
+      "title": "Blue Origin reveals massive lunar Power Tower to enhance solar power generation",
       "links": [
-        "https://www.sciencedaily.com/releases/2026/10/261002080026.htm"
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdjd6WExfQWVJektiREpDa2J0Q0JQNFU0RHI3RS1TNFF5NWtoX0RiX1ZtS3RjU29wNFlGZ016b3FybTlQdVF6a0E4QW9wRWxENnUyYlFRWjczaHNLVG9xajVBM2ItRm5MMUhDcU1oQTU5Z2x1eTJaMXVzMVpZS1FRUEV4QnIyMjVJbXBhOGRkTnVSZXpwZFphTUxKeEx2QzVaVFZFbVlQUkRpV0xMUkgycWlQOERyRldvdUE?oc=5"
       ],
       "category": "Space",
       "rank": 7
     },
     {
       "id": [
-        "22"
+        "89"
       ],
-      "title": "Revised dating shows Oklahoma impact crater formed 370 million years ago, 100 million years later than believed",
+      "title": "Mars rock formations resembling coral reefs provide clues to planet’s ancient climate",
       "links": [
-        "https://www.sciencedaily.com/releases/2026/10/261002080012.htm"
+        "https://nautil.us/coral-reef-like-rock-layers-on-mars-reveal-ancient-climate-secrets-1285515/"
       ],
       "category": "Space",
       "rank": 8
     },
     {
       "id": [
-        "23"
+        "24"
       ],
-      "title": "Astronomers uncover previously unseen X-ray phase in probable neutron star merger",
+      "title": "Anniversary reminder of Sputnik 1 launch on October 4, 1957",
       "links": [
-        "https://phys.org/news/2026-09-hidden-ray-phase-revealed-neutron.html"
+        "https://www.astronomy.com/today-in-the-history-of-astronomy/oct-4th-1957-sputnik-launches/"
       ],
       "category": "Space",
       "rank": 9
     },
     {
       "id": [
-        "24"
+        "22"
       ],
-      "title": "Study explains chemical diversity of ice grains from Enceladus' plume",
+      "title": "Astronomy Picture of the Day features supernumerary rainbows observed in New Jersey",
       "links": [
-        "https://phys.org/news/2026-09-enceladus-ocean-spray-chemically-diverse.html"
+        "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/"
       ],
       "category": "Space",
       "rank": 10
     },
     {
       "id": [
-        "42",
-        "51",
-        "58",
-        "59",
-        "70"
+        "25"
       ],
-      "title": "Brazilian presidential election sees Lula facing Bolsonaro (or his son) in close contest",
+      "title": "Saturn at opposition observable this Sunday, October 4",
       "links": [
-        "https://haber.sol.org.tr/haber/brezilya-secimleri-sermaye-duzeninin-iki-farkli-yonetim-modeli-karsi-karsiya-414590",
-        "https://www.ft.com/content/9972c7fa-ebed-4c0c-8ff6-17e66a547394?syn-25a6b1a6=1",
-        "https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-xml-mrss",
-        "https://www.france24.com/en/brazil-heads-to-the-polls-for-high-stakes-election-between-lula-and-flavio-bolsonaro",
-        "https://www.bbc.com/turkce/articles/cqjdmkklyvzvo?at_medium=RSS&at_campaign=rss"
+        "https://www.astronomy.com/observing/the-sky-today-sunday-october-4-2026/"
+      ],
+      "category": "Space",
+      "rank": 11
+    },
+    {
+      "id": [
+        "31",
+        "32"
+      ],
+      "title": "Russian attacks damage Kyiv bridges, including a drone strike during the German chancellor’s visit",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss"
       ],
       "category": "Geopolitics",
       "rank": 0,
-      "summary": "Orbital images from NASA’s Mars Reconnaissance Orbiter reveal striking coral‑like rock formations in the Arabia Terra region, suggesting a cyclical ancient climate shaped by dust storms and groundwater before Mars lost its surface water. Captured in enhanced color by the HiRISE camera, the layers consist of iron‑rich volcanic basalt interspersed with lighter salt‑ and clay‑rich deposits, all sculpted by wind and erosion. Researchers analyze these sedimentary layers to reconstruct past shifts in the planet’s surface and atmospheric conditions, likely involving water. While current remote sensing provides only indirect insights, a future rover mission could yield direct chemical and mineralogical data to clarify these ancient processes on a planet once more hospitable to water."
+      "summary": "Russian drone strikes have targeted multiple bridges in Kyiv over four consecutive days, damaging critical transport links and disrupting daily life for up to 500,000 commuters, while also hitting a heating main and other infrastructure. The surge in attacks coincided with German Chancellor Friedrich Merz’s surprise visit to Kyiv, where he reaffirmed Germany’s support and announced a new aid package exceeding €1.3bn before Ukrainian President Volodymyr Zelensky. Meanwhile, Russia vowed to intensify strikes across Ukraine in retaliation for Ukrainian strikes on Russian energy facilities, escalating tensions amid Moscow’s ongoing full-scale invasion. Authorities in Kyiv face mounting challenges as repeated drone assaults risk long-term damage to bridges and reduce essential services, prompting contingency plans like temporary pontoon bridges or ferries. International responses, including from the EU, dismissed Russian warnings to foreign diplomats to leave Kyiv, underscoring steadfast Western backing for Ukraine."
     },
     {
       "id": [
         "33",
-        "61"
+        "37"
       ],
-      "title": "German Chancellor Merz visits Kyiv, announces aid package and pledges support",
+      "title": "Yemen government declares total war and launches major offensive to retake Houthis‑controlled territories",
       "links": [
-        "https://www.aljazeera.com/video/newsfeed/2026/10/4/germany-merz-visits-kyiv-air-raids-ukraine?traffic_source=rss",
-        "https://www.france24.com/en/german-chancellor-in-kyiv-ukraine-will-need-our-support"
+        "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+        "https://www.defensenews.com/global/mideast-africa/2026/10/04/yemeni-government-launches-offensive-to-seize-all-areas-from-iran-backed-houthis/"
       ],
       "category": "Geopolitics",
       "rank": 1,
-      "summary": "Orbital images from NASA’s Mars Reconnaissance Orbiter reveal striking coral‑like rock formations in the Arabia Terra region, suggesting a cyclical ancient climate shaped by dust storms and groundwater before Mars lost its surface water. Captured in enhanced color by the HiRISE camera, the layers consist of iron‑rich volcanic basalt interspersed with lighter salt‑ and clay‑rich deposits, all sculpted by wind and erosion. Researchers analyze these sedimentary layers to reconstruct past shifts in the planet’s surface and atmospheric conditions, likely involving water. While current remote sensing provides only indirect insights, a future rover mission could yield direct chemical and mineralogical data to clarify these ancient processes on a planet once more hospitable to water."
+      "summary": "Yemen’s internationally recognized government has declared an all-out war to reclaim territory held by the Iran-backed Houthi rebels, escalating hostilities after a recent surge in cross-border strikes that included Houthi attacks on Saudi oil facilities. The offensive follows a Houthi advance last month that seized control of Yemen’s Red Sea coastline and the strategic Bab al-Mandab Strait, prompting Riyadh to re-engage militarily despite years of relative quiet in the conflict. The fighting has intensified around key cities like Taiz, which government forces still control, but recent Houthi gains, including cutting a vital supply route between Taiz and Aden, underscore their growing military momentum. With Saudi Arabia and the Yemeni government coordinating the push, the renewed campaign risks deepening regional instability amid broader Middle East tensions and a devastating humanitarian crisis in Yemen, whose population has long suffered the consequences of prolonged war."
     },
     {
       "id": [
-        "67"
+        "68",
+        "79"
       ],
-      "title": "Family of Fox News journalist killed in Ukraine sues network",
+      "title": "Brazilian presidential election between incumbent Lula and Flavio Bolsonaro proceeds to voting",
       "links": [
-        "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths"
+        "https://www.france24.com/en/brazil-heads-to-the-polls-for-high-stakes-election-between-lula-and-flavio-bolsonaro",
+        "https://www.bbc.com/turkce/articles/cqjdmkklyvzvo?at_medium=RSS&at_campaign=rss"
       ],
       "category": "Geopolitics",
       "rank": 2,
-      "summary": "Orbital images from NASA’s Mars Reconnaissance Orbiter reveal striking coral‑like rock formations in the Arabia Terra region, suggesting a cyclical ancient climate shaped by dust storms and groundwater before Mars lost its surface water. Captured in enhanced color by the HiRISE camera, the layers consist of iron‑rich volcanic basalt interspersed with lighter salt‑ and clay‑rich deposits, all sculpted by wind and erosion. Researchers analyze these sedimentary layers to reconstruct past shifts in the planet’s surface and atmospheric conditions, likely involving water. While current remote sensing provides only indirect insights, a future rover mission could yield direct chemical and mineralogical data to clarify these ancient processes on a planet once more hospitable to water."
+      "summary": "The original article announcement indicated a pivotal Brazilian presidential election proceeding between incumbent President Luiz Inácio Lula da Silva and rival candidate Flávio Bolsonaro, the son of former President Jair Bolsonaro, which would culminate in voting. However, the provided text for the article was inaccessible, resulting in a 404 error page instead of the intended coverage from France 24. This suggests the article may have been removed, relocated, or is no longer available. The election itself remained a key political moment, reflecting continuing ideological divisions within Brazil."
     },
     {
       "id": [
-        "69"
+        "41"
       ],
-      "title": "Yemen's internationally recognised government launches offensive against Houthis",
+      "title": "Analysts suggest conflict with Iran may intensify rather than lead to diplomatic agreement",
       "links": [
-        "https://www.bbc.com/turkce/articles/cq4g1rkjy4vpo?at_medium=RSS&at_campaign=rss"
+        "https://www.aljazeera.com/video/the-bottom-line/2026/10/4/war-on-iran-is-escalation-more-likely-than-a-deal-2?traffic_source=rss"
       ],
       "category": "Geopolitics",
       "rank": 3
     },
     {
       "id": [
-        "65"
+        "78"
       ],
-      "title": "U.S. Marine detained in Okinawa over alleged murder of woman",
+      "title": "Yemen's internationally recognized government launches military operation against Houthis",
       "links": [
-        "https://www.npr.org/2026/10/04/nx-s1-5990790/us-marine-arrested-for-alleged-murder-woman-on-okinawa"
+        "https://www.bbc.com/turkce/articles/cq4g1rkjy4vpo?at_medium=RSS&at_campaign=rss"
       ],
       "category": "Geopolitics",
       "rank": 4
     },
     {
       "id": [
-        "68"
+        "65",
+        "71"
       ],
-      "title": "Mormon women reject Arizona GOP candidate amid sexual misconduct claims",
+      "title": "German Chancellor Friedrich Merz visits Kyiv, reaffirming support amid Russian bridge attacks",
       "links": [
-        "https://www.npr.org/2026/10/04/nx-s1-5950536/arizona-house-race-mark-lamb-lds-church"
+        "https://www.dw.com/en/germany-s-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734?maca=en-rss-en-all-1573-xml-mrss",
+        "https://www.france24.com/en/german-chancellor-in-kyiv-ukraine-will-need-our-support"
       ],
       "category": "Geopolitics",
       "rank": 5
     },
     {
       "id": [
-        "71"
+        "2"
       ],
-      "title": "Canadian prime minister says army runs scenarios for unlikely U.S. invasion",
+      "title": "IEA and climate negotiators push for economy‑wide electrification target",
       "links": [
-        "https://www.bbc.com/turkce/articles/c8vgxlk60197o?at_medium=RSS&at_campaign=rss"
+        "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/"
       ],
       "category": "Geopolitics",
       "rank": 6
     },
     {
       "id": [
-        "25",
-        "26",
-        "52",
-        "55"
+        "34"
       ],
-      "title": "Russian bridge attacks on Kyiv occur during German Chancellor Merz's visit",
+      "title": "Ethiopian rebel groups pull back from Tigray’s capital, Mekelle",
       "links": [
-        "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
-        "https://www.ft.com/content/b7bd5c45-1c32-4984-af37-21746a02c4ef?syn-25a6b1a6=1",
-        "https://www.dw.com/en/germany-s-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734?maca=en-rss-en-all-1573-xml-mrss"
+        "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss"
       ],
       "category": "Geopolitics",
       "rank": 7
     },
     {
       "id": [
-        "63"
+        "39"
       ],
-      "title": "Week in pictures: Flydubai flight diversion, French school protests, Bangkok floods",
+      "title": "French education ministry plans closure of up to 500 schools amid ongoing student protests",
       "links": [
-        "https://www.france24.com/en/middle-east/20261004-the-week-in-pictures-disaster-averted-flydubai-flight-french-school-protests-and-bangkok-floods"
+        "https://www.aljazeera.com/news/2026/10/4/france-to-shutter-up-to-500-schools-as-more-student-protests-called?traffic_source=rss"
       ],
       "category": "Geopolitics",
       "rank": 8
     },
     {
       "id": [
-        "2"
+        "40"
       ],
-      "title": "IEA and climate negotiators push for economy-wide electrification target",
+      "title": "Supporters of Imran Khan mobilize for mass rally after stalled government negotiations",
       "links": [
-        "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/"
+        "https://www.aljazeera.com/news/2026/10/4/pro-imran-khan-mass-rally-launched-after-pakistan-government-talks-fail?traffic_source=rss"
       ],
       "category": "Geopolitics",
       "rank": 9
     },
     {
       "id": [
-        "27"
+        "63"
       ],
-      "title": "Yemen declares total war to retake territory from Houthi forces",
+      "title": "Imran Khan supporters march to Islamabad demanding former prime minister's release",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss"
+        "https://www.dw.com/en/pakistan-imran-khan-supporters-demand-ex-pm-s-release/a-79539221?maca=en-rss-en-all-1573-xml-mrss"
       ],
       "category": "Geopolitics",
       "rank": 10
     },
     {
       "id": [
-        "28"
+        "35",
+        "80"
       ],
-      "title": "Rebel forces pull back from Mekelle, Tigray's capital",
+      "title": "Christa Pike remains in intensive care following a botched execution attempt",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.com/turkce/articles/cqx2zxpexreeo?at_medium=RSS&at_campaign=rss"
       ],
       "category": "Geopolitics",
       "rank": 11
     },
     {
       "id": [
-        "30"
+        "36"
       ],
-      "title": "Retrospective on 1983 films that reshaped national security discussions",
+      "title": "Retrospective on 1983 films that shifted national security discussions",
       "links": [
         "https://foreignpolicy.com/2026/10/04/wargames-hollywood-movies-national-security/"
       ],
@@ -389,289 +429,401 @@
     },
     {
       "id": [
-        "31"
+        "38"
       ],
-      "title": "Zelenskyy says Ukraine prepared for US-facilitated negotiations with Russia",
+      "title": "Prospects for reform in Bosnia and Herzegovina ahead of upcoming elections",
       "links": [
-        "https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy?traffic_source=rss"
+        "https://www.aljazeera.com/video/inside-story/2026/10/4/will-elections-bring-change-to-multi-ethnic-bosnia-and-herzegovina?traffic_source=rss"
       ],
       "category": "Geopolitics",
       "rank": 13
     },
     {
       "id": [
-        "32"
+        "42"
       ],
-      "title": "Third day of Indian protests demanding election commission chief's resignation",
+      "title": "KKK spokesperson asserts growing support as US midterm elections approach",
       "links": [
-        "https://www.aljazeera.com/news/2026/10/4/mass-protests-demanding-poll-chief-resignation-shake-india-for-third-day?traffic_source=rss"
+        "https://www.aljazeera.com/video/newsfeed/2026/10/4/ku-klux-klan-leader-claims-rising-support-ahead-of-us-midterm-elections?traffic_source=rss"
       ],
       "category": "Geopolitics",
       "rank": 14
     },
     {
       "id": [
-        "34"
+        "58"
       ],
-      "title": "UN World Food Programme driver killed in Sudan air strike on aid convoy",
+      "title": "Jewish organisations condemn Greens after passage of anti‑Zionism resolution",
       "links": [
-        "https://www.aljazeera.com/news/2026/10/4/air-strike-in-sudan-kills-un-aid-truck-driver-wfp?traffic_source=rss"
+        "https://www.ft.com/content/c608d956-22b7-4f23-a6fe-63f39c52c275?syn-25a6b1a6=1"
       ],
       "category": "Geopolitics",
       "rank": 15
     },
     {
       "id": [
-        "43"
+        "61"
       ],
-      "title": "Cuba endures US embargo and military threats, showcasing resilience",
+      "title": "Contentious election results emerge as the campaign season begins",
       "links": [
-        "https://haber.sol.org.tr/kuba-gercegi/abluka-gunlukleri-214-3-ekim-2026-cumartesi-414587"
+        "https://www.ft.com/content/d3b09a81-626c-406a-a568-40966ffad074?syn-25a6b1a6=1"
       ],
       "category": "Geopolitics",
       "rank": 16
     },
     {
       "id": [
-        "49"
+        "62"
       ],
-      "title": "Jewish organizations criticize Greens party after anti-Zionism motion adoption",
+      "title": "Voting concludes in Bosnia-Herzegovina's divisive presidential election",
       "links": [
-        "https://www.ft.com/content/c608d956-22b7-4f23-a6fe-63f39c52c275?syn-25a6b1a6=1"
+        "https://www.dw.com/en/polls-close-in-bosnia-herzegovina-s-divisive-election/a-79535336?maca=en-rss-en-all-1573-xml-mrss"
       ],
       "category": "Geopolitics",
       "rank": 17
     },
     {
       "id": [
-        "50"
+        "67"
       ],
-      "title": "Britain's election season begins amid highly contentious by-election outcome",
+      "title": "Profile of Brazil's prospective presidential candidate",
       "links": [
-        "https://www.ft.com/content/d3b09a81-626c-406a-a568-40966ffad074?syn-25a6b1a6=1"
+        "https://www.france24.com/en/tv-shows/spotlight/20261004-a-profile-of-brazil-s-potential-president"
       ],
       "category": "Geopolitics",
       "rank": 18
     },
     {
       "id": [
-        "39",
-        "47"
+        "52",
+        "53",
+        "77"
       ],
-      "title": "Mayor Cemil Tugay speculated to join AKP and faces phone shutdown after meeting Erdoğan",
+      "title": "Series of earthquakes strikes Adana and Osmaniye, including a magnitude 4.4 quake and subsequent rockfalls",
       "links": [
-        "https://haber.sol.org.tr/haber/cemil-tugaydan-akpye-gecis-sinyali-sosyal-medyadan-yanit-verdi-414591",
-        "https://haber.mynet.com/telefonunu-kapatti-talimat-verdi-cemil-tugay-ak-parti-ye-iddiasi-arayan-olursa-yurt-disinda-deyin-110107314857"
+        "https://haber.mynet.com/afad-duyurdu-adana-da-4-4-buyuklugunde-deprem-110107314956",
+        "https://haber.mynet.com/deprem-adana-daki-hopka-dagi-ni-boyle-salladi-2023-teki-gibiydi-cok-korktuk-110107314916",
+        "https://www.bbc.com/turkce/articles/cwe8r127886vo?at_medium=RSS&at_campaign=rss"
       ],
       "category": "Turkey",
       "rank": 0,
-      "summary": "Orbital images from NASA’s Mars Reconnaissance Orbiter reveal striking coral‑like rock formations in the Arabia Terra region, suggesting a cyclical ancient climate shaped by dust storms and groundwater before Mars lost its surface water. Captured in enhanced color by the HiRISE camera, the layers consist of iron‑rich volcanic basalt interspersed with lighter salt‑ and clay‑rich deposits, all sculpted by wind and erosion. Researchers analyze these sedimentary layers to reconstruct past shifts in the planet’s surface and atmospheric conditions, likely involving water. While current remote sensing provides only indirect insights, a future rover mission could yield direct chemical and mineralogical data to clarify these ancient processes on a planet once more hospitable to water."
+      "summary": "The webpage displayed an error message indicating that the requested page could not be found (\"404 Sayfa bulunamadı\"), suggesting that the article on a series of earthquakes striking Adana and Osmaniye, including a magnitude 4.4 quake and subsequent rockfalls, was either removed, moved, or inaccessible at the time of scraping. As a result, no substantive content from the original article could be retrieved for analysis."
     },
     {
       "id": [
-        "36"
+        "46"
+      ],
+      "title": "Independent mining union demands resignation and prosecution of Turkey’s energy and labor ministers over Soma disaster",
+      "links": [
+        "https://haber.sol.org.tr/haber/bagimsiz-maden-isten-somada-aciklama-enerji-bakani-ve-calisma-bakani-derhal-istifa-etmeli-ve"
+      ],
+      "category": "Turkey",
+      "rank": 1,
+      "summary": "On October 1, 2026, a roof collapse at the İmbat Madencilik mine in Soma, Manisa, killed five miners and injured two others. The independent mining union Bağımsız Maden-İş held a press conference, accusing the company of prioritizing production over safety by speeding up work at the unstable Doğu 5 Panel despite risks detected during a recent inspection. Union leaders called for the immediate resignation and prosecution of Turkey’s energy and labor ministers, alleging that regulatory failures and profit-driven negligence made the disaster foreseeable."
+    },
+    {
+      "id": [
+        "43"
       ],
       "title": "T24 reports lifted bans and awards for its newspaper",
       "links": [
         "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkpjRnIyZEtLZ0plOGZrUnptdUExdjJtRXFrTzFkNVp0NzVZeDFqTUlEcnJlOTRlMzM3TmJQZFhCU0RwMnozbEFmNmljYlNOTWJRakY1QUx4UWJETHNPTFRrbGw5aE16TEI4SWVFU29Gbk9iNVFCZnBydXItSHlYZU5oLU9Dbi04dDUxXzlrc1RYdkJFaW1XWQ?oc=5"
       ],
       "category": "Turkey",
-      "rank": 1,
-      "summary": "Orbital images from NASA’s Mars Reconnaissance Orbiter reveal striking coral‑like rock formations in the Arabia Terra region, suggesting a cyclical ancient climate shaped by dust storms and groundwater before Mars lost its surface water. Captured in enhanced color by the HiRISE camera, the layers consist of iron‑rich volcanic basalt interspersed with lighter salt‑ and clay‑rich deposits, all sculpted by wind and erosion. Researchers analyze these sedimentary layers to reconstruct past shifts in the planet’s surface and atmospheric conditions, likely involving water. While current remote sensing provides only indirect insights, a future rover mission could yield direct chemical and mineralogical data to clarify these ancient processes on a planet once more hospitable to water."
-    },
-    {
-      "id": [
-        "37"
-      ],
-      "title": "Zuhal Olcay and Zeynep Atakan discuss on T24, wishing Genco Erkal were present",
-      "links": [
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPclRJcHVCdW1xWFEycUNCVllUX1N3dEUzcVhRMENreDRKd2RyS1lPdEpoZUEtNFdtR2ZEdVlPZkJGZ3J2cFA3MEkya1g4S2Q0cW9ILUk4WmoxRDdoQ0YzTVRtQ2lQVncyQkUzSzhzbmlrUEI4bmtXeVpwVHFtTm5pMFlVLWZRdkt1MW1oWWE3UF9tM2VOejFVREYwMVRDYjRyZFFxQUFpZ0wwdjhZSFRVRDJBZGd3S1E2XzFRSHRpWTlWQQ?oc=5"
-      ],
-      "category": "Turkey",
       "rank": 2,
-      "summary": "Orbital images from NASA’s Mars Reconnaissance Orbiter reveal striking coral‑like rock formations in the Arabia Terra region, suggesting a cyclical ancient climate shaped by dust storms and groundwater before Mars lost its surface water. Captured in enhanced color by the HiRISE camera, the layers consist of iron‑rich volcanic basalt interspersed with lighter salt‑ and clay‑rich deposits, all sculpted by wind and erosion. Researchers analyze these sedimentary layers to reconstruct past shifts in the planet’s surface and atmospheric conditions, likely involving water. While current remote sensing provides only indirect insights, a future rover mission could yield direct chemical and mineralogical data to clarify these ancient processes on a planet once more hospitable to water."
+      "summary": "No summary available: scraping failure"
     },
     {
       "id": [
-        "38"
+        "47"
       ],
-      "title": "Ertuğrul Özkök reflects on philosophical dance in Turkey",
+      "title": "AKP MP Serkan Bayram apologizes to Erdoğan after controversial remarks",
       "links": [
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbTlDNzJIU0xFQjRhU3pPVjRaemtTRzhJcEwyMWwxS19BVkZOakowQ0NyVll4cUw1ZEpLN2wwR1lmZ09IRXlrcjUtRTE5dERET2lackc0VkVfOENIcDNvS0twdEpXcHNvN0RPSEVISjZWV2FQM2swNWVIbTFhUGRmajY1aFY2RzBmVnJucTVGX2x5OEtSR1oxQ3E4MEpnTmg0amRfREJ0ckhBcmM?oc=5"
+        "https://haber.sol.org.tr/haber/akp-milletvekili-serkan-bayram-cark-etti-maksadimi-astim-dedi-erdogandan-helallik-istedi"
       ],
       "category": "Turkey",
       "rank": 3
     },
     {
       "id": [
-        "40"
+        "48"
       ],
-      "title": "Sugar beet producers protest in front of Eskişehir factory over rising input costs",
+      "title": "Cemil Tugay hints at possible shift to AKP in social media response",
       "links": [
-        "https://haber.sol.org.tr/haber/pancar-ureticilerinden-eskisehir-seker-fabrikasi-onunde-eylem-ya-burada-olecegiz-ya-da"
+        "https://haber.sol.org.tr/haber/cemil-tugaydan-akpye-gecis-sinyali-sosyal-medyadan-yanit-verdi-414591"
       ],
       "category": "Turkey",
       "rank": 4
     },
     {
       "id": [
-        "41"
+        "49"
       ],
-      "title": "Increasing signals of return: Former AKP ally Sedat Peker's activities examined",
+      "title": "Beet growers protest at Eskişehir Sugar Factory demanding higher payments amid rising costs",
       "links": [
-        "https://haber.sol.org.tr/haber/donus-sinyalleri-artarken-akpnin-eski-mafyasi-sedat-peker-aslinda-kimdi-ve-neden-ustu"
+        "https://haber.sol.org.tr/haber/pancar-ureticilerinden-eskisehir-seker-fabrikasi-onunde-eylem-ya-burada-olecegiz-ya-da"
       ],
       "category": "Turkey",
       "rank": 5
     },
     {
       "id": [
-        "75"
+        "50"
       ],
-      "title": "Study investigates cancer rates near nuclear plants, sparks Costco controversy",
+      "title": "Discussion on Sedat Peker’s renewed public presence and related political signals",
+      "links": [
+        "https://haber.sol.org.tr/haber/donus-sinyalleri-artarken-akpnin-eski-mafyasi-sedat-peker-aslinda-kimdi-ve-neden-ustu"
+      ],
+      "category": "Turkey",
+      "rank": 6
+    },
+    {
+      "id": [
+        "51"
+      ],
+      "title": "Worker dies after electric shock while working on high‑voltage line in Diyarbakır",
+      "links": [
+        "https://haber.mynet.com/diyarbakir-da-feci-olay-elektrik-akimina-kapilan-usta-oldu-2-ciragi-agir-yaralandi-110107314963"
+      ],
+      "category": "Turkey",
+      "rank": 7
+    },
+    {
+      "id": [
+        "54"
+      ],
+      "title": "Claims emerge that İzmir mayor Cemil Tugay met with President Erdoğan after closing communications",
+      "links": [
+        "https://haber.mynet.com/telefonunu-kapatti-talimat-verdi-cemil-tugay-ak-parti-ye-iddiasi-arayan-olursa-yurt-disinda-deyin-110107314857"
+      ],
+      "category": "Turkey",
+      "rank": 8
+    },
+    {
+      "id": [
+        "44"
+      ],
+      "title": "Zuhal Olcay and Zeynep Atakan discuss on T24",
+      "links": [
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPclRJcHVCdW1xWFEycUNCVllUX1N3dEUzcVhRMENreDRKd2RyS1lPdEpoZUEtNFdtR2ZEdVlPZkJGZ3J2cFA3MEkya1g4S2Q0cW9ILUk4WmoxRDdoQ0YzTVRtQ2lQVncyQkUzSzhzbmlrUEI4bmtXeVpwVHFtTm5pMFlVLWZRdkt1MW1oWWE3UF9tM2VOejFVREYwMVRDYjRyZFFxQUFpZ0wwdjhZSFRVRDJBZGd3S1E2XzFRSHRpWTlWQQ?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 9
+    },
+    {
+      "id": [
+        "45"
+      ],
+      "title": "Ertuğrul Özkök ponders song choice in Turkey’s most philosophical dance",
+      "links": [
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbTlDNzJIU0xFQjRhU3pPVjRaemtTRzhJcEwyMWwxS19BVkZOakowQ0NyVll4cUw1ZEpLN2wwR1lmZ09IRXlrcjUtRTE5dERET2lackc0VkVfOENIcDNvS0twdEpXcHNvN0RPSEVISjZWV2FQM2swNWVIbTFhUGRmajY1aFY2RzBmVnJucTVGX2x5OEtSR1oxQ3E4MEpnTmg0amRfREJ0ckhBcmM?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 10
+    },
+    {
+      "id": [
+        "55"
+      ],
+      "title": "Hatay teenager resumes routine after treatment following trauma from 2023 quake",
+      "links": [
+        "https://haber.mynet.com/mesajini-uzerindeki-tisortle-verdi-deprem-sonrasi-hayata-kusen-hatayli-genc-tedaviden-sonra-rutinine-dondu-110107314853"
+      ],
+      "category": "Turkey",
+      "rank": 11
+    },
+    {
+      "id": [
+        "84"
+      ],
+      "title": "Study links higher cancer rates to proximity to nuclear power plants in Massachusetts",
       "links": [
         "https://feeds.feedblitz.com/~/970959740/0/marginalrevolution~Does-Costco-Cause-Cancer.html"
       ],
       "category": "Science",
       "rank": 0,
-      "summary": "Orbital images from NASA’s Mars Reconnaissance Orbiter reveal striking coral‑like rock formations in the Arabia Terra region, suggesting a cyclical ancient climate shaped by dust storms and groundwater before Mars lost its surface water. Captured in enhanced color by the HiRISE camera, the layers consist of iron‑rich volcanic basalt interspersed with lighter salt‑ and clay‑rich deposits, all sculpted by wind and erosion. Researchers analyze these sedimentary layers to reconstruct past shifts in the planet’s surface and atmospheric conditions, likely involving water. While current remote sensing provides only indirect insights, a future rover mission could yield direct chemical and mineralogical data to clarify these ancient processes on a planet once more hospitable to water."
+      "summary": "In December 2025, researchers led by Yazan Alwadi at Harvard’s T.H. Chan School of Public Health published a study linking higher cancer incidence to proximity to nuclear power plants in Massachusetts, followed by expanded national research and additional papers exploring cancer types and overall mortality. Critics, including Deric Tilson and Adam Stein, argued these results were methodologically flawed, demonstrating that the same approach could falsely correlate cancer risks with unrelated locations, such as Costco stores, revealing the method’s unreliability rather than proving a true health risk. The flawed methodology inflated risk factors for irrelevant landmarks, suggesting the initial findings were artifacts of flawed statistical techniques rather than evidence of actual harm from nuclear plants. The episode highlights the importance of rigorous validation in public health research to avoid spurious conclusions."
     },
     {
       "id": [
-        "76"
+        "85"
       ],
-      "title": "Research shows Americans tend to marry within same class and race",
+      "title": "Research examines how class and race influence marriage patterns in the United States",
       "links": [
         "https://feeds.feedblitz.com/~/970955366/0/marginalrevolution~Marital-sorting-by-class-and-race.html"
       ],
       "category": "Science",
       "rank": 1,
-      "summary": "Orbital images from NASA’s Mars Reconnaissance Orbiter reveal striking coral‑like rock formations in the Arabia Terra region, suggesting a cyclical ancient climate shaped by dust storms and groundwater before Mars lost its surface water. Captured in enhanced color by the HiRISE camera, the layers consist of iron‑rich volcanic basalt interspersed with lighter salt‑ and clay‑rich deposits, all sculpted by wind and erosion. Researchers analyze these sedimentary layers to reconstruct past shifts in the planet’s surface and atmospheric conditions, likely involving water. While current remote sensing provides only indirect insights, a future rover mission could yield direct chemical and mineralogical data to clarify these ancient processes on a planet once more hospitable to water."
+      "summary": "Research by Goldman, Gracie, and Porter finds that Americans rarely marry outside their racial or socioeconomic class group, with exposure playing a key role in these patterns. Using neighborhood variation as an instrumental variable, the study estimates that increased childhood exposure to different racial or class groups raises marriage across class lines—particularly high- and low-parental-income unions—but has little effect on interracial (White-Black) marriages. The findings suggest residential segregation drives over a third of class-based marital sorting but explains less than 5% of racial sorting, highlighting how spatial factors shape economic mobility and social inequality differently by class and race. These dynamics underscore persistent barriers to intergroup union formation in the U.S."
     },
     {
       "id": [
-        "77"
+        "88"
       ],
-      "title": "Study explores Japanese seniors’ attitudes toward care‑giving robots",
+      "title": "New study argues ancient Egypt had a female pharaoh 5,000 years ago",
       "links": [
-        "https://feeds.feedblitz.com/~/970953944/0/marginalrevolution~Do-the-elderly-prefer-robotic-care.html"
+        "https://nautil.us/was-there-really-a-female-king-in-ancient-egypt-5000-years-ago-1285520/"
       ],
       "category": "Science",
       "rank": 2,
-      "summary": "Orbital images from NASA’s Mars Reconnaissance Orbiter reveal striking coral‑like rock formations in the Arabia Terra region, suggesting a cyclical ancient climate shaped by dust storms and groundwater before Mars lost its surface water. Captured in enhanced color by the HiRISE camera, the layers consist of iron‑rich volcanic basalt interspersed with lighter salt‑ and clay‑rich deposits, all sculpted by wind and erosion. Researchers analyze these sedimentary layers to reconstruct past shifts in the planet’s surface and atmospheric conditions, likely involving water. While current remote sensing provides only indirect insights, a future rover mission could yield direct chemical and mineralogical data to clarify these ancient processes on a planet once more hospitable to water."
+      "summary": "A newly published study argues that Meretneith, a royal woman from Egypt’s First Dynasty over 5,000 years ago, held the title of female king rather than merely serving as queen or regent. Using advanced digital enhancement on a long-lost photograph of a mud stopper inscription, researchers identified hieroglyphic serekhs—royal name emblems—linking her directly to the ruler’s title alongside male pharaohs. While her extravagant tomb and other administrative evidence already suggested significant political influence, the analysis provides more definitive proof that she ruled as a king in her own right, making her one of Egypt’s earliest recorded female rulers. The findings challenge prior skepticism about her status and highlight her adaptable political role during a formative period in Egyptian history."
     },
     {
       "id": [
-        "1"
+        "60"
       ],
-      "title": "NatGeo documentary highlights Africa's varied wildlife",
+      "title": "Geography class explores ways to keep electricity on in a fully electrified world",
       "links": [
-        "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/"
+        "https://www.ft.com/content/3df9fdf9-ff66-4d1e-b979-44b55659dd38"
       ],
       "category": "Science",
       "rank": 3
     },
     {
       "id": [
-        "53"
+        "13"
       ],
-      "title": "Growth of publicly funded ADHD assessments raises concerns over overdiagnosis",
+      "title": "New federal legislation offers large tax incentives for rural data center projects",
       "links": [
-        "https://www.ft.com/content/29ad728f-147c-4fb4-8a6d-a3c0dc43665b?syn-25a6b1a6=1"
-      ],
-      "category": "Science",
-      "rank": 4
-    },
-    {
-      "id": [
-        "0"
-      ],
-      "title": "Database reports conflict despite agent's claim of completion",
-      "links": [
-        "https://huggingface.co/blog/microsoft/thinkingbox"
+        "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/"
       ],
       "category": "Tech",
       "rank": 0,
-      "summary": "Orbital images from NASA’s Mars Reconnaissance Orbiter reveal striking coral‑like rock formations in the Arabia Terra region, suggesting a cyclical ancient climate shaped by dust storms and groundwater before Mars lost its surface water. Captured in enhanced color by the HiRISE camera, the layers consist of iron‑rich volcanic basalt interspersed with lighter salt‑ and clay‑rich deposits, all sculpted by wind and erosion. Researchers analyze these sedimentary layers to reconstruct past shifts in the planet’s surface and atmospheric conditions, likely involving water. While current remote sensing provides only indirect insights, a future rover mission could yield direct chemical and mineralogical data to clarify these ancient processes on a planet once more hospitable to water."
+      "summary": "A new federal law provides substantial tax incentives to encourage the development of data centers in rural areas, aiming to spread economic benefits and infrastructure investment beyond traditional tech hubs. The legislation leverages federal programs like Opportunity Zones or related tax breaks to attract projects that would otherwise concentrate in urban centers, potentially lowering costs for operators while revitalizing struggling rural economies. Supporters view it as a way to diversify tech investment and create jobs in less-served communities, though critics question whether tax breaks are necessary given the profitability of data centers. Local opposition has grown due to concerns about energy use, environmental impact, and public subsidies for private facilities, adding tension to the federal push. The policy reflects broader federal efforts to balance tech growth with geographical equity while igniting broader debates over responsible development."
     },
     {
       "id": [
-        "5"
+        "57"
       ],
-      "title": "Top 15 office chairs for 2026 after testing 70 models",
+      "title": "Schneider Electric close to $20 billion acquisition of software firm PTC",
       "links": [
-        "https://www.wired.com/gallery/best-office-chairs/"
+        "https://www.ft.com/content/2084f349-0829-4130-a5e6-b98929a6e633?syn-25a6b1a6=1"
       ],
       "category": "Tech",
       "rank": 1,
-      "summary": "Orbital images from NASA’s Mars Reconnaissance Orbiter reveal striking coral‑like rock formations in the Arabia Terra region, suggesting a cyclical ancient climate shaped by dust storms and groundwater before Mars lost its surface water. Captured in enhanced color by the HiRISE camera, the layers consist of iron‑rich volcanic basalt interspersed with lighter salt‑ and clay‑rich deposits, all sculpted by wind and erosion. Researchers analyze these sedimentary layers to reconstruct past shifts in the planet’s surface and atmospheric conditions, likely involving water. While current remote sensing provides only indirect insights, a future rover mission could yield direct chemical and mineralogical data to clarify these ancient processes on a planet once more hospitable to water."
+      "summary": "Schneider Electric is nearing a deal to acquire PTC, an industrial software company, in a transaction valued at roughly $20 billion, according to reports. The proposed acquisition represents one of the largest deals in the industrial technology sector this year and would significantly expand Schneider’s software capabilities in industrial automation and the Internet of Things. While terms have not been finalized, the move underscores growing corporate consolidation in the digital transformation space, where legacy industrial firms are investing heavily in software to enhance operational efficiency and data analytics. Regulatory approval and shareholder consent will be required before any deal is completed."
+    },
+    {
+      "id": [
+        "17"
+      ],
+      "title": "CISA adds a new actively exploited vulnerability to its KEV catalog",
+      "links": [
+        "https://www.cisa.gov/news-events/alerts/2026/10/04/cisa-adds-one-known-exploited-vulnerability-catalog"
+      ],
+      "category": "Tech",
+      "rank": 2,
+      "summary": "CISA has added CVE-2026-88779, a Citrix NetScaler memory buffer vulnerability actively exploited in the wild, to its Known Exploited Vulnerabilities (KEV) Catalog. Federal agencies are now required under Binding Operational Directive (BOD) 26-04 to prioritize patching this and other KEV-listed flaws on internet-facing systems to prevent complete system compromise. While BOD 26-04 only mandates action for Federal Civilian Executive Branch agencies, CISA urges all organizations to follow the same risk-based approach when addressing vulnerabilities in the KEV Catalog due to their high exploitation risk. Organizations can submit additional vulnerabilities for consideration through CISA’s KEV Nomination Form if they meet specific criteria."
+    },
+    {
+      "id": [
+        "56"
+      ],
+      "title": "Analysis highlights key considerations for investors in Micron Technology stock",
+      "links": [
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYnhsSjNhY3RjLV9MZndWUkpDZjJQZVJOZU1OSWxXMHlpZjNjeEF2Y2QyUmNGaDAtZU5vbi11MUdBUVBBMXNsa1V2TzNfek5HNzh1bzNVWXFOU0lDNlJJYTNJWWozeFVaUWpoQ2hqSzRhQUVOd2lxS25neEUxNHdjWVlrNFFmVFEtMnVUci1LdXhOMnAtenpGSUk4NTVoQjJGM1dCNkM5dENEUGJoWWt6dXg2ampBWHViUGJZ?oc=5"
+      ],
+      "category": "Tech",
+      "rank": 3
+    },
+    {
+      "id": [
+        "59"
+      ],
+      "title": "AkzoNobel plans sale of Southeast Asian decorative paint division to Nippon Paint",
+      "links": [
+        "https://www.ft.com/content/9737146d-fda7-440f-a77d-ab954de7a1a5?syn-25a6b1a6=1"
+      ],
+      "category": "Tech",
+      "rank": 4
     },
     {
       "id": [
         "6"
       ],
-      "title": "Budget-friendly gift ideas under $25 for 2026",
+      "title": "Developer uses AI to modernize legacy C# file renamer application",
       "links": [
-        "https://www.wired.com/story/best-gifts-under-25-2026/"
-      ],
-      "category": "Tech",
-      "rank": 2,
-      "summary": "Orbital images from NASA’s Mars Reconnaissance Orbiter reveal striking coral‑like rock formations in the Arabia Terra region, suggesting a cyclical ancient climate shaped by dust storms and groundwater before Mars lost its surface water. Captured in enhanced color by the HiRISE camera, the layers consist of iron‑rich volcanic basalt interspersed with lighter salt‑ and clay‑rich deposits, all sculpted by wind and erosion. Researchers analyze these sedimentary layers to reconstruct past shifts in the planet’s surface and atmospheric conditions, likely involving water. While current remote sensing provides only indirect insights, a future rover mission could yield direct chemical and mineralogical data to clarify these ancient processes on a planet once more hospitable to water."
-    },
-    {
-      "id": [
-        "7"
-      ],
-      "title": "Top online gift cards and digital presents for 2026",
-      "links": [
-        "https://www.wired.com/story/gift-cards-and-digital-gift-ideas/"
-      ],
-      "category": "Tech",
-      "rank": 3
-    },
-    {
-      "id": [
-        "8"
-      ],
-      "title": "Review of Meta Glasses Nova Gen 3 shows minimal changes",
-      "links": [
-        "https://www.wired.com/review/meta-glasses-gen-3/"
-      ],
-      "category": "Tech",
-      "rank": 4
-    },
-    {
-      "id": [
-        "9"
-      ],
-      "title": "Federal legislation offers major tax incentives for rural data center projects",
-      "links": [
-        "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/"
+        "https://www.finebytes.com/mfr/"
       ],
       "category": "Tech",
       "rank": 5
     },
     {
       "id": [
-        "13"
+        "12"
       ],
-      "title": "Jordanian detention of alleged ShinyHunters hacker assists FBI investigation",
+      "title": "Review of Meta's third‑generation Glasses Nova shows modest improvements",
       "links": [
-        "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/"
+        "https://www.wired.com/review/meta-glasses-gen-3/"
       ],
       "category": "Tech",
       "rank": 6
     },
     {
       "id": [
-        "15"
+        "86"
       ],
-      "title": "Discussion revives Raskin's three software design laws and developer duty of care",
+      "title": "Study investigates Japanese seniors’ attitudes toward caregiving robots",
+      "links": [
+        "https://feeds.feedblitz.com/~/970953944/0/marginalrevolution~Do-the-elderly-prefer-robotic-care.html"
+      ],
+      "category": "Tech",
+      "rank": 7
+    },
+    {
+      "id": [
+        "0"
+      ],
+      "title": "Database reports conflict with agent's claim of completion",
+      "links": [
+        "https://huggingface.co/blog/microsoft/thinkingbox"
+      ],
+      "category": "Tech",
+      "rank": 8
+    },
+    {
+      "id": [
+        "9"
+      ],
+      "title": "Top 15 office chairs of 2026 reviewed after extensive testing",
+      "links": [
+        "https://www.wired.com/gallery/best-office-chairs/"
+      ],
+      "category": "Tech",
+      "rank": 9
+    },
+    {
+      "id": [
+        "10"
+      ],
+      "title": "Affordable gift ideas under $25 for a variety of recipients",
+      "links": [
+        "https://www.wired.com/story/best-gifts-under-25-2026/"
+      ],
+      "category": "Tech",
+      "rank": 10
+    },
+    {
+      "id": [
+        "11"
+      ],
+      "title": "Top online gift cards and digital presents for 2026",
+      "links": [
+        "https://www.wired.com/story/gift-cards-and-digital-gift-ideas/"
+      ],
+      "category": "Tech",
+      "rank": 11
+    },
+    {
+      "id": [
+        "19"
+      ],
+      "title": "Discussion on updating Raskin’s three software laws with focus on developer wellbeing",
       "links": [
         "https://www.theregister.com/software/2026/10/04/revive-raskins-3-laws-of-software-with-humane-work-that-considers-a-devs-duty-of-care/5300539"
       ],
       "category": "Tech",
-      "rank": 7
+      "rank": 12
     }
   ]
 }
