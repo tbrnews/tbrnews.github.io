@@ -1,93 +1,91 @@
 {
   "schema_version": 1,
   "stats": {
-    "last_run": "2026-10-04T20:03:55.855Z",
+    "last_run": "2026-10-05T08:39:39.076Z",
     "sources_pulled": 74,
-    "headlines_read": 90,
-    "headlines_written": 80,
-    "summaries_written": 20,
-    "summaries_failed": 1,
-    "run_count": 3
+    "headlines_read": 114,
+    "headlines_written": 99,
+    "summaries_written": 18,
+    "summaries_failed": 3,
+    "run_count": 1
   },
   "headlines": [
     {
       "id": [
-        "64"
+        "41"
       ],
-      "title": "Anthropic report alleges Russian use of AI model Claude for disinformation campaigns",
+      "title": "President announces 'Super Intelligence Force' to manage AI policy",
       "links": [
-        "https://www.dw.com/en/anthropic-report-is-russia-using-ai-for-disinformation-in-the-central-african-republic-and-elsewhere/a-79476947?maca=en-rss-en-all-1573-xml-mrss"
+        "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss"
       ],
       "category": "AI",
       "rank": 0,
-      "summary": "A recent report by US AI company Anthropic alleges that Russian operatives misused its language model, Claude, to support disinformation campaigns targeting Central African Republic (CAR) opposition figures and amplify pro-Russian narratives via Radio Lengo Songo. The operation, documented in Anthropic’s September report, entailed propaganda creation, surveillance of opposition leaders—reflecting past practices linked to Russia’s Wagner Group—and efforts to portray opponents as threats to destabilize the ruling regime. While Russia denied the claims as “vague allegations,” the report also implicates similar AI-driven influence operations in the Democratic Republic of Congo, Kenya, Sudan, and Mali, including fake news networks and fabricated evidence. Anthropic claims it shut down these activities between December 2025 and August 2026, raising concerns about the weaponization of AI for covert influence. Observers see this as further evidence of widening AI-supported foreign interference tactics in African and global geopolitics."
+      "summary": "US President Donald Trump has established a new taskforce called the \"Super Intelligence Force,\" led by Director of National Intelligence Jay Clayton, to coordinate government engagement on AI policy following the recent renaming of artificial intelligence to \"Super Intelligence.\" The move comes amid growing industry calls for regulation, including a recent executive order mandating the use of \"SI\" in official communications and agreements like a \"morally binding\" tech pact signed by executives from major firms such as OpenAI and Google. Concerns persist over AI safety and oversight, highlighted by recent incidents like OpenAI’s halting of a new model’s release due to cybersecurity risks. While some leaders, including Elon Musk, have adopted the rebrand, critics question its clarity and dismiss broader calls for stricter regulation. The initiative reflects ongoing debates about balancing innovation, public safety, and US leadership in AI development."
     },
     {
       "id": [
-        "66",
-        "72"
+        "44"
       ],
-      "title": "President Trump appoints Jay Clayton as White House AI czar heading new super‑intelligence task force",
+      "title": "Analysis of AI‑assisted mistakes within modern kill chain strategies",
       "links": [
-        "https://www.dw.com/en/trump-names-ai-czar-to-head-white-house-task-force/a-79537966?maca=en-rss-en-all-1573-xml-mrss",
-        "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump"
+        "https://warontherocks.com/cogs-of-war/the-ai-assisted-strategic-own-goal-in-the-kill-chain/"
       ],
       "category": "AI",
       "rank": 1,
-      "summary": "President Donald Trump has established a White House task force called the “Super Intelligence Force,” led by White House AI czar Jay Clayton, to coordinate the administration’s response to artificial intelligence under its preferred rebranding of “super intelligence.” Composed of senior officials including intelligence director Andrew Ferguson and Pentagon technology officers, the group aims to engage with industry, consumer groups, and religious organizations while avoiding strict new regulations that could impede AI growth. The move follows pressure on Trump to address rising concerns about AI risks from researchers and tech leaders, including calls for voluntary self-regulation by figures like Elon Musk and Sam Altman. While Trump has hosted discussions with major AI companies and endorsed a non-binding safety pact, critics argue his approach lacks binding oversight mechanisms to manage emerging risks from rapidly advancing AI technologies."
+      "summary": "No summary available: scraping failure"
     },
     {
       "id": [
-        "16"
+        "95"
       ],
-      "title": "Google Gemini may soon be granted unrestricted access to macOS files, applications, and web browsing",
+      "title": "Trump appoints Jay Clayton as White House AI czar",
       "links": [
-        "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/"
+        "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump"
       ],
       "category": "AI",
       "rank": 2,
-      "summary": "Google is testing a new desktop control feature for its Gemini AI on macOS that would allow it to access files, open applications, and browse the web without repeated permissions, with a hidden setting called \"Additional sandbox options\" hinting at expanded functionality. While still in development and not officially confirmed by Google, the feature could enable Gemini to read, modify, or delete files beyond those explicitly connected to it, as well as interact with apps like Mail or Safari—though sensitive actions would still require user approval. The move aligns with Google’s broader strategy to transform Gemini into a more integrated desktop assistant rather than a tool confined to a chat interface. Apple’s stricter stance on AI agents accessing personal data can’t access personal data on Mac, but Google’s new option would mirror the permission-asking model seen in other AI tools like Anthropic’s Claude. The timing and specific Gemini models for this capability remain unclear."
+      "summary": "President Trump has appointed Jay Clayton, the current Director of National Intelligence, as the new White House AI czar to lead a newly established \"Super Intelligence Force,\" aimed at coordinating federal engagement with AI development and policy. The initiative comes amid ongoing debates about AI risks, though Trump has dismissed concerns and instead promoted the concept of \"super intelligence\" while announcing a voluntary accord between AI companies and the White House. Clayton, a former SEC chairman and U.S. Attorney, previously framed AI as a national security priority and opposed calls for a development pause, citing global competition. The role follows earlier AI-related appointments in the administration, including David Sacks, and highlights the U.S. government's fragmented approach to AI regulation amid industry warnings and limited congressional action. The newly launched *America.gov*, an AI-generated government website, also underscores the administration's heavy emphasis on AI-driven initiatives."
     },
     {
       "id": [
-        "3"
+        "6"
       ],
-      "title": "Homa protocol proposed to replace TCP in AI computing clusters",
+      "title": "MIT Technology Review preview of EmTech Future 2026 focuses on AI integration",
       "links": [
-        "https://www.youtube.com/watch?v=eZ8WWZzoaR0"
+        "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/"
       ],
       "category": "AI",
       "rank": 3
     },
     {
       "id": [
-        "7"
+        "16"
       ],
-      "title": "Analysis argues AI reshapes rather than compromises cybersecurity",
+      "title": "Anthropic requests Claude users voluntarily provide voice data to improve AI models",
       "links": [
-        "https://salivan.substack.com/p/big-bad-wolf"
+        "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/"
       ],
       "category": "AI",
       "rank": 4
     },
     {
       "id": [
-        "15"
+        "108"
       ],
-      "title": "Anthropic requests Claude users voluntarily submit voice recordings to improve models",
+      "title": "Analysis of AI boom’s effects on American workers",
       "links": [
-        "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/"
+        "https://www.noahpinion.blog/p/what-the-ai-boom-is-doing-for-americans"
       ],
       "category": "AI",
       "rank": 5
     },
     {
       "id": [
-        "8"
+        "3"
       ],
-      "title": "Call for universal hard caps on computational budgets",
+      "title": "Hacker News post discusses AI-driven industry disruption through a novella",
       "links": [
-        "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"
+        "https://colineberhardt.github.io/the-velocity-trap/"
       ],
       "category": "AI",
       "rank": 6
@@ -96,734 +94,849 @@
       "id": [
         "18"
       ],
-      "title": "Review of Fulcrum Echo's AI‑generated prose mimicking various authors",
+      "title": "Opinion piece warns of imminent slowdown in AI progress",
       "links": [
-        "https://www.theregister.com/ai-and-ml/2026/10/04/fulcrum-echo-promises-ai-text-in-the-style-of-any-writer-so-i-tested-it/5300944"
+        "https://www.theregister.com/ai-and-ml/2026/10/05/brighter-isnt-better-and-more-is-less-the-ai-slowdown-is-nigh-no-matter-who-says-what/5300747"
       ],
       "category": "AI",
       "rank": 7
-    },
-    {
-      "id": [
-        "4"
-      ],
-      "title": "GitHub project offers script to delete macOS AI model files",
-      "links": [
-        "https://github.com/omlahore/RemoveMacAI"
-      ],
-      "category": "AI",
-      "rank": 8
-    },
-    {
-      "id": [
-        "5"
-      ],
-      "title": "Art project curated jointly with artificial intelligence",
-      "links": [
-        "https://bodilyoddities.com/blog/this-project-is-co-curated-with-ai/"
-      ],
-      "category": "AI",
-      "rank": 9
-    },
-    {
-      "id": [
-        "14"
-      ],
-      "title": "Enrollment deadline approaching for October cohort of AI Evals program",
-      "links": [
-        "https://blog.bytebytego.com/p/new-course-ai-evals-in-practice-starts"
-      ],
-      "category": "AI",
-      "rank": 10
-    },
-    {
-      "id": [
-        "26"
-      ],
-      "title": "New evidence suggests early‑universe magnetic fields may explain Hubble tension",
-      "links": [
-        "https://www.sciencedaily.com/releases/2026/10/261002080026.htm"
-      ],
-      "category": "Space",
-      "rank": 0,
-      "summary": "Recent simulations suggest that tiny magnetic fields generated shortly after the Big Bang may help resolve the Hubble tension, the discrepancy between two independent measurements of the universe’s expansion rate—67 km/s/Mpc inferred from the cosmic microwave background versus 73 km/s/Mpc observed in distant galaxies. These primordial magnetic fields would have influenced the moment when hydrogen first formed, altering the cosmic microwave background and changing the inferred expansion rate. The study uses detailed 3D simulations to show these fields leave a viable imprint in the background radiation, aligning with field strengths that could also explain galaxy-scale magnetism. While not conclusive, the findings offer a plausible new window into early-universe physics and guide future observations aimed at testing this hypothesis."
     },
     {
       "id": [
         "21"
       ],
-      "title": "Analysis identifies missing elements in NASA’s Artemis lunar return program",
+      "title": "Review of Fulcrum Echo's AI‑powered writing style imitation",
       "links": [
-        "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/"
+        "https://www.theregister.com/ai-and-ml/2026/10/04/fulcrum-echo-promises-ai-text-in-the-style-of-any-writer-so-i-tested-it/5300944"
       ],
-      "category": "Space",
-      "rank": 1,
-      "summary": "Richard Spolzino, an aerospace engineer at NASA’s Langley Research Center, plays a pivotal role in identifying critical knowledge gaps that could impact missions under the agency’s Artemis program and future Mars exploration, documenting these gaps to guide industry and international partners in developing targeted data solutions. With a background spanning physics and space architecture, he joined NASA not for its prestige but for the opportunity to make a wide-reaching impact, leveraging his systems-level expertise to bridge unknowns in lunar regolith properties and data prioritization for lunar missions. His team has expanded the formal list of documented data gaps from 25 to a projected 60 in a year, directly influencing partner projects like Astrobotic’s Griffin-1 lunar lander and NASA’s instrument selection process. The work underscores that NASA’s reputation relies on ongoing collaboration and real-time problem-solving, offering early-career professionals like Spolzino meaningful avenues for contribution beyond rigid job descriptions. At its core, the effort highlights the meticulous, iterative groundwork essential to sustaining ambitious human and robotic exploration beyond Earth."
-    },
-    {
-      "id": [
-        "23"
-      ],
-      "title": "ESA explores crewed transport and European‑led orbital station as new launchers debut",
-      "links": [
-        "https://www.nasaspaceflight.com/2026/10/europe-update/"
-      ],
-      "category": "Space",
-      "rank": 2,
-      "summary": "The European Space Agency (ESA) is advancing plans for independent European capabilities in human spaceflight and orbital infrastructure as the International Space Station nears retirement and new European launchers enter service. The agency is exploring the development of a European crew transport system—estimated to cost around €10 billion and take about a decade—as well as studying the feasibility of a European-led space station, with two industry consortia conducting feasibility studies over the next nine months. Europe’s fleet is also expanding, with Isar Aerospace’s Spectrum rocket achieving orbit in September and other new launchers under the European Launcher Challenge contributing to a ramp-up in launch capacity projected to peak around 2030. Meanwhile, ESA is securing access to future commercial stations, including missions with European astronauts, and renegotiating contributions to NASA’s Artemis program in pursuit of a European astronaut landing on the Moon."
-    },
-    {
-      "id": [
-        "27"
-      ],
-      "title": "Reanalysis shows Oklahoma impact crater formed 370 million years ago, much later than previously believed",
-      "links": [
-        "https://www.sciencedaily.com/releases/2026/10/261002080012.htm"
-      ],
-      "category": "Space",
-      "rank": 3
-    },
-    {
-      "id": [
-        "28"
-      ],
-      "title": "Latest gamma‑ray observations tighten constraints on dark matter annihilation near Milky Way center",
-      "links": [
-        "https://phys.org/news/2026-09-gamma-ray-limits-dark-annihilation.html"
-      ],
-      "category": "Space",
-      "rank": 4
-    },
-    {
-      "id": [
-        "29"
-      ],
-      "title": "Astronomers detect previously unseen X‑ray emission phase in probable neutron‑star merger",
-      "links": [
-        "https://phys.org/news/2026-09-hidden-ray-phase-revealed-neutron.html"
-      ],
-      "category": "Space",
-      "rank": 5
-    },
-    {
-      "id": [
-        "30"
-      ],
-      "title": "Study explains chemical diversity of ice grains formed from Enceladus ocean plumes",
-      "links": [
-        "https://phys.org/news/2026-09-enceladus-ocean-spray-chemically-diverse.html"
-      ],
-      "category": "Space",
-      "rank": 6
-    },
-    {
-      "id": [
-        "87"
-      ],
-      "title": "Blue Origin reveals massive lunar Power Tower to enhance solar power generation",
-      "links": [
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdjd6WExfQWVJektiREpDa2J0Q0JQNFU0RHI3RS1TNFF5NWtoX0RiX1ZtS3RjU29wNFlGZ016b3FybTlQdVF6a0E4QW9wRWxENnUyYlFRWjczaHNLVG9xajVBM2ItRm5MMUhDcU1oQTU5Z2x1eTJaMXVzMVpZS1FRUEV4QnIyMjVJbXBhOGRkTnVSZXpwZFphTUxKeEx2QzVaVFZFbVlQUkRpV0xMUkgycWlQOERyRldvdUE?oc=5"
-      ],
-      "category": "Space",
-      "rank": 7
-    },
-    {
-      "id": [
-        "89"
-      ],
-      "title": "Mars rock formations resembling coral reefs provide clues to planet’s ancient climate",
-      "links": [
-        "https://nautil.us/coral-reef-like-rock-layers-on-mars-reveal-ancient-climate-secrets-1285515/"
-      ],
-      "category": "Space",
+      "category": "AI",
       "rank": 8
     },
     {
       "id": [
-        "24"
+        "4"
       ],
-      "title": "Anniversary reminder of Sputnik 1 launch on October 4, 1957",
+      "title": "Hacker News user shares interactive 3D map of AI conferences",
       "links": [
-        "https://www.astronomy.com/today-in-the-history-of-astronomy/oct-4th-1957-sputnik-launches/"
+        "https://aieventsworld.com/en/"
       ],
-      "category": "Space",
+      "category": "AI",
       "rank": 9
     },
     {
       "id": [
-        "22"
+        "5"
       ],
-      "title": "Astronomy Picture of the Day features supernumerary rainbows observed in New Jersey",
+      "title": "OpenInstinct releases Eve Agent template for AI applications",
       "links": [
-        "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/"
+        "https://vercel.com/templates/eve/openinstinct-eve-agent"
       ],
-      "category": "Space",
+      "category": "AI",
       "rank": 10
     },
     {
       "id": [
-        "25"
+        "7"
       ],
-      "title": "Saturn at opposition observable this Sunday, October 4",
+      "title": "ZQK open-core framework enables autonomous agent swarms in Go",
       "links": [
-        "https://www.astronomy.com/observing/the-sky-today-sunday-october-4-2026/"
+        "https://github.com/zqk-os/zqk"
       ],
-      "category": "Space",
+      "category": "AI",
       "rank": 11
-    },
-    {
-      "id": [
-        "31",
-        "32"
-      ],
-      "title": "Russian attacks damage Kyiv bridges, including a drone strike during the German chancellor’s visit",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss"
-      ],
-      "category": "Geopolitics",
-      "rank": 0,
-      "summary": "Russian drone strikes have targeted multiple bridges in Kyiv over four consecutive days, damaging critical transport links and disrupting daily life for up to 500,000 commuters, while also hitting a heating main and other infrastructure. The surge in attacks coincided with German Chancellor Friedrich Merz’s surprise visit to Kyiv, where he reaffirmed Germany’s support and announced a new aid package exceeding €1.3bn before Ukrainian President Volodymyr Zelensky. Meanwhile, Russia vowed to intensify strikes across Ukraine in retaliation for Ukrainian strikes on Russian energy facilities, escalating tensions amid Moscow’s ongoing full-scale invasion. Authorities in Kyiv face mounting challenges as repeated drone assaults risk long-term damage to bridges and reduce essential services, prompting contingency plans like temporary pontoon bridges or ferries. International responses, including from the EU, dismissed Russian warnings to foreign diplomats to leave Kyiv, underscoring steadfast Western backing for Ukraine."
-    },
-    {
-      "id": [
-        "33",
-        "37"
-      ],
-      "title": "Yemen government declares total war and launches major offensive to retake Houthis‑controlled territories",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
-        "https://www.defensenews.com/global/mideast-africa/2026/10/04/yemeni-government-launches-offensive-to-seize-all-areas-from-iran-backed-houthis/"
-      ],
-      "category": "Geopolitics",
-      "rank": 1,
-      "summary": "Yemen’s internationally recognized government has declared an all-out war to reclaim territory held by the Iran-backed Houthi rebels, escalating hostilities after a recent surge in cross-border strikes that included Houthi attacks on Saudi oil facilities. The offensive follows a Houthi advance last month that seized control of Yemen’s Red Sea coastline and the strategic Bab al-Mandab Strait, prompting Riyadh to re-engage militarily despite years of relative quiet in the conflict. The fighting has intensified around key cities like Taiz, which government forces still control, but recent Houthi gains, including cutting a vital supply route between Taiz and Aden, underscore their growing military momentum. With Saudi Arabia and the Yemeni government coordinating the push, the renewed campaign risks deepening regional instability amid broader Middle East tensions and a devastating humanitarian crisis in Yemen, whose population has long suffered the consequences of prolonged war."
-    },
-    {
-      "id": [
-        "68",
-        "79"
-      ],
-      "title": "Brazilian presidential election between incumbent Lula and Flavio Bolsonaro proceeds to voting",
-      "links": [
-        "https://www.france24.com/en/brazil-heads-to-the-polls-for-high-stakes-election-between-lula-and-flavio-bolsonaro",
-        "https://www.bbc.com/turkce/articles/cqjdmkklyvzvo?at_medium=RSS&at_campaign=rss"
-      ],
-      "category": "Geopolitics",
-      "rank": 2,
-      "summary": "The original article announcement indicated a pivotal Brazilian presidential election proceeding between incumbent President Luiz Inácio Lula da Silva and rival candidate Flávio Bolsonaro, the son of former President Jair Bolsonaro, which would culminate in voting. However, the provided text for the article was inaccessible, resulting in a 404 error page instead of the intended coverage from France 24. This suggests the article may have been removed, relocated, or is no longer available. The election itself remained a key political moment, reflecting continuing ideological divisions within Brazil."
-    },
-    {
-      "id": [
-        "41"
-      ],
-      "title": "Analysts suggest conflict with Iran may intensify rather than lead to diplomatic agreement",
-      "links": [
-        "https://www.aljazeera.com/video/the-bottom-line/2026/10/4/war-on-iran-is-escalation-more-likely-than-a-deal-2?traffic_source=rss"
-      ],
-      "category": "Geopolitics",
-      "rank": 3
-    },
-    {
-      "id": [
-        "78"
-      ],
-      "title": "Yemen's internationally recognized government launches military operation against Houthis",
-      "links": [
-        "https://www.bbc.com/turkce/articles/cq4g1rkjy4vpo?at_medium=RSS&at_campaign=rss"
-      ],
-      "category": "Geopolitics",
-      "rank": 4
-    },
-    {
-      "id": [
-        "65",
-        "71"
-      ],
-      "title": "German Chancellor Friedrich Merz visits Kyiv, reaffirming support amid Russian bridge attacks",
-      "links": [
-        "https://www.dw.com/en/germany-s-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734?maca=en-rss-en-all-1573-xml-mrss",
-        "https://www.france24.com/en/german-chancellor-in-kyiv-ukraine-will-need-our-support"
-      ],
-      "category": "Geopolitics",
-      "rank": 5
-    },
-    {
-      "id": [
-        "2"
-      ],
-      "title": "IEA and climate negotiators push for economy‑wide electrification target",
-      "links": [
-        "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/"
-      ],
-      "category": "Geopolitics",
-      "rank": 6
-    },
-    {
-      "id": [
-        "34"
-      ],
-      "title": "Ethiopian rebel groups pull back from Tigray’s capital, Mekelle",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss"
-      ],
-      "category": "Geopolitics",
-      "rank": 7
-    },
-    {
-      "id": [
-        "39"
-      ],
-      "title": "French education ministry plans closure of up to 500 schools amid ongoing student protests",
-      "links": [
-        "https://www.aljazeera.com/news/2026/10/4/france-to-shutter-up-to-500-schools-as-more-student-protests-called?traffic_source=rss"
-      ],
-      "category": "Geopolitics",
-      "rank": 8
-    },
-    {
-      "id": [
-        "40"
-      ],
-      "title": "Supporters of Imran Khan mobilize for mass rally after stalled government negotiations",
-      "links": [
-        "https://www.aljazeera.com/news/2026/10/4/pro-imran-khan-mass-rally-launched-after-pakistan-government-talks-fail?traffic_source=rss"
-      ],
-      "category": "Geopolitics",
-      "rank": 9
-    },
-    {
-      "id": [
-        "63"
-      ],
-      "title": "Imran Khan supporters march to Islamabad demanding former prime minister's release",
-      "links": [
-        "https://www.dw.com/en/pakistan-imran-khan-supporters-demand-ex-pm-s-release/a-79539221?maca=en-rss-en-all-1573-xml-mrss"
-      ],
-      "category": "Geopolitics",
-      "rank": 10
-    },
-    {
-      "id": [
-        "35",
-        "80"
-      ],
-      "title": "Christa Pike remains in intensive care following a botched execution attempt",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.com/turkce/articles/cqx2zxpexreeo?at_medium=RSS&at_campaign=rss"
-      ],
-      "category": "Geopolitics",
-      "rank": 11
-    },
-    {
-      "id": [
-        "36"
-      ],
-      "title": "Retrospective on 1983 films that shifted national security discussions",
-      "links": [
-        "https://foreignpolicy.com/2026/10/04/wargames-hollywood-movies-national-security/"
-      ],
-      "category": "Geopolitics",
-      "rank": 12
-    },
-    {
-      "id": [
-        "38"
-      ],
-      "title": "Prospects for reform in Bosnia and Herzegovina ahead of upcoming elections",
-      "links": [
-        "https://www.aljazeera.com/video/inside-story/2026/10/4/will-elections-bring-change-to-multi-ethnic-bosnia-and-herzegovina?traffic_source=rss"
-      ],
-      "category": "Geopolitics",
-      "rank": 13
-    },
-    {
-      "id": [
-        "42"
-      ],
-      "title": "KKK spokesperson asserts growing support as US midterm elections approach",
-      "links": [
-        "https://www.aljazeera.com/video/newsfeed/2026/10/4/ku-klux-klan-leader-claims-rising-support-ahead-of-us-midterm-elections?traffic_source=rss"
-      ],
-      "category": "Geopolitics",
-      "rank": 14
-    },
-    {
-      "id": [
-        "58"
-      ],
-      "title": "Jewish organisations condemn Greens after passage of anti‑Zionism resolution",
-      "links": [
-        "https://www.ft.com/content/c608d956-22b7-4f23-a6fe-63f39c52c275?syn-25a6b1a6=1"
-      ],
-      "category": "Geopolitics",
-      "rank": 15
-    },
-    {
-      "id": [
-        "61"
-      ],
-      "title": "Contentious election results emerge as the campaign season begins",
-      "links": [
-        "https://www.ft.com/content/d3b09a81-626c-406a-a568-40966ffad074?syn-25a6b1a6=1"
-      ],
-      "category": "Geopolitics",
-      "rank": 16
-    },
-    {
-      "id": [
-        "62"
-      ],
-      "title": "Voting concludes in Bosnia-Herzegovina's divisive presidential election",
-      "links": [
-        "https://www.dw.com/en/polls-close-in-bosnia-herzegovina-s-divisive-election/a-79535336?maca=en-rss-en-all-1573-xml-mrss"
-      ],
-      "category": "Geopolitics",
-      "rank": 17
-    },
-    {
-      "id": [
-        "67"
-      ],
-      "title": "Profile of Brazil's prospective presidential candidate",
-      "links": [
-        "https://www.france24.com/en/tv-shows/spotlight/20261004-a-profile-of-brazil-s-potential-president"
-      ],
-      "category": "Geopolitics",
-      "rank": 18
-    },
-    {
-      "id": [
-        "52",
-        "53",
-        "77"
-      ],
-      "title": "Series of earthquakes strikes Adana and Osmaniye, including a magnitude 4.4 quake and subsequent rockfalls",
-      "links": [
-        "https://haber.mynet.com/afad-duyurdu-adana-da-4-4-buyuklugunde-deprem-110107314956",
-        "https://haber.mynet.com/deprem-adana-daki-hopka-dagi-ni-boyle-salladi-2023-teki-gibiydi-cok-korktuk-110107314916",
-        "https://www.bbc.com/turkce/articles/cwe8r127886vo?at_medium=RSS&at_campaign=rss"
-      ],
-      "category": "Turkey",
-      "rank": 0,
-      "summary": "The webpage displayed an error message indicating that the requested page could not be found (\"404 Sayfa bulunamadı\"), suggesting that the article on a series of earthquakes striking Adana and Osmaniye, including a magnitude 4.4 quake and subsequent rockfalls, was either removed, moved, or inaccessible at the time of scraping. As a result, no substantive content from the original article could be retrieved for analysis."
-    },
-    {
-      "id": [
-        "46"
-      ],
-      "title": "Independent mining union demands resignation and prosecution of Turkey’s energy and labor ministers over Soma disaster",
-      "links": [
-        "https://haber.sol.org.tr/haber/bagimsiz-maden-isten-somada-aciklama-enerji-bakani-ve-calisma-bakani-derhal-istifa-etmeli-ve"
-      ],
-      "category": "Turkey",
-      "rank": 1,
-      "summary": "On October 1, 2026, a roof collapse at the İmbat Madencilik mine in Soma, Manisa, killed five miners and injured two others. The independent mining union Bağımsız Maden-İş held a press conference, accusing the company of prioritizing production over safety by speeding up work at the unstable Doğu 5 Panel despite risks detected during a recent inspection. Union leaders called for the immediate resignation and prosecution of Turkey’s energy and labor ministers, alleging that regulatory failures and profit-driven negligence made the disaster foreseeable."
-    },
-    {
-      "id": [
-        "43"
-      ],
-      "title": "T24 reports lifted bans and awards for its newspaper",
-      "links": [
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkpjRnIyZEtLZ0plOGZrUnptdUExdjJtRXFrTzFkNVp0NzVZeDFqTUlEcnJlOTRlMzM3TmJQZFhCU0RwMnozbEFmNmljYlNOTWJRakY1QUx4UWJETHNPTFRrbGw5aE16TEI4SWVFU29Gbk9iNVFCZnBydXItSHlYZU5oLU9Dbi04dDUxXzlrc1RYdkJFaW1XWQ?oc=5"
-      ],
-      "category": "Turkey",
-      "rank": 2,
-      "summary": "No summary available: scraping failure"
-    },
-    {
-      "id": [
-        "47"
-      ],
-      "title": "AKP MP Serkan Bayram apologizes to Erdoğan after controversial remarks",
-      "links": [
-        "https://haber.sol.org.tr/haber/akp-milletvekili-serkan-bayram-cark-etti-maksadimi-astim-dedi-erdogandan-helallik-istedi"
-      ],
-      "category": "Turkey",
-      "rank": 3
-    },
-    {
-      "id": [
-        "48"
-      ],
-      "title": "Cemil Tugay hints at possible shift to AKP in social media response",
-      "links": [
-        "https://haber.sol.org.tr/haber/cemil-tugaydan-akpye-gecis-sinyali-sosyal-medyadan-yanit-verdi-414591"
-      ],
-      "category": "Turkey",
-      "rank": 4
-    },
-    {
-      "id": [
-        "49"
-      ],
-      "title": "Beet growers protest at Eskişehir Sugar Factory demanding higher payments amid rising costs",
-      "links": [
-        "https://haber.sol.org.tr/haber/pancar-ureticilerinden-eskisehir-seker-fabrikasi-onunde-eylem-ya-burada-olecegiz-ya-da"
-      ],
-      "category": "Turkey",
-      "rank": 5
-    },
-    {
-      "id": [
-        "50"
-      ],
-      "title": "Discussion on Sedat Peker’s renewed public presence and related political signals",
-      "links": [
-        "https://haber.sol.org.tr/haber/donus-sinyalleri-artarken-akpnin-eski-mafyasi-sedat-peker-aslinda-kimdi-ve-neden-ustu"
-      ],
-      "category": "Turkey",
-      "rank": 6
-    },
-    {
-      "id": [
-        "51"
-      ],
-      "title": "Worker dies after electric shock while working on high‑voltage line in Diyarbakır",
-      "links": [
-        "https://haber.mynet.com/diyarbakir-da-feci-olay-elektrik-akimina-kapilan-usta-oldu-2-ciragi-agir-yaralandi-110107314963"
-      ],
-      "category": "Turkey",
-      "rank": 7
-    },
-    {
-      "id": [
-        "54"
-      ],
-      "title": "Claims emerge that İzmir mayor Cemil Tugay met with President Erdoğan after closing communications",
-      "links": [
-        "https://haber.mynet.com/telefonunu-kapatti-talimat-verdi-cemil-tugay-ak-parti-ye-iddiasi-arayan-olursa-yurt-disinda-deyin-110107314857"
-      ],
-      "category": "Turkey",
-      "rank": 8
-    },
-    {
-      "id": [
-        "44"
-      ],
-      "title": "Zuhal Olcay and Zeynep Atakan discuss on T24",
-      "links": [
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPclRJcHVCdW1xWFEycUNCVllUX1N3dEUzcVhRMENreDRKd2RyS1lPdEpoZUEtNFdtR2ZEdVlPZkJGZ3J2cFA3MEkya1g4S2Q0cW9ILUk4WmoxRDdoQ0YzTVRtQ2lQVncyQkUzSzhzbmlrUEI4bmtXeVpwVHFtTm5pMFlVLWZRdkt1MW1oWWE3UF9tM2VOejFVREYwMVRDYjRyZFFxQUFpZ0wwdjhZSFRVRDJBZGd3S1E2XzFRSHRpWTlWQQ?oc=5"
-      ],
-      "category": "Turkey",
-      "rank": 9
-    },
-    {
-      "id": [
-        "45"
-      ],
-      "title": "Ertuğrul Özkök ponders song choice in Turkey’s most philosophical dance",
-      "links": [
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbTlDNzJIU0xFQjRhU3pPVjRaemtTRzhJcEwyMWwxS19BVkZOakowQ0NyVll4cUw1ZEpLN2wwR1lmZ09IRXlrcjUtRTE5dERET2lackc0VkVfOENIcDNvS0twdEpXcHNvN0RPSEVISjZWV2FQM2swNWVIbTFhUGRmajY1aFY2RzBmVnJucTVGX2x5OEtSR1oxQ3E4MEpnTmg0amRfREJ0ckhBcmM?oc=5"
-      ],
-      "category": "Turkey",
-      "rank": 10
-    },
-    {
-      "id": [
-        "55"
-      ],
-      "title": "Hatay teenager resumes routine after treatment following trauma from 2023 quake",
-      "links": [
-        "https://haber.mynet.com/mesajini-uzerindeki-tisortle-verdi-deprem-sonrasi-hayata-kusen-hatayli-genc-tedaviden-sonra-rutinine-dondu-110107314853"
-      ],
-      "category": "Turkey",
-      "rank": 11
-    },
-    {
-      "id": [
-        "84"
-      ],
-      "title": "Study links higher cancer rates to proximity to nuclear power plants in Massachusetts",
-      "links": [
-        "https://feeds.feedblitz.com/~/970959740/0/marginalrevolution~Does-Costco-Cause-Cancer.html"
-      ],
-      "category": "Science",
-      "rank": 0,
-      "summary": "In December 2025, researchers led by Yazan Alwadi at Harvard’s T.H. Chan School of Public Health published a study linking higher cancer incidence to proximity to nuclear power plants in Massachusetts, followed by expanded national research and additional papers exploring cancer types and overall mortality. Critics, including Deric Tilson and Adam Stein, argued these results were methodologically flawed, demonstrating that the same approach could falsely correlate cancer risks with unrelated locations, such as Costco stores, revealing the method’s unreliability rather than proving a true health risk. The flawed methodology inflated risk factors for irrelevant landmarks, suggesting the initial findings were artifacts of flawed statistical techniques rather than evidence of actual harm from nuclear plants. The episode highlights the importance of rigorous validation in public health research to avoid spurious conclusions."
-    },
-    {
-      "id": [
-        "85"
-      ],
-      "title": "Research examines how class and race influence marriage patterns in the United States",
-      "links": [
-        "https://feeds.feedblitz.com/~/970955366/0/marginalrevolution~Marital-sorting-by-class-and-race.html"
-      ],
-      "category": "Science",
-      "rank": 1,
-      "summary": "Research by Goldman, Gracie, and Porter finds that Americans rarely marry outside their racial or socioeconomic class group, with exposure playing a key role in these patterns. Using neighborhood variation as an instrumental variable, the study estimates that increased childhood exposure to different racial or class groups raises marriage across class lines—particularly high- and low-parental-income unions—but has little effect on interracial (White-Black) marriages. The findings suggest residential segregation drives over a third of class-based marital sorting but explains less than 5% of racial sorting, highlighting how spatial factors shape economic mobility and social inequality differently by class and race. These dynamics underscore persistent barriers to intergroup union formation in the U.S."
-    },
-    {
-      "id": [
-        "88"
-      ],
-      "title": "New study argues ancient Egypt had a female pharaoh 5,000 years ago",
-      "links": [
-        "https://nautil.us/was-there-really-a-female-king-in-ancient-egypt-5000-years-ago-1285520/"
-      ],
-      "category": "Science",
-      "rank": 2,
-      "summary": "A newly published study argues that Meretneith, a royal woman from Egypt’s First Dynasty over 5,000 years ago, held the title of female king rather than merely serving as queen or regent. Using advanced digital enhancement on a long-lost photograph of a mud stopper inscription, researchers identified hieroglyphic serekhs—royal name emblems—linking her directly to the ruler’s title alongside male pharaohs. While her extravagant tomb and other administrative evidence already suggested significant political influence, the analysis provides more definitive proof that she ruled as a king in her own right, making her one of Egypt’s earliest recorded female rulers. The findings challenge prior skepticism about her status and highlight her adaptable political role during a formative period in Egyptian history."
-    },
-    {
-      "id": [
-        "60"
-      ],
-      "title": "Geography class explores ways to keep electricity on in a fully electrified world",
-      "links": [
-        "https://www.ft.com/content/3df9fdf9-ff66-4d1e-b979-44b55659dd38"
-      ],
-      "category": "Science",
-      "rank": 3
     },
     {
       "id": [
         "13"
       ],
-      "title": "New federal legislation offers large tax incentives for rural data center projects",
+      "title": "AI Evals program announces final enrollment window for October cohort",
       "links": [
-        "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/"
+        "https://blog.bytebytego.com/p/new-course-ai-evals-in-practice-starts"
       ],
-      "category": "Tech",
+      "category": "AI",
+      "rank": 12
+    },
+    {
+      "id": [
+        "27"
+      ],
+      "title": "Analysis highlights missing pieces in NASA's planned lunar return missions",
+      "links": [
+        "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/"
+      ],
+      "category": "Space",
       "rank": 0,
-      "summary": "A new federal law provides substantial tax incentives to encourage the development of data centers in rural areas, aiming to spread economic benefits and infrastructure investment beyond traditional tech hubs. The legislation leverages federal programs like Opportunity Zones or related tax breaks to attract projects that would otherwise concentrate in urban centers, potentially lowering costs for operators while revitalizing struggling rural economies. Supporters view it as a way to diversify tech investment and create jobs in less-served communities, though critics question whether tax breaks are necessary given the profitability of data centers. Local opposition has grown due to concerns about energy use, environmental impact, and public subsidies for private facilities, adding tension to the federal push. The policy reflects broader federal efforts to balance tech growth with geographical equity while igniting broader debates over responsible development."
+      "summary": "Richard Spolzino, an aerospace engineer at NASA’s Langley Research Center, works to identify critical data gaps in lunar and Martian missions before they become obstacles, supporting NASA’s goal of sustainably returning to the Moon through the Moon Base mission architecture effort. His team systematically documents what is unknown—such as the geotechnical properties of lunar regolith—and translates those gaps into actionable targets for industry and international partners to address, expanding their catalog from roughly 25 to 60 documented gaps in a year. By evaluating proposals and prioritizing data transmission during constrained communication pipelines, such as during Astrobotic’s Griffin-1 mission, his work directly informs mission planning and instrument selection, ensuring resources align with NASA’s highest-priority knowledge needs. Spolzino highlights how NASA’s culture fosters early-career contributions, emphasizing hands-on experience over formal credentials for aspiring engineers. His approach underscores the ongoing, deliberate effort required to maintain NASA’s reputation and operational readiness in complex exploration campaigns."
+    },
+    {
+      "id": [
+        "30"
+      ],
+      "title": "XRISM detects pulsar accreting material from companion star's wind for first time",
+      "links": [
+        "https://www.universetoday.com/articles/xrism-makes-first-ever-detection-of-a-pulsar-feeding-from-a-companions-stellar-wind"
+      ],
+      "category": "Space",
+      "rank": 1,
+      "summary": "Using data from the JAXA-NASA X-ray Imaging and Spectroscopy Mission (XRISM), astronomers have directly observed a neutron star pulsar in the BP Crucis system capturing ionized gas streaming from its blue hypergiant companion, marking the first detection of this process. The observations, conducted in February 2025 with XRISM’s high-resolution Resolve instrument, revealed redshifted absorption lines that confirmed the stellar wind’s movement toward the pulsar at about 540,000 km/h, while capturing rapid changes in plasma flow near the neutron star. These findings support long-standing theories about accretion disks forming around pulsars during flare events, including transient, counter-rotating disks as the pulsar moves in and out of the stellar wind stream. Located roughly 13,000 light-years away in the constellation Crux, the system provides a unique laboratory for studying extreme astrophysical phenomena. The work underscores XRISM’s role in advancing understanding of high-mass X-ray binaries and compact object accretion."
+    },
+    {
+      "id": [
+        "33"
+      ],
+      "title": "New study suggests early magnetic fields may explain Hubble tension",
+      "links": [
+        "https://www.sciencedaily.com/releases/2026/10/261002080026.htm"
+      ],
+      "category": "Space",
+      "rank": 2,
+      "summary": "A recent study suggests that extremely weak magnetic fields present shortly after the Big Bang could help resolve the longstanding \"Hubble tension,\" which refers to the discrepancy between different measurements of the universe’s expansion rate. Simulations show that these primordial magnetic fields may have influenced the formation of hydrogen in the early universe, thereby affecting the cosmic microwave background and the expansion rate derived from it. The findings provide a meaningful hint—albeit not definitive evidence—supporting the existence of these fields, which could also explain how large-scale cosmic magnetic fields originated. If confirmed, this discovery would open a new window into the universe’s infancy and potentially reshape our understanding of its evolution."
+    },
+    {
+      "id": [
+        "110"
+      ],
+      "title": "Blue Origin presents massive lunar solar ‘Power Tower’ concept",
+      "links": [
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdjd6WExfQWVJektiREpDa2J0Q0JQNFU0RHI3RS1TNFF5NWtoX0RiX1ZtS3RjU29wNFlGZ016b3FybTlQdVF6a0E4QW9wRWxENnUyYlFRWjczaHNLVG9xajVBM2ItRm5MMUhDcU1oQTU5Z2x1eTJaMXVzMVpZS1FRUEV4QnIyMjVJbXBhOGRkTnVSZXpwZFphTUxKeEx2QzVaVFZFbVlQUkRpV0xMUkgycWlQOERyRldvdUE?oc=5"
+      ],
+      "category": "Space",
+      "rank": 3
+    },
+    {
+      "id": [
+        "113"
+      ],
+      "title": "Mars rock formations resembling coral reefs provide clues to ancient climate",
+      "links": [
+        "https://nautil.us/coral-reef-like-rock-layers-on-mars-reveal-ancient-climate-secrets-1285515/"
+      ],
+      "category": "Space",
+      "rank": 4
+    },
+    {
+      "id": [
+        "28"
+      ],
+      "title": "ESA and Chinese Academy of Sciences publish first SMILE mission images, start operations",
+      "links": [
+        "https://www.nasaspaceflight.com/2026/10/smile-uvi-sxi-commissioning/"
+      ],
+      "category": "Space",
+      "rank": 5
+    },
+    {
+      "id": [
+        "34"
+      ],
+      "title": "Reanalysis shows Oklahoma impact crater formed 370 million years ago, 100 Myr later than thought",
+      "links": [
+        "https://www.sciencedaily.com/releases/2026/10/261002080012.htm"
+      ],
+      "category": "Space",
+      "rank": 6
+    },
+    {
+      "id": [
+        "35"
+      ],
+      "title": "Gamma‑ray observations tighten constraints on dark matter annihilation near Milky Way center",
+      "links": [
+        "https://phys.org/news/2026-09-gamma-ray-limits-dark-annihilation.html"
+      ],
+      "category": "Space",
+      "rank": 7
+    },
+    {
+      "id": [
+        "36"
+      ],
+      "title": "Astronomers uncover previously hidden X‑ray phase in probable neutron star merger",
+      "links": [
+        "https://phys.org/news/2026-09-hidden-ray-phase-revealed-neutron.html"
+      ],
+      "category": "Space",
+      "rank": 8
+    },
+    {
+      "id": [
+        "37"
+      ],
+      "title": "Research explains chemical diversity of ice grains from Enceladus' ocean plumes",
+      "links": [
+        "https://phys.org/news/2026-09-enceladus-ocean-spray-chemically-diverse.html"
+      ],
+      "category": "Space",
+      "rank": 9
     },
     {
       "id": [
         "57"
       ],
-      "title": "Schneider Electric close to $20 billion acquisition of software firm PTC",
+      "title": "Global Space Week events celebrate lunar exploration milestones",
       "links": [
-        "https://www.ft.com/content/2084f349-0829-4130-a5e6-b98929a6e633?syn-25a6b1a6=1"
+        "https://news.un.org/feed/view/en/story/2026/10/1168517"
       ],
-      "category": "Tech",
+      "category": "Space",
+      "rank": 10
+    },
+    {
+      "id": [
+        "32",
+        "109"
+      ],
+      "title": "Sputnik 1 launch on 4 Oct 1957 marks start of the Space Age",
+      "links": [
+        "https://www.astronomy.com/today-in-the-history-of-astronomy/oct-4th-1957-sputnik-launches/",
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS2o0YTJoNGdfcUZtTk1peXlJTFI1S0ZFNmdaRjRSTVhucklVYl9fRHpnLUhzSzhrRGJHNDZVRTBtRUJkVkh4eXVUenNJZjRPTmNvVS02SWJZeEl6WnVxS1VBZ3RuRzJFbW1GTmpwTkNQUlhfc1BHWTc5MnBCZ2JGUw?oc=5"
+      ],
+      "category": "Space",
+      "rank": 11
+    },
+    {
+      "id": [
+        "25"
+      ],
+      "title": "Study identifies anorthosite deposits in Madagascar resembling lunar surface rock",
+      "links": [
+        "https://science.nasa.gov/earth/earth-observatory/moon-like-madagascar/"
+      ],
+      "category": "Space",
+      "rank": 12
+    },
+    {
+      "id": [
+        "26"
+      ],
+      "title": "Curiosity rover updates for sols 5022‑5028 discuss findings at Cache Creek",
+      "links": [
+        "https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/"
+      ],
+      "category": "Space",
+      "rank": 13
+    },
+    {
+      "id": [
+        "61"
+      ],
+      "title": "List of nations that have sent individuals to space",
+      "links": [
+        "https://www.aljazeera.com/news/2026/10/5/world-space-week-which-countries-have-sent-people-to-space?traffic_source=rss"
+      ],
+      "category": "Space",
+      "rank": 14
+    },
+    {
+      "id": [
+        "24"
+      ],
+      "title": "Astronomy Picture of the Day features Sombrero Galaxy's tidal streams",
+      "links": [
+        "https://science.nasa.gov/image-article/apod-2026-october-5-m104-the-sombrero-galaxys-tidal-streams/"
+      ],
+      "category": "Space",
+      "rank": 15
+    },
+    {
+      "id": [
+        "31"
+      ],
+      "title": "Weekly sky guide highlights Moon, Mars, and open cluster M44",
+      "links": [
+        "https://www.astronomy.com/observing/the-sky-today-monday-october-5-2026/"
+      ],
+      "category": "Space",
+      "rank": 16
+    },
+    {
+      "id": [
+        "111"
+      ],
+      "title": "Mars aligns with crescent Moon on Oct 5, visible against star field",
+      "links": [
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeWlRZHN4Rm4tTnpfY0laTHhOa1hJMXFibjlfeVRwRzMySXpfbVVtR2lEeU5HRnpsMVI0QWltVUwzaUstRG1PaDR5U2JWOWdsejF1OUlUdEtzR2hpUlRRbjlQN2pZZ3lyb0xqQ1EzVE5VYkNjWC1Kb2R4SlJxN3UwcjRXN05CaUtFdUVpenRudW9Va3duQmdlXzM5NWVkTmxneGdRb2JpVlFVaE5fbXFWY1hyTTg3UDBS?oc=5"
+      ],
+      "category": "Space",
+      "rank": 17
+    },
+    {
+      "id": [
+        "67",
+        "92",
+        "93",
+        "94"
+      ],
+      "title": "Brazil's presidential election heads to runoff between Lula and Bolsonaro",
+      "links": [
+        "https://haber.sol.org.tr/haber/brezilyada-secimler-ikinci-tura-kaldi-bolsonaro-ailesi-yeniden-sahnede-414605",
+        "https://www.france24.com/en/americas/20261005-family-members-of-jailed-ex-president-jair-bolsonaro-win-big-in-multiple-brazil-polls",
+        "https://www.npr.org/2026/10/04/nx-s1-5981181/brazil-presidential-lula-bolsonaro",
+        "https://www.npr.org/2026/10/04/nx-s1-5981107/brazil-votes-with-lula-facing-bolsonaros-son"
+      ],
+      "category": "Geopolitics",
+      "rank": 0,
+      "summary": "The first round of Brazil’s presidential election resulted in a runoff between former President Luiz Inácio Lula da Silva, backed by a leftist coalition, and incumbent Jair Bolsonaro from the right-wing Liberal Party. With neither candidate securing an outright majority, the decisive second round will take place following nearly 51% of ballots counted, reflecting a deeply polarized electorate. Polling suggests Lula holds a narrow lead, but Bolsonaro’s strong rural and conservative support base has kept the race highly competitive ahead of the final vote. The outcome will determine Brazil’s political direction on issues including economic policy, environmental protections, and democratic institutions."
+    },
+    {
+      "id": [
+        "60",
+        "72",
+        "84",
+        "90",
+        "99",
+        "91",
+        "82"
+      ],
+      "title": "Spanish Prime Minister Pedro Sánchez calls early snap election for November 29 amid housing crisis",
+      "links": [
+        "https://www.aljazeera.com/news/2026/10/5/spanish-prime-minister-pedro-sanchez-announces-snap-election?traffic_source=rss",
+        "https://haber.mynet.com/ispanya-erken-secime-gidiyor-basbakan-sanchez-parlamentoyu-feshetti-110107315057",
+        "https://www.dw.com/en/spanish-prime-minister-pedro-sanchez-calls-snap-election/a-79542826?maca=en-rss-en-all-1573-xml-mrss",
+        "https://www.france24.com/en/europe/20261005-spanish-pm-sanchez-calls-snap-election-for-november-29",
+        "https://www.bbc.com/turkce/articles/cmp3g9l4y4z0o?at_medium=RSS&at_campaign=rss",
+        "https://www.france24.com/en/europe/20261005-spanish-pm-sanchez-calls-snap-election-for-november-29",
+        "https://www.ft.com/content/866dea03-4cee-4009-b130-6f7a191336c4?syn-25a6b1a6=1"
+      ],
+      "category": "Geopolitics",
       "rank": 1,
-      "summary": "Schneider Electric is nearing a deal to acquire PTC, an industrial software company, in a transaction valued at roughly $20 billion, according to reports. The proposed acquisition represents one of the largest deals in the industrial technology sector this year and would significantly expand Schneider’s software capabilities in industrial automation and the Internet of Things. While terms have not been finalized, the move underscores growing corporate consolidation in the digital transformation space, where legacy industrial firms are investing heavily in software to enhance operational efficiency and data analytics. Regulatory approval and shareholder consent will be required before any deal is completed."
+      "summary": "Spanish Prime Minister Pedro Sánchez has called a snap general election for **November 29** after his minority government’s proposed housing relief measures were rejected by parliament, reflecting growing public discontent amid Spain’s worsening housing crisis. Despite acknowledging past missteps and falling short of promises, Sánchez sought to rally progressive support by framing the vote as necessary to overcome opposition and advance social reforms. Political observers note rising discontent and mass protests over unaffordable housing and eviction cases, while polls suggest a possible victory for a conservative coalition led by the **People’s Party (PP)** and the far-right **Vox**, which would mark the first far-right entry into Spain’s central government since Francisco Franco’s dictatorship. The early election risks ending years of Sánchez’s left-leaning governance, positioning Spain at a turning point amid broader far-right gains across Europe, having survived for eight years through fragile multi-party coalitions since 2018."
     },
     {
       "id": [
-        "17"
+        "56",
+        "85",
+        "88"
       ],
-      "title": "CISA adds a new actively exploited vulnerability to its KEV catalog",
+      "title": "Yemen's government launches major offensive to retake Houthi‑held areas",
       "links": [
-        "https://www.cisa.gov/news-events/alerts/2026/10/04/cisa-adds-one-known-exploited-vulnerability-catalog"
+        "https://www.defensenews.com/global/mideast-africa/2026/10/04/yemeni-government-launches-offensive-to-seize-all-areas-from-iran-backed-houthis/",
+        "https://www.dw.com/en/yemen-launches-major-military-operation-against-houthis/a-79542723?maca=en-rss-en-all-1573-xml-mrss",
+        "https://www.france24.com/en/middle-east/20261005-yemen-military-announces-broad-range-of-strikes-against-houthis-in-bid-to-retake-lost-territory"
       ],
-      "category": "Tech",
+      "category": "Geopolitics",
       "rank": 2,
-      "summary": "CISA has added CVE-2026-88779, a Citrix NetScaler memory buffer vulnerability actively exploited in the wild, to its Known Exploited Vulnerabilities (KEV) Catalog. Federal agencies are now required under Binding Operational Directive (BOD) 26-04 to prioritize patching this and other KEV-listed flaws on internet-facing systems to prevent complete system compromise. While BOD 26-04 only mandates action for Federal Civilian Executive Branch agencies, CISA urges all organizations to follow the same risk-based approach when addressing vulnerabilities in the KEV Catalog due to their high exploitation risk. Organizations can submit additional vulnerabilities for consideration through CISA’s KEV Nomination Form if they meet specific criteria."
+      "summary": "No summary available: scraping failure"
     },
     {
       "id": [
-        "56"
+        "38",
+        "39",
+        "80"
       ],
-      "title": "Analysis highlights key considerations for investors in Micron Technology stock",
+      "title": "Flávio Bolsonaro leads Brazil's first-round presidential vote",
       "links": [
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYnhsSjNhY3RjLV9MZndWUkpDZjJQZVJOZU1OSWxXMHlpZjNjeEF2Y2QyUmNGaDAtZU5vbi11MUdBUVBBMXNsa1V2TzNfek5HNzh1bzNVWXFOU0lDNlJJYTNJWWozeFVaUWpoQ2hqSzRhQUVOd2lxS25neEUxNHdjWVlrNFFmVFEtMnVUci1LdXhOMnAtenpGSUk4NTVoQjJGM1dCNkM5dENEUGJoWWt6dXg2ampBWHViUGJZ?oc=5"
+        "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
+        "https://www.ft.com/content/028da85c-0e1f-4f1b-ad04-eac78c4f18c0?syn-25a6b1a6=1"
       ],
-      "category": "Tech",
+      "category": "Geopolitics",
       "rank": 3
     },
     {
       "id": [
-        "59"
+        "40",
+        "55"
       ],
-      "title": "AkzoNobel plans sale of Southeast Asian decorative paint division to Nippon Paint",
+      "title": "US Air Force pulls bombers from UK base amid security concerns",
       "links": [
-        "https://www.ft.com/content/9737146d-fda7-440f-a77d-ab954de7a1a5?syn-25a6b1a6=1"
+        "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+        "https://www.defensenews.com/air/2026/10/05/us-removes-b-1-bombers-from-uk-base-amid-security-concerns/"
       ],
-      "category": "Tech",
+      "category": "Geopolitics",
       "rank": 4
     },
     {
       "id": [
-        "6"
+        "2"
       ],
-      "title": "Developer uses AI to modernize legacy C# file renamer application",
+      "title": "IEA and climate negotiators push for economy-wide electrification target",
       "links": [
-        "https://www.finebytes.com/mfr/"
+        "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/"
       ],
-      "category": "Tech",
+      "category": "Geopolitics",
       "rank": 5
     },
     {
       "id": [
         "12"
       ],
-      "title": "Review of Meta's third‑generation Glasses Nova shows modest improvements",
+      "title": "Federal bill offers substantial tax credits to rural data center projects",
+      "links": [
+        "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/"
+      ],
+      "category": "Geopolitics",
+      "rank": 6
+    },
+    {
+      "id": [
+        "52"
+      ],
+      "title": "Bosnia election records low turnout; Dodik's party dominates Republika Srpska",
+      "links": [
+        "https://balkaninsight.com/2026/10/05/bosnian-election-sees-record-low-turnout-dodik-triumphant-presidency-reshaped/bi/"
+      ],
+      "category": "Geopolitics",
+      "rank": 7
+    },
+    {
+      "id": [
+        "63"
+      ],
+      "title": "Middle East oil shipments exceed pre‑war volumes despite ongoing tensions",
+      "links": [
+        "https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 8
+    },
+    {
+      "id": [
+        "78"
+      ],
+      "title": "Saudi Aramco CEO says global oil reserves are critically low",
+      "links": [
+        "https://www.ft.com/content/53e88a8d-65b5-445e-82ee-aee253a32094?syn-25a6b1a6=1"
+      ],
+      "category": "Geopolitics",
+      "rank": 9
+    },
+    {
+      "id": [
+        "86"
+      ],
+      "title": "India’s Supreme Court to examine challenges to chief election commissioner",
+      "links": [
+        "https://www.dw.com/en/india-news-top-court-to-hear-petitions-against-chief-election-commissioner-gyanesh-kumar/live-79542552?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Geopolitics",
+      "rank": 10
+    },
+    {
+      "id": [
+        "100"
+      ],
+      "title": "Second Mecca Alliance summit in Riyadh discusses Saudi‑Iran tensions and Yemen",
+      "links": [
+        "https://www.bbc.com/turkce/articles/c6pwg5q4jp5vo?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 11
+    },
+    {
+      "id": [
+        "42"
+      ],
+      "title": "France shuts up to 500 schools amid student protest clashes",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 12
+    },
+    {
+      "id": [
+        "45"
+      ],
+      "title": "Discussion on US Air Force surveillance of China amid anniversary",
+      "links": [
+        "https://warontherocks.com/china-is-watching-us-is-the-u-s-air-force-still-watching-china/"
+      ],
+      "category": "Geopolitics",
+      "rank": 13
+    },
+    {
+      "id": [
+        "46"
+      ],
+      "title": "Assessment of Australia's role in shaping Asia‑Pacific climate outcomes",
+      "links": [
+        "https://thediplomat.com/2026/10/can-australia-create-lasting-climate-impacts-for-the-asia-pacific/"
+      ],
+      "category": "Geopolitics",
+      "rank": 14
+    },
+    {
+      "id": [
+        "47"
+      ],
+      "title": "Calls grow for Thailand to reform its lèse‑majesté legislation",
+      "links": [
+        "https://thediplomat.com/2026/10/its-time-for-thailand-to-amend-its-controversial-lese-majeste-law/"
+      ],
+      "category": "Geopolitics",
+      "rank": 15
+    },
+    {
+      "id": [
+        "48"
+      ],
+      "title": "Analysis of Japan as a possible alternative partner for ASEAN",
+      "links": [
+        "https://thediplomat.com/2026/10/japans-potential-as-a-third-option-for-asean/"
+      ],
+      "category": "Geopolitics",
+      "rank": 16
+    },
+    {
+      "id": [
+        "49"
+      ],
+      "title": "Overview of digital asset regulatory landscape across Asia‑Pacific",
+      "links": [
+        "https://thediplomat.com/2026/10/digital-asset-regulations-in-the-asia-pacific/"
+      ],
+      "category": "Geopolitics",
+      "rank": 17
+    },
+    {
+      "id": [
+        "50"
+      ],
+      "title": "Discussion on financing alternatives for Asia’s energy transition",
+      "links": [
+        "https://thediplomat.com/2026/10/supporting-asias-energy-transition/"
+      ],
+      "category": "Geopolitics",
+      "rank": 18
+    },
+    {
+      "id": [
+        "53"
+      ],
+      "title": "New Hungarian government faces controversy over House of Terror museum",
+      "links": [
+        "https://balkaninsight.com/2026/10/05/hungarys-new-government-haunted-by-orbans-house-of-terror/rd/"
+      ],
+      "category": "Geopolitics",
+      "rank": 19
+    },
+    {
+      "id": [
+        "54"
+      ],
+      "title": "Norwegian aid worker's trial in Greece seen as deterrent to migrant rights activism",
+      "links": [
+        "https://balkaninsight.com/2026/10/05/norwegian-charged-in-greece-rues-trials-chilling-effect-on-rights-defenders/bi/"
+      ],
+      "category": "Geopolitics",
+      "rank": 20
+    },
+    {
+      "id": [
+        "66"
+      ],
+      "title": "U.S. forces claim self‑defence killing of four people in Caribbean",
+      "links": [
+        "https://haber.sol.org.tr/haber/bm-insanliga-karsi-suc-demisti-abd-karayiplerde-mesru-mudafaa-kilifiyla-dort-kisiyi-daha"
+      ],
+      "category": "Geopolitics",
+      "rank": 21
+    },
+    {
+      "id": [
+        "83"
+      ],
+      "title": "Germany’s Left Party files lawsuit against economy minister over remarks",
+      "links": [
+        "https://www.dw.com/en/germany-news-left-party-sues-economy-minister-at-top-court/live-79542789?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Geopolitics",
+      "rank": 22
+    },
+    {
+      "id": [
+        "87"
+      ],
+      "title": "Thousands of French schools remain closed as student protests continue",
+      "links": [
+        "https://www.dw.com/en/hundreds-of-french-schools-closed-amid-protests/a-79542656?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Geopolitics",
+      "rank": 23
+    },
+    {
+      "id": [
+        "51"
+      ],
+      "title": "Montenegro sees increase in whistleblower reports, yet few convictions",
+      "links": [
+        "https://balkaninsight.com/2026/10/05/in-montenegro-whistleblower-reports-rise-but-convictions-remain-rare/bi/"
+      ],
+      "category": "Geopolitics",
+      "rank": 24
+    },
+    {
+      "id": [
+        "58"
+      ],
+      "title": "Documentary translates UN report into film, showcased at COP30",
+      "links": [
+        "https://news.un.org/feed/view/en/story/2026/10/1168492"
+      ],
+      "category": "Geopolitics",
+      "rank": 25
+    },
+    {
+      "id": [
+        "98"
+      ],
+      "title": "Turkey’s TÜİK reports September inflation at 29.73% annually",
+      "links": [
+        "https://www.bbc.com/turkce/articles/cr62y50lv14do?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Turkey",
+      "rank": 0,
+      "summary": "Turkey's official statistics agency TÜİK reported September inflation at an annual rate of 29.73%, down from 31.51% in August, while the independent ENAG group estimated an annual rate of 46.61%. Market forecasts had anticipated a modest monthly rise and a slight year-on-year decline, yet independent figures remained significantly higher than official data. The discrepancy underscores ongoing debate over inflation measurement and public concerns about rising living costs. Istanbul’s retail prices also climbed month-on-month, with annual inflation reaching 33.55% in the city."
+    },
+    {
+      "id": [
+        "69"
+      ],
+      "title": "Fatma Betül Sayan Kaya accuses AKP members of fraud",
+      "links": [
+        "https://haber.sol.org.tr/haber/fatma-betul-sayan-kaya-bu-sozlerle-kendisini-vurgun-agina-yonlendiren-akplileri-mi-tehdit"
+      ],
+      "category": "Turkey",
+      "rank": 1,
+      "summary": "Fatma Betül Sayan Kaya, a former AKP member implicated in a two-billion-lira embezzlement scandal, has faced no official action despite ongoing investigations. Former AKP ally Hadi Özışık alleged in a leaked conversation that Kaya’s involvement was orchestrated by others within the party, raising questions about why investigations have stalled. Additionally, Özışık claimed Kaya’s family controls nearly all land in Ağrı’s Doğubayazıt, originating from her grandfather, which allegedly influenced her role in the alleged fraud. The incident highlights internal AKP tensions and concerns over institutional handling of corruption allegations involving high-profile members, as scrutiny grows over the fairness and transparency of the investigations."
+    },
+    {
+      "id": [
+        "70"
+      ],
+      "title": "Hacıosmanoğlu refuses to resign amid football federation controversy",
+      "links": [
+        "https://haber.sol.org.tr/haber/haciosmanoglu-ortaya-cikan-rezaletin-ardindan-meydan-okudu-30-yillik-kokusmuslugu-bana-mal"
+      ],
+      "category": "Turkey",
+      "rank": 2,
+      "summary": "Turkish Football Federation (TFF) President İbrahim Hacıosmanoğlu is resisting calls for his resignation following a corruption scandal involving leaked communications, the arrest of the head of the Referees’ Assessment Board, and allegations of improper referee appointments. Critics within the ruling AKP and pro-government media have implicated Hacıosmanoğlu in aiding referee favoritism, fueling broader accusations of long-standing corruption in Turkish football that predate his two-year tenure. He has publicly rejected accusations of mismanagement, insisting he has worked to expose graft rather than conceal it. The controversy coincides with broader turmoil, including a betting scandal and rising scrutiny over the TFF’s governance. His defiant stance underscores an ongoing power struggle within Turkish football amid persistent allegations of political and institutional misconduct."
+    },
+    {
+      "id": [
+        "71"
+      ],
+      "title": "Hayati Yazıcı defends son’s business legality",
+      "links": [
+        "https://haber.mynet.com/hayati-yazici-ya-veryansin-etti-mustafa-yazici-hakkindaki-aciklamasi-tartisma-yaratti-iktidar-uyesinin-boyle-demesi-gerekmez-mi-110107315058"
+      ],
+      "category": "Turkey",
+      "rank": 3
+    },
+    {
+      "id": [
+        "73"
+      ],
+      "title": "Russia investigates mysterious deaths, virus feared to be highly lethal",
+      "links": [
+        "https://haber.mynet.com/rusya-da-supheli-olumde-salgin-endisesi-cok-sayida-kisi-gozlem-altinda-birkac-gunde-olume-goturuyor-110107315000"
+      ],
+      "category": "Science",
+      "rank": 0,
+      "summary": "No summary available: scraping failure"
+    },
+    {
+      "id": [
+        "101"
+      ],
+      "title": "Series of quakes hit Adana and Osmaniye, strongest magnitude 5.2",
+      "links": [
+        "https://www.bbc.com/turkce/articles/cwe8r127886vo?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Science",
+      "rank": 1,
+      "summary": "On October 4, 2026, a series of earthquakes struck Adana’s Saimbeyli district and Osmaniye’s Sumbas county, with magnitudes ranging from 4.3 to 5.2, according to AFAD. The quakes followed three initial tremors in the afternoon, prompting reassurances from officials including Interior Minister Mustafa Çiftçi that no significant damage had occurred, while later evening quakes raised further attention. Experts linked the seismic activity to the Eastern Anatolia Fault, attributing it to stress transfer from the devastating February 2023 Kahramanmaraş earthquakes, though the specific fault segment remains under investigation through detailed analyses. Authorities dismissed reports of major harm, emphasizing preparedness and psychological support for affected residents while monitoring the region’s complex, active fault network."
+    },
+    {
+      "id": [
+        "0"
+      ],
+      "title": "Forensic analysis of First Dynasty burials indicates widespread head injuries",
+      "links": [
+        "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/"
+      ],
+      "category": "Science",
+      "rank": 2,
+      "summary": "A new forensic study of skulls from First Dynasty Egyptian tombs has found evidence of blunt force trauma in over one-third of the remains, suggesting these individuals were likely victims of “retainer sacrifice” intended to accompany rulers in the afterlife. The research re-examined 46 crania originally unearthed in the 1920s from the Abydos royal necropolis, where subsidiary burials were thought to house servants and officials buried alongside pharaohs. Advances in forensic analysis now reveal patterns of violent death—such as linear fractures and sharp-force injuries—that earlier examinations, influenced by colonial-era biases, had missed. The findings lend weight to the theory that such sacrifices served to consolidate early state power, though the practice proved economically unsustainable and faded quickly. The study underscores both the evolving nature of archaeological methods and the need to reinterpret historical evidence through modern scientific lenses."
+    },
+    {
+      "id": [
+        "107"
+      ],
+      "title": "Study links higher cancer rates to proximity to nuclear power plants",
+      "links": [
+        "https://feeds.feedblitz.com/~/970959740/0/marginalrevolution~Does-Costco-Cause-Cancer.html"
+      ],
+      "category": "Science",
+      "rank": 3
+    },
+    {
+      "id": [
+        "112"
+      ],
+      "title": "Research suggests existence of a female pharaoh in ancient Egypt",
+      "links": [
+        "https://nautil.us/was-there-really-a-female-king-in-ancient-egypt-5000-years-ago-1285520/"
+      ],
+      "category": "Science",
+      "rank": 4
+    },
+    {
+      "id": [
+        "1"
+      ],
+      "title": "NatGeo documentary highlights Africa's varied wildlife",
+      "links": [
+        "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/"
+      ],
+      "category": "Science",
+      "rank": 5
+    },
+    {
+      "id": [
+        "29"
+      ],
+      "title": "Column examines evidence on limiting sugar intake during first 1000 days of life",
+      "links": [
+        "https://www.newscientist.com/article/2591570-should-we-keep-children-away-from-sugar-for-their-first-1000-days/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+      ],
+      "category": "Science",
+      "rank": 6
+    },
+    {
+      "id": [
+        "104"
+      ],
+      "title": "Study examines spikes in U.S. homicides during COVID‑19 era",
+      "links": [
+        "https://feeds.feedblitz.com/~/970993322/0/marginalrevolution~Crime-in-Covid-Times.html"
+      ],
+      "category": "Science",
+      "rank": 7
+    },
+    {
+      "id": [
+        "102"
+      ],
+      "title": "Five exercises to counteract tech‑induced posture strain",
+      "links": [
+        "https://www.bbc.com/turkce/articles/ckvg7xr5z1w5o?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Science",
+      "rank": 8
+    },
+    {
+      "id": [
+        "15"
+      ],
+      "title": "Citrix releases emergency patches for exploited NetScaler SAML zero‑day vulnerability",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/"
+      ],
+      "category": "Tech",
+      "rank": 0,
+      "summary": "Citrix has released emergency patches for CVE-2026-88779, a high-severity (CVSS 8.7) memory buffer vulnerability in NetScaler ADC and Gateway appliances using SAML authentication, after observing targeted denial-of-service attacks in the wild. Initial technical guidance described it as a DoS flaw, but ongoing investigations by security researchers suggest possible remote code execution possibilities, with reports of malicious SAML authentication requests triggering crashes on patched systems and, in one case, downloading and executing malware on a honeypot. The flaw affects appliances configured as SAML service providers or identity providers, and Citrix is also offering global deny lists though urges immediate deployment of its hotfixes due to active exploitation. CISA has added the vulnerability to its Known Exploited Vulnerabilities catalog, requiring federal agencies to remediate by October 7. This is the latest in a series of escalating NetScaler flaws exploited by attackers over recent months."
+    },
+    {
+      "id": [
+        "14"
+      ],
+      "title": "Google suspends open‑source vulnerability rewards program due to AI‑generated spam",
+      "links": [
+        "https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/"
+      ],
+      "category": "Tech",
+      "rank": 1,
+      "summary": "Google has temporarily suspended its Open Source Software Vulnerability Rewards Program (OSS VRP) due to an overwhelming surge of low-quality, AI-generated vulnerability reports, which it stated have made manual review impractical. The program, active since 2022 and rewarding security researchers with up to $31,337 for critical supply chain flaws, remains paused for product vulnerabilities while Google works on adjustments expected in early 2027. Other programs, including the Patch Rewards and Google Cloud VRP, remain unaffected, and prior valid submissions prior to October 1, 2026 will still be processed. This follows similar issues faced by projects like curl, while other tech giants like Intel and Microsoft have also signaled the growing challenge of managing AI-driven influxes of vulnerability reports. The incident reflects broader industry shifts as automated tools accelerate vulnerability discovery while straining triage capacity."
+    },
+    {
+      "id": [
+        "17"
+      ],
+      "title": "CISA includes new actively exploited vulnerability in its KEV catalog",
+      "links": [
+        "https://www.cisa.gov/news-events/alerts/2026/10/04/cisa-adds-one-known-exploited-vulnerability-catalog"
+      ],
+      "category": "Tech",
+      "rank": 2,
+      "summary": "CISA has added CVE-2026-88779, a Citrix NetScaler memory buffer vulnerability under active exploitation, to its Known Exploited Vulnerabilities (KEV) Catalog. The addition underscores the ongoing risk posed by such flaws and triggers faster remediation requirements for U.S. Federal Civilian Executive Branch agencies under Binding Operational Directive 26-04, though CISA urges all organizations to prioritize patching KEV-listed vulnerabilities. The directive emphasizes rapid remediation for high-risk CVEs on exposed systems and mandates checks for potential pre-patch compromises, while CISA invites submissions for other exploited vulnerabilities meeting its criteria."
+    },
+    {
+      "id": [
+        "10"
+      ],
+      "title": "Review finds Meta Ray‑Ban Glasses Nova Gen 3 offers minor upgrades",
       "links": [
         "https://www.wired.com/review/meta-glasses-gen-3/"
+      ],
+      "category": "Tech",
+      "rank": 3
+    },
+    {
+      "id": [
+        "23"
+      ],
+      "title": "Linux kernel 7.3‑rc6 prepatch released for testing",
+      "links": [
+        "https://lwn.net/Articles/1098476/"
+      ],
+      "category": "Tech",
+      "rank": 4
+    },
+    {
+      "id": [
+        "77"
+      ],
+      "title": "Micron shares signal cautionary note for investors",
+      "links": [
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYnhsSjNhY3RjLV9MZndWUkpDZjJQZVJOZU1OSWxXMHlpZjNjeEF2Y2QyUmNGaDAtZU5vbi11MUdBUVBBMXNsa1V2TzNfek5HNzh1bzNVWXFOU0lDNlJJYTNJWWozeFVaUWpoQ2hqSzRhQUVOd2lxS25neEUxNHdjWVlrNFFmVFEtMnVUci1LdXhOMnAtenpGSUk4NTVoQjJGM1dCNkM5dENEUGJoWWt6dXg2ampBWHViUGJZ?oc=5"
+      ],
+      "category": "Tech",
+      "rank": 5
+    },
+    {
+      "id": [
+        "8"
+      ],
+      "title": "Review of top office chairs for 2026 after testing 70 models",
+      "links": [
+        "https://www.wired.com/gallery/best-office-chairs/"
       ],
       "category": "Tech",
       "rank": 6
     },
     {
       "id": [
-        "86"
+        "11"
       ],
-      "title": "Study investigates Japanese seniors’ attitudes toward caregiving robots",
+      "title": "Guide to top online gift cards and digital presents for 2026",
       "links": [
-        "https://feeds.feedblitz.com/~/970953944/0/marginalrevolution~Do-the-elderly-prefer-robotic-care.html"
+        "https://www.wired.com/story/gift-cards-and-digital-gift-ideas/"
       ],
       "category": "Tech",
       "rank": 7
     },
     {
       "id": [
-        "0"
+        "19"
       ],
-      "title": "Database reports conflict with agent's claim of completion",
+      "title": "Industry leaders discuss file infrastructure challenges after regulatory changes",
       "links": [
-        "https://huggingface.co/blog/microsoft/thinkingbox"
+        "https://www.theregister.com/storage/2026/10/05/sponsored-what-people-say-about-their-file-infrastructure-once-the-badge-comes-off/5300482"
       ],
       "category": "Tech",
       "rank": 8
     },
     {
       "id": [
-        "9"
+        "22"
       ],
-      "title": "Top 15 office chairs of 2026 reviewed after extensive testing",
-      "links": [
-        "https://www.wired.com/gallery/best-office-chairs/"
-      ],
-      "category": "Tech",
-      "rank": 9
-    },
-    {
-      "id": [
-        "10"
-      ],
-      "title": "Affordable gift ideas under $25 for a variety of recipients",
-      "links": [
-        "https://www.wired.com/story/best-gifts-under-25-2026/"
-      ],
-      "category": "Tech",
-      "rank": 10
-    },
-    {
-      "id": [
-        "11"
-      ],
-      "title": "Top online gift cards and digital presents for 2026",
-      "links": [
-        "https://www.wired.com/story/gift-cards-and-digital-gift-ideas/"
-      ],
-      "category": "Tech",
-      "rank": 11
-    },
-    {
-      "id": [
-        "19"
-      ],
-      "title": "Discussion on updating Raskin’s three software laws with focus on developer wellbeing",
+      "title": "Article revisits Raskin's software principles advocating humane developer care",
       "links": [
         "https://www.theregister.com/software/2026/10/04/revive-raskins-3-laws-of-software-with-humane-work-that-considers-a-devs-duty-of-care/5300539"
       ],
       "category": "Tech",
-      "rank": 12
+      "rank": 9
     }
   ]
 }
