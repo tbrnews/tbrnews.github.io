@@ -1,5 +1,28 @@
 {
-    [
-        
-    ]
+  "runs": [
+    {
+      "file": "2026-10-07_0659.json",
+      "last_run": "2026-10-07T04:59:13.093Z",
+      "headlines_written": 176,
+      "summaries_written": 11
+    },
+    {
+      "file": "2026-10-06_2042.json",
+      "last_run": "2026-10-06T18:42:06.666Z",
+      "headlines_written": 155,
+      "summaries_written": 10
+    },
+    {
+      "file": "2026-10-05_1206.json",
+      "last_run": "2026-10-05T10:06:15.343Z",
+      "headlines_written": 108,
+      "summaries_written": 13
+    },
+    {
+      "file": "2026-10-05_1039.json",
+      "last_run": "2026-10-05T08:39:39.076Z",
+      "headlines_written": 99,
+      "summaries_written": 18
+    }
+  ]
 }
