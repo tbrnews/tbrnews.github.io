@@ -1,0 +1,1705 @@
+{
+  "schema_version": 1,
+  "stats": {
+    "last_run": "2026-10-07T16:51:56.346Z",
+    "sources_pulled": 74,
+    "headlines_read": 191,
+    "headlines_written": 151,
+    "summaries_written": 12,
+    "summaries_failed": 9,
+    "run_count": 7
+  },
+  "headlines": [
+    {
+      "id": [
+        "4"
+      ],
+      "title": "Mistral introduces open‑weight model ‘Le Chonk’ to challenge leading AI systems",
+      "links": [
+        "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/"
+      ],
+      "category": "AI",
+      "rank": 1,
+      "summary": "Mistral AI has released Le Chonk, a 1-trillion-parameter open-weight AI model optimized for coding, cyberdefense, and niche industries, positioning it to compete with leading proprietary systems from the US and China. Developed entirely from scratch rather than through distillation, the model aims to close the performance gap with closed solutions while offering cost advantages and unrestricted access, potentially accelerating adoption among businesses wary of supply chain or regulatory risks. The announcement comes as geopolitical tensions over AI access intensify, with the US tightening controls on model distribution over security concerns, creating an opening for non-US providers like Mistral. Funded by a recent $3.3 billion round, the French lab’s growth reflects Europe’s push for technological sovereignty and diversified AI supply chains amid US-China dominance. Mistral frames Le Chonk as a critical step toward open, accessible frontier-grade AI, arguing that dependency on proprietary models poses risks regardless of jurisdiction."
+    },
+    {
+      "id": [
+        "57",
+        "61"
+      ],
+      "title": "OpenAI releases 722 AI‑generated mathematical papers raising concerns",
+      "links": [
+        "https://www.nasaspaceflight.com/2026/10/crew-12-return/",
+        "https://www.newscientist.com/article/2590861-why-rediscovering-extinct-species-can-actually-be-a-bad-thing/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+      ],
+      "category": "AI",
+      "rank": 2,
+      "summary": "No summary available: scraping failure"
+    },
+    {
+      "id": [
+        "115",
+        "156"
+      ],
+      "title": "Opinion piece advocates open data for improving AI systems",
+      "links": [
+        "https://www.project-syndicate.org/commentary/economic-development-must-lead-to-national-agency-capabilities-state-capacity-by-pepukaye-bardouille-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en",
+        "https://www.ft.com/content/b1ee29fd-d223-4344-b8e6-d8d19bcc9678?syn-25a6b1a6=1"
+      ],
+      "category": "AI",
+      "rank": 3,
+      "summary": "The commentary by Pepukaye Bardouille, published in October 2026, argues that true economic development should prioritize a country’s ability to act independently and adapt to challenges, as seen through initiatives like the Barbados-led Bridgetown Initiative. It emphasizes that while financing and infrastructure investments are essential, long-term success depends on building institutional expertise, trust, and coordination to manage crises like climate disasters or financial shocks. Drawing on examples from Barbados and smaller states, Bardouille highlights how capacity develops through repeated problem-solving, institutional memory, and strengthened public-private collaboration. The piece critiques a global focus on short-term fixes through summits and declarations, urging a shift toward measuring progress by lasting national agency and self-determination."
+    },
+    {
+      "id": [
+        "2"
+      ],
+      "title": "Fine‑tuned Nemotron model achieves top results in IOI and IMO competitions",
+      "links": [
+        "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026"
+      ],
+      "category": "AI",
+      "rank": 4
+    },
+    {
+      "id": [
+        "3"
+      ],
+      "title": "Agent Lightning releases lightweight RL framework for training AI agents",
+      "links": [
+        "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/"
+      ],
+      "category": "AI",
+      "rank": 5
+    },
+    {
+      "id": [
+        "5"
+      ],
+      "title": "Google expands SynthID AI‑generated content detector worldwide",
+      "links": [
+        "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/"
+      ],
+      "category": "AI",
+      "rank": 6
+    },
+    {
+      "id": [
+        "10"
+      ],
+      "title": "OpenAI reports teens spend less than 15 minutes per day on ChatGPT",
+      "links": [
+        "https://www.reuters.com/business/media-telecom/openai-says-teens-use-chatgpt-under-15-minutes-day-worries-over-risks-grow-2026-10-07/"
+      ],
+      "category": "AI",
+      "rank": 7
+    },
+    {
+      "id": [
+        "12"
+      ],
+      "title": "AI agents generating high volume of requests to public services",
+      "links": [
+        "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/"
+      ],
+      "category": "AI",
+      "rank": 8
+    },
+    {
+      "id": [
+        "13"
+      ],
+      "title": "Nvidia research shows AI agents become less safe when using tools",
+      "links": [
+        "https://www.unite.ai/nvidia-research-finds-ai-agents-become-less-safe-when-using-tools/"
+      ],
+      "category": "AI",
+      "rank": 9
+    },
+    {
+      "id": [
+        "20"
+      ],
+      "title": "Cloudflare builds AI‑driven security operations harness on its network",
+      "links": [
+        "https://blog.bytebytego.com/p/how-uber-built-a-genie-to-answer"
+      ],
+      "category": "AI",
+      "rank": 10
+    },
+    {
+      "id": [
+        "30"
+      ],
+      "title": "Google PageBreak AI agent identifies 500 vulnerabilities in its web applications",
+      "links": [
+        "https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready"
+      ],
+      "category": "AI",
+      "rank": 11
+    },
+    {
+      "id": [
+        "31"
+      ],
+      "title": "IANS interview on AI’s impact on CISO budgets and security teams",
+      "links": [
+        "https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps"
+      ],
+      "category": "AI",
+      "rank": 12
+    },
+    {
+      "id": [
+        "99"
+      ],
+      "title": "Article outlines defenses against AI‑generated biological threats",
+      "links": [
+        "https://warontherocks.com/cogs-of-war/the-navys-missing-welders-are-stocking-shelves/"
+      ],
+      "category": "AI",
+      "rank": 13
+    },
+    {
+      "id": [
+        "6"
+      ],
+      "title": "AI and machine learning used to improve motorsport performance, OpenAI assists Ganassi",
+      "links": [
+        "https://arstechnica.com/cars/2026/10/ai-ml-setups-became-a-tool-in-indycar-champion-alex-palous-toolbox/"
+      ],
+      "category": "AI",
+      "rank": 14
+    },
+    {
+      "id": [
+        "11"
+      ],
+      "title": "Recommendation to grant AI agents permissions instead of private keys",
+      "links": [
+        "https://namera.ai/"
+      ],
+      "category": "AI",
+      "rank": 15
+    },
+    {
+      "id": [
+        "34"
+      ],
+      "title": "Training AI across multiple datacenters poses new networking challenges",
+      "links": [
+        "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html"
+      ],
+      "category": "AI",
+      "rank": 16
+    },
+    {
+      "id": [
+        "91"
+      ],
+      "title": "Report highlights lack of safeguards in China’s rapid AI deployment",
+      "links": [
+        "https://foreignpolicy.com/2026/10/07/trump-united-nations-war-crimes-democrats-accountability/"
+      ],
+      "category": "AI",
+      "rank": 17
+    },
+    {
+      "id": [
+        "9"
+      ],
+      "title": "Release of LLM‑OpenAI‑Decisions 0.1a0 announced",
+      "links": [
+        "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/"
+      ],
+      "category": "AI",
+      "rank": 18
+    },
+    {
+      "id": [
+        "19"
+      ],
+      "title": "Netflix trains large language model to improve movie recommendation persistence",
+      "links": [
+        "https://www.wired.com/story/amazon-prime-day-fitness-deals-10-07-2026/"
+      ],
+      "category": "AI",
+      "rank": 19
+    },
+    {
+      "id": [
+        "55"
+      ],
+      "title": "Researchers race to beat AI proof of Unique Games problem",
+      "links": [
+        "https://spacenews.com/deposition-sciences-inc-expands-sunshade-tape-offering-with-new-12-x-30-format/"
+      ],
+      "category": "AI",
+      "rank": 20
+    },
+    {
+      "id": [
+        "146",
+        "147",
+        "187",
+        "188"
+      ],
+      "title": "SpaceX seeks $40 billion financing for Nvidia processors, causing share dip",
+      "links": [
+        "https://news.google.com/rss/articles/CBMiigJBVV95cUxOWnVpZUx6cnVKSng0dGJHMXd0WlBLWVhBd21BajRUVDFSWFRwaTJNVENGNjIybm1EYkhNekRZWHl3U0ZwOE9EbVI3d2IzQ2ZaMjZIQmFWQjhQUTFJWG9CMTlZbkNFUDNvblFOR2RzMEZfYUsxWGQwRHpLMzl1YWMxWnJ2TG9hWGd3TmlJODZiVDQtdTllM25MaHAtUG83YTR3czc4ZHQ3dWR4V1BTWTFEaWxvdWVUckF1QWZoeXp3UTRpNFFuRkxNekp6aUdBdXZKMGFiUFM0Q3JkcXRqRG10cHp2NVNHZWFsMFhrMTY2WFMzZ3JIam1lTEc5Rm55X1J5RWozYm8zelVOdw?oc=5",
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUmpyUVZ1UWIzcy1TeXItY2FQMU1CMk1uUW1YcVBfdGdxUkdwX0JJTjE3c3FFYXh5dkVrZHhYUEljS0ZqLTg5cTJ3WnA2LWFvMFJSWHpFckNYUkw3SF9odVFFUWktMUtQSDV4QzJrRnhqOV8zLVNJa1Z3NHlXUTB5d2FEUlRBVnUxUGlZT3hMbmtPT1BQaGJGUEdwZVFfa0pCME5kWHFqVUNaYUlWSE5Zc2tWNkJVM2VYa3pYSmY1eXdEeVBCcHBaNk91ZmxhZ2l5NUxYOTVB?oc=5",
+        "https://nautil.us/penguin-poop-is-melting-antarctic-snow-1285601/",
+        "https://nautil.us/creating-fake-people-is-a-terrible-idea-1285598/"
+      ],
+      "category": "Space",
+      "rank": 1,
+      "summary": "No summary available: scraping failure"
+    },
+    {
+      "id": [
+        "70"
+      ],
+      "title": "James Webb telescope observes collisions between Mars‑sized protoplanets",
+      "links": [
+        "https://www.astronomy.com/science/francis-halzen-wins-the-2026-nobel-prize-in-physics/"
+      ],
+      "category": "Space",
+      "rank": 2,
+      "summary": "Francis Halzen, a University of Wisconsin–Madison physicist, was awarded the 2026 Nobel Prize in Physics for his pioneering work on the IceCube Neutrino Observatory, which detects high-energy neutrinos from distant cosmic sources using a vast array of sensors embedded in Antarctic ice. Neutrinos, often called \"ghost particles\" due to their elusive nature, travel unperturbed through space, offering direct insights into violent astrophysical events like black holes and supernovae. IceCube's 2013 detection of extragalactic neutrinos marked the beginning of multi-messenger astronomy using neutrinos, culminating in milestones such as tracing a neutrino to a supermassive black hole and creating the first neutrino-based image of the Milky Way. Halzen’s unconventional vision, supported by international collaboration and UW–Madison’s infrastructure, transformed our ability to observe the universe beyond light. The Nobel honor underscores the transformative impact of IceCube’s \"new kind of astronomy.\""
+    },
+    {
+      "id": [
+        "62"
+      ],
+      "title": "Astronomers estimate many undetected black holes in the Milky Way, invite public participation",
+      "links": [
+        "https://www.newscientist.com/article/2592421-openai-announces-722-mathematical-discoveries-in-one-go/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+      ],
+      "category": "Space",
+      "rank": 3,
+      "summary": "OpenAI has recently generated 722 mathematical papers addressing diverse problems, showcasing rapid advances in AI’s mathematical capabilities that have accelerated dramatically since 2019, when models struggled on GCSE math exams. In February, OpenAI’s systems reportedly resolved a longstanding open problem tied to the Navier-Stokes equations, a foundational challenge in fluid dynamics considered among mathematics’ most difficult milestones. This progress is sparking excitement and concern in the mathematical community about the implications of AI for research and discovery. Critics like Terence Tao argue that commercial AI efforts may be harming mathematics, while others point to a potential \"golden age\" of mathematical breakthroughs fueled by these tools. The debate highlights both the promise and pitfalls of AI in advancing—or disrupting—core scientific inquiry."
+    },
+    {
+      "id": [
+        "71"
+      ],
+      "title": "James Webb detects possible atmosphere on ultra‑hot lava exoplanet HD 3167 b",
+      "links": [
+        "https://www.sciencedaily.com/releases/2026/10/261007042108.htm"
+      ],
+      "category": "Space",
+      "rank": 4
+    },
+    {
+      "id": [
+        "47"
+      ],
+      "title": "Northrop Grumman Cygnus XL departs ISS after delivering supplies",
+      "links": [
+        "https://science.nasa.gov/earth/earth-observatory/arctic-sea-ice-shrinks-to-its-2026-minimum/"
+      ],
+      "category": "Space",
+      "rank": 5
+    },
+    {
+      "id": [
+        "50"
+      ],
+      "title": "ESA discusses future of European space exploration at IAC 2026",
+      "links": [
+        "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought"
+      ],
+      "category": "Space",
+      "rank": 6
+    },
+    {
+      "id": [
+        "56"
+      ],
+      "title": "Crew‑12 separates from ISS after eight‑month mission",
+      "links": [
+        "https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/"
+      ],
+      "category": "Space",
+      "rank": 7
+    },
+    {
+      "id": [
+        "63"
+      ],
+      "title": "Study suggests wandering black holes could inform cosmic evolution",
+      "links": [
+        "https://www.universetoday.com/articles/thousands-of-black-holes-could-be-lurking-in-our-backyardand-you-can-help-find-them"
+      ],
+      "category": "Space",
+      "rank": 8
+    },
+    {
+      "id": [
+        "64"
+      ],
+      "title": "Research shows black‑hole jets influence galaxy development",
+      "links": [
+        "https://www.universetoday.com/articles/wandering-black-holes-may-hold-clues-to-the-evolution-of-the-universe"
+      ],
+      "category": "Space",
+      "rank": 9
+    },
+    {
+      "id": [
+        "65"
+      ],
+      "title": "Suggested winter objects for observation with modest telescopes",
+      "links": [
+        "https://www.universetoday.com/articles/galaxy-evolution-can-be-affected-by-black-hole-jets"
+      ],
+      "category": "Space",
+      "rank": 10
+    },
+    {
+      "id": [
+        "74"
+      ],
+      "title": "Astronomers detect methanol in protoplanetary regions",
+      "links": [
+        "https://phys.org/news/2026-10-mars-oddest-cloud-odder-previously.html"
+      ],
+      "category": "Space",
+      "rank": 11
+    },
+    {
+      "id": [
+        "75"
+      ],
+      "title": "Researcher develops low‑cost automated observatory for satellite tracking",
+      "links": [
+        "https://phys.org/news/2026-10-alcohol-space-exotic-methanol-planet.html"
+      ],
+      "category": "Space",
+      "rank": 12
+    },
+    {
+      "id": [
+        "77"
+      ],
+      "title": "Curiosity rover captures high‑resolution panorama of Martian sunrise",
+      "links": [
+        "https://phys.org/news/2026-10-simulated-moon-soil-recyclable-thermoplastics.html"
+      ],
+      "category": "Space",
+      "rank": 13
+    },
+    {
+      "id": [
+        "8"
+      ],
+      "title": "Commentary cites LISA mission as good deal for U.S. space program",
+      "links": [
+        "https://arstechnica.com/space/2026/10/nasa-is-keen-on-pursuing-at-least-one-joint-science-mission-with-europe/"
+      ],
+      "category": "Space",
+      "rank": 14
+    },
+    {
+      "id": [
+        "45"
+      ],
+      "title": "Astronomy Picture of the Day features supernova remnant Pa 30",
+      "links": [
+        "https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/"
+      ],
+      "category": "Space",
+      "rank": 15
+    },
+    {
+      "id": [
+        "48"
+      ],
+      "title": "Satellite image puzzle challenge released for October 2026",
+      "links": [
+        "https://www.nasa.gov/news-release/nasa-to-cover-northrop-grumman-crs-24-spacecraft-departure/"
+      ],
+      "category": "Space",
+      "rank": 16
+    },
+    {
+      "id": [
+        "51"
+      ],
+      "title": "ESA’s Hera asteroid mission slows as it approaches target",
+      "links": [
+        "https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_3"
+      ],
+      "category": "Space",
+      "rank": 17
+    },
+    {
+      "id": [
+        "52"
+      ],
+      "title": "Video highlights Hera mission’s asteroid investigation with CubeSats",
+      "links": [
+        "https://www.esa.int/Space_Safety/Hera/Brake!_Time_for_ESA_s_Hera_asteroid_mission_to_go_slow"
+      ],
+      "category": "Space",
+      "rank": 18
+    },
+    {
+      "id": [
+        "73"
+      ],
+      "title": "Scientists investigate unusual Martian cloud with exotic physics",
+      "links": [
+        "https://www.sciencedaily.com/releases/2026/10/261005071520.htm"
+      ],
+      "category": "Space",
+      "rank": 19
+    },
+    {
+      "id": [
+        "76"
+      ],
+      "title": "Study proposes using simulated regolith and recyclable plastics for lunar construction",
+      "links": [
+        "https://phys.org/news/2026-10-scientist-tracks-satellites-automated-observatory.html"
+      ],
+      "category": "Space",
+      "rank": 20
+    },
+    {
+      "id": [
+        "44"
+      ],
+      "title": "Artemis II crew adds annotations to Moon eclipse photograph",
+      "links": [
+        "https://lwn.net/Articles/1099202/"
+      ],
+      "category": "Space",
+      "rank": 21
+    },
+    {
+      "id": [
+        "53"
+      ],
+      "title": "SpaceNews announces finalists for 2026 Icon Awards",
+      "links": [
+        "https://www.esa.int/ESA_Multimedia/Videos/2026/10/The_Incredible_Adventures_of_the_Hera_mission_The_space_detectives_arrive"
+      ],
+      "category": "Space",
+      "rank": 22
+    },
+    {
+      "id": [
+        "66"
+      ],
+      "title": "2026 guide to full‑moon dates and lunar phases",
+      "links": [
+        "https://www.astronomy.com/observing/winter-observing-targets-for-small-telescopes/"
+      ],
+      "category": "Space",
+      "rank": 23
+    },
+    {
+      "id": [
+        "68"
+      ],
+      "title": "Astronomical forecast: Titan’s close approach to Saturn on Oct 7",
+      "links": [
+        "https://www.astronomy.com/today-in-the-history-of-astronomy/oct-7-1959-the-first-photos-of-the-moons-farside-are-taken/"
+      ],
+      "category": "Space",
+      "rank": 24
+    },
+    {
+      "id": [
+        "69"
+      ],
+      "title": "Physicist Francis Halzen awarded 2026 Nobel Prize in Physics",
+      "links": [
+        "https://www.astronomy.com/observing/the-sky-today-wednesday-october-7-2026/"
+      ],
+      "category": "Space",
+      "rank": 25
+    },
+    {
+      "id": [
+        "49"
+      ],
+      "title": "Study reveals exotic physics behind unusual cloud on Mars",
+      "links": [
+        "https://science.nasa.gov/earth/earth-observatory/october-2026-satellite-puzzler/"
+      ],
+      "category": "Space",
+      "rank": 26
+    },
+    {
+      "id": [
+        "67"
+      ],
+      "title": "Historical note: 1959 Luna 3 mission captured first images of Moon’s far side",
+      "links": [
+        "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types/"
+      ],
+      "category": "Space",
+      "rank": 27
+    },
+    {
+      "id": [
+        "125",
+        "166"
+      ],
+      "title": "UN reports over 200,000 displaced as Yemen fighting intensifies",
+      "links": [
+        "https://news.un.org/feed/view/en/story/2026/10/1168536",
+        "https://www.france24.com/en/video/20261007-scars-from-oct-7-fuel-deep-divisions-over-netanyahu-ahead-of-israeli-election"
+      ],
+      "category": "Geopolitics",
+      "rank": 1,
+      "summary": "The United Nations reports that over 200,000 people in Yemen have been displaced due to a recent escalation in fighting, highlighting the worsening humanitarian crisis in the country. The surge in violence threatens to reverse fragile progress amid years of conflict and deepening regional instability. Displacement adds strain to already overburdened aid systems, raising concerns over access to food, shelter, and medical care for civilians. These developments underscore the urgent need for renewed diplomatic efforts to prevent further suffering in one of the world’s worst humanitarian emergencies."
+    },
+    {
+      "id": [
+        "126",
+        "167"
+      ],
+      "title": "Analysis says mass killings in Gaza do not constitute Israeli victory",
+      "links": [
+        "https://www.aljazeera.com/gallery/2026/10/7/more-than-200000-displaced-as-fighting-escalates-in-yemen-un-says-2?traffic_source=rss",
+        "https://www.npr.org/2026/10/07/nx-s1-5991687/trump-medicare-aca-payments-midterms"
+      ],
+      "category": "Geopolitics",
+      "rank": 2,
+      "summary": "More than 200,000 people have been displaced in Yemen since recent fighting escalated, according to the International Organization for Migration, with displacement rising sharply from 76,000 in mid-September amid intensified clashes between Houthi forces and Saudi-backed government troops. The renewed violence, the most severe since a 2022 truce, followed the Houthis' seizure of Yemen's entire Red Sea coast and has triggered a deepening humanitarian crisis, including widespread hunger and overcrowded displacement camps, such as in the Hajjah and Taiz governorates. The conflict has also sparked maritime displacement, with thousands fleeing by sea to Djibouti as Saudi-backed leaders vow to retake Houthi-controlled territory, including the capital, Sanaa. This escalation threatens to unravel fragile stability, with aid agencies warning of worsening food insecurity affecting up to three in four families in affected regions."
+    },
+    {
+      "id": [
+        "100"
+      ],
+      "title": "Analysis examines risk of escalating violence in West Bank",
+      "links": [
+        "https://warontherocks.com/how-to-defend-against-ai-designed-viruses/"
+      ],
+      "category": "Geopolitics",
+      "rank": 3,
+      "summary": "No summary available: scraping failure"
+    },
+    {
+      "id": [
+        "124",
+        "165"
+      ],
+      "title": "UN General Assembly debates reforms to reflect contemporary world",
+      "links": [
+        "https://news.un.org/feed/view/en/story/2026/10/1168540",
+        "https://www.france24.com/en/video/20261007-us-woman-who-survived-botched-execution-is-conscious-speaking"
+      ],
+      "category": "Geopolitics",
+      "rank": 4
+    },
+    {
+      "id": [
+        "127",
+        "168"
+      ],
+      "title": "Britons join Palestine movement in response to Gaza conflict",
+      "links": [
+        "https://www.aljazeera.com/opinions/2026/10/7/the-mass-killing-does-not-mean-israels-winning?traffic_source=rss",
+        "https://www.npr.org/2026/10/07/nx-s1-5987874/ancient-gut-microbiome-migration-evolution-hadza-tsimane"
+      ],
+      "category": "Geopolitics",
+      "rank": 5
+    },
+    {
+      "id": [
+        "78"
+      ],
+      "title": "France suspends stun‑grenade deployment following injury during protests",
+      "links": [
+        "https://phys.org/news/2026-10-nasa-curiosity-rover-stunning-martian.html"
+      ],
+      "category": "Geopolitics",
+      "rank": 6
+    },
+    {
+      "id": [
+        "79"
+      ],
+      "title": "Israeli officials call for inquiry into October 7 security failures",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 7
+    },
+    {
+      "id": [
+        "80"
+      ],
+      "title": "Canada pauses extension of assisted dying eligibility to individuals with mental illness",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 8
+    },
+    {
+      "id": [
+        "81"
+      ],
+      "title": "President Trump plans discussion with Putin regarding Russian plague‑lab death",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 9
+    },
+    {
+      "id": [
+        "82"
+      ],
+      "title": "Ukrainian president condemns large‑scale Russian strike killing 24",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 10
+    },
+    {
+      "id": [
+        "83"
+      ],
+      "title": "Report examines NATO’s deterrence challenges on its eastern flank",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 11
+    },
+    {
+      "id": [
+        "84"
+      ],
+      "title": "Analysis suggests South Asian nations seek employment ties with East Asian economies",
+      "links": [
+        "https://www.atlanticcouncil.org/content-series/russia-tomorrow/the-deterrence-gap-how-can-nato-protect-its-front-line-from-russia/"
+      ],
+      "category": "Geopolitics",
+      "rank": 12
+    },
+    {
+      "id": [
+        "88"
+      ],
+      "title": "Discussion on divergent development trajectories within Africa",
+      "links": [
+        "https://www.atlanticcouncil.org/blogs/ukrainealert/we-are-staying-european-diplomats-reject-russian-calls-to-leave-ukraine/"
+      ],
+      "category": "Geopolitics",
+      "rank": 13
+    },
+    {
+      "id": [
+        "90"
+      ],
+      "title": "Proposals for holding former president accountable for alleged war crimes",
+      "links": [
+        "https://www.foreignaffairs.com/russia/russias-hybrid-war-has-entered-dangerous-new-phase"
+      ],
+      "category": "Geopolitics",
+      "rank": 14
+    },
+    {
+      "id": [
+        "92"
+      ],
+      "title": "Implications of China’s third overseas, second Southeast Asian, military base",
+      "links": [
+        "https://foreignpolicy.com/2026/10/07/china-ai-race-artificial-intelligence-safety-models-kill-switch/"
+      ],
+      "category": "Geopolitics",
+      "rank": 15
+    },
+    {
+      "id": [
+        "93"
+      ],
+      "title": "Recommendations to improve air defenses amid potential Iran conflict",
+      "links": [
+        "https://foreignpolicy.com/2026/10/07/china-military-base-laos-vientiane/"
+      ],
+      "category": "Geopolitics",
+      "rank": 16
+    },
+    {
+      "id": [
+        "94"
+      ],
+      "title": "Pakistan, Saudi Arabia, and Turkey form mutual defense agreement",
+      "links": [
+        "https://foreignpolicy.com/2026/10/06/iran-war-hormuz-oil-missile-defense-drones-gulf/"
+      ],
+      "category": "Geopolitics",
+      "rank": 17
+    },
+    {
+      "id": [
+        "95"
+      ],
+      "title": "Briefing on China’s nuclear developments and Turkey’s military capabilities",
+      "links": [
+        "https://foreignpolicy.com/2026/10/06/saudi-arabia-turkey-pakistan-mutual-defense-pact-houthi-yemen-attacks/"
+      ],
+      "category": "Geopolitics",
+      "rank": 18
+    },
+    {
+      "id": [
+        "96"
+      ],
+      "title": "Essay argues ongoing wars reshaping Middle East order",
+      "links": [
+        "https://geopoliticalfutures.com/daily-memo-chinas-nuclear-program-turkeys-military-assets/"
+      ],
+      "category": "Geopolitics",
+      "rank": 19
+    },
+    {
+      "id": [
+        "97"
+      ],
+      "title": "Report presents U.S. and European viewpoints on nuclear deterrence",
+      "links": [
+        "https://geopoliticalfutures.com/the-end-of-the-middle-east-as-we-know-it/"
+      ],
+      "category": "Geopolitics",
+      "rank": 20
+    },
+    {
+      "id": [
+        "101"
+      ],
+      "title": "Polish president’s Philippines visit explores defense cooperation in ASEAN",
+      "links": [
+        "https://warontherocks.com/kindling-catalyst-and-containment-will-the-west-bank-ignite/"
+      ],
+      "category": "Geopolitics",
+      "rank": 21
+    },
+    {
+      "id": [
+        "103"
+      ],
+      "title": "Opposition parties join protests demanding resignation of India’s election chief",
+      "links": [
+        "https://thediplomat.com/2026/10/pakistans-solar-revolution-is-reshaping-its-power-sector/"
+      ],
+      "category": "Geopolitics",
+      "rank": 22
+    },
+    {
+      "id": [
+        "104"
+      ],
+      "title": "Assessment of challenges facing the Mecca Agreement’s durability",
+      "links": [
+        "https://thediplomat.com/2026/10/as-tide-turns-against-modi-more-parties-back-india-bloc-protests/"
+      ],
+      "category": "Geopolitics",
+      "rank": 23
+    },
+    {
+      "id": [
+        "105"
+      ],
+      "title": "Critique of Taiwan’s focus on equipment over strategic defense development",
+      "links": [
+        "https://thediplomat.com/2026/10/why-the-mecca-agreement-might-fail/"
+      ],
+      "category": "Geopolitics",
+      "rank": 24
+    },
+    {
+      "id": [
+        "108"
+      ],
+      "title": "Kosovo parliament averts snap election by appointing president at deadline",
+      "links": [
+        "https://balkaninsight.com/2026/10/07/mayor-of-turkeys-third-largest-city-joins-ruling-party/bi/"
+      ],
+      "category": "Geopolitics",
+      "rank": 25
+    },
+    {
+      "id": [
+        "113"
+      ],
+      "title": "Essay describes prolonged strategic standoff between India and Pakistan",
+      "links": [
+        "https://www.project-syndicate.org/commentary/nato-deterrence-gap-russia-yet-to-face-real-punishment-by-agnia-grigas-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en"
+      ],
+      "category": "Geopolitics",
+      "rank": 26
+    },
+    {
+      "id": [
+        "114"
+      ],
+      "title": "Argument that future reforms should focus on capability over financing",
+      "links": [
+        "https://www.project-syndicate.org/commentary/india-pakistan-diplomatic-freeze-will-not-end-any-time-soon-by-shashi-tharoor-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en"
+      ],
+      "category": "Geopolitics",
+      "rank": 27
+    },
+    {
+      "id": [
+        "151"
+      ],
+      "title": "German CDU faces internal crisis over alleged AfD support",
+      "links": [
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZUJlV2ViWnZxdDM2Tzl1OGRIWklwbXIxUTJIWGpYLUgySnRyMzJ5aDZEcldJdGVod05YcG52OGsyWUVjdjdOa1hkc1ExRksycWVpRGVYamNHSFdHcXBVSktGVHdZRVNJWFM1ek4zaGI4WUk1aFJhaC0yVnZ4UEpBb0FjWGJuU0xDN1VCNnFpQzVoVzlnWERGZjhSUnZtREFUNHFNOEMzWVpNM1lqSVBSc3BqUWZmNGZLLXVLSzZ3cTBuZm9I?oc=5"
+      ],
+      "category": "Geopolitics",
+      "rank": 28
+    },
+    {
+      "id": [
+        "128",
+        "169"
+      ],
+      "title": "Former German intelligence chief arrested on espionage allegations",
+      "links": [
+        "https://www.aljazeera.com/news/2026/10/7/how-israels-genocide-in-gaza-pulled-britons-into-the-palestine-movement?traffic_source=rss",
+        "https://www.npr.org/2026/10/07/nx-s1-5992681/lahore-pakistan-high-court-square"
+      ],
+      "category": "Geopolitics",
+      "rank": 29
+    },
+    {
+      "id": [
+        "129",
+        "170"
+      ],
+      "title": "Pakistan subsidises fuel for millions, some exclusions reported",
+      "links": [
+        "https://www.aljazeera.com/news/2026/10/7/ex-german-spy-chief-arrested-a-history-of-spooks-working-for-enemy-powers?traffic_source=rss",
+        "https://www.npr.org/2026/10/07/g-s1-146541/fertilizer-diy-farmers-iran-war"
+      ],
+      "category": "Geopolitics",
+      "rank": 30
+    },
+    {
+      "id": [
+        "136",
+        "177"
+      ],
+      "title": "Student protests spread across France, new demonstration planned for Oct 8",
+      "links": [
+        "https://haber.sol.org.tr/haber/berna-lacin-gozaltina-almaya-geldiler-evde-arama-yapiyorlar-414715",
+        "https://www.astralcodexten.com/p/an-open-letter-to-steven-pinker-on"
+      ],
+      "category": "Geopolitics",
+      "rank": 31
+    },
+    {
+      "id": [
+        "85"
+      ],
+      "title": "Reflection on Israel’s domestic situation three years after Oct 7 attacks",
+      "links": [
+        "https://www.atlanticcouncil.org/dispatches/south-asian-governments-should-look-east-for-opportunities-for-young-workers/"
+      ],
+      "category": "Geopolitics",
+      "rank": 32
+    },
+    {
+      "id": [
+        "86"
+      ],
+      "title": "Key facts surrounding death of researcher at Russian anti‑plague lab",
+      "links": [
+        "https://www.atlanticcouncil.org/dispatches/three-years-after-october-7-israel-is-facing-inward/"
+      ],
+      "category": "Geopolitics",
+      "rank": 33
+    },
+    {
+      "id": [
+        "87"
+      ],
+      "title": "European embassies in Kyiv refuse Russia’s demand to evacuate",
+      "links": [
+        "https://www.atlanticcouncil.org/dispatches/five-things-to-know-about-the-death-at-russias-anti-plague-laboratory/"
+      ],
+      "category": "Geopolitics",
+      "rank": 34
+    },
+    {
+      "id": [
+        "89"
+      ],
+      "title": "Analysis warns of escalating Russian hybrid warfare tactics",
+      "links": [
+        "https://www.foreignaffairs.com/africa/two-africas"
+      ],
+      "category": "Geopolitics",
+      "rank": 35
+    },
+    {
+      "id": [
+        "102"
+      ],
+      "title": "Solar generation surpasses nuclear power in Pakistan’s energy mix",
+      "links": [
+        "https://thediplomat.com/2026/10/polands-president-in-the-philippines-black-hawks-asean-and-us-defense-interests/"
+      ],
+      "category": "Geopolitics",
+      "rank": 36
+    },
+    {
+      "id": [
+        "106"
+      ],
+      "title": "Moldova advances construction of ‘Trump Liberty Line’ linking to Romania",
+      "links": [
+        "https://thediplomat.com/2026/10/missing-the-forest-for-the-trees-in-taiwans-defense-preparations/"
+      ],
+      "category": "Geopolitics",
+      "rank": 37
+    },
+    {
+      "id": [
+        "110"
+      ],
+      "title": "Housing expansion in Prague spurs local residents to enter politics",
+      "links": [
+        "https://balkaninsight.com/2026/10/07/one-resignation-doesnt-prove-justice-operates-fairly-in-turkey/bi/"
+      ],
+      "category": "Geopolitics",
+      "rank": 38
+    },
+    {
+      "id": [
+        "112"
+      ],
+      "title": "Discussion on strengthening NATO’s deterrence doctrine",
+      "links": [
+        "https://www.project-syndicate.org/commentary/africa-can-leverage-us-china-thaw-to-improve-financing-conditions-for-energy-investment-by-prasad-ananthakrishnan-and-vera-songwe-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en"
+      ],
+      "category": "Geopolitics",
+      "rank": 39
+    },
+    {
+      "id": [
+        "111"
+      ],
+      "title": "Proposal for African nations to capitalize on improving US‑China relations",
+      "links": [
+        "https://balkaninsight.com/2026/10/07/how-the-czech-capitals-building-boom-is-turning-parents-into-politicians/rd/"
+      ],
+      "category": "Geopolitics",
+      "rank": 40
+    },
+    {
+      "id": [
+        "155"
+      ],
+      "title": "Essay argues ongoing wars reshaping Middle East order",
+      "links": [
+        "https://www.ft.com/content/05b4c81b-f91a-43b6-bf24-c7dbbf4ca2e2?syn-25a6b1a6=1"
+      ],
+      "category": "Geopolitics",
+      "rank": 41
+    },
+    {
+      "id": [
+        "130",
+        "171"
+      ],
+      "title": "Turkish journalist Fatih Altaylı condemns T24 access block",
+      "links": [
+        "https://www.aljazeera.com/news/2026/10/7/millions-of-pakistanis-get-government-fuel-relief-but-some-miss-out?traffic_source=rss",
+        "https://www.npr.org/2026/10/07/g-s1-146853/up-first-newsletter-long-range-bombers-france-high-school-protest-germany-august-hanning-oct-7-memorial-day"
+      ],
+      "category": "Turkey",
+      "rank": 1,
+      "summary": "Pakistan has launched a fuel relief scheme offering price subsidies of 100 rupees per litre for owners of motorcycles, rickshaws, and small cars (up to 800cc), aiming to ease pressure from wartime fuel price spikes caused by the conflict in Iran. The program, which provides monthly savings of up to 2,000–3,000 rupees ($7.20–$10.80) per household, has reached over 9.5 million people since its September 2026 rollout via an SMS-based token system. The initiative, costing 35–40 billion rupees monthly, faces criticism for excluding public transport users, diesel vehicles, and larger cars, while also imposing an 114 rupee levy per litre that amplifies inflation and government revenue. Economists describe the relief as modest and temporary, constrained by Pakistan’s $7 billion IMF program, which favors targeted, time-bound subsidies over blanket cuts. Despite improvements like free registration and relaxed ownership rules, many vulnerable groups remain underserved amid broader inflation nearing 10 percent."
+    },
+    {
+      "id": [
+        "135",
+        "176"
+      ],
+      "title": "Berna Laçin reports police search of her home",
+      "links": [
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQazV3dmd2elBVVk1aUzdqLUdQYVJsUVZ3U2RMd2FfRjJvMm1GU0l2U093akdHdmZ2M3F2d0JNLTJkSmhYVkx1d0pnV0FEaDJSSFVSbTJKa0pKWURiVGEwNWVKRG5sbXRQaWhmTGNUQ3N4MmV1R2RfbmxsZk9zcER3QzN0Y0dSU2FyLVBRWGxENllPWHpEZk0yRE12NHJIOVRmYXJubFhPemc?oc=5",
+        "https://www.bbc.com/turkce/articles/c62e9kyw0xp0o?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Turkey",
+      "rank": 2,
+      "summary": "No summary available: scraping failure"
+    },
+    {
+      "id": [
+        "134",
+        "175"
+      ],
+      "title": "Ayşe Acar reflects on migration in interview with T24",
+      "links": [
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY3Bic2pUX2ZmdVp2R2lMUjgydVZyNEVhbHg0eUZ2VHc0UFlTdHNrSXo4ZE53WkpnUzFSX29jMUpPR2xoU2kwTG9neDRLZ0NQMnlaMlhDcGl5Q18wR2Q2c0Z6NW5BRjJINTdsVV94ZHRmNUUwckllelVOeEtueHpuNGt6T3kxVGdYWlVqT00xZWkzYmRUSnhxZHZJcWlNcGR3SXB5NVRZQVRvdzlv?oc=5",
+        "https://www.bbc.com/turkce/articles/c65ynrlzyd0jo?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Turkey",
+      "rank": 3,
+      "summary": "No summary available: scraping failure"
+    },
+    {
+      "id": [
+        "141",
+        "182"
+      ],
+      "title": "15‑year‑old posts video with shotgun, prompting school security concerns",
+      "links": [
+        "https://haber.mynet.com/son-dakika-ak-parti-sozcusu-celik-ten-fon-sorusturmasi-aciklamasi-110107315398",
+        "https://feeds.feedblitz.com/~/971075840/0/marginalrevolution~Brazil-election-notes-from-my-email.html"
+      ],
+      "category": "Turkey",
+      "rank": 4
+    },
+    {
+      "id": [
+        "145",
+        "186"
+      ],
+      "title": "Cevdet Yılmaz outlines plan to address domestic fund crisis",
+      "links": [
+        "https://haber.mynet.com/izmir-buyuksehir-belediyesi-nde-dikkat-ceken-gelisme-baskanvekili-zafer-levent-yildir-istifa-etti-110107315381",
+        "https://nautil.us/the-most-curious-cloud-on-mars-relies-on-some-bizarre-physics-1285613/"
+      ],
+      "category": "Turkey",
+      "rank": 5
+    },
+    {
+      "id": [
+        "142",
+        "183"
+      ],
+      "title": "Large cash, foreign currency and gold seized from Esenyurt deputy's home",
+      "links": [
+        "https://haber.mynet.com/henuz-15-yasinda-pompali-tufekle-video-cekip-tehditler-savurdu-110107315387",
+        "https://www.noahpinion.blog/p/there-is-no-indian-question"
+      ],
+      "category": "Turkey",
+      "rank": 6
+    },
+    {
+      "id": [
+        "144",
+        "185"
+      ],
+      "title": "Deputy mayor of İzmir resigns following mayor's shift to AK Party",
+      "links": [
+        "https://haber.mynet.com/usumezsoy-un-7-buyuklugunde-deprem-uyarisi-yeniden-gundemde-pes-pese-sarsintilar-sonrasi-gozler-o-bolgeye-cevrildi-110107315383",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxObFM4cm40ZjFVZmZlcS0tY1ZhWWkxZjFzNVJXZFpIQ1pXNktidVVZclRDYnBZaEVvNi1saVVuZHlWX3k2Z2pNR3BCSmtocTNCbkFnanpWMVNXSFpVN0xIdEg2NFZ1UkkzSGViSDU1OHdRMGM3cHFoTEN5Q0R3OXdiV3AzakgwenJndWtnaU9BRjZiVlZnUVhwRWZ5Z1I5VHNxbWJMYVdqQ0t0M3lydDVBUnVB?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 7
+    },
+    {
+      "id": [
+        "107"
+      ],
+      "title": "Mayor of Turkey’s İzmir aligns with ruling AKP",
+      "links": [
+        "https://balkaninsight.com/2026/10/07/moldova-speeds-up-construction-of-trump-named-power-line/bi/"
+      ],
+      "category": "Turkey",
+      "rank": 8
+    },
+    {
+      "id": [
+        "109"
+      ],
+      "title": "Analysis questions fairness of Turkish judiciary after high‑profile resignation",
+      "links": [
+        "https://balkaninsight.com/2026/10/07/kosovo-avoids-new-deadlock-with-last-minute-presidential-election/bi/"
+      ],
+      "category": "Turkey",
+      "rank": 9
+    },
+    {
+      "id": [
+        "131",
+        "172"
+      ],
+      "title": "Mehmet Altan contributes article on press history to T24",
+      "links": [
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnJobV83bENCTl9ZX3BuUDhqZWQ0bTEzSlRaVVRLZDFzeXRMbXdScDBzakxNRzRqcDdQanNCcGRhVk85ZngwMkgzWUhwNkFKazNuclBIUGJvMThxbmYwa0tOTWpFMExpM0EtZUFFRDRRMUVqbHh0VVpiZHRRLWFyREV6ZExtYTJrd1UyYkE2RERNMzRIMVZZeXBEMjkzLTF3SWlEbkRPNlJVV0tiY2c?oc=5",
+        "https://www.bbc.com/turkce/articles/c6ev39339e7do?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Turkey",
+      "rank": 10
+    },
+    {
+      "id": [
+        "132",
+        "173"
+      ],
+      "title": "Tuğçe Tatari calls T24 block anti‑peace",
+      "links": [
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVDRXdm1qOUJNYlBxWHM4aW56SXJSLXpTaHZuclZHWEE4bFFTenVBYUkxQ0NxNUZsODJzakExMTVsdjUxaFR2SXJXcU45R21XREI4N25WbkhDbnZuQ2FtbTA0S1hnSmJyVmNkXzBjU1ZibGkzV0VaT19Wa29DaXpkSEhYRXZ6NlRheXc?oc=5",
+        "https://www.bbc.com/turkce/articles/cmlyl2rx4xjvo?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Turkey",
+      "rank": 11
+    },
+    {
+      "id": [
+        "133",
+        "174"
+      ],
+      "title": "Hakan Okçal discusses fund scandal, T24 ban, and Mekke Pact",
+      "links": [
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZHl1VlVsUHQxREY4MlBiX1ItNzhCWklWTXZCN18yYmtfazh2aGJaRHE0TExEel9tbHlJRGJkbERuNElSUzB2YllCM1ZRcG5TVk9IRElybUl0cXoySWMzbkNPcFZ0cllieVRta2tja0xkSVh5SmlOMzNKODQtcGhKYTBZSXMxU2RDS0p1ZTN3dEZDTWRTX1B0amVqTjBUcXM?oc=5",
+        "https://www.bbc.com/turkce/articles/cw77p42vg76do?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Turkey",
+      "rank": 12
+    },
+    {
+      "id": [
+        "138",
+        "179"
+      ],
+      "title": "Court sentences two defendants to life imprisonment in Hakan Tosun murder case",
+      "links": [
+        "https://haber.sol.org.tr/kuba-gercegi/abluka-gunlukleri-217-6-ekim-2026-sali-414713",
+        "https://feeds.feedblitz.com/~/971094584/0/marginalrevolution~TexasCanada-Fact-of-the-Day.html"
+      ],
+      "category": "Turkey",
+      "rank": 13
+    },
+    {
+      "id": [
+        "139",
+        "180"
+      ],
+      "title": "Investigation opened against Berna Laçin over alleged hate speech",
+      "links": [
+        "https://haber.sol.org.tr/haber/hakan-tosun-cinayeti-davasinda-karar-saniklara-indirimsiz-muebbet-hapis-cezasi-414712",
+        "https://feeds.feedblitz.com/~/971086808/0/marginalrevolution~Why-most-stereotypes-are-negative.html"
+      ],
+      "category": "Turkey",
+      "rank": 14
+    },
+    {
+      "id": [
+        "140",
+        "181"
+      ],
+      "title": "AK Party spokesperson responds to allegations of Bodrum holiday",
+      "links": [
+        "https://haber.sol.org.tr/haber/izmir-paylasimi-yapmisti-berna-lacin-hakkinda-sorusturma-baslatildi-414711",
+        "https://feeds.feedblitz.com/~/971083523/0/marginalrevolution~Effective-altruism-is-useful-at-the-margin.html"
+      ],
+      "category": "Turkey",
+      "rank": 15
+    },
+    {
+      "id": [
+        "123",
+        "164"
+      ],
+      "title": "WHO issues first global child obesity guidelines",
+      "links": [
+        "https://news.un.org/feed/view/en/story/2026/10/1168541",
+        "https://www.france24.com/en/middle-east/20261007-middle-east-live-houthis-target-airport-in-yemen-as-israel-marks-october-7-anniversary"
+      ],
+      "category": "Science",
+      "rank": 1,
+      "summary": "The World Health Organization (WHO) has issued its first-ever global guidelines specifically targeting child obesity, aiming to combat the growing public health crisis through recommended interventions such as reducing sugary drink intake, limiting screen time, and promoting physical activity. These evidence-based recommendations emphasize community engagement, parental support, and healthcare provider involvement to address the rising prevalence of obesity among children worldwide. The guidelines signify a coordinated international effort to curb a preventable condition linked to long-term health risks like diabetes and cardiovascular diseases. Health experts highlight the urgency of these measures in response to increasingly sedentary lifestyles and unhealthy dietary habits in both developed and developing countries."
+    },
+    {
+      "id": [
+        "72"
+      ],
+      "title": "NASA measures seasonal shifts in Earth’s center of mass",
+      "links": [
+        "https://www.sciencedaily.com/releases/2026/10/261005071526.htm"
+      ],
+      "category": "Science",
+      "rank": 2,
+      "summary": "The James Webb Space Telescope has detected evidence of an atmosphere around HD 3167 b, a scorching \"lava world\" orbiting its star in just one Earth day and located 154 light-years away. Although such close proximity to a star would typically strip away atmospheres, this super-Earth's cooler-than-expected dayside temperature suggests atmospheric retention, possibly composed of heavy gases rather than vaporized rock. Researchers highlight the finding as significant because, beyond advancing the study of exoplanet evolution, it offers insight into Earth's early magma-ocean phase and informs broader questions about when rocky planets can form and sustain atmospheres. The discovery comes from a survey targeting ultra-hot lava worlds and marks the fifth such exoplanet with an apparent atmosphere."
+    },
+    {
+      "id": [
+        "152"
+      ],
+      "title": "Nobel Chemistry Prize awarded for mirror‑molecule research",
+      "links": [
+        "https://www.ft.com/content/33c67aa0-bfdb-457b-84bb-960b4fed94b6?syn-25a6b1a6=1"
+      ],
+      "category": "Science",
+      "rank": 3,
+      "summary": "Global bond markets extended a sell-off as the 30-year Treasury yield climbed to its highest level since 2002, reflecting growing investor concerns over persistent inflation, the Federal Reserve’s monetary policy outlook, and long-term fiscal pressures. This rise in long-term borrowing costs signals shifting expectations for economic growth and central bank actions, potentially impacting equities and broader financial conditions. The surge demonstrates continued market sensitivity to inflation data and Federal Reserve signals after earlier rounds of policy tightening. While the trend underscores a challenging macroeconomic environment, it does not yet indicate a systemic crisis, though it may reinforce debates over debt sustainability and investor positioning. Markets will closely watch upcoming economic indicators and Fed communications for further direction."
+    },
+    {
+      "id": [
+        "121",
+        "162"
+      ],
+      "title": "Kenya initiates contact tracing after first Ebola fatality",
+      "links": [
+        "https://www.defensenews.com/industry/techwatch/2026/10/06/pentagon-names-4-directed-energy-weapons-for-counter-drone-program-at-us-bases/",
+        "https://www.france24.com/en/france/20261007-what-france-s-student-protesters-want-%E2%80%93-and-what-the-government-is-offering"
+      ],
+      "category": "Science",
+      "rank": 4
+    },
+    {
+      "id": [
+        "122",
+        "163"
+      ],
+      "title": "WHO warns funding shortfall threatens Yemen health response",
+      "links": [
+        "https://news.un.org/feed/view/en/story/2026/10/1168542",
+        "https://www.france24.com/en/video/20261007-france-government-suspends-stun-grenade-use-in-school-protests"
+      ],
+      "category": "Science",
+      "rank": 5
+    },
+    {
+      "id": [
+        "143",
+        "184"
+      ],
+      "title": "Seismologist revisits 7‑magnitude earthquake warning after recent tremors",
+      "links": [
+        "https://haber.mynet.com/belediye-baskan-yardimcisinin-evinden-servet-cikti-balya-balya-tl-dolar-euro-altin-110107315384",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeFlKLWZhQWlvQ05tRlQ5VWVsdkhGdXhpUjRsZGlpbnRmd1ZBY3RMZGxkaHFNV1BXUDhQX0N2c1lzY1VtUUhkR0QxbnJ0TFlyVDdyTVcxVFFJd1U2QUN1VjRDc2J1NENULV95N1hQV0tNOWdlcXBMNE83QXRBZXVpSndUbU1tcUtjQVRlOFQwXzEwSndoUnNucDFGX0NRYXhQUUxJLWR3NDdxZk5HSzBCVUMyTGtPYzF5NVdPUkRn?oc=5"
+      ],
+      "category": "Science",
+      "rank": 6
+    },
+    {
+      "id": [
+        "58"
+      ],
+      "title": "Jurassic mammal fossil provides earliest evidence of suckling behavior",
+      "links": [
+        "https://www.newscientist.com/article/2592684-openai-has-dumped-722-maths-papers-now-it-must-clean-up-the-mess/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+      ],
+      "category": "Science",
+      "rank": 7
+    },
+    {
+      "id": [
+        "59"
+      ],
+      "title": "Study links historic Australian colonisation to heightened wildfire risk",
+      "links": [
+        "https://www.newscientist.com/article/2592252-stunning-early-mammal-fossil-sheds-light-on-the-evolution-of-suckling/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+      ],
+      "category": "Science",
+      "rank": 8
+    },
+    {
+      "id": [
+        "60"
+      ],
+      "title": "Researchers warn that reviving presumed‑extinct species may have drawbacks",
+      "links": [
+        "https://www.newscientist.com/article/2592220-colonisation-of-australia-led-to-big-increase-in-wildfire-danger/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+      ],
+      "category": "Science",
+      "rank": 9
+    },
+    {
+      "id": [
+        "29"
+      ],
+      "title": "Study finds most healthcare devices not prepared for post‑quantum cryptography",
+      "links": [
+        "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads"
+      ],
+      "category": "Science",
+      "rank": 10
+    },
+    {
+      "id": [
+        "46"
+      ],
+      "title": "Arctic sea ice reaches minimum extent for 2026 season",
+      "links": [
+        "https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/"
+      ],
+      "category": "Science",
+      "rank": 11
+    },
+    {
+      "id": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "title": "Prime Day 2026 discount offers across wearables, coffee machines, phone accessories, and fitness tech",
+      "links": [
+        "https://www.wired.com/story/amazon-prime-day-wearable-deals-10-07-2026/",
+        "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
+        "https://www.wired.com/story/prime-day-espresso-machine-deals-10-07-2026/",
+        "https://www.wired.com/story/best-prime-day-mobile-accessories-deals-10-6-2026/"
+      ],
+      "category": "Tech",
+      "rank": 1,
+      "summary": "The scraped content for a Prime Day 2026 article returned a 404 error, indicating the linked page was not found. The title originally suggested coverage of Prime Day 2026 discounts on wearables, coffee machines, phone accessories, and fitness tech, typically reflecting the retail and tech deals expected during the annual Amazon shopping event. Since the full content could not be retrieved, no substantive details about the offers are available from the provided excerpt."
+    },
+    {
+      "id": [
+        "120",
+        "161"
+      ],
+      "title": "Pentagon selects four directed-energy weapons for counter‑drone program",
+      "links": [
+        "https://www.defensenews.com/industry/techwatch/2026/10/06/its-official-us-armys-improved-m8-rifle-to-begin-fielding-in-december/",
+        "https://www.dw.com/en/eu-enlargement-european-commission-tables-reforms-to-prepare-bloc-for-new-members/a-79582493?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Tech",
+      "rank": 2,
+      "summary": "No summary available: scraping failure"
+    },
+    {
+      "id": [
+        "148",
+        "189"
+      ],
+      "title": "Webull shares fall after national‑security concerns raised",
+      "links": [
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUVllSFdLSjlMbExyajZ5UW52ZnFmOVZwdW5ZeF9LVElXMkt5aU5kbXVMLU1qODA0eFdnb1Q1eWdZWGFrcm11NU82X0RVdEhkbEdqUDltS3pWREhORXVyNV9iampUeW9LZkJpZVZoMVYwSVhGYVhJVlQwQ0gxcmxMTndQVDlERXlJemhQSlJ5eHV4d0t6RUE?oc=5",
+        "https://nautil.us/from-the-great-sphinxs-raw-materials-a-new-crocodile-species-surfaces-1285592/"
+      ],
+      "category": "Tech",
+      "rank": 3,
+      "summary": "No summary available: scraping failure"
+    },
+    {
+      "id": [
+        "117",
+        "158"
+      ],
+      "title": "Analysis suggests AUTOWARCOM should integrate past and emerging autonomous warfare lessons",
+      "links": [
+        "https://www.defenseone.com/business/2026/10/anduril-wades-traditional-shipbuilding-arena-major-submarine-play/416459/",
+        "https://www.dw.com/en/german-politicians-warn-of-antisemitism-on-october-7-anniversary/a-79583326?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Tech",
+      "rank": 4
+    },
+    {
+      "id": [
+        "118",
+        "159"
+      ],
+      "title": "Embraer and Lockheed Martin compete for India’s $10.5 billion transport aircraft contract",
+      "links": [
+        "https://www.defenseone.com/policy/2026/10/pentagon-autonomy-command-patriot-maven/416444/",
+        "https://www.dw.com/en/transgressive-edgy-diy-what-the-90s-meant-for-british-art/a-79581777?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Tech",
+      "rank": 5
+    },
+    {
+      "id": [
+        "119",
+        "160"
+      ],
+      "title": "U.S. Army to field upgraded M8 rifle in December",
+      "links": [
+        "https://www.defensenews.com/global/asia-pacific/2026/10/07/embraer-lockheed-martin-vie-for-indias-105b-military-transport-aircraft-deal/",
+        "https://www.dw.com/en/germany-news-merz-rails-against-extremism-afd-sympathizers/live-79570924?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Tech",
+      "rank": 6
+    },
+    {
+      "id": [
+        "22"
+      ],
+      "title": "ShinyHunters group extorted Boeing spin‑off before arrests",
+      "links": [
+        "https://blog.cloudflare.com/root-ksk-2024-rollover/"
+      ],
+      "category": "Tech",
+      "rank": 7
+    },
+    {
+      "id": [
+        "27"
+      ],
+      "title": "SonicWall releases fix for maximum‑severity SSRF flaw in SMA1000 gateways",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/"
+      ],
+      "category": "Tech",
+      "rank": 8
+    },
+    {
+      "id": [
+        "39"
+      ],
+      "title": "Apple expands smart‑home integration; suggestions for Amazon agents",
+      "links": [
+        "https://www.theregister.com/security/2026/10/07/fortibleed-still-a-bleeding-nuisance-as-fbi-confirms-ongoing-attacks/5301585"
+      ],
+      "category": "Tech",
+      "rank": 9
+    },
+    {
+      "id": [
+        "98"
+      ],
+      "title": "U.S. Navy’s 2026 shipbuilding plan emphasizes innovation",
+      "links": [
+        "https://warontherocks.com/the-atlantic-brief-u-s-and-european-perspectives-on-nuclear-deterrence/"
+      ],
+      "category": "Tech",
+      "rank": 10
+    },
+    {
+      "id": [
+        "116",
+        "157"
+      ],
+      "title": "Defense firm Anduril enters submarine component market through Baltimore shipyard partnership",
+      "links": [
+        "https://www.project-syndicate.org/onpoint/ai-sharing-data-information-key-to-serving-public-interest-by-jeff-jarvis-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en",
+        "https://www.dw.com/en/gerhard-schröder-visits-latest-russian-employer-hyperglobus/a-79583018?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Tech",
+      "rank": 11
+    },
+    {
+      "id": [
+        "137",
+        "178"
+      ],
+      "title": "Cuban telecom company reports outages due to power cuts",
+      "links": [
+        "https://haber.sol.org.tr/haber/fransada-ogrenci-eylemleri-ulke-geneline-yayildi-yeni-eylem-8-ekimde-414714",
+        "https://feeds.feedblitz.com/~/971094581/0/marginalrevolution~Against-LaissezFaire-Democracy.html"
+      ],
+      "category": "Tech",
+      "rank": 12
+    },
+    {
+      "id": [
+        "21"
+      ],
+      "title": "DNS root key signing key rollover scheduled for 11 Oct 2026",
+      "links": [
+        "https://blog.cloudflare.com/agentic-security-operations/"
+      ],
+      "category": "Tech",
+      "rank": 13
+    },
+    {
+      "id": [
+        "23"
+      ],
+      "title": "Microsoft Outlook to block MSIX and MSIXbundle attachments starting November",
+      "links": [
+        "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/"
+      ],
+      "category": "Tech",
+      "rank": 14
+    },
+    {
+      "id": [
+        "25"
+      ],
+      "title": "Ransomware increasingly targets backup systems",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/"
+      ],
+      "category": "Tech",
+      "rank": 15
+    },
+    {
+      "id": [
+        "26"
+      ],
+      "title": "Critical unauthenticated vulnerability in Atlassian products exploited in the wild",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/"
+      ],
+      "category": "Tech",
+      "rank": 16
+    },
+    {
+      "id": [
+        "28"
+      ],
+      "title": "ClickFix technique hides malicious payloads using DNS TXT records and cache pre‑fetching",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/"
+      ],
+      "category": "Tech",
+      "rank": 17
+    },
+    {
+      "id": [
+        "35"
+      ],
+      "title": "European mobile operators lose phone sales but gain market share in contract segment",
+      "links": [
+        "https://www.theregister.com/ai-and-ml/2026/10/07/sponsored-when-one-datacenter-is-no-longer-enough/5301030"
+      ],
+      "category": "Tech",
+      "rank": 18
+    },
+    {
+      "id": [
+        "36"
+      ],
+      "title": "Survey shows many VMware users consider leaving due to licensing costs",
+      "links": [
+        "https://www.theregister.com/personal-tech/2026/10/07/europes-mobile-operators-sell-fewer-phones-but-gain-share-as-budget-market-shrivels/5301597"
+      ],
+      "category": "Tech",
+      "rank": 19
+    },
+    {
+      "id": [
+        "37"
+      ],
+      "title": "Dutch tax office to replace Microsoft 365 cloud with on‑premises solution by 2027",
+      "links": [
+        "https://www.theregister.com/virtualization/2026/10/07/nine-in-10-vmware-customers-eye-the-exit-as-licensing-bills-bite/5301591"
+      ],
+      "category": "Tech",
+      "rank": 20
+    },
+    {
+      "id": [
+        "38"
+      ],
+      "title": "FBI confirms ongoing FortiBleed attacks affecting thousands of victims",
+      "links": [
+        "https://www.theregister.com/on-prem/2026/10/07/dutch-tax-office-ditches-microsoft-365-cloud-for-on-premises-alternative/5301603"
+      ],
+      "category": "Tech",
+      "rank": 21
+    },
+    {
+      "id": [
+        "0"
+      ],
+      "title": "ChatGPT for Teens adds College Planner tools and teen AI council",
+      "links": [
+        "https://openai.com/index/teens-learn-and-plan"
+      ],
+      "category": "Tech",
+      "rank": 22
+    },
+    {
+      "id": [
+        "1"
+      ],
+      "title": "Playground platform lets users create and share custom games",
+      "links": [
+        "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/"
+      ],
+      "category": "Tech",
+      "rank": 23
+    },
+    {
+      "id": [
+        "24"
+      ],
+      "title": "PoeLLM malware used in cryptomining attacks on exposed AI servers",
+      "links": [
+        "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/"
+      ],
+      "category": "Tech",
+      "rank": 24
+    },
+    {
+      "id": [
+        "32"
+      ],
+      "title": "‘BigDiskBuster’ evades Microsoft Defender while blocking updates",
+      "links": [
+        "https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams"
+      ],
+      "category": "Tech",
+      "rank": 25
+    },
+    {
+      "id": [
+        "33"
+      ],
+      "title": "Apple introduces Reference Image system to verify original iPhone photos",
+      "links": [
+        "https://www.darkreading.com/application-security/bigdiskbuster-microsoft-defender-running-blocking-updates"
+      ],
+      "category": "Tech",
+      "rank": 26
+    },
+    {
+      "id": [
+        "40"
+      ],
+      "title": "Tool Charon enables analysis of Rust programs",
+      "links": [
+        "https://stratechery.com/2026/apple-and-lg-the-house-for-everyone-else-agent-standards-and-amazon/"
+      ],
+      "category": "Tech",
+      "rank": 27
+    },
+    {
+      "id": [
+        "41"
+      ],
+      "title": "LAVD scheduler evolves from gaming use to server workloads",
+      "links": [
+        "https://lwn.net/Articles/1097198/"
+      ],
+      "category": "Tech",
+      "rank": 28
+    },
+    {
+      "id": [
+        "42"
+      ],
+      "title": "Raspberry Pi OS desktop released for x86‑64 systems",
+      "links": [
+        "https://lwn.net/Articles/1097209/"
+      ],
+      "category": "Tech",
+      "rank": 29
+    },
+    {
+      "id": [
+        "43"
+      ],
+      "title": "Weekly security updates released for various Linux distributions",
+      "links": [
+        "https://lwn.net/Articles/1099206/"
+      ],
+      "category": "Tech",
+      "rank": 30
+    },
+    {
+      "id": [
+        "54"
+      ],
+      "title": "Deposition Sciences launches new 12 × 30 in Sunshade® tape format",
+      "links": [
+        "https://spacenews.com/announcing-the-finalists-for-the-2026-spacenews-icon-awards/"
+      ],
+      "category": "Tech",
+      "rank": 31
+    }
+  ]
+}
