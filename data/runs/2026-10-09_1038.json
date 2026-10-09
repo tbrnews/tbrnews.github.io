@@ -1,0 +1,1802 @@
+{
+  "schema_version": 1,
+  "stats": {
+    "last_run": "2026-10-09T08:38:25.230Z",
+    "sources_pulled": 74,
+    "headlines_read": 191,
+    "headlines_written": 182,
+    "summaries_written": 13,
+    "summaries_failed": 1,
+    "run_count": 9
+  },
+  "headlines": [
+    {
+      "id": [
+        "169"
+      ],
+      "title": "OpenAI discovers Russian and Iranian actors using ChatGPT for influence operations",
+      "links": [
+        "https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt"
+      ],
+      "category": "AI",
+      "rank": 1,
+      "summary": "OpenAI disclosed that it had banned Russian and Iranian accounts exploiting its AI tools, including ChatGPT, to conduct digital influence operations across multiple regions. Russian operatives used the model primarily to draft internal reports updating supervisors and, in one case, allegedly manipulated a school event in Peru that triggered a Polish political reaction, amplifying historical tensions. Iranian groups employed AI to create and place hundreds of articles in outlets such as Daily Kos and Middle East Monitor, blending commercial-style propaganda with seemingly authentic local content. The revelations highlight how state-linked actors are integrating generative AI to refine and scale disinformation efforts, underscoring both the sophistication and limitations of such campaigns."
+    },
+    {
+      "id": [
+        "89"
+      ],
+      "title": "Comparison of United States and China approaches to artificial intelligence",
+      "links": [
+        "https://foreignpolicy.com/2026/10/08/united-states-china-ai-artificial-intelligence-race-winning-matt-sheehan/"
+      ],
+      "category": "AI",
+      "rank": 2,
+      "summary": "The article explores differing U.S. and Chinese approaches to artificial intelligence (AI) and how each defines \"winning\" in this strategic competition. While U.S. tech companies like OpenAI and Anthropic view AI advancement as a high-stakes race toward goals like AGI and artificial superintelligence—potentially offering decisive geopolitical advantages—China’s AI ecosystem, both within private firms and government circles, places greater emphasis on broader economic applications of the technology and remains more skeptical of immediate, transformative milestones. Additionally, China’s open-weight AI models allow greater global adoption, particularly in developing nations, reflecting differing strategies around proprietary innovation, market access, and ideology-spreading potential. The discussion also raises concerns about regulation, with experts arguing that self-policing by AI companies is insufficient given the risks of rapidly advancing models and their evolving behavior during testing, though global coordination, including with China, remains uncertain."
+    },
+    {
+      "id": [
+        "114"
+      ],
+      "title": "Shield AI plans to test its unmanned fighter jet with Navy funding",
+      "links": [
+        "https://www.defenseone.com/business/2026/10/shield-ai-expects-fly-its-unmanned-fighter-jet-within-months/416510/"
+      ],
+      "category": "AI",
+      "rank": 3
+    },
+    {
+      "id": [
+        "188"
+      ],
+      "title": "Proposed method to prevent large language models from acting dangerously",
+      "links": [
+        "https://nautil.us/a-recipe-for-stopping-ai-from-going-rogue-1285647/"
+      ],
+      "category": "AI",
+      "rank": 4
+    },
+    {
+      "id": [
+        "12"
+      ],
+      "title": "Google launches Gemini Agent for enterprise AI assistance",
+      "links": [
+        "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026"
+      ],
+      "category": "AI",
+      "rank": 5
+    },
+    {
+      "id": [
+        "61"
+      ],
+      "title": "OpenAI's Navier‑Stokes solution produces mismatched human and computer proofs",
+      "links": [
+        "https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+      ],
+      "category": "AI",
+      "rank": 6
+    },
+    {
+      "id": [
+        "105"
+      ],
+      "title": "Albanian doctors express frustration as patients rely on ChatGPT for medical diagnoses",
+      "links": [
+        "https://balkaninsight.com/2026/10/09/chatgpt-diagnosed-me-patients-faith-in-ai-leaves-albanias-doctors-feeling-frustrated/bi/"
+      ],
+      "category": "AI",
+      "rank": 7
+    },
+    {
+      "id": [
+        "3"
+      ],
+      "title": "Roundtable explores using generative AI to design viral genetic blueprints",
+      "links": [
+        "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
+      ],
+      "category": "AI",
+      "rank": 8
+    },
+    {
+      "id": [
+        "10"
+      ],
+      "title": "AI weekly roundup highlights 719 math papers, two new open models, and a safety team resignation",
+      "links": [
+        "https://lastweekin.ai/p/last-week-in-ai-346-719-math-manuscripts"
+      ],
+      "category": "AI",
+      "rank": 9
+    },
+    {
+      "id": [
+        "14"
+      ],
+      "title": "Yoshua Bengio advises safety‑focused researchers to avoid frontier AI firms",
+      "links": [
+        "https://www.transformernews.ai/p/yoshua-bengio-if-you-prioritize-safety-leave-frontier-ai-companies"
+      ],
+      "category": "AI",
+      "rank": 10
+    },
+    {
+      "id": [
+        "60"
+      ],
+      "title": "President Trump says artificial intelligence should be termed \"super intelligence\"",
+      "links": [
+        "https://www.newscientist.com/article/2592404-ai-or-super-intelligence-trump-isnt-the-only-one-who-is-confused/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+      ],
+      "category": "AI",
+      "rank": 11
+    },
+    {
+      "id": [
+        "179"
+      ],
+      "title": "Predictions suggest AI will reshape economics and social science research",
+      "links": [
+        "https://feeds.feedblitz.com/~/971157113/0/marginalrevolution~Predictions-for-economics-given-AI.html"
+      ],
+      "category": "AI",
+      "rank": 12
+    },
+    {
+      "id": [
+        "0"
+      ],
+      "title": "Oracle uses ChatGPT and Codex to accelerate workflow automation",
+      "links": [
+        "https://openai.com/index/oracle"
+      ],
+      "category": "AI",
+      "rank": 13
+    },
+    {
+      "id": [
+        "1"
+      ],
+      "title": "Pollo AI employs OpenAI models to generate advertising visuals and videos",
+      "links": [
+        "https://openai.com/index/pollo-ai"
+      ],
+      "category": "AI",
+      "rank": 14
+    },
+    {
+      "id": [
+        "2"
+      ],
+      "title": "LegalOn reduces daily Codex expenses by 65% while keeping development pace",
+      "links": [
+        "https://openai.com/index/legalon-halves-codex-costs"
+      ],
+      "category": "AI",
+      "rank": 15
+    },
+    {
+      "id": [
+        "4"
+      ],
+      "title": "Analysis says recent AI‑robotics advances are unlikely to affect daily life soon",
+      "links": [
+        "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/"
+      ],
+      "category": "AI",
+      "rank": 16
+    },
+    {
+      "id": [
+        "11"
+      ],
+      "title": "Opinion: AI lowers barriers for creating unnecessary applications",
+      "links": [
+        "https://boakandbailey.com/2026/09/ai-has-made-it-easier-than-ever-to-make-apps-nobody-asked-for/"
+      ],
+      "category": "AI",
+      "rank": 17
+    },
+    {
+      "id": [
+        "15"
+      ],
+      "title": "Guidance on handling sensitive data when using AI tools in enterprises",
+      "links": [
+        "https://privatesuperintelligence.si/"
+      ],
+      "category": "AI",
+      "rank": 18
+    },
+    {
+      "id": [
+        "16"
+      ],
+      "title": "AI newsletter notes new mathematics developments, no model release",
+      "links": [
+        "https://thezvi.substack.com/p/ai-189-new-math"
+      ],
+      "category": "AI",
+      "rank": 19
+    },
+    {
+      "id": [
+        "177"
+      ],
+      "title": "Sentiment analysis of economists performed with ChatGPT yields mixed results",
+      "links": [
+        "https://feeds.feedblitz.com/~/971171273/0/marginalrevolution~A-Sentiment-Analysis-of-Cowen-Hanson-Caplan-and-Krugman.html"
+      ],
+      "category": "AI",
+      "rank": 20
+    },
+    {
+      "id": [
+        "51"
+      ],
+      "title": "NASA unveils new science and technology programs at Golden Age Summit",
+      "links": [
+        "https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/"
+      ],
+      "category": "Space",
+      "rank": 1,
+      "summary": "NASA unveiled two new science and technology initiatives at the White House’s “Science: A Golden Age Summit,” emphasizing peer review reform and early-career research support. The first establishes a metascience effort within the Science Mission Directorate, expanding dual anonymous peer review to enhance fairness and transparency in proposal evaluation. The second launches the Genesis Mission Fellowships, supporting ten accelerated doctoral students with dual expertise in super intelligence and science or engineering to conduct research at NASA labs. Administrator Jared Isaacman framed the programs as advancing scientific integrity and innovation consistent with the Trump administration’s “Science: A New Golden Age” report. These initiatives aim to solidify NASA’s leadership in space exploration and transformative discovery."
+    },
+    {
+      "id": [
+        "57"
+      ],
+      "title": "Experts discuss requirements for constructing a sustainable lunar base",
+      "links": [
+        "https://spacenews.com/what-will-it-take-to-build-a-moon-base/"
+      ],
+      "category": "Space",
+      "rank": 2,
+      "summary": "In a recent episode of *Space Minds*, a panel of industry experts from Astrolab, Firefly Space, and the Johns Hopkins University Applied Physics Laboratory (APL) discussed the critical requirements and timeline for establishing a sustainable lunar base. Held live at the Johns Hopkins University Bloomberg Center, the discussion explored the technological, logistical, and policy challenges ahead, emphasizing what must be accomplished within the next few years to make such a base viable. The episode is part of *SpaceNews*’ weekly podcast, which highlights leaders and innovations in space exploration through interviews and analysis. The podcast is available weekly across multiple platforms, including YouTube, Spotify, and Apple. The conversation reflects growing momentum toward returning to the Moon and building long-term infrastructure for scientific and commercial purposes."
+    },
+    {
+      "id": [
+        "64"
+      ],
+      "title": "Webb telescope observes extreme debris disks shedding light on early Solar System",
+      "links": [
+        "https://www.universetoday.com/articles/webb-observes-extreme-debris-disks-providing-a-window-into-the-early-solar-system"
+      ],
+      "category": "Space",
+      "rank": 3
+    },
+    {
+      "id": [
+        "71"
+      ],
+      "title": "NASA studies lunar subsurface caves as potential sites for the first Moon base",
+      "links": [
+        "https://www.sciencedaily.com/releases/2026/10/261008005247.htm"
+      ],
+      "category": "Space",
+      "rank": 4
+    },
+    {
+      "id": [
+        "74"
+      ],
+      "title": "Astronomers record the most distant fast radio burst ever observed",
+      "links": [
+        "https://phys.org/news/2026-10-astronomers-distant-fast-radio.html"
+      ],
+      "category": "Space",
+      "rank": 5
+    },
+    {
+      "id": [
+        "75"
+      ],
+      "title": "Largest 2‑D map of the universe enables discovery of 70 new gravitational lenses",
+      "links": [
+        "https://phys.org/news/2026-10-largest-2d-universe-scientists-gravitational.html"
+      ],
+      "category": "Space",
+      "rank": 6
+    },
+    {
+      "id": [
+        "182"
+      ],
+      "title": "Scientists celebrate positive Artemis II moon science findings",
+      "links": [
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTjV1MlJ1cjhiTlJkc2QwVk1Zb1VrM2JWTHg4RzZoM2FJa1Ruc1BhdmpaOS1PbXNvRGY5X1pLbkpsVDVuN2RaOFJVeHZMa0NhRDNPdGQxbkl4TVlhRTZrSGhtOFhvY2o3ZEdrQnU0UFBfdEFpb0c1ZVBzVlk0ZkU4OFE2eTVheTU4QnN1OGhUOXJvR0ZDcGFaOFIzVGxXbU80ZVFKMEFoX0hrTUhza241bXVVbGFFeC00Q3c?oc=5"
+      ],
+      "category": "Space",
+      "rank": 7
+    },
+    {
+      "id": [
+        "56",
+        "77"
+      ],
+      "title": "Solar Orbiter investigates magnetic switchbacks in the solar wind",
+      "links": [
+        "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks",
+        "https://phys.org/news/2026-10-solar-orbiter-tracks-mysterious-magnetic.html"
+      ],
+      "category": "Space",
+      "rank": 8
+    },
+    {
+      "id": [
+        "5"
+      ],
+      "title": "SpaceX urges improved orbital coordination after close approaches with Starlink satellites",
+      "links": [
+        "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/"
+      ],
+      "category": "Space",
+      "rank": 9
+    },
+    {
+      "id": [
+        "50"
+      ],
+      "title": "NASA to brief media on its role in Japan's Martian Moons eXploration (MMX) mission",
+      "links": [
+        "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/"
+      ],
+      "category": "Space",
+      "rank": 10
+    },
+    {
+      "id": [
+        "52"
+      ],
+      "title": "SSPICY mission to test in‑space inspection and repair capabilities for defunct satellites",
+      "links": [
+        "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/"
+      ],
+      "category": "Space",
+      "rank": 11
+    },
+    {
+      "id": [
+        "54"
+      ],
+      "title": "ESA astronaut Sophie Adenot safely splashes down after ISS mission",
+      "links": [
+        "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Splashdown_confirmed_for_Sophie_Adenot"
+      ],
+      "category": "Space",
+      "rank": 12
+    },
+    {
+      "id": [
+        "55"
+      ],
+      "title": "Sentinel‑3C delivers first Earth observation data two weeks after launch",
+      "links": [
+        "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/Sentinel-3C_returns_its_first_views_of_Earth"
+      ],
+      "category": "Space",
+      "rank": 13
+    },
+    {
+      "id": [
+        "63"
+      ],
+      "title": "Undergraduate discovers three previously unknown galaxies",
+      "links": [
+        "https://www.universetoday.com/articles/a-student-finds-three-galaxies-and-possibly-solves-a-mystery"
+      ],
+      "category": "Space",
+      "rank": 14
+    },
+    {
+      "id": [
+        "68"
+      ],
+      "title": "NASA advances far‑infrared space telescope PRIMA toward a 2033 launch",
+      "links": [
+        "https://www.astronomy.com/science/far-infrared-telescope-prima-advances-toward-2033-launch/"
+      ],
+      "category": "Space",
+      "rank": 15
+    },
+    {
+      "id": [
+        "72"
+      ],
+      "title": "Einstein Probe detects previously unseen soft X‑ray phase after a neutron‑star merger",
+      "links": [
+        "https://www.sciencedaily.com/releases/2026/10/261006234511.htm"
+      ],
+      "category": "Space",
+      "rank": 16
+    },
+    {
+      "id": [
+        "73"
+      ],
+      "title": "Four astronauts return to Earth after eight‑month stay on the ISS",
+      "links": [
+        "https://phys.org/news/2026-10-astronauts-earth-months-space.html"
+      ],
+      "category": "Space",
+      "rank": 17
+    },
+    {
+      "id": [
+        "76"
+      ],
+      "title": "Australian cancer‑research stem cells complete spaceflight and return safely",
+      "links": [
+        "https://phys.org/news/2026-10-mission-success-australian-cancer-space.html"
+      ],
+      "category": "Space",
+      "rank": 18
+    },
+    {
+      "id": [
+        "147"
+      ],
+      "title": "AST SpaceMobile shares fall after SpaceX acquires satellite spectrum from Grain Spectrum",
+      "links": [
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVktiUGMxYjJPS1hrempyeGllQXRqOXVGdmJlYUJTWGdUT2dsa0dNcVo4TEY0OGxYNzhGT1kwZDBsUGkwU2JwLXNQczRxNjYyeElEZFQtdGZqN2tWUXNJVEY3akRFWldlV0F3dTI3WXNnRnIzT2F5dVB0UjhzMUVDY3YzWlU0b280dkhhbzI4eGs1OVNLalpNWXJDMA?oc=5"
+      ],
+      "category": "Space",
+      "rank": 19
+    },
+    {
+      "id": [
+        "181"
+      ],
+      "title": "NASA searches for potential underground cave on the Moon",
+      "links": [
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTlVGaHlJT21jWkpUNEE2MktMdmlHeHlnU1YzNXZSZnVfc2FUTlNGaTRHQldzQWdvWHlKRGVGbkxXUlJWeUxaTVh2czJFbGszMVFVUmVtTlBTNnppc3d0T1BSeDgwdFVQRFpidTdReWJ6ZDQ1eHlUN2MwUnBmQTdJQzRsRnNKZTJCcVVDbldMbUVObmVfQWln?oc=5"
+      ],
+      "category": "Space",
+      "rank": 20
+    },
+    {
+      "id": [
+        "184"
+      ],
+      "title": "Astronomers observe a ‘vampire’ star devouring matter at extreme rate",
+      "links": [
+        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOS3IzQjNKZnFmbWE3a2dyb2hwbGkwdFg3RmVNMjBBbUxlZHdrSk9YN18tMnlpeGFFLTloOXRxTGRaUW9uaFo1bDgxMHNaM0lzVVF2aGVBOS1tMTlVWU52QTktcDJZclllTUJKRlJqWk1EMTB3YmhJSUt3YnNFQnRCemhiS2tsYWYyd3Exb2ZBMW5KUkVxZkZ5c092M2RTWnFSUHY4cTB3bGhBZ29aWlhVU2RIVzdWOFZibzdtSnhCTW8wTnBUUmpyYmFTZDFCTV83TkI3UFI0bGlnMkpOd24yZTJBR2Ytd1g2?oc=5"
+      ],
+      "category": "Space",
+      "rank": 21
+    },
+    {
+      "id": [
+        "190"
+      ],
+      "title": "Distant star gradually accretes material from a nearby brown dwarf",
+      "links": [
+        "https://nautil.us/a-distant-star-is-slowly-snacking-on-a-brown-dwarf-1285643/"
+      ],
+      "category": "Space",
+      "rank": 22
+    },
+    {
+      "id": [
+        "69"
+      ],
+      "title": "Composite image of the Tarantula Nebula produced from three space telescopes",
+      "links": [
+        "https://www.astronomy.com/science/new-view-of-30-doradus-reveals-messy-workings/"
+      ],
+      "category": "Space",
+      "rank": 23
+    },
+    {
+      "id": [
+        "185"
+      ],
+      "title": "Three coronal mass ejections may trigger auroras over United States",
+      "links": [
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORi12M1E2c1liTk5BdlhHQS1EVXNabE9ZMHR5dGFPV1didURPTEVGb25HZU9US3Jtd3dsd1ZVMUdCN3puaElWbE5RMlJWRmRjLVVZbHBzeGZkbzk2Yy13OTRwM1pmQjdqTzdEdW95VXRBQ1IySThKelUtOXR2NmhndzlteHBEbVVtUDhXdFk4bXEzM0p3ZEF3cXZrTHdnSFRHZlBvSTBkTnZhejVtS0haN2dubGMzT1ky?oc=5"
+      ],
+      "category": "Space",
+      "rank": 24
+    },
+    {
+      "id": [
+        "53"
+      ],
+      "title": "Sentinel‑2 captures image of Namibia’s expansive Etosha salt pan",
+      "links": [
+        "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Namibia_s_biggest_salt_pan"
+      ],
+      "category": "Space",
+      "rank": 25
+    },
+    {
+      "id": [
+        "183"
+      ],
+      "title": "Anniversary: Pioneer Venus probe re‑entered Venus’s atmosphere after 14 years",
+      "links": [
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTmJhbjNWVlpZa1pBck9pNE9PbE1BZmJEZ0o1VWVMZXB5YjBoSDRIWlA1MjUxTU5XaU51Z0EzMlNIa1VaUVd0UVRrTkFad2pmN1dUclN1c1ljbjltS1dxdV9IbXFZVnlXekhrcHBWRXZ1WFY2NFhOTm4teXVZZmxMMg?oc=5"
+      ],
+      "category": "Space",
+      "rank": 26
+    },
+    {
+      "id": [
+        "48"
+      ],
+      "title": "Astronomy Picture of the Day features Stickney Crater on Phobos",
+      "links": [
+        "https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/"
+      ],
+      "category": "Space",
+      "rank": 27
+    },
+    {
+      "id": [
+        "66"
+      ],
+      "title": "Sky guide for Friday, October 9: visibility of Messier object M30",
+      "links": [
+        "https://www.astronomy.com/observing/the-sky-today-friday-october-9-2026/"
+      ],
+      "category": "Space",
+      "rank": 28
+    },
+    {
+      "id": [
+        "67"
+      ],
+      "title": "Weekly sky forecast highlights Mars crossing the Beehive Cluster",
+      "links": [
+        "https://www.astronomy.com/the-sky-this-week/the-sky-this-week-from-october-9-to-16-2026/"
+      ],
+      "category": "Space",
+      "rank": 29
+    },
+    {
+      "id": [
+        "70"
+      ],
+      "title": "2026 calendar lists dates of full Moon phases",
+      "links": [
+        "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types/"
+      ],
+      "category": "Space",
+      "rank": 30
+    },
+    {
+      "id": [
+        "81"
+      ],
+      "title": "Russian strike on buses in Kramatorsk kills at least 30 civilians",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 1,
+      "summary": "A Russian strike using glide bombs on two civilian buses in the eastern Ukrainian city of Kramatorsk killed at least 30 people and wounded 18 others, according to Ukrainian officials. The attack, criticized by Ukrainian President Volodymyr Zelensky as deliberate targeting of civilians, follows a surge in Russian military action across Ukraine that has escalated civilian casualties to levels surpassing even the devastating toll of 2024. In a separate raid, a missile strike on a residential apartment block in Pryluky killed 22 more civilians, including five children, prompting further UK sanctions and calls for increased Western support for Ukraine. With cities like Kramatorsk and Kyiv facing near-daily bombardments, Ukrainian authorities have suspended public transport and urged civilians in frontline areas to evacuate amid intensifying assaults on infrastructure and populated areas. The Kremlin has yet to respond to the latest attacks, which come as Russian forces reiterate claims of \"liberating\" the Donbas region, a rationale broadly rejected by Ukraine and its international allies."
+    },
+    {
+      "id": [
+        "78",
+        "167"
+      ],
+      "title": "Pentagon announces livestream of a firing‑squad execution",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+        "https://www.npr.org/2026/10/09/g-s1-147419/fort-hood-shooter-execution"
+      ],
+      "category": "Geopolitics",
+      "rank": 2,
+      "summary": "The Pentagon announced that the execution of former US Army major Nidal Hasan, sentenced for the 2009 Fort Hood massacre that killed 13 unarmed soldiers, will be livestreamed—a first for a US execution in nearly a century and the first military firing-squad execution since World War II. Defense Secretary Pete Hegseth framed the decision as a necessary display of consequence, while critics, including Democratic Senator Chris Murphy, condemned it as dehumanizing and akin to extremist practices. Though President Trump has approved the execution, scheduled for December 3 at Fort Hood, legal experts caution that Hasan may still seek federal review to block it, potentially postponing or halting the livestream. Survivors and families of victims remain divided, with some favoring transparency and others wary of public trauma. The move underscores deep national tensions over capital punishment, transparency, and the methods of execution in the US."
+    },
+    {
+      "id": [
+        "27"
+      ],
+      "title": "FBI seizes domains hosting Chinese state hacking tools targeting critical infrastructure",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/"
+      ],
+      "category": "Geopolitics",
+      "rank": 3
+    },
+    {
+      "id": [
+        "43"
+      ],
+      "title": "Ukrainian drone strike disables Russian data center, hindering cloud services",
+      "links": [
+        "https://www.theregister.com/off-prem/2026/10/09/ukrainian-drone-attack-takes-out-russian-datacenter/5302137"
+      ],
+      "category": "Geopolitics",
+      "rank": 4
+    },
+    {
+      "id": [
+        "84"
+      ],
+      "title": "Starving Ukrainians forced to flee via dangerous routes in Russian‑occupied south",
+      "links": [
+        "https://www.atlanticcouncil.org/blogs/ukrainealert/starving-ukrainians-must-travel-road-of-death-to-flee-russian-occupation/"
+      ],
+      "category": "Geopolitics",
+      "rank": 5
+    },
+    {
+      "id": [
+        "85"
+      ],
+      "title": "Russian jet drones pose security threat beyond Ukraine, analysts warn",
+      "links": [
+        "https://www.atlanticcouncil.org/blogs/ukrainealert/russias-jet-drones-pose-a-security-threat-far-beyond-ukraine/"
+      ],
+      "category": "Geopolitics",
+      "rank": 6
+    },
+    {
+      "id": [
+        "121"
+      ],
+      "title": "UN reports continued Russian attacks on Ukraine causing civilian deaths",
+      "links": [
+        "https://news.un.org/feed/view/en/story/2026/10/1168557"
+      ],
+      "category": "Geopolitics",
+      "rank": 7
+    },
+    {
+      "id": [
+        "143"
+      ],
+      "title": "Pakistan deploys warplanes to support operations against Iran‑backed Houthi forces in Yemen",
+      "links": [
+        "https://haber.mynet.com/pakistan-da-savasa-dahil-oldu-ucaklar-pes-pese-havalandi-110107315706"
+      ],
+      "category": "Geopolitics",
+      "rank": 8
+    },
+    {
+      "id": [
+        "148"
+      ],
+      "title": "Analysis shows rapid bond‑yield shifts often precede major financial crises",
+      "links": [
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcEltRWJGemx4eTIzdGkxcXJob0hZTXlmYXpCd0JLU1N1ajlwOEJma1d5M2ZyX2p0dmN1RktqSDdFVjNyZmtkWE9RUXBiUGZwNkg3R1pqUlc3ZXNxc2cwbmRlQkZVcXNXVV8yQXBaUzhNNk5PYlk5bnJ3Z3gySEdMSHc0QVJpc1FvUThXTGw0YnpSTjFseml6Mm5jSEhmcFM4SmN1bVlpNUE3NjA3LWRWZjV5MHc0RldzNGdnRlRKS25uU2o2WEx0bm55R200T1NrU2ZkcFhVTDhlVnVlOTRZ?oc=5"
+      ],
+      "category": "Geopolitics",
+      "rank": 9
+    },
+    {
+      "id": [
+        "155"
+      ],
+      "title": "Financial Stability Board warns most countries lack credible backstops for failing banks",
+      "links": [
+        "https://www.ft.com/content/ca31d01f-d5a0-4bd4-bcc2-4aaa68f4ca22?syn-25a6b1a6=1"
+      ],
+      "category": "Geopolitics",
+      "rank": 10
+    },
+    {
+      "id": [
+        "158"
+      ],
+      "title": "Nobel Peace Prize laureates to be announced in 2026",
+      "links": [
+        "https://www.dw.com/en/nobel-peace-prize-2026-set-to-be-announced/live-79598020?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Geopolitics",
+      "rank": 11
+    },
+    {
+      "id": [
+        "130",
+        "150"
+      ],
+      "title": "Trump says U.S. will not strike Iran before midterm elections",
+      "links": [
+        "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss",
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbWJmRGJSWUNzQTZBNjhaVW8wVTVDdWV4VmlhZ21yTUZhYlRXLXdPNGI0c3RValdQU3ptNFVScDZCTTIyM1lsN05TT2NhblVFWXFJNERiYmtVdEt0NVlyelYySjVFOEl2X2EwdWt4azM5dFAyZzM4eVpJODNiMWhYY3lBOEJ4NzdDbkJKOVkwZ1I2ckI4VjRXeTZRQmh5TEhjR3VtbnM1TUptNzFPRVBIT2dubFVZdXVXc01zeHdLYUM3dFY0UDZuUURZUGJXX0pZNWZRVVgwbw?oc=5"
+      ],
+      "category": "Geopolitics",
+      "rank": 12
+    },
+    {
+      "id": [
+        "8"
+      ],
+      "title": "U.S. regulators prepare to overhaul vehicle headlight standards",
+      "links": [
+        "https://arstechnica.com/cars/2026/10/feds-get-ready-to-rewrite-car-headlight-rules/"
+      ],
+      "category": "Geopolitics",
+      "rank": 13
+    },
+    {
+      "id": [
+        "28"
+      ],
+      "title": "Ransomware incident knocks out Japan’s IDCF Cloud service serving government customers",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/"
+      ],
+      "category": "Geopolitics",
+      "rank": 14
+    },
+    {
+      "id": [
+        "32"
+      ],
+      "title": "Ukrainian organizations targeted by upgraded Russian ‘MatchBoil’ malware",
+      "links": [
+        "https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift"
+      ],
+      "category": "Geopolitics",
+      "rank": 15
+    },
+    {
+      "id": [
+        "34"
+      ],
+      "title": "Essay examines how technology both supports and threatens authoritarian regimes",
+      "links": [
+        "https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html"
+      ],
+      "category": "Geopolitics",
+      "rank": 16
+    },
+    {
+      "id": [
+        "38"
+      ],
+      "title": "Chinese state‑aligned threat groups blend automated and manual tools to exfiltrate sensitive data",
+      "links": [
+        "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-281a"
+      ],
+      "category": "Geopolitics",
+      "rank": 17
+    },
+    {
+      "id": [
+        "42"
+      ],
+      "title": "Indian tech firms downplay impact of US skilled‑immigration visa rule changes",
+      "links": [
+        "https://www.theregister.com/legal/2026/10/09/indias-tech-giants-shrug-off-changes-to-usas-skilled-visa-program/5302154"
+      ],
+      "category": "Geopolitics",
+      "rank": 18
+    },
+    {
+      "id": [
+        "79"
+      ],
+      "title": "Suspect in Monaco bomb attack on millionaire gives interview to BBC",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 19
+    },
+    {
+      "id": [
+        "83"
+      ],
+      "title": "Analysis: Ukraine's role in helping Europe counter Russia's shadow war",
+      "links": [
+        "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraine-can-help-europe-counter-russias-escalating-shadow-war/"
+      ],
+      "category": "Geopolitics",
+      "rank": 20
+    },
+    {
+      "id": [
+        "86"
+      ],
+      "title": "Federal Reserve Vice Chair Bowman discusses interest rates, regulation and AI",
+      "links": [
+        "https://www.atlanticcouncil.org/commentary/podcast/federal-reserve-vice-chair-michelle-bowman-on-rates-regulation-and-ai/"
+      ],
+      "category": "Geopolitics",
+      "rank": 21
+    },
+    {
+      "id": [
+        "90"
+      ],
+      "title": "Analysis: Trump administration’s policies reignite sectarian tensions in the Middle East",
+      "links": [
+        "https://foreignpolicy.com/2026/10/08/iraq-trump-sectarian-war/"
+      ],
+      "category": "Geopolitics",
+      "rank": 22
+    },
+    {
+      "id": [
+        "91"
+      ],
+      "title": "Perspective: The ongoing conflict in Iran is fundamentally about regime change",
+      "links": [
+        "https://foreignpolicy.com/2026/10/08/next-iran-war-regime-change/"
+      ],
+      "category": "Geopolitics",
+      "rank": 23
+    },
+    {
+      "id": [
+        "93"
+      ],
+      "title": "Podcast analysis of Russia’s decline, Poland’s rise and shifting European power dynamics",
+      "links": [
+        "https://geopoliticalfutures.com/russias-failure-polands-rise-and-the-end-of-an-era-clubgpf-clip-with-george-friedman/"
+      ],
+      "category": "Geopolitics",
+      "rank": 24
+    },
+    {
+      "id": [
+        "94"
+      ],
+      "title": "Drone strike damages Yandex data centre in Russia’s Ryazan region",
+      "links": [
+        "https://geopoliticalfutures.com/daily-memo-drone-strike-in-russia-nord-stream-negotiations/"
+      ],
+      "category": "Geopolitics",
+      "rank": 25
+    },
+    {
+      "id": [
+        "96"
+      ],
+      "title": "Pentagon emphasizes speed in autonomous warfare acquisition reforms",
+      "links": [
+        "https://warontherocks.com/cogs-of-war/the-last-mile-of-pentagon-reform-runs-through-the-brigade/"
+      ],
+      "category": "Geopolitics",
+      "rank": 26
+    },
+    {
+      "id": [
+        "100"
+      ],
+      "title": "ICC finds former Philippine President Duterte fit to stand trial",
+      "links": [
+        "https://thediplomat.com/2026/10/former-philippine-president-duterte-fit-to-stand-trial-icc-says/"
+      ],
+      "category": "Geopolitics",
+      "rank": 27
+    },
+    {
+      "id": [
+        "101"
+      ],
+      "title": "U.S. opens direct talks with Myanmar government to address scams and rare‑earth access",
+      "links": [
+        "https://thediplomat.com/2026/10/us-has-opened-direct-talks-with-myanmar-government-report-claims/"
+      ],
+      "category": "Geopolitics",
+      "rank": 28
+    },
+    {
+      "id": [
+        "102"
+      ],
+      "title": "Analysis of India’s potential ‘beyond advocacy’ role in the Russia‑Ukraine conflict",
+      "links": [
+        "https://thediplomat.com/2026/10/what-beyond-advocacy-means-for-indias-role-in-the-russia-ukraine-conflict/"
+      ],
+      "category": "Geopolitics",
+      "rank": 29
+    },
+    {
+      "id": [
+        "103"
+      ],
+      "title": "Democracy Digest: Trump’s alleged attempts to influence Polish government spark controversy",
+      "links": [
+        "https://balkaninsight.com/2026/10/09/democracy-digest-reports-of-trumps-attempt-to-reshape-polands-govt-spark-political-row/rd/"
+      ],
+      "category": "Geopolitics",
+      "rank": 30
+    },
+    {
+      "id": [
+        "104"
+      ],
+      "title": "Kosovo president elected, offering hope for political stability",
+      "links": [
+        "https://balkaninsight.com/2026/10/09/kosovo-presidents-election-kindles-hope-of-return-to-stability/bi/"
+      ],
+      "category": "Geopolitics",
+      "rank": 31
+    },
+    {
+      "id": [
+        "108"
+      ],
+      "title": "Commentary on MAGA’s internal culture war and its political implications",
+      "links": [
+        "https://www.project-syndicate.org/commentary/democrats-must-not-engage-in-maga-culture-war-to-win-midterms-by-ian-buruma-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en"
+      ],
+      "category": "Geopolitics",
+      "rank": 32
+    },
+    {
+      "id": [
+        "110"
+      ],
+      "title": "Assessment of Europe’s shifting role in the global division of labor",
+      "links": [
+        "https://www.project-syndicate.org/commentary/eu-relative-advantage-in-specialized-sectors-like-chip-making-machinery-by-daniel-gros-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en"
+      ],
+      "category": "Geopolitics",
+      "rank": 33
+    },
+    {
+      "id": [
+        "111"
+      ],
+      "title": "Observation that Donald Trump’s influence on the international order has peaked",
+      "links": [
+        "https://www.project-syndicate.org/commentary/peak-trump-world-moving-on-with-exception-of-ai-by-ian-bremmer-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en"
+      ],
+      "category": "Geopolitics",
+      "rank": 34
+    },
+    {
+      "id": [
+        "112"
+      ],
+      "title": "Proposal for global financial reform centered on African women’s needs",
+      "links": [
+        "https://www.project-syndicate.org/commentary/imf-must-center-african-women-recognize-social-reproduction-by-crystal-simeoni-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en"
+      ],
+      "category": "Geopolitics",
+      "rank": 35
+    },
+    {
+      "id": [
+        "113"
+      ],
+      "title": "Discussion of the Army’s new command to streamline acquisition of autonomous weapons",
+      "links": [
+        "https://www.defenseone.com/technology/2026/10/armys-new-command-plans-streamline-autonomous-warfare-acquisition/416523/"
+      ],
+      "category": "Geopolitics",
+      "rank": 36
+    },
+    {
+      "id": [
+        "117"
+      ],
+      "title": "Senator alleges Pentagon blocked Qatar base visit to conceal Iran‑war damage",
+      "links": [
+        "https://www.defensenews.com/news/pentagon-congress/2026/10/08/pentagon-barred-qatar-base-access-to-hide-iran-war-damage-us-senator-claims/"
+      ],
+      "category": "Geopolitics",
+      "rank": 37
+    },
+    {
+      "id": [
+        "119"
+      ],
+      "title": "Congressional report scrutinizes cost and usage of Marine Corps amphibious combat vehicles",
+      "links": [
+        "https://www.defensenews.com/news/2026/10/08/future-cost-use-of-marine-corps-acvs-scrutinized-in-congressional-report/"
+      ],
+      "category": "Geopolitics",
+      "rank": 38
+    },
+    {
+      "id": [
+        "120"
+      ],
+      "title": "U.S. Air Force and Army plan to grant defense firms access to test ranges",
+      "links": [
+        "https://www.defensenews.com/industry/techwatch/2026/10/08/us-air-force-army-eye-industry-access-on-test-ranges/"
+      ],
+      "category": "Geopolitics",
+      "rank": 39
+    },
+    {
+      "id": [
+        "122"
+      ],
+      "title": "UN warns of severe healthcare shortages for displaced people in Darfur as sanctions persist",
+      "links": [
+        "https://news.un.org/feed/view/en/story/2026/10/1168556"
+      ],
+      "category": "Geopolitics",
+      "rank": 40
+    },
+    {
+      "id": [
+        "137"
+      ],
+      "title": "Report claims Trump plans possible pre‑election Iranian strike, described as brief but strong",
+      "links": [
+        "https://haber.sol.org.tr/haber/trump-israil-secimleri-oncesinde-irana-saldiri-duzenlemeyi-planliyor-iddiasi-cok-guclu-ama"
+      ],
+      "category": "Geopolitics",
+      "rank": 41
+    },
+    {
+      "id": [
+        "149"
+      ],
+      "title": "American Express fined $350 million for shortcomings in anti‑money‑laundering controls",
+      "links": [
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbzBzalJvb3ZFazJNVTBBYWhwbTdkX3ZDdWJMTmJRU1Fpc2dfN3oxcHdTMk9VRlhpVGg0blFmazhmY0xwcGhsbkNNU1ZhSUFJN2o4UnE2ZVpXc2VSRUdvQTdIcEs0OEQ1bUtDTDBUbkd1RS1yM00xQTN3ZU1fdmhzN1dIcVZ0eEEtZ2lCWGpoTV9PU3lrN2xUd2xSRXJVY1lxUTVBZDZMUzFvN2lPNnFiQmNpUjZKSTc5ODZhT3JMWllNTGczR2pySHdTUW1IaF9RdG1GZ25EOVZqWWQ1?oc=5"
+      ],
+      "category": "Geopolitics",
+      "rank": 42
+    },
+    {
+      "id": [
+        "154"
+      ],
+      "title": "Labour Party retains Holborn and St Pancras seat, defeating Green challenger",
+      "links": [
+        "https://www.ft.com/content/5272dfe2-a1b4-4628-a8f1-9959bc954441?syn-25a6b1a6=1"
+      ],
+      "category": "Geopolitics",
+      "rank": 43
+    },
+    {
+      "id": [
+        "157"
+      ],
+      "title": "Finland faces mounting debt burden despite high happiness rankings",
+      "links": [
+        "https://www.dw.com/en/finland-the-world-s-happiest-country-has-a-debt-problem-it-can-no-longer-ignore/a-79544348?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Geopolitics",
+      "rank": 44
+    },
+    {
+      "id": [
+        "159"
+      ],
+      "title": "Malaysia closes schools as toxic haze from Indonesian fires reaches hazardous levels",
+      "links": [
+        "https://www.dw.com/en/malaysia-shuts-schools-amid-toxic-haze-from-indonesian-fires/a-79607231?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Geopolitics",
+      "rank": 45
+    },
+    {
+      "id": [
+        "161"
+      ],
+      "title": "Canadian poet Anne Carson awarded Nobel Prize in Literature",
+      "links": [
+        "https://www.france24.com/en/tv-shows/arts24/20261009-canadian-poet-and-author-anne-carson-wins-nobel-prize-in-literature"
+      ],
+      "category": "Geopolitics",
+      "rank": 46
+    },
+    {
+      "id": [
+        "164"
+      ],
+      "title": "Mass march in Madrid mourns evicted pensioner, highlights housing protest movement",
+      "links": [
+        "https://www.france24.com/en/europe/20261009-tens-of-thousands-march-in-madrid-to-mourn-pensioner-whose-eviction-sparked-housing-protests"
+      ],
+      "category": "Geopolitics",
+      "rank": 47
+    },
+    {
+      "id": [
+        "170"
+      ],
+      "title": "USS Abraham Lincoln aircraft carrier returns to San Diego after record‑long deployment",
+      "links": [
+        "https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay"
+      ],
+      "category": "Geopolitics",
+      "rank": 48
+    },
+    {
+      "id": [
+        "171"
+      ],
+      "title": "BBC report highlights dangerous school routes for children in war‑torn Yemen",
+      "links": [
+        "https://www.bbc.com/turkce/articles/cm4g12gydw28o?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 49
+    },
+    {
+      "id": [
+        "175"
+      ],
+      "title": "Controversial figures nominated for Nobel Peace Prize attract criticism",
+      "links": [
+        "https://www.bbc.com/turkce/articles/cz973l8eq4zo?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 50
+    },
+    {
+      "id": [
+        "6"
+      ],
+      "title": "Judge examines legality of Trump charging $100,000 for early Truth Social post access",
+      "links": [
+        "https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts/"
+      ],
+      "category": "Geopolitics",
+      "rank": 51
+    },
+    {
+      "id": [
+        "7"
+      ],
+      "title": "Security concerns arise after Trump Mobile hack and missing FCC filings",
+      "links": [
+        "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/"
+      ],
+      "category": "Geopolitics",
+      "rank": 52
+    },
+    {
+      "id": [
+        "31"
+      ],
+      "title": "FBI captures cartel‑linked malware author responsible for ATM jackpotting scheme",
+      "links": [
+        "https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting"
+      ],
+      "category": "Geopolitics",
+      "rank": 53
+    },
+    {
+      "id": [
+        "44"
+      ],
+      "title": "Interview with former Facebook elections head Katie Harbath on political disruption",
+      "links": [
+        "https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook/"
+      ],
+      "category": "Geopolitics",
+      "rank": 54
+    },
+    {
+      "id": [
+        "80"
+      ],
+      "title": "ICE agent shoots man during arrest in New York City",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 55
+    },
+    {
+      "id": [
+        "82"
+      ],
+      "title": "Protesters in Madrid blame vulture funds for Spain's housing crisis amid snap election",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 56
+    },
+    {
+      "id": [
+        "92"
+      ],
+      "title": "Historical look at France’s 1982 policies to understand current unrest",
+      "links": [
+        "https://foreignpolicy.com/2026/10/08/france-protests-macron-europe-history-mitterrand-economy/"
+      ],
+      "category": "Geopolitics",
+      "rank": 57
+    },
+    {
+      "id": [
+        "95"
+      ],
+      "title": "Long‑term strategic overview of Azerbaijan’s regional influence",
+      "links": [
+        "https://geopoliticalfutures.com/a-long-term-view-of-azerbaijan/"
+      ],
+      "category": "Geopolitics",
+      "rank": 58
+    },
+    {
+      "id": [
+        "98"
+      ],
+      "title": "Raid on gay bar raises concerns over Taiwan’s LGBTQ‑friendly reputation ahead of Pride event",
+      "links": [
+        "https://thediplomat.com/2026/10/a-raid-on-a-gay-bar-risks-taiwans-lgbtq-friendly-reputation/"
+      ],
+      "category": "Geopolitics",
+      "rank": 59
+    },
+    {
+      "id": [
+        "99"
+      ],
+      "title": "Bangsamoro autonomous government faces challenge of maintaining public trust",
+      "links": [
+        "https://thediplomat.com/2026/10/the-bangsamoros-new-government-faces-a-test-of-public-trust/"
+      ],
+      "category": "Geopolitics",
+      "rank": 60
+    },
+    {
+      "id": [
+        "107"
+      ],
+      "title": "Serbian watchdog warns of voter‑rights violations ahead of upcoming elections",
+      "links": [
+        "https://balkaninsight.com/2026/10/08/serbian-watchdog-claims-voters-rights-under-threat-ahead-of-elections/bi/"
+      ],
+      "category": "Geopolitics",
+      "rank": 61
+    },
+    {
+      "id": [
+        "109"
+      ],
+      "title": "Analysis of Germany’s political and economic stagnation and needed reforms",
+      "links": [
+        "https://www.project-syndicate.org/commentary/german-malaise-legacy-of-economic-social-political-complacency-and-inertia-by-helmut-k-anheier-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en"
+      ],
+      "category": "Geopolitics",
+      "rank": 62
+    },
+    {
+      "id": [
+        "115"
+      ],
+      "title": "Defense Business Brief covering interview with Gabe Camarillo and tariff implications",
+      "links": [
+        "https://www.defenseone.com/business/2026/10/defense-business-brief-11-gabe-camarillo-tariff-ripple-effects-and-more/416490/"
+      ],
+      "category": "Geopolitics",
+      "rank": 63
+    },
+    {
+      "id": [
+        "124"
+      ],
+      "title": "UN human rights chief says legacy of slavery and colonialism fuels ongoing racism",
+      "links": [
+        "https://news.un.org/feed/view/en/story/2026/10/1168554"
+      ],
+      "category": "Geopolitics",
+      "rank": 64
+    },
+    {
+      "id": [
+        "125"
+      ],
+      "title": "UN expert warns older women worldwide face violence and neglect",
+      "links": [
+        "https://news.un.org/feed/view/en/story/2026/10/1168553"
+      ],
+      "category": "Geopolitics",
+      "rank": 65
+    },
+    {
+      "id": [
+        "127"
+      ],
+      "title": "Iraq announces ban on navigation app Waze, citing its Israeli ownership",
+      "links": [
+        "https://www.aljazeera.com/news/2026/10/9/why-has-iraq-decided-to-ban-online-map-service-waze?traffic_source=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 66
+    },
+    {
+      "id": [
+        "128"
+      ],
+      "title": "Israeli rabbi Dov Lando criticises Zionism, sparking controversy",
+      "links": [
+        "https://www.aljazeera.com/news/2026/10/9/who-is-dov-lando-the-israeli-rabbi-criticising-zionism?traffic_source=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 67
+    },
+    {
+      "id": [
+        "156"
+      ],
+      "title": "Bosnia and Herzegovina set to elect new Grand Mufti in October",
+      "links": [
+        "https://www.dw.com/en/bosnia-and-herzegovina-will-soon-have-a-new-grand-mufti/a-79604402?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Geopolitics",
+      "rank": 68
+    },
+    {
+      "id": [
+        "162"
+      ],
+      "title": "French education ministry keeps 141 high schools closed amid ongoing student protests",
+      "links": [
+        "https://www.france24.com/en/france/20261009-live-141-french-high-schools-closed-as-student-protests-continue-for-fifth-day"
+      ],
+      "category": "Geopolitics",
+      "rank": 69
+    },
+    {
+      "id": [
+        "163"
+      ],
+      "title": "Scholars discuss police impunity concerns during French student protests",
+      "links": [
+        "https://www.france24.com/en/video/20261009-french-student-protests-police-impunity-below-the-standards-of-a-well-functioning-democracy-1"
+      ],
+      "category": "Geopolitics",
+      "rank": 70
+    },
+    {
+      "id": [
+        "129"
+      ],
+      "title": "Afghan emerald miners work with basic tools despite harsh conditions, attracting global buyers",
+      "links": [
+        "https://www.aljazeera.com/news/2026/10/9/afghanistans-emerald-miners-struggle-with-tools-but-attract-global-buyers?traffic_source=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 71
+    },
+    {
+      "id": [
+        "160"
+      ],
+      "title": "Indian protest group denied permission to demonstrate in Delhi, vows to continue",
+      "links": [
+        "https://www.dw.com/en/india-cockroach-party-denied-permission-to-protest-in-delhi-founder-dipke-pushes-on/live-79606961?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Geopolitics",
+      "rank": 72
+    },
+    {
+      "id": [
+        "139"
+      ],
+      "title": "Cuban President Díaz‑Canel hosts radio program addressing public concerns",
+      "links": [
+        "https://haber.sol.org.tr/kuba-gercegi/abluka-gunlukleri-218-7-ekim-2026-carsamba-414759"
+      ],
+      "category": "Geopolitics",
+      "rank": 73
+    },
+    {
+      "id": [
+        "176"
+      ],
+      "title": "Article titled 'Ballots Everywhere: Times & Places' published",
+      "links": [
+        "https://www.astralcodexten.com/p/ballots-everywhere-times-and-places-673"
+      ],
+      "category": "Geopolitics",
+      "rank": 74
+    },
+    {
+      "id": [
+        "144",
+        "146",
+        "172",
+        "174"
+      ],
+      "title": "Turkish fund crisis sparks investigations and calls for accountability",
+      "links": [
+        "https://haber.mynet.com/ak-partili-ozlem-zengin-den-fon-krizi-cikisi-listenin-tamami-aciklansin-110107315705",
+        "https://news.google.com/rss/articles/CBMiigJBVV95cUxOWnVpZUx6cnVKSng0dGJHMXd0WlBLWVhBd21BajRUVDFSWFRwaTJNVENGNjIybm1EYkhNekRZWHl3U0ZwOE9EbVI3d2IzQ2ZaMjZIQmFWQjhQUTFJWG9CMTlZbkNFUDNvblFOR2RzMEZfYUsxWGQwRHpLMzl1YWMxWnJ2TG9hWGd3TmlJODZiVDQtdTllM25MaHAtUG83YTR3czc4ZHQ3dWR4V1BTWTFEaWxvdWVUckF1QWZoeXp3UTRpNFFuRkxNekp6aUdBdXZKMGFiUFM0Q3JkcXRqRG10cHp2NVNHZWFsMFhrMTY2WFMzZ3JIam1lTEc5Rm55X1J5RWozYm8zelVOdw?oc=5",
+        "https://www.bbc.com/turkce/articles/c5rmy7wkek47o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.com/turkce/articles/cmkg7n4xd0p1o?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Turkey",
+      "rank": 1,
+      "summary": "The webpage returned a \"Page Not Found\" error, indicating that the requested article on the Turkish fund crisis could not be accessed. The message suggested a redirect to the homepage after 10 seconds, but no substantive content was available to summarize. Without additional information or text, key facts, context, or significance of the crisis cannot be determined."
+    },
+    {
+      "id": [
+        "131",
+        "132",
+        "133"
+      ],
+      "title": "Turkish newspaper T24 faces access block and parliamentary response",
+      "links": [
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWE8zdnhka2V1N1llQWJhTU1pS1RXOGd5OHRrcVUtVnJjOGlNeVNidGMzQ1Y3a0JHTldJZHp3RjJZTWduVG5QTjZRQkZLdGo5YzN3YjNWQU1TNDB2UGZnM3V6UjNCNEpXQS1FY2pMeHJqUHJWeG5DUVlmUGtIODBSMllmWWFneERmYVVPTnlKX1FkWjJNSlhLTjhuWQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYkJZNWFxOVFsTlVFaVpPblpZOVBSY29IVlRQSEhRbF9iN2w5MWNjSTg2YURsX0dVWHdZV19wT3JzVzQ5eU1BYnNyUjBwZjRYQ0JVbmlObUZsWUpCUndFZkhUTlNab205NDFlbldzMXBSSUZZTlZHejZWSnBZRGU4dkJ6YTNON0lKdmVpNkktdU1sVHVLc1ZKUE9tT0tHckJ2ZklnQmppdWh3cmJOOTdHa3BGRWVHNC1vMEdWN19sV1FKaldBLUt1dmJTc3NVZEdTZWh6VXlMTkdIdWYtYmxhZ2YtRjdmalNsZW5TcG9HaUU?oc=5",
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUm14REVzOVBzWHpmeWxpN3Q0c2tqYi1aSzRVVlBER3VpSFVsazNickVPZVlESGR4UEJweWdJYUVZVFY2aVFIN0xXd0gyWXcyelNQa3FHVS1SLTJhbUZUNDRFNFEyMXZ2OTZMNUNxcHR2a2FtQnBHaHVLQlJhbnY4NHI1NW0zdzFUZHh6eHM1TEl4LU5LS2ljNE1TdkhIMUtZYzNwSUJXT1dTc0s5Q0lVMkFCaklqSnFMc0FZQ19HTHowZVFHYk1NUXB5SGJoSC1aX0E?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 2,
+      "summary": "No summary available: scraping failure"
+    },
+    {
+      "id": [
+        "87"
+      ],
+      "title": "Opinion piece argues Israel and Turkey should not be treated as natural rivals",
+      "links": [
+        "https://www.atlanticcouncil.org/blogs/menasource/israel-and-turkey-are-not-natural-rivals-its-time-to-stop-treating-them-that-way/"
+      ],
+      "category": "Turkey",
+      "rank": 3
+    },
+    {
+      "id": [
+        "88"
+      ],
+      "title": "Discussion of the Mecca Pact’s implications for Pakistan, Turkey and Saudi Arabia",
+      "links": [
+        "https://foreignpolicy.com/2026/10/08/mecca-pact-pakistan-turkey-saudi-houthi-yemen/"
+      ],
+      "category": "Turkey",
+      "rank": 4
+    },
+    {
+      "id": [
+        "136"
+      ],
+      "title": "Turkish court extends detention of journalist Selahattin Günday",
+      "links": [
+        "https://haber.sol.org.tr/haber/gazeteci-selahattin-gundayin-tutukluluguna-devam-karari-414764"
+      ],
+      "category": "Turkey",
+      "rank": 5
+    },
+    {
+      "id": [
+        "134"
+      ],
+      "title": "Turkish media T24 highlighted Afghan Turkmen girl case; ministry replies about scholarship usage",
+      "links": [
+        "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOTZUMDhBTnFJVEdPNm9CTFlYU19LLUJmNTVKRkhjQnNSLWt4Y0ZXMTRSQ1NnWXNfNDR2bmVINnNBT2tfRmIyV1NVdUZKNVRfSDZYNmhISE81bGFFakY4cl9MV0FTTnljSk5ZS3U3WmFvcjNod3MxVHFZR1hsRXQzcEZKcWYtd0hVaVpqWEJLd1Ryb3kwT3hGVzA4YkpsNmdWeWFobkZWY3RtdmdJdW9KRVd0SHIyMEd2czBqUTdYSVRWSC05Z281SUhGWmM3cmk1eUJsbmhxQ3o1S2pkMmkyc1VtcUV5ZjdRRFVuUWJWWkowTTAybHNV?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 6
+    },
+    {
+      "id": [
+        "138"
+      ],
+      "title": "Lawyer Ece Güner released after detention in Ahbap association investigation",
+      "links": [
+        "https://haber.sol.org.tr/haber/ahbap-sorusturmasinda-tutuklanan-ece-guner-tahliye-edildi-414760"
+      ],
+      "category": "Turkey",
+      "rank": 7
+    },
+    {
+      "id": [
+        "145"
+      ],
+      "title": "Journalist Özgür Özel reports on alleged funding irregularities involving a provincial governor",
+      "links": [
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU0lJZk1xanNlYU9LZ3ktV3FqdlRmNkdUU1Z4QVRibUh5ZzZOTUpBTEZEYWZTRWU4cHBDc2p3dkhvejlIVU9hbDlQNGIzX3dYR1UxT2dwam5KcmdLcGl6SzhYLVB6ZUNKQU8zVnF4dks5b0hFcXdlUGtBdWxadEdJNUhtVjZ4eTIxWnJNZUpSWVBEb0c5OXhEb29nWWFoNUgwaTl3ZzY4UXczdw?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 8
+    },
+    {
+      "id": [
+        "168"
+      ],
+      "title": "Category 2 Hurricane Isaias expected to make landfall on Gulf Coast, bringing severe weather",
+      "links": [
+        "https://www.npr.org/2026/10/09/nx-s1-5996396/hurricane-isaias-updates"
+      ],
+      "category": "Science",
+      "rank": 1,
+      "summary": "Hurricane Isaias strengthened into a Category 2 storm as it approached the U.S. Gulf Coast, threatening the Florida Panhandle, southern Alabama, and Mississippi with landfall expected late Friday or early Saturday. Forecasters warned of dangerous winds, storm surges of up to 7 feet, heavy rainfall of up to 15 inches, and the potential for tornadoes, alongside extended power outages in affected areas. Emergency measures included evacuations, school closures, and National Guard mobilization, while offshore oil production halts impacted nearly 1.3 million barrels of daily crude output in the Gulf. Notably, Isaias formed late in the Atlantic season amid an El Niño that has otherwise suppressed storm activity this year, and its path mirrored some of the most destructive hurricanes in Gulf Coast history. The storm disrupted regional activities, including weekend oil markets and a high-profile college football game."
+    },
+    {
+      "id": [
+        "65"
+      ],
+      "title": "Neutrino research leading to Nobel‑winning detection methods",
+      "links": [
+        "https://www.universetoday.com/articles/to-win-a-nobel-prize-go-to-the-ends-of-the-earth"
+      ],
+      "category": "Science",
+      "rank": 2,
+      "summary": "This year’s Nobel Prize in Physics recognized Francis Halzen for his pivotal role in developing the IceCube Neutrino Observatory, a cubic-kilometer detector embedded in Antarctic ice, which enabled the detection of high-energy neutrinos from astrophysical sources. Neutrinos, ghostly particles with almost no mass and no charge, interact so rarely that they require vast, ultrapure detection mediums; conventional approaches, such as using massive water tanks, would be impractically small for capturing cosmic neutrinos. IceCube’s innovative design instead turns the natural Antarctic ice sheet itself into the detector, achieving unprecedented sensitivity and opening the field of neutrino astronomy. The award marks the fifth Nobel Prize tied to neutrino research, underscoring their enduring scientific significance despite—and because of—their elusive nature."
+    },
+    {
+      "id": [
+        "123"
+      ],
+      "title": "UN urges faster climate action ahead of Turkey-hosted COP31 summit",
+      "links": [
+        "https://news.un.org/feed/view/en/story/2026/10/1168555"
+      ],
+      "category": "Science",
+      "rank": 3
+    },
+    {
+      "id": [
+        "126"
+      ],
+      "title": "Study finds Israeli children's psychiatric emergency visits doubled after prolonged conflict",
+      "links": [
+        "https://www.aljazeera.com/news/2026/10/9/three-years-after-october-7-prolonged-war-takes-its-toll-on-israelis?traffic_source=rss"
+      ],
+      "category": "Science",
+      "rank": 4
+    },
+    {
+      "id": [
+        "186"
+      ],
+      "title": "700,000‑year‑old elephant tooth uncovers lost habitat of early ancestors",
+      "links": [
+        "https://nautil.us/our-ancient-ancestors-lost-habitat-revealed-by-700000-year-old-elephants-tooth-1285654/"
+      ],
+      "category": "Science",
+      "rank": 5
+    },
+    {
+      "id": [
+        "58"
+      ],
+      "title": "Discovery nearly doubles known giant water lily species using social media and satellite data",
+      "links": [
+        "https://www.newscientist.com/article/2592896-the-number-of-known-species-of-giant-waterlilies-just-doubled/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+      ],
+      "category": "Science",
+      "rank": 6
+    },
+    {
+      "id": [
+        "59"
+      ],
+      "title": "Unclear reasons behind Russia’s heightened response to a laboratory plague death",
+      "links": [
+        "https://www.newscientist.com/article/2592786-the-big-unanswered-question-about-russias-plague-death/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+      ],
+      "category": "Science",
+      "rank": 7
+    },
+    {
+      "id": [
+        "106"
+      ],
+      "title": "Ramici landfill near Banja Luka emits strong odor, highlighting waste management challenges",
+      "links": [
+        "https://balkaninsight.com/2026/10/09/stench-from-bosnias-ramici-landfill-indicates-mounting-waste-challenges/bi/"
+      ],
+      "category": "Science",
+      "rank": 8
+    },
+    {
+      "id": [
+        "187"
+      ],
+      "title": "Single female orangutans organize playdates for their offspring",
+      "links": [
+        "https://nautil.us/single-orangutan-moms-set-up-playdates-for-their-kids-1285650/"
+      ],
+      "category": "Science",
+      "rank": 9
+    },
+    {
+      "id": [
+        "189"
+      ],
+      "title": "1960 mathematicians once forecast an infinite Earth population by a near‑future Friday",
+      "links": [
+        "https://nautil.us/in-1960-mathematicians-predicted-that-earths-population-would-reach-infinity-on-a-friday-next-month-1285640/"
+      ],
+      "category": "Science",
+      "rank": 10
+    },
+    {
+      "id": [
+        "30"
+      ],
+      "title": "AWS Bedrock AgentCore flaw allows attacker to compromise entire environment via single prompt",
+      "links": [
+        "https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt"
+      ],
+      "category": "Tech",
+      "rank": 1,
+      "summary": "A now-fixed vulnerability dubbed **AgentCorruption** in AWS Bedrock AgentCore allowed attackers to fully compromise an organization’s AWS environment via a single prompt sent to a public-facing chatbot agent. Security researchers at Zenity Labs demonstrated how, by exploiting insufficient isolation and overprivileged default roles in AgentCore’s deployment architecture, they could access Instance Metadata Services (IMDS) to extract sensitive credentials and escalate access across an entire AWS region. AWS patched the issue in February, introducing IMDSv2 authentication and tightening default permissions. The flaw highlighted the broader risks of integrating AI agents with cloud infrastructure and underscored the need for strict least-privilege controls to reduce potential blast radius. Zenity’s findings suggest similar risks may exist in other agentic systems beyond AWS."
+    },
+    {
+      "id": [
+        "22"
+      ],
+      "title": "Firebase experiences worldwide outage, with delayed response from Google",
+      "links": [
+        "https://blog.pragmaticengineer.com/the-pulse-firebases-global-outage-poor-response/"
+      ],
+      "category": "Tech",
+      "rank": 2,
+      "summary": "Firebase, Google’s mobile development platform, experienced a widespread outage on September 29 when a backend configuration cleanup introduced a zero-length entry that crashed most iOS apps using its SDK, affecting apps with analytics enabled. While external developers quickly identified and attempted to communicate the root cause via a GitHub thread, Google’s internal teams only acknowledged the incident at 6:51pm PDT—over an hour after crashes began—and rolled back the problematic change by 7:24pm, though affected apps continued crashing for up to six hours due to caching. The outage highlighted deficiencies in Google’s incident response, including an unupdated status page and a delayed postmortem that acknowledged inadequate protections against malformed payloads, particularly in the iOS SDK compared to its Android counterpart. Comparisons were drawn to a similar 2020 Facebook SDK crash, underscoring long-standing challenges in managing SDK reliability across mobile platforms."
+    },
+    {
+      "id": [
+        "25"
+      ],
+      "title": "Citrix urges immediate patching of critical NetScaler remote code execution vulnerability",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/"
+      ],
+      "category": "Tech",
+      "rank": 3
+    },
+    {
+      "id": [
+        "29"
+      ],
+      "title": "Midnight Mimosa malware found pre‑installed on inexpensive Android smartphones",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/"
+      ],
+      "category": "Tech",
+      "rank": 4
+    },
+    {
+      "id": [
+        "26"
+      ],
+      "title": "Pwn2Own Ireland 2026 awards hackers $1.26 M for exploiting 98 zero‑day vulnerabilities",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/"
+      ],
+      "category": "Tech",
+      "rank": 5
+    },
+    {
+      "id": [
+        "35"
+      ],
+      "title": "Satel Netco Design flaw could enable arbitrary script execution and resource abuse",
+      "links": [
+        "https://www.cisa.gov/news-events/ics-advisories/icsa-26-281-03"
+      ],
+      "category": "Tech",
+      "rank": 6
+    },
+    {
+      "id": [
+        "36"
+      ],
+      "title": "Critical CVEs disclosed for G‑P‑A openPDC and openHistorian software",
+      "links": [
+        "https://www.cisa.gov/news-events/ics-advisories/icsa-26-281-02"
+      ],
+      "category": "Tech",
+      "rank": 7
+    },
+    {
+      "id": [
+        "37"
+      ],
+      "title": "Red Lion Controls N‑Tron 700 series exposed to remote administrative access vulnerability",
+      "links": [
+        "https://www.cisa.gov/news-events/ics-advisories/icsa-26-281-01"
+      ],
+      "category": "Tech",
+      "rank": 8
+    },
+    {
+      "id": [
+        "41"
+      ],
+      "title": "GitHub overhauls storage system, boosting write performance for AI‑driven workloads",
+      "links": [
+        "https://www.theregister.com/devops/2026/10/09/so-long-spokes-github-rewrites-storage-to-restore-reliability-just-in-time-for-agentic-hordes/5302148"
+      ],
+      "category": "Tech",
+      "rank": 9
+    },
+    {
+      "id": [
+        "118"
+      ],
+      "title": "Sig Sauer develops 25‑round magazine for the Army’s next‑generation rifle",
+      "links": [
+        "https://www.defensenews.com/news/your-army/2026/10/08/sig-sauer-develops-25-round-mag-for-armys-next-gen-rifle/"
+      ],
+      "category": "Tech",
+      "rank": 10
+    },
+    {
+      "id": [
+        "13"
+      ],
+      "title": "Prux: lightweight terminal‑based coding assistant",
+      "links": [
+        "https://github.com/heng30/prux"
+      ],
+      "category": "Tech",
+      "rank": 11
+    },
+    {
+      "id": [
+        "23"
+      ],
+      "title": "Article emphasizes importance of defining software boundaries for developers",
+      "links": [
+        "https://blog.bytebytego.com/p/how-software-boundaries-are-the-most"
+      ],
+      "category": "Tech",
+      "rank": 12
+    },
+    {
+      "id": [
+        "24"
+      ],
+      "title": "Cloudflare Radar redesign improves accessibility of global traffic data",
+      "links": [
+        "https://blog.cloudflare.com/radar-redesign/"
+      ],
+      "category": "Tech",
+      "rank": 13
+    },
+    {
+      "id": [
+        "45"
+      ],
+      "title": "Rust project outlines upcoming goals and community support plans",
+      "links": [
+        "https://lwn.net/Articles/1098617/"
+      ],
+      "category": "Tech",
+      "rank": 14
+    },
+    {
+      "id": [
+        "46"
+      ],
+      "title": "Kernel swap subsystem undergoes major revisions addressing longstanding issues",
+      "links": [
+        "https://lwn.net/Articles/1098399/"
+      ],
+      "category": "Tech",
+      "rank": 15
+    },
+    {
+      "id": [
+        "135"
+      ],
+      "title": "Film festival report notes rise of AI‑assisted short films among submissions",
+      "links": [
+        "https://haber.sol.org.tr/haber/bir-esigin-kiyisinda-altin-koza-ulusal-yarisma-notlari-414763"
+      ],
+      "category": "Tech",
+      "rank": 16
+    },
+    {
+      "id": [
+        "39"
+      ],
+      "title": "Sponsored article discusses importance of aligning software estate with vendor roadmaps",
+      "links": [
+        "https://www.theregister.com/software/2026/10/09/sponsored-whose-roadmap-is-your-software-estate-running-on/5301111"
+      ],
+      "category": "Tech",
+      "rank": 17
+    },
+    {
+      "id": [
+        "47"
+      ],
+      "title": "Weekly security patches released for multiple Linux distributions and software",
+      "links": [
+        "https://lwn.net/Articles/1099388/"
+      ],
+      "category": "Tech",
+      "rank": 18
+    }
+  ]
+}
