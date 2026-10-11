@@ -1,0 +1,709 @@
+{
+  "schema_version": 1,
+  "stats": {
+    "last_run": "2026-10-11T08:14:02.122Z",
+    "sources_pulled": 74,
+    "headlines_read": 88,
+    "headlines_written": 75,
+    "summaries_written": 18,
+    "summaries_failed": 3,
+    "run_count": 13
+  },
+  "headlines": [
+    {
+      "title": "Chinese hacker employs ARTEX AI and Claude agents in attacks on South Korean banks",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/"
+      ],
+      "category": "AI",
+      "rank": 1,
+      "summary": "A Chinese-speaking hacker exploited the ARTEX AI penetration testing suite and Claude agents to conduct cyberattacks on major South Korean banks, including Shinhan Bank, KB Kookmin Bank, and Hana Bank, resulting in data exposure and service disruptions. Security researchers linked the attacks through open directories containing ARTEX configurations, session histories, and résumés, suggesting the perpetrator may be a 26-year-old Chinese national linked to the South China University of Technology. The hacker utilized multiple large language models, such as DeepSeek, GLM-5.3, and Grok 4.6, via an LLM API proxy, though their motivations remained unclear as no monetization plans were uncovered. Concerns over critical financial infrastructure led South Korea to convene emergency meetings, while ARTEX’s developer moved the project to closed-source status following its real-world misuse.",
+      "title_tr": "Çinli bir hacker, Güney Kore bankalarına yönelik saldırılarda ARTEX AI ve Claude ajanlarını kullanıyor",
+      "summary_tr": "Bir Çince konuşan hacker, ARTEX AI penetrasyon testi aracı paketiyle ve Claude ajanlarıyla Güney Kore bankalarına yönelik siber saldırılar gerçekleştirdi ve bu saldırılar sonucunda Shinhan Bank, KB Kookmin Bank ve Hana Bank gibi önemli bankaların müşteri verileriyle kredi kartı bilgileri açığa çıktı. Hizmet durmalarına da neden olan bu saldırılar, Güney Kore hükümetini acil güvenlik önlemleri almaya itti. Güvenlik firması CrowdStrike, ARTEX AI’nin Güney Çin Üniversitesi mezunu olup Guangdong eyaletindeki Maoming’de yaşayan 26 yaşındaki bir Çin vatandaşı tarafından kullanıldığını belirledi. Saldırganın DeepSeek, GLM-5.3 ve Grok 4.6 gibi farklı büyük dil modellerini bir LLM API proxy’si üzerinden kullandığı tespit edildi; ancak veri kullanımına yönelik net bir plan bulunamadı."
+    },
+    {
+      "title": "AI deployed to deceive cybercriminals by impersonating victims",
+      "links": [
+        "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/"
+      ],
+      "category": "AI",
+      "rank": 2,
+      "summary": "Law enforcement and cybersecurity teams are increasingly deploying AI systems that impersonate hackers’ intended victims, engaging with cybercriminals to waste their time and resources. This strategy aims to disrupt scam operations and gather intelligence while criminals remain unaware of the deception. The approach highlights the dual-use nature of AI tools, which can both amplify malicious activity and serve as a countermeasure against it even as concerns grow about escalating computational costs and the erosion of human oversight in digital conflicts.",
+      "title_tr": "Siber suçluları, kurbanların kimliğine bürünerek aldatmak amacıyla yapay zeka kullanıldı",
+      "summary_tr": "Yetkili kurumlar ve siber güvenlik ekipleri artık siber suçluların hedefindeki kurbanları kopyalayan AI sistemleri konuşlandırıyor; bu sistemler siber suçlularla etkileşime girerek onların zamanını ve kaynaklarını boşa harcamalarını sağlıyor. Bu strateji, suçluların farkında olmamasını sağlayarak dolandırıcılık operasyonlarını baltalamayı ve istihbarat toplamayı hedefliyor. Hesaplaşan veri işlem maliyetleri ve dijital çatışmalarda insan denetiminin azalması konusundaki endişelere rağmen, AI araçlarının hem zararlı faaliyetleri artırma hem de karşı önlem olarak kullanılma ikili doğası giderek belirginleşiyor."
+    },
+    {
+      "title": "Stack Overflow survey reveals developers rely on AI but value source attribution",
+      "links": [
+        "https://www.theregister.com/software/2026/10/10/stack-overflow-survey-finds-devs-hooked-on-ai-but-not-totally-sold-on-its-judgment/5301662"
+      ],
+      "category": "AI",
+      "rank": 3,
+      "summary": "No summary available: scraping failure",
+      "title_tr": "Stack Overflow anketi, geliştiricilerin yapay zekaya güvendiklerini ancak kaynak gösterilmesine önem verdiklerini ortaya koyuyor",
+      "summary_tr": "Özet bulunmuyor: veri alma işlemi başarısız oldu"
+    },
+    {
+      "title": "Artemis II mission releases lunar science report and highlights Earth‑benefiting technologies",
+      "links": [
+        "https://www.universetoday.com/articles/the-preliminary-lunar-science-report-for-artemis-ii-is-out",
+        "https://www.astronomy.com/space-exploration/how-artemis-2s-tech-will-improve-life-on-earth/"
+      ],
+      "category": "Space",
+      "rank": 1,
+      "summary": "The article titled 'Artemis II mission releases lunar science report and highlights Earth-benefiting technologies' could not be accessed, as the page returned a 404 error. This typically occurs when a link is outdated, the page has been moved or deleted, or the URL was entered incorrectly.",
+      "title_tr": "Artemis II görevi, Ay ile ilgili bilimsel raporu yayınladı ve Dünya’ya fayda sağlayacak teknolojileri öne çıkardı",
+      "summary_tr": "Bu makalenin başlığı 'Artemis II görevi, Ay bilim raporunu yayımladı ve Dünya faydası sağlayan teknolojileri vurguladı' olsa da, erişilmeye çalışılan sayfa 404 hatası nedeniyle bulunamadı. Bu genellikle bir bağlantının güncel olmamasından, sayfanın taşınmış veya silinmiş olmasından ya da URL’nin yanlış girilmesinden kaynaklanmaktadır."
+    },
+    {
+      "title": "High‑definition image reveals details of a thousand‑year‑old supernova",
+      "links": [
+        "https://www.wired.com/story/humans-watched-this-supernova-explode-nearly-a-millennium-ago-now-you-can-see-it-in-high-definition/"
+      ],
+      "category": "Space",
+      "rank": 2,
+      "summary": "Astronomers have captured the most detailed image yet of the Pa 30 nebula, the remnant of a supernova recorded by Chinese and Japanese astronomers in 1181. The new high-definition observations, made with the Gemini North telescope in Hawaii, reveal intricate filamentary structures in the remnant that appear as uniform, bead-like knots of gas—each measuring about four light-days across. These ‘cosmic pearls’ offer clues to the unusual nature of the explosion and the rare survival of a ‘zombie star’ at the nebula’s center. The findings help explain the observed regularity of the ejecta and provide a direct cosmic link to historical astronomical records from the Middle Ages.",
+      "title_tr": "Yüksek çözünürlüklü görüntü, bin yıllık bir süpernovanın ayrıntılarını ortaya koyuyor",
+      "summary_tr": "Gökbilimciler, 1181 yılında Çinli ve Japon gökbilimciler tarafından kaydedilen bir süpernova kalıntısı olan Pa 30 bulutsusunun şimdiye kadarki en ayrıntılı görüntüsünü elde etti. Hawaii'deki Gemini North teleskobu ile yapılan yeni yüksek çözünürlüklü gözlemler, artık incik boncuk gibi görünen gaz düğümlerinden oluşan karmaşık ipliksi yapılara sahip bulutsudaki detayları ortaya çıkardı; her bir ‘boncuk’ yaklaşık dört ışık-günü çapında ölçülüyor. Bu ‘kozmik inciler’, patlamanın olağandışı doğasına dair ipuçları sunarken, bulutsunun merkezinde nadir görülen bir ‘zombi yıldızın’ varlığını da açıklıyor. Bulgular, artığın düzenli görünümünü açıklamaya yardımcı olmakla birlikte, Orta Çağ’dan kalma tarihsel gökbilim kayıtlarına doğrudan bir kozmik bağlantı sağlıyor."
+    },
+    {
+      "title": "Potential second‑generation exoplanet discovered orbiting a dying white dwarf",
+      "links": [
+        "https://www.universetoday.com/articles/astronomers-detect-potential-second-generation-planet-around-dying-stellar-white-dwarf"
+      ],
+      "category": "Space",
+      "rank": 3,
+      "summary": "Astronomers have detected signs of a Jupiter-like second-generation planet orbiting the white dwarf star HS 0209+0832, located 270 light-years away. The discovery, based on Hubble and other telescopes' archival data, indicates the planet likely formed from material ejected during the star's death throes, marked uniquely by elevated levels of the rare element niobium. This offers the first evidence that planets can form from stellar remnants, reshaping theories on solar system evolution and the potential for habitable worlds around dying stars.",
+      "title_tr": "Ölmekte olan bir beyaz cüce etrafında yörüngede dönen potansiyel ikinci nesil bir ötegezegen keşfedildi",
+      "summary_tr": "Gök bilimciler, 270 ışık yılı uzaklıktaki HS 0209+0832 beyaz cüce yıldızının yörüngesinde, Jüpiter benzeri ikinci nesil bir gezegenin varlığına dair işaretler tespit etti. Hubble Uzay Teleskobu ve diğer teleskoplardan elde edilen arşiv verilerine dayanan keşif, gezegenin yıldızın ölüm sürecinde dışarı atılan malzemeden oluştuğunu ve nadir bulunan niyobyum elementi açısından zengin olmasıyla ayırt edildiğini göstermektedir. Bu bulgu, yıldız artıklarından gezegenlerin oluşabileceğine dair ilk kanıt olup, ölen yıldızlar etrafındaki yaşanabilir dünyaların potansiyeli ve Güneş sistemlerinin evrimi hakkındaki teorileri yeniden şekillendirmektedir."
+    },
+    {
+      "title": "Star observed consuming a brown dwarf in a system 300 light‑years away",
+      "links": [
+        "https://www.sciencedaily.com/releases/2026/10/261008005240.htm"
+      ],
+      "category": "Space",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "300 ışık yılı uzaklıktaki bir sistemde kahverengi bir cüceyi yutan bir yıldız gözlemlendi",
+      "summary_tr": null
+    },
+    {
+      "title": "1967 ratification of the Outer Space Treaty marked a milestone in space law",
+      "links": [
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxPckh4R2kyRGFVQUd2THBYSi1PNXlCRF9IOTVtbzB5S2pOOTBjSHhsUDVuT3VOQzNHTkVwWHlYd0VEcEFWanJhaDRaTFZDTzZVaHdNRWpfXzYwT1dtWnNVZmJBQ3RCYzl5akVINGtzVTlwY213a0JUdmpMbmlOU3hKYlBB?oc=5"
+      ],
+      "category": "Space",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "1967 yılında Uzay Antlaşması’nın onaylanması, uzay hukukunda bir dönüm noktası oldu",
+      "summary_tr": null
+    },
+    {
+      "title": "NASA pilots fighter jet over NFL game in New York as part of Inspiration Tour",
+      "links": [
+        "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/"
+      ],
+      "category": "Space",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "NASA, “Inspiration Tour” kapsamında New York’ta düzenlenen bir NFL maçı sırasında bir savaş uçağını uçurdu",
+      "summary_tr": null
+    },
+    {
+      "title": "ESA astronaut Sophie Adenot lands in Germany after eight‑month ISS stay",
+      "links": [
+        "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/ESA_astronaut_Sophie_Adenot_returns_from_her_first_mission_to_the_International_Space_Station"
+      ],
+      "category": "Space",
+      "rank": 7,
+      "summary": null,
+      "title_tr": "ESA astronotu Sophie Adenot, Uluslararası Uzay İstasyonu’nda (ISS) geçirdiği sekiz aylık kalışın ardından Almanya’ya indi",
+      "summary_tr": null
+    },
+    {
+      "title": "Balloon‑borne telescope captures high‑resolution observations of the Sun",
+      "links": [
+        "https://www.universetoday.com/articles/stratospheric-balloon-telescope-peeks-above-the-clouds-at-the-sun"
+      ],
+      "category": "Space",
+      "rank": 8,
+      "summary": null,
+      "title_tr": "Balonla taşınan teleskop, Güneş’in yüksek çözünürlüklü görüntülerini yakaladı",
+      "summary_tr": null
+    },
+    {
+      "title": "Astronomy picture of the day features ice‑based detection of cosmic neutrinos",
+      "links": [
+        "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/"
+      ],
+      "category": "Space",
+      "rank": 9,
+      "summary": null,
+      "title_tr": "Günün astronomi fotoğrafında, kozmik nötrinoların buz aracılığıyla saptanması konu ediliyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Weekly sky guide highlights Mars conjunction with the Beehive star cluster",
+      "links": [
+        "https://www.astronomy.com/observing/the-sky-today-sunday-october-11-2026/"
+      ],
+      "category": "Space",
+      "rank": 10,
+      "summary": null,
+      "title_tr": "Haftalık gökyüzü rehberi, Mars’ın Arı Kovanı yıldız kümesiyle birleşimini öne çıkarıyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Jupiter and a waning crescent Moon align before dawn on Oct 6",
+      "links": [
+        "https://www.astronomy.com/picture-of-the-day/photo/jove-and-luna/"
+      ],
+      "category": "Space",
+      "rank": 11,
+      "summary": null,
+      "title_tr": "6 Ekim’de şafak sökmeden önce Jüpiter ve azalan hilal aynı hizaya geliyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Historical note: William Lassell discovers Neptune’s moon Triton in 1846",
+      "links": [
+        "https://www.astronomy.com/today-in-the-history-of-astronomy/oct-10-1846-the-discovery-of-triton/"
+      ],
+      "category": "Space",
+      "rank": 12,
+      "summary": null,
+      "title_tr": "Tarihsel not: William Lassell, 1846 yılında Neptün’ün uydusu Triton’u keşfeder",
+      "summary_tr": null
+    },
+    {
+      "title": "Yemeni Houthi strike on Riyadh airport kills 12, prompting Saudi retaliation and US response",
+      "links": [
+        "https://www.france24.com/en/middle-east/20261011-riyadh-airport-strike-kills-12-saudi-arabia-threatens-decisive-response",
+        "https://www.france24.com/en/middle-east/20261011-live-saudi-arabia-vows-decisive-response-after-deadly-houthi-strike-on-riyadh-airport",
+        "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
+        "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
+        "https://www.bbc.com/turkce/articles/cw8rz5268e26o?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 1,
+      "summary": "A claimed attack by Yemeni Houthi forces on Riyadh’s airport resulted in 12 fatalities, prompting immediate retaliation from Saudi Arabia and a measured response from the United States. The incident underscores ongoing regional tensions and the persistent volatility in the Saudi-Yemeni conflict spiral.",
+      "title_tr": "Yemenli Husi güçlerinin Riyad havaalanına düzenlediği saldırıda 12 kişi hayatını kaybetti; bu olay Suudi Arabistan’ın misillemesine ve ABD’nin tepkisine yol açtı",
+      "summary_tr": "Yemenli Hutçi güçleri tarafından Riyadh’daki havaalanına yönelik iddia edilen bir saldırıda 12 kişi yaşamını yitirdi; bu durum, Suudi Arabistan’ın hemen ardından aldığı misillemesi ve ABD’nin ölçülü tepkisini beraberinde getirdi. Olay, bölgesel gerilimlerin ve Suudi-Yemen çatışma spiralindeki kalıcılı sürecin altını çizer."
+    },
+    {
+      "title": "U.S. forces strike commercial tanker in Gulf of Oman amid escalating tensions",
+      "links": [
+        "https://www.aljazeera.com/video/newsfeed/2026/10/11/us-bombs-cargo-vessel-in-gulf-of-oman-trying-to-run-iran-blockade?traffic_source=rss",
+        "https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9?syn-25a6b1a6=1"
+      ],
+      "category": "Geopolitics",
+      "rank": 2,
+      "summary": "A U.S. fighter jet bombed a commercial cargo ship in the Gulf of Oman, as reported by CENTCOM, claiming the vessel attempted to breach a blockade of Iranian ports amid escalating tensions. The U.S. military stated the crew ignored repeated warnings before the strike. The incident highlights ongoing maritime tensions in the region, particularly involving Iran and international waters.",
+      "title_tr": "Gerginliğin tırmanmasıyla birlikte ABD güçleri, Umman Körfezi’nde ticari bir tankere saldırdı",
+      "summary_tr": "ABD'ye ait bir savaş uçağı, CENTCOM'a göre Körfez'de ticari bir yük gemisini bombaladı; ABD askeri yetkililerine göre gemi mürettebatı İran limanlarına yönelik abluka girişimini bildiren tekrarlanan uyarılara rağmen gemiyi sürdürmeye çalıştı. Olay, bölgedeki artan gerilimlerin ve İran ile uluslararası sulara ilişkin sorunların bir yansımasıdır."
+    },
+    {
+      "title": "Russian glide‑bomb strike on Zaporizhzhia kills 20, Ukraine says retaliation for US diesel agreement",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 3,
+      "summary": "Russian glide bombs struck residential areas in Zaporizhzhia, Ukraine, on Saturday, killing at least 20 people including four children and injuring 32 others. Ukrainian President Volodymyr Zelensky linked the attack to a newly announced US-Russia diesel deal, calling it evidence that Russia feels emboldened by easing sanctions. Rescue operations continued under rubble as officials reported more victims might remain trapped. The city, located near the front line, frequently faces Russian missile and drone strikes. Civilian casualties in Ukraine have risen sharply in 2025, with winter attacks on energy infrastructure intensifying.",
+      "title_tr": "Ukrayna, Zaporizhzhia’ya yönelik Rus süzülme bombası saldırısında 20 kişinin öldüğünü açıkladı; bunun ABD ile yapılan dizel anlaşmasına misilleme olduğunu belirtti",
+      "summary_tr": "Cumartesi günü Rusya, Ukrayna'nın Zaporijya kentindeki konut bölgelerine planör bombalarıyla saldırı düzenleyerek en az 20 kişinin, aralarında dört çocuğun da bulunduğu ölümüne ve 32 kişinin yaralanmasına neden oldu. Ukrayna Devlet Başkanı Volodymyr Zelensky, saldırıyı yeni açıklanan ABD-Rusya dizel anlaşmasına bağlayarak, bunun Rusya'nın yaptırımların hafifletilmesinden cesaretlendiğine dair bir kanıt olduğunu belirtti. Yetkililer, kurtarma çalışmalarının devam ettiğini ve enkaz altında daha fazla kurbanın olabileceğini bildirdi. Cephenin yakınındaki bu şehir sıklıkla Rus füzesi ve drone saldırılarına maruz kalıyor. Ukrayna'da sivil kayıplar 2025 yılında önemli ölçüde artarken, kış aylarında enerji altyapısına yönelik saldırılar da yoğunlaştı."
+    },
+    {
+      "title": "Justice Department probes TV networks over alleged suppression of Trump coverage",
+      "links": [
+        "https://www.aljazeera.com/news/2026/10/11/us-opens-antitrust-probe-into-tv-networks-halting-trump-coverage?traffic_source=rss",
+        "https://www.ft.com/content/3004a030-d64e-4ff7-a70d-ea379b4784af?syn-25a6b1a6=1",
+        "https://www.dw.com/en/us-justice-department-probes-trump-s-press-pool-boycott-for-antitrust-violation/a-79631008?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Geopolitics",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "Adalet Bakanlığı, Trump ile ilgili haberlerin bastırıldığı iddiaları üzerine televizyon kanallarını soruşturuyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Indian courts release 'Cockroach' movement leaders, sparking renewed protests",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+        "https://www.ft.com/content/9b30ee59-b542-48b8-85f6-d60dce897342?syn-25a6b1a6=1",
+        "https://www.dw.com/en/india-court-orders-release-of-cockroach-party-leaders-as-movement-calls-for-fresh-protests-follow-dw/live-79631190?maca=en-rss-en-all-1573-xml-mrss",
+        "https://www.france24.com/en/asia-pacific/20261011-india-court-orders-release-of-cockroach-movement-leaders-after-detention"
+      ],
+      "category": "Geopolitics",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "Hindistan mahkemeleri, “Hamamböceği” hareketinin liderlerini serbest bıraktı; bu karar, protestoların yeniden alevlenmesine yol açtı",
+      "summary_tr": null
+    },
+    {
+      "title": "Men in Myanmar fear abduction and forced conscription by the army amid junta conflict",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "Myanmar’daki erkekler, cunta çatışmaları sürerken ordunun kaçırma ve zorla askere alma uygulamalarından korkuyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Gaza war influences Israel’s election, bolstering hard‑line sentiment",
+      "links": [
+        "https://www.aljazeera.com/news-analysis/2026/10/11/how-genocidal-war-on-gaza-is-shaping-israels-election?traffic_source=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 7,
+      "summary": null,
+      "title_tr": "Gazze savaşı, İsrail’deki seçimleri etkiliyor ve sert çizgideki görüşleri güçlendiriyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Russia forms battalion of Ukrainian prisoners and defectors to fight Ukrainian forces",
+      "links": [
+        "https://www.dw.com/en/ukrainian-prisoners-of-war-and-defectors-have-been-gathered-into-a-russian-battalion-to-face-ukrainian-forces-why-and-how/a-79629555?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Geopolitics",
+      "rank": 8,
+      "summary": null,
+      "title_tr": "Rusya, Ukrayna güçlerine karşı savaşmak üzere Ukraynalı esirler ve kaçaklardan oluşan bir tabur kurdu",
+      "summary_tr": null
+    },
+    {
+      "title": "President Trump urges Ukraine to renegotiate or halt diesel fuel agreement with Russia",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+        "https://haber.sol.org.tr/haber/putinle-anlasan-trumptan-zelenskiye-uyari-gidip-dizel-yakiti-vuruyor-kesinlikle-durmali"
+      ],
+      "category": "Geopolitics",
+      "rank": 9,
+      "summary": null,
+      "title_tr": "Başkan Trump, Ukrayna’yı Rusya ile olan dizel yakıt anlaşmasını yeniden müzakere etmeye ya da askıya almaya çağırıyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Canadian cyber‑security executive arrested in US over alleged ShinyHunters extortion",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/"
+      ],
+      "category": "Geopolitics",
+      "rank": 10,
+      "summary": null,
+      "title_tr": "Kanadalı bir siber güvenlik yöneticisi, ShinyHunters çetesi tarafından gerçekleştirildiği iddia edilen bir şantaj olayı nedeniyle ABD’de gözaltına alındı",
+      "summary_tr": null
+    },
+    {
+      "title": "China proposes its own definition of the ‘Global South’",
+      "links": [
+        "https://thediplomat.com/2026/10/chinas-bid-to-define-the-global-south/"
+      ],
+      "category": "Geopolitics",
+      "rank": 11,
+      "summary": null,
+      "title_tr": "Çin, “Küresel Güney” kavramı için kendi tanımını ortaya koyuyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Pro‑EU group says UK could fast‑track re‑entry into European Union",
+      "links": [
+        "https://www.ft.com/content/3aa9641e-55a6-45fd-bd08-1806306716e9?syn-25a6b1a6=1"
+      ],
+      "category": "Geopolitics",
+      "rank": 12,
+      "summary": null,
+      "title_tr": "AB yanlısı grup, Birleşik Krallık’ın Avrupa Birliği’ne yeniden katılım sürecini hızlandırabileceğini belirtiyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Surrogacy industry in Georgia expands after Russia-Ukraine war, raising hidden costs for couples",
+      "links": [
+        "https://www.dw.com/en/couples-looking-to-have-children-often-turn-to-surrogacy-agencies-in-georgia-without-understanding-the-hidden-costs/a-79629971?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Geopolitics",
+      "rank": 13,
+      "summary": null,
+      "title_tr": "Rusya-Ukrayna savaşının ardından Gürcistan’daki taşıyıcı annelik sektörü büyüyor ve çiftler için gizli maliyetler artıyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Spanish Prime Minister Pedro Sanchez launches election campaign as housing crisis fuels protests",
+      "links": [
+        "https://www.france24.com/en/europe/20261011-spanish-pm-sanchez-kicks-off-election-campaign-amid-housing-crisis-protests"
+      ],
+      "category": "Geopolitics",
+      "rank": 14,
+      "summary": null,
+      "title_tr": "İspanya Başbakanı Pedro Sanchez, konut krizi protestoları körüklerken seçim kampanyasını başlattı",
+      "summary_tr": null
+    },
+    {
+      "title": "Murderer Christa Pike discharged from hospital and returned to prison after botched execution",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+        "https://www.npr.org/2026/10/10/nx-s1-5997504/christa-pike-hospital-prison-after-botched-execution"
+      ],
+      "category": "Geopolitics",
+      "rank": 15,
+      "summary": null,
+      "title_tr": "Katil Christa Pike, başarısız geçen infazın ardından hastaneden taburcu edildi ve cezaevine geri gönderildi",
+      "summary_tr": null
+    },
+    {
+      "title": "EU plans sovereign communication backup amid concerns over potential US “kill switch”",
+      "links": [
+        "https://www.theregister.com/columnists/2026/10/10/ec-users-should-be-afraid-of-a-us-kill-switch-not-some-new-software/5301875"
+      ],
+      "category": "Geopolitics",
+      "rank": 16,
+      "summary": null,
+      "title_tr": "AB, ABD’nin olası bir “acil durdurma düğmesi”ne ilişkin endişeler üzerine, kendi iletişim yedekleme sistemini kurmayı planlıyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Analysis discusses potential end of Iran‑Azerbaijan conflict and upcoming US election implications",
+      "links": [
+        "https://geopoliticalfutures.com/george-answers-your-questions-iran-and-azerbaijan/"
+      ],
+      "category": "Geopolitics",
+      "rank": 17,
+      "summary": null,
+      "title_tr": "Analiz, İran-Azerbaycan çatışmasının olası sona ermesini ve bunun yaklaşan ABD seçimlerine etkilerini ele alıyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Indonesia identified as a high‑potential market for energy investments",
+      "links": [
+        "https://thediplomat.com/2026/10/indonesias-energy-investment-potential/"
+      ],
+      "category": "Geopolitics",
+      "rank": 18,
+      "summary": null,
+      "title_tr": "Endonezya, enerji yatırımları açısından yüksek potansiyele sahip bir pazar olarak belirlendi",
+      "summary_tr": null
+    },
+    {
+      "title": "Debate emerges over Japan’s three non‑nuclear principles",
+      "links": [
+        "https://thediplomat.com/2026/10/whither-japans-three-non-nuclear-principles/"
+      ],
+      "category": "Geopolitics",
+      "rank": 19,
+      "summary": null,
+      "title_tr": "Japonya’nın üç nükleer karşıtı ilke üzerine tartışma başlıyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Interview on ICDPP’s new intercontinental political dialogue initiative",
+      "links": [
+        "https://thediplomat.com/2026/10/beyond-ideological-blocs-the-icdpps-new-intercontinental-political-dialogue/"
+      ],
+      "category": "Geopolitics",
+      "rank": 20,
+      "summary": null,
+      "title_tr": "ICDPP’nin yeni kıtalararası siyasi diyalog girişimi üzerine röportaj",
+      "summary_tr": null
+    },
+    {
+      "title": "Cuba grapples with deepening energy crisis amid U.S. embargo",
+      "links": [
+        "https://haber.sol.org.tr/kuba-gercegi/abluka-gunlukleri-221-10-ekim-2026-cumartesi-414850"
+      ],
+      "category": "Geopolitics",
+      "rank": 21,
+      "summary": null,
+      "title_tr": "Küba, ABD ambargosu altında giderek derinleşen enerji kriziyle boğuşuyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Hundreds detained during 'Cockroach' party protest in Delhi over election reforms",
+      "links": [
+        "https://www.bbc.com/turkce/articles/c6ly3kpjp9zjo?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 22,
+      "summary": null,
+      "title_tr": "Seçim reformları nedeniyle Delhi’de düzenlenen ‘Hamamböceği’ partisi protestosu sırasında yüzlerce kişi gözaltına alındı",
+      "summary_tr": null
+    },
+    {
+      "title": "Analysis of factors behind Donald Trump's 2024 election victory",
+      "links": [
+        "https://www.noahpinion.blog/p/why-donald-trump-won-in-2024"
+      ],
+      "category": "Geopolitics",
+      "rank": 23,
+      "summary": null,
+      "title_tr": "Donald Trump’ın 2024 seçim zaferinin ardındaki faktörlerin analizi",
+      "summary_tr": null
+    },
+    {
+      "title": "Indian family offices target Southeast Asian startup investments",
+      "links": [
+        "https://thediplomat.com/2026/10/indian-family-offices-eye-southeast-asias-startups/"
+      ],
+      "category": "Geopolitics",
+      "rank": 24,
+      "summary": null,
+      "title_tr": "Hintli aile ofisleri, Güneydoğu Asya’daki girişimlere yatırım yapmayı hedefliyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Medicare open enrollment period approaches, key details outlined",
+      "links": [
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTEwzUkdlOGZfU3NKSXpkOXR3LTZGaWd4MFQ4WUVXa1R5VVM0WDFJNmJZTG9aN0NVbUdRVGNIb1h0NnBTUHdKVmcya2ViQlNETGRJOUdnTVZBdHRWaWQ4bndBSzJhUXBQMjJseWVSa29maFlMdGdNckQtcmVZeTYwN3I1RXN2akwxbW14d0x4NkZKVEtxSnE2MFhKdWRxZTdJb084bFZWRTFDZVZFa0ZTVHpB?oc=5"
+      ],
+      "category": "Geopolitics",
+      "rank": 25,
+      "summary": null,
+      "title_tr": "Medicare açık kayıt dönemi yaklaşıyor; önemli ayrıntılar açıklandı",
+      "summary_tr": null
+    },
+    {
+      "title": "Turkey-Azerbaijan relations strained by Israel-related discussion, per Azerbaijani leader",
+      "links": [
+        "https://www.bbc.com/turkce/articles/cxr5y34qjj4eo?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Turkey",
+      "rank": 1,
+      "summary": "Recent discussions surrounding Israel have highlighted strains in the historically close Turkey–Azerbaijan relationship. While Turkish President Recep Tayyip Erdoğan has publicly condemned Israeli Prime Minister Benjamin Netanyahu using strong rhetoric, Azerbaijani leadership has maintained a more measured tone, emphasizing bilateral ties with Israel. Differences in stance on the Israel–Palestine conflict were underscored during Netanyahu’s UN speech in September 2026, where Azerbaijan’s representative remained seated, as opposed to Turkey’s delegation leaving the hall. Both sides have engaged in public exchanges, notably through Azerbaijani state-aligned media such as APA TV, which produced segments interpreted as a rebuke toward Turkey’s criticism of Azerbaijan’s engagement with Israel. Despite mutual discomfort, officials from both countries assert the alliance remains strong, even as broader shifts in regional dynamics post-Second Karabakh War appear to allow Baku greater diplomatic flexibility.",
+      "title_tr": "Azerbaycanlı liderin açıklamasına göre, Türkiye-Azerbaycan ilişkileri İsrail ile ilgili tartışmalar nedeniyle gerginleşti",
+      "summary_tr": "Son dönemlerde İsrail ile ilgili tartışmalar, tarihsel olarak yakın olan Türkiye-Azerbaycan ilişkilerinde gerilimler olduğunu ortaya koydu. Türkiye Cumhurbaşkanı Recep Tayyip Erdoğan, İsrail Başbakanı Benjamin Netanyahu’yu kuvvetli bir üslupla kınarken, Azerbaycan liderliği İsrail’le ilişkilerini vurgulayarak daha ölçülü bir tutum izledi. İsrail–Filistin meselesindeki duruş farklılığı, Eylül 2026’da Netanyahu’nun BM Genel Kurulu’ndaki konuşmasında belirdi; Azerbaycan temsilcisi salonda kalırken, Türkiye heyetinin salonu terk etmesiyle dikkat çekti. Her iki taraf da kamuoyunda karşılıklı eleştirilerde bulunmuş, özellikle Azerbaycan’a bağlı APA TV gibi medya organlarının Türkiye’yi hedef aldığı yorumlanan programlar yayınlamasıyla gündeme geldi. İlişkilerin halen sağlam olduğunu belirten yetkililere rağmen, İkinci Karabağ Savaşı sonrası bölgesel dinamiklerde meydana gelen değişimlerin Bakü’ye diplomatik manevra alanı tanıdığı görülüyor."
+    },
+    {
+      "title": "Cemil Tugay shares impressions from meeting President Erdoğan",
+      "links": [
+        "https://haber.sol.org.tr/haber/cemil-tugay-o-gun-tahmin-ettigim-erdogandan-cok-daha-baska-bir-insan-gordum-cok-etkilendim"
+      ],
+      "category": "Turkey",
+      "rank": 2,
+      "summary": "Izmir's former mayor Cemil Tugay, who recently joined the AKP, described meeting President Erdoğan as finding him more approachable than anticipated, citing Erdoğan's respectful and supportive demeanor during their discussion. Tugay emphasized the president's engagement while he spoke and his commitment to supporting Izmir's development. Despite acknowledging the risks of his political shift, Tugay expressed confidence in his decision, calling the experience deeply impactful.",
+      "title_tr": "Cemil Tugay, Cumhurbaşkanı Erdoğan ile yaptığı görüşmeden izlenimlerini paylaşıyor",
+      "summary_tr": "AKP'ye geçen son zamanlarda İzmir Büyükşehir Belediye Başkanı Cemil Tugay, Cumhurbaşkanı Erdoğan ile görüşmesini öngördüğünden daha dostane, saygın ve insani bir kişi olarak bulduğunu ifade etti. Erdoğan'ın konuşması sırasında yanında durmasının yanı sıra, onun ilgi ve desteğini sezmesinden etkilendiğini vurguladı. Politik kararını riskli bulmasına rağmen doğru yaptığını düşünerek bu adımı attığını dile getirdi."
+    },
+    {
+      "title": "Health minister proposes ID check for cigarette sales, sparking adviser criticism",
+      "links": [
+        "https://haber.sol.org.tr/haber/saglik-bakani-sigara-satisina-kimlik-sarti-onerdi-erdoganin-danismani-itiraz-etti-414847"
+      ],
+      "category": "Turkey",
+      "rank": 3,
+      "summary": "Turkish Health Minister Kemal Memişoğlu has proposed legislation requiring mandatory ID verification for cigarette purchases to prevent sales to minors, framing it as an extension of existing age-verification systems. The draft law would also clarify smoking restrictions in indoor public spaces. The proposal drew criticism from President Erdoğan’s senior adviser Oktay Saral, who warned it could provoke a public backlash and jeopardize civil liberties by mandating ID disclosure for routine tobacco transactions.",
+      "title_tr": "Sağlık bakanı, sigara satışlarında kimlik kontrolü yapılmasını önerdi; bu öneri, danışmanların eleştirilerine yol açtı",
+      "summary_tr": "Türk Sağlık Bakanı Kemal Memişoğlu, reşit olmayanlara sigara satışını engellemek amacıyla tütün ürünlerinin satın alınmasında kimlik ibrazını zorunlu kılacak yasa önerisinde bulundu; bu adım, mevcut yaş doğrulaması sisteminin bir uzantısı olarak sunuldu. Yasa tasarısı aynı zamanda kapalı alanlardaki sigara içme yasağına ilişkin kuralların netleştirilmesini de hedefliyor. Öneri, Cumhurbaşkanı Erdoğan'ın kıdemli danışmanı Oktay Saral'dan sert tepki aldı; Saral, bu düzenlemenin vatandaşların tepkisini çekeceğini ve sivil özgürlükler yönünden mahremiyet kaygılarını beraberinde getireceğini savunarak karşı çıktı."
+    },
+    {
+      "title": "Cemil Tugay switches to AK Party, lauds President Erdoğan",
+      "links": [
+        "https://haber.mynet.com/kimsesizlerin-kimsesi-cikisi-cok-konusulmustu-ak-parti-ye-katilan-cemil-tugay-dan-erdogan-a-ovgu-dolu-sozler-110107316169"
+      ],
+      "category": "Turkey",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "Cemil Tugay, AK Parti’ye geçti ve Cumhurbaşkanı Erdoğan’ı övdü",
+      "summary_tr": null
+    },
+    {
+      "title": "Seismic experts comment on 3.5‑magnitude Marmara Sea quake",
+      "links": [
+        "https://haber.mynet.com/marmara-daki-depremin-ardindan-usumezsoy-dan-aciklama-en-fazla-diyerek-buyukluk-verdi-110107316161"
+      ],
+      "category": "Turkey",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "Sismoloji uzmanları, Marmara Denizi’nde meydana gelen 3,5 büyüklüğündeki depreme ilişkin yorumlarda bulundu",
+      "summary_tr": null
+    },
+    {
+      "title": "Local elections in Istanbul: AKP wins Ataşehir, CHP candidate wins in Eyüpsultan",
+      "links": [
+        "https://www.bbc.com/turkce/articles/cmy83n4l3qexo?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Turkey",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "İstanbul'da yerel seçimler: AKP Ataşehir'i kazandı, CHP adayı Eyüpsultan'da kazandı",
+      "summary_tr": null
+    },
+    {
+      "title": "Turkish piece reflects on literary figures Leyla Erbil, Sait Faik, Zeki Müren",
+      "links": [
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUGc2R0wxYTk3Q2tCb0liSlZaekVxd2xOWV9QZ2pOVjRHUnZKTl9FLW5yRE5WVjZ5U1lJeVFqVHR4N0tnZ0ZoSEp2dkdpbDJwNDAtaXNZZGhvX1M1YXpsb1Q5VEJJLU10THpiX1NGMUN0ZjU4RGtuRjRjSlloems3RGRSdkQ2SXkzUG5ObmFPcnpIRlVRbVRYSTFONEVQRTlQcUFYZ1BIOEJrYU92Q04wd2VKRTJuSjVsMGVDUjRmR2E?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 7,
+      "summary": null,
+      "title_tr": "Türk yazısı, Leyla Erbil, Sait Faik ve Zeki Müren gibi edebiyatçıları ele alıyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Story highlights Muharrem Ertaş’s folk legacy and recent tragedy",
+      "links": [
+        "https://haber.sol.org.tr/haber/insanlarin-turkuleri-bozkirda-acan-bir-karanfil-muharrem-ertas-414848"
+      ],
+      "category": "Turkey",
+      "rank": 8,
+      "summary": null,
+      "title_tr": "Haber, Muharrem Ertaş’ın halk müziği mirasını ve son dönemde yaşadığı trajediyi ele alıyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Researchers create first self‑stabilizing nuclear clock, a possible successor to atomic clocks",
+      "links": [
+        "https://www.sciencedaily.com/releases/2026/10/261008102701.htm"
+      ],
+      "category": "Science",
+      "rank": 1,
+      "summary": "Researchers at the Vienna University of Technology have developed the world’s first self-stabilizing nuclear clock, a novel timekeeping device that leverages the energy transitions of thorium atomic nuclei instead of atomic electrons. Unlike atomic clocks, this nuclear clock achieves exceptional stability by using a feedback loop to maintain laser precision, operating independently without external stabilization for over 24 hours. Early testing shows a relative precision of approximately 10 to the power of minus 15, equating to an error margin of one second over 30 million years. While still less precise than leading optical atomic clocks, the breakthrough demonstrates the potential for nuclear clocks to surpass atomic clocks in accuracy with further development.",
+      "title_tr": "Araştırmacılar, atom saatlerinin olası bir halefi olabilecek ilk kendinden dengelenen nükleer saati geliştirdiler",
+      "summary_tr": "Viyana Üniversitesi Teknoloji araştırmacıları, atom elektronlarının yerine toryum atom çekirdeklerinin enerji geçişlerinden yararlanan, dünyanın ilk kendi kendini stabilize eden nükleer saatini geliştirdi. Atom saatlerinden farklı olarak bu nükleer saat, lazer hassasiyetini korumak için bir geri besleme döngüsü kullanarak harici bir stabilizasyona ihtiyaç duymadan 24 saatten fazla bağımsız olarak çalışabilmektedir. Erken testler yaklaşık 10 üzeri eksi 15 hassasiyet değerini göstermekte olup, bu 30 milyon yılda yaklaşık bir saniyelik bir hata payına karşılık gelmektedir. Henüz önde gelen optik atom saatlerinden daha az hassas olsa da, bu buluş nükleer saatlerin gelişimle birlikte atom saatlerini hassasiyet açısından geride bırakma potansiyeline sahip olduğunu göstermektedir."
+    },
+    {
+      "title": "Study examines brain changes under psilocybin during meditation",
+      "links": [
+        "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/"
+      ],
+      "category": "Science",
+      "rank": 2,
+      "summary": "A recent Nature study challenges the view of psychedelics as pure brain chaos by showing that psilocybin reorganizes brain networks in a structured way during unbroken, context-rich experiences like meditation or music listening. Using AI-assisted brain scans, researchers found that psilocybin increases associative brain activity, blurs distinctions between internal and external sensory processing, and exhibits hidden order when tracking moment-by-moment brain patterns. Participants reported profound subjective experiences, suggesting psychedelics may temporarily dissolve boundaries between self and world. The findings open avenues for tuning therapeutic settings to enhance clinical applications, though further research is needed to refine personalized approaches.",
+      "title_tr": "Araştırma, meditasyon sırasında psilosibin etkisiyle beyinde meydana gelen değişiklikleri inceliyor",
+      "summary_tr": "Yakın tarihli bir Nature çalışması, psikedeliklerin saf bir beyin kaosuna yol açtığı görüşünü sorgulayarak, uyuşturucu olan psilosibinin meditasyon veya müzik dinleme gibi kesintisiz ve bağlamsal deneyimler sırasında beyin ağlarını yapılandırılmış bir şekilde yeniden organize ettiğini ortaya koydu. Yapay zeka destekli beyin taramaları kullanılarak gerçekleştirilen araştırmada, psilosibinin asosiyatif beyin aktivitesini artırdığı, içsel ve dışsal duyusal işlemenin arasındaki ayrımları bulanıklaştırdığı ve anlık beyin desenlerini izleyerek saklı bir düzen sergilediği gözlemlendi. Katılımcılar derin öznel deneyimler bildirdi; bu durum, psikedeliklerin geçici olarak benlik ve dünya arasındaki sınırları ortadan kaldırabileceğini düşündürüyor. Bulgular, terapötik ortamların kişiselleştirilmiş yaklaşımlar geliştirmek üzere nasıl ayarlanabileceğine dair yeni yollar açıyor, ancak kişiselleştirilmiş yöntemleri geliştirmek için daha fazla araştırmaya ihtiyaç var."
+    },
+    {
+      "title": "Exploring the complex functions and mysteries of the human placenta",
+      "links": [
+        "https://nautil.us/the-placenta-is-more-powerful-and-more-mysterious-than-you-think-1285683/"
+      ],
+      "category": "Science",
+      "rank": 3,
+      "summary": "The human placenta is a transient organ crucial for pregnancy that facilitates nutrient, gas, and waste exchange between mother and fetus while also producing hormones such as hCG, estrogens, and relaxin. Recent research highlights its role in pregnancy-related disorders like preeclampsia and suggests parallels with cancer biology, inspiring new avenues for medical research. Originally revered in ancient cultures, the placenta is now studied for its endocrine and immune functions, offering insights that extend beyond pregnancy into broader biomedical science. Its formation begins days after fertilization, making it the first organ to develop and acting as the body's primary caregiver for the fetus until birth.",
+      "title_tr": "İnsan plasentasının karmaşık işlevlerini ve gizemlerini keşfetmek",
+      "summary_tr": "İnsan plasentası, annenin kanı ve fetus arasındaki besin, gaz ve atık değişimini kolaylaştırmanın yanı sıra hCG, östrojenler ve relaksin gibi hormonlar üreten geçici bir organdır. Son araştırmalar, preeklampsi gibi gebeliğe bağlı bozukluklardaki rolünü ve kanser biyolojisiyle benzerliklerini vurgulayarak tıp araştırmalarında yeni yollar sunmaktadır. Antik kültürlerde kutsal sayılan plasenta, artık endokrin ve bağışıklık sistemlerindeki işlevleriyle incelenmekte olup gebelik süresince ötesine uzanan tıbbi bilim alanlarında fikirler sunmaktadır. Plasenta döllenmeden günler sonra oluşmaya başlar ve doğuma kadar fetus için vücudun birincil bakıcısı olarak görev yapar; bu da onun ilk gelişen organdır."
+    },
+    {
+      "title": "Research suggests older dogs could provide insights for Alzheimer's studies",
+      "links": [
+        "https://nautil.us/why-old-dogs-might-be-able-to-teach-alzheimers-researchers-new-tricks-1285678/"
+      ],
+      "category": "Science",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "Araştırmalar, yaşlı köpeklerin Alzheimer araştırmalarına yeni bir bakış açısı kazandırabileceğini ortaya koyuyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Understanding 'smiling depression': symptoms and risks",
+      "links": [
+        "https://www.bbc.com/turkce/articles/c65ynglgegr9o?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Science",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "“Gülümseyen depresyon”u anlamak: belirtiler ve riskler",
+      "summary_tr": null
+    },
+    {
+      "title": "Unique sensory abilities of amphibians and reptiles highlighted",
+      "links": [
+        "https://nautil.us/the-secret-superpowers-of-amphibians-and-reptiles-1285689/"
+      ],
+      "category": "Science",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "Amfibilerin ve sürüngenlerin benzersiz duyusal yetenekleri öne çıkarıldı",
+      "summary_tr": null
+    },
+    {
+      "title": "Autonomous ground robots being deployed to combat front lines",
+      "links": [
+        "https://warontherocks.com/cogs-of-war/ground-robots-are-arriving-on-the-front-lines/"
+      ],
+      "category": "Tech",
+      "rank": 1,
+      "summary": "No summary available: scraping failure",
+      "title_tr": "Cephe hatlarında mücadele amacıyla otonom kara robotları konuşlandırılıyor",
+      "summary_tr": "Özet bulunmuyor: veri alma işlemi başarısız oldu"
+    },
+    {
+      "title": "U.S. Army awards $43 million to Kaizen Labs for classified‑data software platform",
+      "links": [
+        "https://www.defensenews.com/industry/techwatch/2026/10/10/us-army-kaizen-laboratories-to-establish-common-software-platform-for-classified-material/"
+      ],
+      "category": "Tech",
+      "rank": 2,
+      "summary": "The U.S. Army awarded Kaizen Labs a $43 million contract to develop classified-data software under an Enterprise Agreement IDIQ to build mission, workflow and reporting applications for Army systems. The agreement provides a faster path for the Army to obtain critical software tools across readiness, personnel, logistics and operations, with potential for future funding. Kaizen previously built a Defense Department counter-UAS marketplace to streamline procurement of autonomous systems by connecting vendors and buyers.",
+      "title_tr": "ABD Ordusu, gizli veriler için yazılım platformu geliştirmesi amacıyla Kaizen Labs’a 43 milyon dolarlık sözleşme imzaladı",
+      "summary_tr": "ABD Ordusu, Kaizen Labs'e sınıflandırılmış veri yazılımları geliştirmesi için 43 milyon dolarlık bir sözleşme verdi. ABD Ordusu, görev, çalışan ve kayıt yönetimiyle ilgili uygulamalara daha hızlı ulaşabilmek amacıyla Kaizen Labs ile açık uçlu bir IDIQ anlaşması imzaladı. Bu anlaşma daha sonra personel, lojistik ve operasyonlar gibi çeşitli alanlarda kullanılabilecek yazılımların gelecekte fonlanmasını da öngörmektedir. Kaizen Labs, Savunma Bakanlığı için otonom sistemlerin sipariş sürecini kolaylaştıran bir karşı-UAS pazar yerinin daha önce geliştirilmesine liderlik etmişti."
+    },
+    {
+      "title": "Lockheed Martin reveals PAC‑3 Edge missile interceptor targeting hypersonic threats",
+      "links": [
+        "https://www.defensenews.com/industry/techwatch/2026/10/10/lockheed-martin-unveils-pac-3-edge-interceptor-designed-to-counter-hypersonic-threats/"
+      ],
+      "category": "Tech",
+      "rank": 3,
+      "summary": "Lockheed Martin unveiled the PAC-3 Edge missile interceptor designed to counter hypersonic and advanced missile threats. The new interceptor features an upgraded seeker, improved flight controls, and a multi-pulse rocket motor supplied by Northrop Grumman, enhancing its range and altitude capabilities. Production of the PAC-3 Edge is planned to reach 2,000 units annually, matching current PAC-3 MSE output levels, at a cost comparable to existing systems. This initiative aligns with the U.S. military’s efforts to bolster its defense capabilities amid increasing threats and strained stockpiles in ongoing conflicts.",
+      "title_tr": "Lockheed Martin, hipersonik tehditleri hedef alan PAC-3 Edge füze önleme sistemini tanıttı",
+      "summary_tr": "Lockheed Martin, PAC-3 Edge adlı seyir füzesi, hipersonik ve ileri düzey füze tehditlerine karşı koymak üzere tasarlanan bir füze engelleyicisini tanıttı. Yeni engelleyici, Lockheed Martin tarafından yükseltilmiş bir seyir füzesine, uçuş kontrol sistemine ve Northrop Grumman tarafından sağlanan çoklu atımlı roket motoruna sahiptir; bu da menzili ve irtifası artırılmış yetenekler sunar. PAC-3 Edge üretiminin yılda 2.000 birime ulaşması hedefleniyor ve mevcut PAC-3 MSE üretim hacmine denk geliyor. Bu girişim, artan tehditler ve devam eden çatışmalarda azalan stoklar karşısında ABD askerî yeteneklerini güçlendirme amaçlı stratejisiyle uyum içinde."
+    },
+    {
+      "title": "Vancouver startup develops ultra‑safe bike helmet using woodpecker‑inspired design",
+      "links": [
+        "https://www.wired.com/story/how-this-tiny-startup-pikio-built-the-worlds-safest-bike-helmet/"
+      ],
+      "category": "Tech",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "Vancouver’daki bir girişim, ağaçkakanlardan ilham alan bir tasarımla son derece güvenli bir bisiklet kaskı geliştirdi",
+      "summary_tr": null
+    },
+    {
+      "title": "Criminal IP launches AITEM platform to enhance attack surface management",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/"
+      ],
+      "category": "Tech",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "Criminal IP, saldırı yüzeyi yönetimini iyileştirmek amacıyla AITEM platformunu piyasaya sürdü",
+      "summary_tr": null
+    },
+    {
+      "title": "Researchers expose typo‑squatting technique using mixed Cyrillic and Latin characters in Chromium browsers",
+      "links": [
+        "https://www.theregister.com/security/2026/10/10/two-characters-open-up-a-world-of-typosquatting-opportunities-in-chromium-browsers/5302383"
+      ],
+      "category": "Tech",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "Araştırmacılar, Chromium tabanlı tarayıcılarda Kiril ve Latin karakterlerinin karışık olarak kullanıldığı bir yazım hatası istismarı tekniğini ortaya çıkardı",
+      "summary_tr": null
+    },
+    {
+      "title": "Roundup of top Lego‑themed gifts for 2026",
+      "links": [
+        "https://www.wired.com/gallery/gifts-for-lego-lovers/"
+      ],
+      "category": "Tech",
+      "rank": 7,
+      "summary": null,
+      "title_tr": "2026 için en popüler Lego temalı hediyelerden oluşan bir derleme",
+      "summary_tr": null
+    },
+    {
+      "title": "Guide to the best smart bathroom scales in 2026",
+      "links": [
+        "https://www.wired.com/gallery/best-smart-scales/"
+      ],
+      "category": "Tech",
+      "rank": 8,
+      "summary": null,
+      "title_tr": "2026'nın en iyi akıllı banyo tartıları rehberi",
+      "summary_tr": null
+    }
+  ]
+}
