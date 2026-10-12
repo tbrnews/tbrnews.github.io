@@ -1,0 +1,577 @@
+{
+  "schema_version": 1,
+  "stats": {
+    "last_run": "2026-10-12T04:46:07.956Z",
+    "sources_pulled": 74,
+    "headlines_read": 83,
+    "headlines_written": 70,
+    "summaries_written": 18,
+    "summaries_failed": 3,
+    "run_count": 14
+  },
+  "headlines": [
+    {
+      "title": "Experts warn AI could execute large‑scale infrastructure attacks",
+      "links": [
+        "https://www.theregister.com/security/2026/10/11/ai-systems-are-fully-capable-of-carrying-out-nightmare-attacks-against-infrastructure-and-nobodys-ready/5302450"
+      ],
+      "category": "AI",
+      "rank": 1,
+      "summary": "Tests by Booz Allen Hamilton show that advanced AI systems can autonomously discover and exploit vulnerabilities in operational technology networks in minutes, enabling physical actions such as disabling industrial equipment, manipulating operator screens, or controlling robotic arms.  Defenders may have only minutes to respond once attacks begin, while many critical infrastructure operators lack foundational OT cybersecurity measures to block these AI-enabled threats.  The findings align with recent real-world incidents where state-sponsored and criminal actors reportedly used AI agents to breach critical systems.",
+      "title_tr": "Uzmanlar, yapay zekanın büyük ölçekli altyapı saldırıları gerçekleştirebileceği konusunda uyarıyor",
+      "summary_tr": "Booz Allen Hamilton tarafından yapılan testler, ileri seviye AI sistemlerinin operasyonel teknoloji ağlarındaki güvenlik açıklarını sadece birkaç dakika içinde otomatik olarak keşfedip saldırıya uğratabildiğini ve endüstriyel ekipmanın devre dışı bırakılması, operatör ekranlarının manipüle edilmesi veya robot kolları kontrol edilmesi gibi fiziksel eylemleri mümkün kıldığını gösteriyor.  Saldırılar başladıktan sonra savunmacıların genellikle sadece birkaç dakikası bulunurken, birçok kritik altyapı operatörü bu AI destekli tehditlere karşı korunmak için temel OT siber güvenlik önlemlerinden yoksun kalıyor.  Bulgular, devlet destekli ve suç örgütü aktörlerinin AI ajanlarını kullanarak kritik sistemlere sızdığını bildiren yakın tarihli gerçek dünya olaylarıyla da örtüşüyor."
+    },
+    {
+      "title": "ChatGPT may collect more personal data than users realize, experts warn",
+      "links": [
+        "https://www.bbc.com/turkce/articles/c65ynv5l89keo?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "AI",
+      "rank": 2,
+      "summary": "Experts warn that users uploading photos to AI image tools like ChatGPT to create 1980s-style images may unknowingly share more personal data than intended, including biometric and location details embedded in photos. While these tools offer fun, viral opportunities, such as transforming profile pictures, they also raise significant privacy concerns by enabling the creation of detailed user profiles that could be exploited for targeted advertising or future AI development, including deepfakes. The article highlights the tension between the entertainment value of AI-driven trends and the long-term implications of data sharing, urging users to exercise caution with the content and information they contribute.",
+      "title_tr": "Uzmanlar, ChatGPT’nin kullanıcıların farkında olduğundan daha fazla kişisel veri toplayabileceği konusunda uyarıyor",
+      "summary_tr": "Uzmanlar, ChatGPT gibi yapay zeka görüntü araçlarına 1980’ler tarzı görseller oluşturmak için fotoğraf yükleyen kullanıcıların, konum ve biyometrik veriler gibi daha fazla kişisel veri paylaşabilecekleri konusunda uyarıyor. Bu araçlar profil fotoğraflarını değiştirme gibi eğlenceli ve viral fırsatlar sunsa da, kullanıcıların ayrıntılı profillerinin oluşturulmasına yol açabiliyor; bu profillerin hedefli reklamcılık ya da gelecekteki yapay zeka sistemleri (örneğin deepfake’ler) için kullanılması riski taşıyor. Makale, AI destekli trendlerin sunduğu eğlence ile veri paylaşımının uzun vadeli sonuçları arasındaki gerilimi vurguluyor ve kullanıcıları paylaşılan içerik ve bilgiler konusunda dikkatli olmaya çağırıyor."
+    },
+    {
+      "title": "HPE predicts AI will autonomously resolve all network tickets within two years",
+      "links": [
+        "https://www.theregister.com/networks/2026/10/11/hpes-networking-boss-says-ai-will-handle-all-trouble-tickets-without-humans-in-two-years/5302179"
+      ],
+      "category": "AI",
+      "rank": 3,
+      "summary": "HPE's networking chief Rami Rahim predicted that AI-driven 'self-driving networks' will autonomously resolve all but hardware-replacement tickets within two to three years, claiming that 70-80% of current issues no longer require human intervention. He argued trust in automation mirrors acceptance of technologies like automatic transmissions, asserting AI will diagnose and remediate Wi-Fi and broader network problems faster than humans. Rahim also emphasized that AI agents are proliferating to the point where human network teams are insufficient, and only AI can scale networks to meet demand. The remarks reinforce HPE's push to integrate Juniper-acquired AIOps across its hybrid cloud portfolio.",
+      "title_tr": "HPE, yapay zekanın iki yıl içinde tüm ağ biletlerini kendi kendine çözeceğini öngörüyor",
+      "summary_tr": "HPE'nin ağ yönetimi lideri Rami Rahim, AI destekli 'kendi kendini süren ağlar'ın donanım değiştirme gerektirenler dışındaki tüm sorun biletlerini iki-üç yıl içinde insansız olarak çözümleyeceğini öngördü. Mevcut durumda biletlerin %70-80'inin insan müdahalesi gerektirmediğini belirten Rahim, otomasyon güveninin otomatik vitesli arabalara benzer şekilde geliştiğini savundu ve AI'nın Wi-Fi sorunları da dahil olmak üzere ağ hatalarını insanlardan daha hızlı teşhis edip düzelteceğini iddia etti. Rahim, AI ajanlarının sayısının öylesine arttığını ve yalnızca AI'nın ağları insan ekiplerin işleyebileceğinden çok daha büyük ölçeklerde yönetebileceğini vurguladı. Bu görüşler, HPE'nin Juniper'in satın alınmasının ardından edindiği AIOps yeteneklerini tüm hibrit bulut portföyüne entegre etme çabasını destekliyor."
+    },
+    {
+      "title": "Creator builds poor-quality games using Google’s AI Playground",
+      "links": [
+        "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/"
+      ],
+      "category": "AI",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "Creator, Google’ın AI Playground’unu kullanarak düşük kaliteli oyunlar geliştiriyor",
+      "summary_tr": null
+    },
+    {
+      "title": "James Webb and Hubble capture new images of stellar nurseries and gravitational lenses",
+      "links": [
+        "https://www.nasaspaceflight.com/2026/10/jwst-hubble-images-1026/"
+      ],
+      "category": "Space",
+      "rank": 1,
+      "summary": "Teams using the James Webb Space Telescope and the Hubble Space Telescope, operated jointly by NASA and ESA (with CSA participation in Webb), have released new images showcasing stellar nurseries, galaxies, and gravitational lensing phenomena. Webb’s infrared instruments revealed hundreds of stars in various evolutionary stages within the stellar nursery NGC 7129, including protostars and massive young stars, while also capturing a galaxy cluster, MACS J0454.1-0300, whose gravitational field magnifies more distant galaxies. Hubble’s observations highlighted an unusually aligned spiral galaxy, NGC 4698, and a bubble-like nebula, LHA 120-N44, providing insights into star formation and structural anomalies in galaxies.",
+      "title_tr": "James Webb ve Hubble, yıldız oluşum bölgelerinin ve yerçekimi merceklerinin yeni görüntülerini yakaladı",
+      "summary_tr": "NASA ve ESA tarafından birlikte işletilen James Webb Uzay Teleskobu ile Hubble Uzay Teleskobu ekipleri, yeni görüntüler yayınlayarak yıldız doğumevlerini, galaksileri ve kütleçekimsel mercekleme olaylarını gözler önüne serdi. Webb’in kızılötesi cihazları, NGC 7129 yıldız doğumevindeki farklı evrelerdeki yüzlerce yıldızın yanı sıra MACS J0454.1-0300 galaksi kümesini ve onun kütleçekimsel mercekleme etkisiyle büyütülen uzak galaksileri ortaya çıkardı. Hubble’un gözlemleri ise sıra dışı hizalanmış sarmal bir galaksi olan NGC 4698 ile baloncuk benzeri bir bulutsu olan LHA 120-N44’ü ortaya koyarak, yıldız oluşumu ve galaksilerin yapısal anomalilerine dair bilgiler sundu."
+    },
+    {
+      "title": "Blue Origin progresses LC‑36 refurbishment ahead of New Glenn return‑to‑flight",
+      "links": [
+        "https://www.nasaspaceflight.com/2026/10/blue-origin-lc-36-rebuild-new-glenn/"
+      ],
+      "category": "Space",
+      "rank": 2,
+      "summary": "Blue Origin is progressing with the refurbishment of Launch Complex-36 (LC-36) at Cape Canaveral after its New Glenn rocket suffered a pad explosion earlier this year, aiming for a return-to-flight mission before the end of 2026. Work includes structural repairs to the support tower and launch mount, adoption of a vertical integration approach, and restoration of critical ground systems such as the deluge system. CEO Jeff Bezos confirmed plans to develop four launch sites and expressed a long-term goal of significantly increasing launch cadence, while recent reports suggest Blue Origin is advancing an orbital crew vehicle project.",
+      "title_tr": "Blue Origin, New Glenn’in uçuşlara dönüşü öncesinde LC-36’nın yenileme çalışmalarını sürdürüyor",
+      "summary_tr": "Blue Origin, bu roketinin mayıs ayında yaşanan fırlatma rampası patlamasının ardından, New Glenn aracını yıl sonundan önce yeniden uçuşa hazırlamak amacıyla Cape Canaveral’daki Fırlatma Kompleksi-36’yı (LC-36) yenileme çalışmalarını sürdürmektedir. Destek kulesi ve fırlatma rampasının onarımının yanı sıra, dikey entegrasyon yönteminin benimsenmesi ve yağmurlama sistemi gibi kritik yer sistemlerinin restore edilmesi de devam etmektedir. CEO Jeff Bezos, dört fırlatma sahası inşa etme planlarını doğrularken, uzun vadede fırlatma sıklığını önemli ölçüde artırmayı hedeflediğini ifade etmiştir. Ayrıca, yakın tarihli raporlara göre Blue Origin’in yörüngede mürettebatlı görevler için kullanılabilecek bir uzay aracı projesi üzerinde çalıştığı belirtilmektedir."
+    },
+    {
+      "title": "Astronomers investigate radio burst from a distant planet",
+      "links": [
+        "https://nautil.us/a-distant-planet-emitted-a-burst-of-radio-waves-why-1285695/"
+      ],
+      "category": "Space",
+      "rank": 3,
+      "summary": "Astronomers have traced the origin of a millisecond-long fast radio burst (FRB 20240304B) to a distant galaxy observed as it existed 10.6 billion years ago, when the universe was one-fifth its current age. Detected using the MeerKAT radio telescope in South Africa, the burst's dispersion revealed its immense distance and traveled through charged material before being pinpointed with the help of the James Webb Space Telescope. The host galaxy is surprisingly small, young, and metal-poor, supporting theories that such bursts may originate from magnetars. Beyond its cosmic origin, the burst carries information about magnetic fields and matter distribution across billions of light-years, offering insights into the early universe's structure and evolution.",
+      "title_tr": "Gökbilimciler, uzak bir gezegenden gelen radyo patlamasını araştırıyor",
+      "summary_tr": "Gökbilimciler, saniyenin kesirlerinde süren hızlı radyo patlaması (FRB 20240304B) olarak tanımlanan bir sinyalin kaynağını, evrenin sadece beşte biri yaşında olduğu dönemde, 10.6 milyar yıl önce var olan bir gökadanın geçmişinde izlediler. Güney Afrika'daki MeerKAT radyo teleskobu tarafından tespit edilen patlama, sinyalin iyonize olmuş maddelerden geçerken uğradığı dağılım sayesinde olağanüstü mesafesini ortaya koydu ve James Webb Uzay Teleskobu yardımıyla kesin konumu belirlendi. Ev sahibi olan gökada, beklenenden çok daha küçük, genç ve metalce fakir olup, bu durum patlamaların güçlü manyetik alanlara sahip nötron yıldızları olan magnetarlardan kaynaklanabileceği teorisini destekliyor. Kozmik kökeninin ötesinde, patlama milyarlarca ışık yılı boyunca manyetik alanlar ve madde dağılımı hakkında bilgi taşıyarak erken evrenin yapısı ve evrimi hakkında fikirler sunuyor."
+    },
+    {
+      "title": "Apollo 7 launch commemorated on Oct 11, 1968",
+      "links": [
+        "https://www.astronomy.com/today-in-the-history-of-astronomy/oct-11-1968-apollo-7-launches/",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU0tfMS01SmF2OUowalBlUFZ4MHRvNTJqdlFkMEZUU0FvS2RYYWhrYzVLSjEzTWJRQW1fdGgwa3FSODhHb1FjNkZINnhYOER6bDItV2FNR0pndDlsQVh2N0tTMWZjTnNQLU15Ni1EZWVtQkt0TVBLbEFsUVZ1bWFmRXF3?oc=5"
+      ],
+      "category": "Space",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "11 Ekim 1968'de Apollo 7'nin fırlatılması anıldı",
+      "summary_tr": null
+    },
+    {
+      "title": "Honda proposes robotic lab assistant for future commercial space stations",
+      "links": [
+        "https://www.universetoday.com/articles/honda-wants-to-put-a-robotic-lab-assistant-on-future-commercial-space-stations"
+      ],
+      "category": "Space",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "Honda, gelecekteki ticari uzay istasyonları için robotik laboratuvar asistanı öneriyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Astrophotographer creates 352‑hour mosaic of 110 galaxies and nebulae",
+      "links": [
+        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTEp4eUJ5QzRfYlFNOXVfZThmdHRuemVzNHlQeHBMeml0aUlIRV9TVXFfVnFrX2Z2UmRIdmJUMEI3cUNxN0ZWMGw4VmRPNGthSzMyemNjeHAwOUR3dmtudkJjYjNnM1FFNkxYVHYzc3pZM3Zld296TDFPNVI4M29vLUp0TmRSbG4zYTRNSlQ1TzR5VmxQMGpISnNYbHJUUF95b2p3SWtsRVZ0R3dVd3J6dE04UnlxWFBBYVc1V0d0NWZlVDdzMEhLLXhxMmFGY3RLbVBVS09MbFpQdjRxbHlKRlBjNA?oc=5"
+      ],
+      "category": "Space",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "Bir astrofotografçı, 110 galaksi ve nebuladan oluşan 352 saatlik bir mozaik oluşturdu",
+      "summary_tr": null
+    },
+    {
+      "title": "NASA’s APOD features image of Jupiter and its moons",
+      "links": [
+        "https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/"
+      ],
+      "category": "Space",
+      "rank": 7,
+      "summary": null,
+      "title_tr": "NASA’nın APOD’unda Jüpiter ve uydularının bir görüntüsü yer alıyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Sky guide highlights Mars appearance near the Beehive cluster on Oct 11",
+      "links": [
+        "https://www.astronomy.com/observing/the-sky-today-sunday-october-11-2026/"
+      ],
+      "category": "Space",
+      "rank": 8,
+      "summary": null,
+      "title_tr": "Gök rehberi, 11 Ekim’de Mars’ın Arı Kovanı Küme’sinin yakınında görüneceğini vurguluyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Houthi attack on Riyadh’s King Khalid Airport kills multiple people and injures many",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+        "https://news.un.org/feed/view/en/story/2026/10/1168572",
+        "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
+        "https://www.ft.com/content/6875cf31-bcf8-4937-a0b9-bf62e1f5d87a?syn-25a6b1a6=1",
+        "https://www.dw.com/en/saudi-arabia-second-strike-kills-at-least-1-at-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-xml-mrss",
+        "https://www.france24.com/en/middle-east/20261012-houthi-strike-riyadh-airport-yemen",
+        "https://www.bbc.com/turkce/articles/cw8rz5268e26o?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 1,
+      "summary": "On Sunday, a Houthi strike killed one person and injured 11 at Riyadh's King Khalid International Airport, marking the second attack in two days. The Houthis claimed responsibility, using ballistic missiles, cruise missiles, and drones, while warning against using Saudi airports and airspace. This follows intensified violence after the collapse of a 2022 ceasefire, with the Houthis controlling a quarter of Yemen and up to 80% of its population. Saudi Arabia condemned the attacks as war crimes and vowed a response, amid growing international condemnation and support for retaliation, including from the US and UK.",
+      "title_tr": "Husi’lerin Riyad’daki Kral Halid Havalimanı’na düzenlediği saldırıda çok sayıda kişi hayatını kaybetti, birçoğu da yaralandı",
+      "summary_tr": "Pazar günü, Riyad’daki Kral Halid Uluslararası Havalimanı’na düzenlenen ikinci saldırıda bir kişi hayatını kaybederken 11 kişi yaralandı. Husiler, saldırıları üstlenerek balistik ve seyir füzeleriyle drone’larla gerçekleştirdiklerini iddia ederken, Suudi havalimanları ve hava sahasının kullanımına karşı uyarıda bulundular. 2022’de imzalanan ateşkesin sona ermesinin ardından artan şiddet dalgası, Husilerin Yemen topraklarının dörtte birini ve nüfusunun yüzde 80’ini kontrol etmesiyle daha da tırmandı. Suudi Arabistan saldırıları savaş suçu olarak nitelendirdi ve misilleme yapılacağını duyurdu, ABD ve İngiltere’nin de saldırılar karşısında uluslararası destek açıklamaları gündeme geldi."
+    },
+    {
+      "title": "Air strike on Egypt‑Sudan border kills dozens of gold miners",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
+        "https://haber.mynet.com/iki-ulkenin-sinirina-hava-saldirisi-72-madenci-hayatini-kaybetti-110107316342",
+        "https://www.dw.com/en/air-strikes-kill-dozens-of-gold-miners-on-sudan-egypt-border/a-79634889?maca=en-rss-en-all-1573-xml-mrss",
+        "https://www.france24.com/en/africa/20261012-egypt-sudan-border-airstrikes-gold-miners-killed"
+      ],
+      "category": "Geopolitics",
+      "rank": 2,
+      "summary": "At least 72 civilians, including artisanal gold miners, were killed in apparent air strikes on Saturday near the Egypt–Sudan border in Sudan's River Nile state. A regional rights group, Emergency Lawyers, stated the jets targeted unarmed miners in a sovereign Sudanese area, calling the strikes a possible war crime under international law. Egypt has not commented, though it has faced prior accusations of similar cross-border strikes aimed at curbing illicit activity. The strikes coincided with broader tensions over artisanal gold mining, which fuels smuggling networks and may fund armed groups in Sudan's conflict zones.",
+      "title_tr": "Mısır-Sudan sınırında düzenlenen hava saldırısında onlarca altın madencisi hayatını kaybetti",
+      "summary_tr": "Cumartesi günü Mısır–Sudan sınırına yakın Sudan’ın Nil Nehri Eyaleti'nde en az 72 sivil, çoğunlukla elmas arama çalışması yapan madencinin hava saldırılarında hayatını kaybetti. Emergency Lawyers adlı bölgesel bir insan hakları grubu, jetlerin silahlı olmayan madencilere saldırdığını ve bunun uluslararası hukuka göre savaş suçu olabileceğini belirtti. Mısır hükümeti henüz bu olayla ilgili açıklama yapmadı, ancak daha önce de benzer sınır ötesi saldırılara yönelik iddialara maruz kalmıştı. Saldırılar, Sudan'ın çatışma bölgelerindeki elmas madenciliğinin smuggling ağlarını beslemesi ve silahlı gruplara finansman sağlayabileceği gerilimini yoğunlaştırıyor."
+    },
+    {
+      "title": "Djibouti migrant boat disaster kills up to 139, leaves many missing",
+      "links": [
+        "https://news.un.org/feed/view/en/story/2026/10/1168573",
+        "https://www.aljazeera.com/video/newsfeed/2026/10/12/at-least-139-dead-as-migrant-boat-from-djibouti-to-yemen-capsizes?traffic_source=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 3,
+      "summary": "A migrant boat traveling from Djibouti toward Yemen capsized, resulting in the deaths of at least 139 people with many others reported missing. The disaster underscores the persistent risks faced by migrants undertaking perilous sea journeys in the region amid ongoing conflicts and instability. Survivors and presumed victims are currently being accounted for, with search and rescue efforts continuing.",
+      "title_tr": "Cibuti’deki göçmen teknesi faciasında 139 kişi hayatını kaybetti, çok sayıda kişi kayıp",
+      "summary_tr": "Djibouti’den Yemen’e doğru yola çıkan bir göçmen teknesi battı, en az 139 kişinin ölümüne neden olurken, birçok kişi de kayıp olarak bildirildi. Felaket, bölgedeki çatışmaların ve istikrarsızlığın devam ettiği bu ortamda göçmenlerin tehlikeli deniz yolculuklarında karşı karşıya kaldıkları süregelen riskleri gözler önüne seriyor. Hayatta kalanlar ve kayıp olduğu düşünülen kurbanlar halen kayıt altına alınıyor ve arama kurtarma çalışmaları devam ediyor."
+    },
+    {
+      "title": "North Korea launches multiple ballistic missiles over the sea",
+      "links": [
+        "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss",
+        "https://www.france24.com/en/asia-pacific/20261012-north-korea-ballistic-missiles-sea-japan-seoul"
+      ],
+      "category": "Geopolitics",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "Kuzey Kore, denizin üzerine çok sayıda balistik füze fırlattı",
+      "summary_tr": null
+    },
+    {
+      "title": "Report examines how Gaza residents maintain livelihoods during crisis",
+      "links": [
+        "https://news.un.org/feed/view/en/story/2026/10/1168569"
+      ],
+      "category": "Geopolitics",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "Rapor, Gazze sakinlerinin kriz döneminde geçim kaynaklarını nasıl sürdürdüklerini inceliyor",
+      "summary_tr": null
+    },
+    {
+      "title": "North Korea launches missiles in response to South Korea’s hypersonic test",
+      "links": [
+        "https://www.dw.com/en/north-korea-fires-missiles-after-seoul-s-hypersonic-test/a-79636110?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Geopolitics",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "Kuzey Kore, Güney Kore’nin hipersonik denemesine yanıt olarak füzeler fırlattı",
+      "summary_tr": null
+    },
+    {
+      "title": "Analysis of factors behind Donald Trump’s 2024 victory",
+      "links": [
+        "https://www.noahpinion.blog/p/why-donald-trump-won-in-2024"
+      ],
+      "category": "Geopolitics",
+      "rank": 7,
+      "summary": null,
+      "title_tr": "Donald Trump’ın 2024 zaferinin ardındaki faktörlerin analizi",
+      "summary_tr": null
+    },
+    {
+      "title": "Trump proposes energy cease‑fire in Ukraine conflict, drawing mixed responses",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.com/turkce/articles/cm4g198rqngpo?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 8,
+      "summary": null,
+      "title_tr": "Trump, Ukrayna çatışmasında enerji konusunda ateşkes önerisinde bulundu; bu öneri karışık tepkiler aldı",
+      "summary_tr": null
+    },
+    {
+      "title": "Midterm elections could shape future US data‑center regulations",
+      "links": [
+        "https://www.wired.com/story/midterm-races-decide-data-centers-political-fate/"
+      ],
+      "category": "Geopolitics",
+      "rank": 9,
+      "summary": null,
+      "title_tr": "Ara seçimler, ABD’deki veri merkezlerine ilişkin gelecekteki düzenlemeleri şekillendirebilir",
+      "summary_tr": null
+    },
+    {
+      "title": "Polish police arrest suspect in alleged plot against Prime Minister Donald Tusk",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 10,
+      "summary": null,
+      "title_tr": "Polonya polisi, Başbakan Donald Tusk’a yönelik olduğu iddia edilen komplo planıyla ilgili bir şüpheliyi gözaltına aldı",
+      "summary_tr": null
+    },
+    {
+      "title": "Ethiopian forces move into Adigrat, Tigray, close to Eritrean border",
+      "links": [
+        "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-reported-ethiopia-hamza-mohammad-report-abiy-ahmed-ep?traffic_source=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 11,
+      "summary": null,
+      "title_tr": "Etiyopya güçleri, Eritre sınırına yakın Tigray’deki Adigrat’a girdi",
+      "summary_tr": null
+    },
+    {
+      "title": "US considers reducing arms aid to Ukraine following Russian refinery attacks",
+      "links": [
+        "https://www.ft.com/content/7dc561ba-a386-479d-9633-9209b76b1812?syn-25a6b1a6=1"
+      ],
+      "category": "Geopolitics",
+      "rank": 12,
+      "summary": null,
+      "title_tr": "ABD, Rusya’nın rafinerilere düzenlediği saldırıların ardından Ukrayna’ya sağladığı silah yardımını azaltmayı değerlendiriyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Trump faces fight to retain Senate majority as key races approach",
+      "links": [
+        "https://www.ft.com/content/62bab2c8-d4e2-4ec2-a911-80439f61f238?syn-25a6b1a6=1"
+      ],
+      "category": "Geopolitics",
+      "rank": 13,
+      "summary": null,
+      "title_tr": "Önemli seçimler yaklaşırken Trump, Senato’daki çoğunluğunu korumak için zorlu bir mücadeleyle karşı karşıya",
+      "summary_tr": null
+    },
+    {
+      "title": "Heathrow chief urges government approval for runway expansion by year‑end",
+      "links": [
+        "https://www.ft.com/content/b0acd823-ca55-481c-93de-0e292a401b37?syn-25a6b1a6=1"
+      ],
+      "category": "Geopolitics",
+      "rank": 14,
+      "summary": null,
+      "title_tr": "Heathrow yöneticisi, hükümetten yıl sonuna kadar pist genişletme projesinin onaylanmasını talep ediyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Federal judge blocks taxpayer‑funded promotional ads for Donald Trump",
+      "links": [
+        "https://www.dw.com/en/us-judge-orders-halt-to-taxpayer-funded-promo-ads-of-trump/a-79636117?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Geopolitics",
+      "rank": 15,
+      "summary": null,
+      "title_tr": "Federal yargıç, Donald Trump için vergi mükelleflerinin parasıyla finanse edilen tanıtım reklamlarını durdurdu",
+      "summary_tr": null
+    },
+    {
+      "title": "British official claims Russia interfered in Brexit referendum",
+      "links": [
+        "https://www.dw.com/en/uk-s-burnham-accuses-russia-of-meddling-in-brexit-vote/a-79635264?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Geopolitics",
+      "rank": 16,
+      "summary": null,
+      "title_tr": "Bir İngiliz yetkili, Rusya’nın Brexit referandumuna müdahale ettiğini iddia etti",
+      "summary_tr": null
+    },
+    {
+      "title": "US Justice Department probes TV networks for possible antitrust violations",
+      "links": [
+        "https://www.npr.org/2026/10/11/nx-s1-5997574/the-doj-is-investigating-5-tv-networks-for-suspending-pool-coverage-of-trump"
+      ],
+      "category": "Geopolitics",
+      "rank": 17,
+      "summary": null,
+      "title_tr": "ABD Adalet Bakanlığı, olası antitröst ihlalleri nedeniyle televizyon kanallarını soruşturuyor",
+      "summary_tr": null
+    },
+    {
+      "title": "US politicians criticize Trump’s plan to import Russian diesel",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 18,
+      "summary": null,
+      "title_tr": "ABD’li siyasetçiler, Trump’ın Rusya’dan dizel ithal etme planını eleştiriyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Netanyahu calls for investigation into sources used in Gaza documentary NAZA",
+      "links": [
+        "https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 19,
+      "summary": null,
+      "title_tr": "Netanyahu, Gazze belgeseli NAZA’da kullanılan kaynaklarla ilgili soruşturma açılması çağrısında bulundu",
+      "summary_tr": null
+    },
+    {
+      "title": "Overview of the fund crisis that began in September on Borsa İstanbul",
+      "links": [
+        "https://www.bbc.com/turkce/articles/cmzxjn4205xqo?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Turkey",
+      "rank": 1,
+      "summary": "A liquidity crisis unfolded on Borsa İstanbul in September 2026 after concerns emerged over excessive concentration of funds in low-liquidity stocks, prompting regulatory caps on holdings. Several fund managers were arrested and sanctions imposed, including travel bans and asset seizures, as panic selling spread and market confidence eroded, forcing the regulator Sermaye Piyasası Kurulu (SPK) to place 131 funds under compulsory liquidation. High-profile figures, including a former minister, were investigated for allegedly profiting from the turmoil, while authorities began restitution payments to small investors. Political fallout intensified as opposition calls for a parliamentary inquiry were blocked and journalists were detained in connection with coverage of the scandal.",
+      "title_tr": "Eylül ayında Borsa İstanbul’da başlayan fon krizine genel bakış",
+      "summary_tr": "Eylül 2026'da, düşük likiditeli hisselerde aşırı yoğunlaşmanın ardından Borsa İstanbul'da bir likidite krizi patlak verdi. Sermaye Piyasası Kurulu (SPK) portföy sınırlamaları getirdi; yöneticilerin tutuklanması, yurt dışı çıkış yasağı ve varlıkların hacziyle kriz derinleşti. Yatırımcı paniğiyle sert düşüşler yaşanırken, 131 fonun tasfiyesine karar verildi. Eski bir bakan ve diğer yetkililerin haksız kazanç elde ettiğine dair iddialar gündeme geldi; yetkililer zarar görenlere ödeme başlatırken, muhalefetin araştırma komisyonu talebi reddedildi. Krizin gazetecileri de etkilediği, bazılarının tutuklandığı görüldü."
+    },
+    {
+      "title": "Turkish officials urged to monitor public reaction to leaders’ social‑media posts",
+      "links": [
+        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQy1RanhKRFJQWEg0Y0hyaHJzZUR3bUhxNF9GRmc5cEY1OFBNMXJwR3hMR3VBWjZIUHdXek5kcXV3cHVaSWNDNERhZnlubUFXV19LcWNhNThyelhrMVFoX0h5YTdNUE9mUTJvTDVyNVE5ejBObWlsWFlEdFpfQkNzN3N5OGxUMmY3cTlGSGg4aWdKX2JuUVpZR21oMHhTVFJaZVRMdEpVWk1JLUlDU1hnc1I5bnJYQWlIQmx5d0Yybk9mdjM5WlJ4Z3F4WVQ3V2ZObG5QWU1jNlpwRDM3Wi1nTHU2VWVpTkFSQ3c?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 2,
+      "summary": "No summary available: scraping failure",
+      "title_tr": "Türk yetkililerden, liderlerin sosyal medya paylaşımlarına yönelik halkın tepkisini takip etmeleri istendi",
+      "summary_tr": "Özet bulunmuyor: veri alma işlemi başarısız oldu"
+    },
+    {
+      "title": "DEVA party leader Ali Babacan criticizes AK Party supporters and political climate",
+      "links": [
+        "https://news.google.com/rss/articles/CBMitgJBVV95cUxQMXhVUXZ1QTVMcE9mZUJXR0JLanlkYUI1N1FKR3QxYWhJdVhSM3Q3MTNDRGdEVUd5T1Nqc05wMDFMaWNLdkswcVVWM203MGk3S3RycXRMTDhpbVhqNkFsSDFDODdmX0U4SnVmUWRZcUZuUGJYU29VR05TOGJNSG5FdFFsY2ljcFg1SERZaUQwdzNQVG1rSGh0aEdhc2p2eF9xRFQ0cjBjYlZQSDZCYkZ0TzhMdEs5bTF0LWtwSzdFZjhhV3BOSXJPcVNxQmhjYnpDUlliWFczS3JRYVoyeV9QNm5WUm1HZGJ6TXdIbnNMVGlUb2FwNEdsZmw3cm5scjViZWRtTnFGOEhyS25QWjNLbVdlbHF5aDVPUFBkNGR5QmdhYlNFOTMyMGRNRy1QWUVWRzg5aWx3?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 3,
+      "summary": "No summary available: scraping failure",
+      "title_tr": "DEVA Partisi lideri Ali Babacan, AK Parti destekçilerini ve siyasi ortamı eleştirdi",
+      "summary_tr": "Özet bulunmuyor: veri alma işlemi başarısız oldu"
+    },
+    {
+      "title": "Historical overview of Turkey’s ‘national security’ doctrine (1939‑1953)",
+      "links": [
+        "https://haber.sol.org.tr/haber/milli-guvenlik-gerekcesinin-dogusu-ve-chp-1939-1953-donemi-414869"
+      ],
+      "category": "Turkey",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "Türkiye’nin “ulusal güvenlik” doktrininin tarihsel genel bakışı (1939–1953)",
+      "summary_tr": null
+    },
+    {
+      "title": "Thousands seek medical care in Tokat, prompting school closures",
+      "links": [
+        "https://haber.mynet.com/tokatta-3-bin-kisi-hastaneye-basvurdu-okullar-tatil-edildi-110107316299"
+      ],
+      "category": "Turkey",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "Tokat’ta binlerce kişi tıbbi yardım talebinde bulunması üzerine okullar kapatıldı",
+      "summary_tr": null
+    },
+    {
+      "title": "Speculation on which Turkish metropolis may join AK Party",
+      "links": [
+        "https://haber.mynet.com/ak-parti-ye-hangi-buyuksehir-belediyesi-katilacak-dikkat-ceken-iddia-sosyal-medyadan-duyurdu-110107316287"
+      ],
+      "category": "Turkey",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "Hangi Türk metropolünün AK Parti’ye katılabileceğine dair spekülasyonlar",
+      "summary_tr": null
+    },
+    {
+      "title": "Reza Zarrab threatens legal action after spouse targeted over name similarity",
+      "links": [
+        "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZnYtSmZId3NkcHI3eGxtQlV4TG5rY3RDR1g2OGpMaWc0dHlfd0RfZW5zcG1VZzNTVmJvMk1ueEZ0X0JJUGdFY0U3dlBXLTViM0tQV1p6c25YajZDVktqM3VuOTc5bEpOZ3JxWWNoeHZ3eDlOMU1FTUVLZzlnbl9EaDN4RTRVNUU0UFJwTVR1aFVwN3lZWlo3aGk4aGxMeTREMDdFZHB5dldYT3k3VEtoRDN4Q1JlMXNRQVVzaUE1OWUtOEo1ZXgxbUZrUWlNanN2RFV2TzlHMWhoNFRINWFad2pEZnlsOE9Gdms3SFdRQ3d2RUY4UnVYUA?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 7,
+      "summary": null,
+      "title_tr": "Reza Zarrab, eşinin isim benzerliği nedeniyle hedef alınmasının ardından hukuki işlem başlatmakla tehdit etti",
+      "summary_tr": null
+    },
+    {
+      "title": "Turkish workers’ union campaigns for seated work rights",
+      "links": [
+        "https://haber.sol.org.tr/yazarlar/atilla-ozsever/oturma-hakki-mucadelesi-414864"
+      ],
+      "category": "Turkey",
+      "rank": 8,
+      "summary": null,
+      "title_tr": "Türk işçi sendikası, oturarak çalışma hakkı için kampanya yürütüyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Analysis of perceived elite and opposition motives in national interest debates",
+      "links": [
+        "https://haber.sol.org.tr/yazarlar/engin-solakoglu/istiyorlar-ama-iyi-ki-korkuyorlar-414863"
+      ],
+      "category": "Turkey",
+      "rank": 9,
+      "summary": null,
+      "title_tr": "Ulusal çıkar tartışmalarında algılanan iktidar ve muhalefetin motivasyonlarının analizi",
+      "summary_tr": null
+    },
+    {
+      "title": "Hurricane Simon approaches Mexico with 155 mph winds and flood risk",
+      "links": [
+        "https://www.npr.org/2026/10/11/nx-s1-5998022/hurricane-simon-nears-mexico-155-mph-winds-flooding-fears"
+      ],
+      "category": "Science",
+      "rank": 1,
+      "summary": "Hurricane Simon was positioned just off Mexico’s Pacific coast early Sunday with sustained winds of 155 mph (250 kph), threatening to bring extreme rainfall, dangerous storm surges, and life-threatening flooding and mudslides to southwestern Mexico. The storm, approaching Category 5 intensity, was forecast to make landfall later in the day near Manzanillo, with potential rainfall totals of up to 30 inches in parts of Michoacán, Colima, and Jalisco. Authorities in Jalisco suspended classes and began evacuations in coastal municipalities, while Puerto Vallarta prepared by boarding up businesses and securing shelters for residents and tourists amid overcast skies by Saturday.",
+      "title_tr": "Simon Kasırgası, saatte 155 mil hızındaki rüzgarlar ve sel riskiyle Meksika’ya yaklaşıyor",
+      "summary_tr": "Hurricane Simon fırtına Pazar sabahı Meksika’nın Pasifik kıyısına oldukça yaklaşmış durumdaydı ve rüzgar hızı 155 mph’e (250 km/sa) ulaşarak şiddetli yağışlar, tehlikeli fırtına dalgaları ve yaşamı tehdit eden seller ile toprak kaymalarına yol açması bekleniyordu. Kategori 5 şiddetine yaklaşan fırtına, günün ilerleyen saatlerinde Manzanillo yakınlarına karaya çıkması öngörülürken, Michoacán, Colima ve Jalisco bölgelerinde bazı alanlara 30 inçe kadar yağış düşebilir. Jalisco yetkilileri kıyıdaki belediyelerde dersleri iptal etmiş ve tahliyelere başlamış, Puerto Vallarta da yakınlardaki sığınakları hazırlayıp işletmeleri kapatmaya başlamıştı."
+    },
+    {
+      "title": "Scientists develop method to steer 2D semiconductor crystal growth",
+      "links": [
+        "https://www.theregister.com/science/2026/10/11/researchers-work-out-how-to-control-2d-semiconductor-growth-for-future-chips/5301666"
+      ],
+      "category": "Science",
+      "rank": 2,
+      "summary": "Researchers from KAIST and a South Korean startup have developed a method to control the growth of two-dimensional semiconductor crystals by using an etching flux that suppresses nucleation except at the geometric center of patterned regions, thereby enabling the formation of uniform single crystals. Published in Nature, the technique achieved a 99.3% success rate in producing single crystals across a substrate and was used to fabricate working field-effect transistors with improved charge-carrier mobility. The advancement aims to facilitate commercial adoption of 2D semiconductors by 2030, potentially enhancing chip performance and enabling tighter integration of logic and memory.",
+      "title_tr": "Bilim insanları, 2 boyutlu yarı iletken kristallerin büyümesini yönlendirmek için bir yöntem geliştirdi",
+      "summary_tr": "KAIST ve Güney Koreli bir startup tarafından araştırmacılar, desenli bölgelerin geometrik merkezlerinde çekirdeklenmeyi destekleyen bir aşındırma akımını kullanarak iki boyutlu yarıiletken kristallerin büyümesini kontrol etmek için bir yöntem geliştirdiler. Nature dergisinde yayımlanan bu teknik, bir alttaş üzerinde tek kristallerin üretilmesinde %99,3'lük bir başarı oranı elde etti ve daha yüksek yük taşıyıcı hareketliliğine sahip çalışan alan-etkili transistörlerin üretilmesinde kullanıldı. Bu gelişme, 2030 yılına kadar 2D yarıiletkenlerin ticari kullanımını kolaylaştırmayı ve çip performansının yanı sıra mantık ve bellek bileşenlerinin daha sıkı entegrasyonunu sağlamayı hedefliyor."
+    },
+    {
+      "title": "Analysis of links between the 2026 Super El Niño and climate change",
+      "links": [
+        "https://www.wired.com/story/super-el-nino-climate-change-connections/"
+      ],
+      "category": "Science",
+      "rank": 3,
+      "summary": "The 2026 Super El Niño, which is forming amid record ocean heat, is predicted to reach unprecedented strength this winter, potentially surpassing the previous high mark of 2.4°C anomaly by October-December. Scientists note a strong likelihood that climate change, driven by fossil fuel emissions, is intensifying El Niño’s frequency and severity, though the precise mechanisms remain under study. The combined effect of a super El Niño and a warmer global climate is expected to amplify extreme weather events globally—from droughts in the Amazon to increased Southwest U.S. rainfall—while amplifying economic and ecological risks, including severe impacts on coral reefs and global GDP. International organizations have urged urgent adaptation measures to prepare for these compounded risks.",
+      "title_tr": "2026 Süper El Niño ile iklim değişikliği arasındaki bağlantıların analizi",
+      "summary_tr": "2026 yılında şekillenen süper El Niño, rekor düzeydeki okyanus ısınmasının ardından bu kış olağanüstü bir kuvvetle gelişerek geçmişteki en yüksek 2.4°C anomalisini Ekim-Aralık döneminde geride bırakma olasılığı bulunuyor. Fosil yakıt emisyonlarıyla tetiklenen iklim değişikliğinin, El Niño’nun sıklığını ve şiddetini artıran temel bir unsur olduğu düşünülmekte birlikte, tam olarak nasıl etkileşime girdiği hala araştırma konusu. Süper El Niño’nun yanı sıra küresel iklimin daha sıcak olması, Amazon’dan kuraklıklara ve Güneybatı ABD’ye artan yağışlara kadar küresel çapta aşırı hava olaylarını şiddetlendirirken, mercan resifleri ve küresel GSMH üzerinde ciddi ekonomik ve ekolojik riskleri de beraberinde getirecek. Uluslararası kuruluşlar, bu karmaşık risklere karşı acil uyum önlemleri alınması çağrısında bulunuyor."
+    },
+    {
+      "title": "El Niño sets new Pacific sea‑surface temperature record",
+      "links": [
+        "https://www.france24.com/en/environment/20261012-el-nino-pacific-temperature-record-weather"
+      ],
+      "category": "Science",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "El Niño, Pasifik’te deniz yüzeyi sıcaklığında yeni bir rekor kırdı",
+      "summary_tr": null
+    },
+    {
+      "title": "Antarctic sea‑ice extent reaches 2026 peak",
+      "links": [
+        "https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/"
+      ],
+      "category": "Science",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "Antarktika deniz buzu alanı 2026’daki en yüksek seviyesine ulaştı",
+      "summary_tr": null
+    },
+    {
+      "title": "Tropical Storm Rachel weakened as heavy rain and winds affect California",
+      "links": [
+        "https://www.npr.org/2026/10/11/nx-s1-5998124/tropical-storm-rachel-downgraded-as-high-winds-and-rain-turn-inward"
+      ],
+      "category": "Science",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "Kaliforniya’yı etkileyen şiddetli yağmur ve rüzgarlar nedeniyle Rachel Tropikal Fırtınası zayıfladı",
+      "summary_tr": null
+    },
+    {
+      "title": "Malware at Nippon Columbia leaks over 8.6 million karaoke user records",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/"
+      ],
+      "category": "Tech",
+      "rank": 1,
+      "summary": "A malware infection on an employee’s workstation at Nippon Columbia, a contractor handling customer data for Japan’s largest karaoke operator Daiichi Kosho, may have exposed personal records belonging to 93,000 employees and 8.63 million customers. The compromised data includes names, birthdates, email and phone numbers, but no passwords or evidence of misuse. Daiichi Kosho said its own systems were unaffected and is urging caution against follow-on social engineering attempts, while Nippon Columbia resets credentials and investigates the scope and possible leak of data online.",
+      "title_tr": "Nippon Columbia’daki kötü amaçlı yazılım, 8,6 milyondan fazla karaoke kullanıcısının verilerini sızdırdı",
+      "summary_tr": "Nippon Columbia’nun müşteri verilerini yöneten bir çalışanının bilgisayarındaki kötü amaçlı yazılım, Japonya'nın en büyük karaoke operatörü Daiichi Kosho’nun 93.000 çalışan ve 8,63 milyon müşterisine ait kayıtlarının sızdırılmasına neden olabilecek bir durumu ortaya çıkardı. İhlal edilen veriler arasında isimler, doğum tarihleri, e-posta adresleri ve telefon numaraları yer alıyor; ancak şifreler veya veri kötüye kullanımına dair bir kanıt bulunmuyor. Daiichi Kosho, kendi sistemlerinin etkilenmediğini belirterek müşterileri olası sosyal mühendislik girişimlerine karşı dikkatli olmaları konusunda uyarıyor ve Nippon Columbia da etkilenen erişim bilgilerini sıfırlayarak olayın kapsamını ve veri sızıntısının olup olmadığını araştırıyor."
+    },
+    {
+      "title": "Linux kernel prepatch 7.3‑rc7 released for testing",
+      "links": [
+        "https://lwn.net/Articles/1099798/"
+      ],
+      "category": "Tech",
+      "rank": 2,
+      "summary": "Linux creator Linus Torvalds announced the seventh release candidate (7.3-rc7) of the upcoming Linux 7.3 kernel, noting it is likely the final prepatch before the stable release planned for the following weekend unless serious issues emerge. Among the changes, the ext4 filesystem's data=journal mount option has been marked for full deprecation and slated for removal at the start of 2028.",
+      "title_tr": "Test amacıyla Linux çekirdeği 7.3-rc7 ön yaması yayınlandı",
+      "summary_tr": "Linux'in yaratıcısı Linus Torvalds, gelecek haftasonu planlanan kararlı sürüm dışında ciddi sorunlar ortaya çıkmadığı sürece son hazırlık sürümü olması muhtemel Linux 7.3 çekirdeğinin yedinci aday sürümü (7.3-rc7)'ni duyurdu. Değişiklikler arasında ext4 dosya sisteminin data=journal mount seçeneğinin tamamen kullanımdan kaldırılması planlanıyor ve bu seçenek 2028 yılının başında tamamen kaldırılacak."
+    },
+    {
+      "title": "Linux kernel stable releases 7.2.10 and 6.18.56 published",
+      "links": [
+        "https://lwn.net/Articles/1099764/"
+      ],
+      "category": "Tech",
+      "rank": 3,
+      "summary": "The Linux kernel project has released stable updates 7.2.10 and 6.18.56, each containing hundreds of important fixes addressing various issues. These updates are part of the ongoing maintenance efforts to ensure stability and security in the affected kernel versions. Users and distributions are encouraged to upgrade promptly to incorporate these fixes.",
+      "title_tr": "Linux çekirdeğinin 7.2.10 ve 6.18.56 numaralı kararlı sürümleri yayınlandı",
+      "summary_tr": "Linux çekirdek projesi tarafından kararlı Linux çekirdek sürümleri 7.2.10 ve 6.18.56 yayınlandı. Her iki sürüm de çeşitli sorunları ele alan yüzlerce önemli düzeltme içermektedir. Bu güncellemeler, ilgili çekirdek sürümlerinde kararlılık ve güvenliği sağlamak amacıyla yapılan devam eden bakım çalışmalarının bir parçasıdır. Kullanıcıların ve dağıtımların bu düzeltmeleri hemen alabilmek için yükseltme yapmaları teşvik edilmektedir."
+    },
+    {
+      "title": "Review of a robot window‑cleaning device named Sky Roomba",
+      "links": [
+        "https://feeds.feedblitz.com/~/971243735/0/marginalrevolution~Sky-Roomba.html"
+      ],
+      "category": "Tech",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "Sky Roomba adlı robot pencere temizleme cihazının incelemesi",
+      "summary_tr": null
+    }
+  ]
+}
