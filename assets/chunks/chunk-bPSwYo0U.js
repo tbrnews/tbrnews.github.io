@@ -1,0 +1,1 @@
+import{o as e}from"./chunk-SurKiIAj.js";import{O as t,b as n}from"./chunk-72l5ileg.js";var r=e(t(),1),i=(0,r.forwardRef)(({value:e,defaultValue:t,...i},a)=>{let{renderer:o}=(0,r.useContext)(n),s=o===`canvas`?String(e??t):void 0;return(0,r.createElement)(`select`,{...i,key:s,defaultValue:e??t,ref:a})});i.displayName=`Select`;export{i as t};
