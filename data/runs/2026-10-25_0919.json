@@ -1,0 +1,726 @@
+{
+  "schema_version": 1,
+  "stats": {
+    "last_run": "2026-10-25T08:19:43.239Z",
+    "sources_pulled": 74,
+    "headlines_read": 90,
+    "headlines_written": 82,
+    "summaries_written": 19,
+    "summaries_failed": 2,
+    "run_count": 27
+  },
+  "headlines": [
+    {
+      "title": "AI tools amplify exploitation of PHP vulnerabilities, researchers find",
+      "links": [
+        "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/"
+      ],
+      "category": "AI",
+      "rank": 1,
+      "summary": "Researchers have found that advances in AI tools are accelerating the identification and exploitation of PHP vulnerabilities, making bugs more dangerous in practice. Two recently disclosed critical PHP flaws, referred to as PHP2Shell, were leveraged by hackers within days of their disclosure, with attempts logged even before patches were widely available. Security experts warn that the rapid scalability of both vulnerability discovery and attacks—amplified by AI—heightens the risk for millions of websites running PHP. The incident highlights the growing challenge of securing widely deployed open-source software amid the rise of automated cyber tools.",
+      "title_tr": "Araştırmacılar, yapay zeka araçlarının PHP güvenlik açıklarının istismarını artırdığını ortaya koydu",
+      "summary_tr": "Araştırmacılar, yapay zeka araçlarının PHP güvenlik açıklarını tespit etme ve istismar etme hızını artırarak bu tür hataların daha tehlikeli hale geldiğini tespit etti. PHP2Shell olarak adlandırılan iki kritik PHP güvenlik açığı, dördüncü günden itibaren saldırganlar tarafından kullanıldı ve yamalar yayınlanmadan önce bile saldırı girişimleri kaydedildi. Siber güvenlik uzmanları, yapay zeka destekli araçların otomatik keşif ve saldırı yeteneklerinin, milyonlarca web sitesini etkileyen PHP tabanlı sistemler için riskleri artırdığını vurguluyor. Geniş çapta kullanılan açık kaynaklı yazılımların güvenliğinin sağlanması konusunda, yapay zekanın artan rolüne yönelik endişeler giderek artıyor."
+    },
+    {
+      "title": "Autonomous ‘Skynet‑mode’ AI agent hijacks other models for malicious actions",
+      "links": [
+        "https://www.theregister.com/security/2026/10/24/autonomous-attack-agent-in-skynet-mode-hijacks-other-models-to-carry-out-its-evil-deeds/5305215"
+      ],
+      "category": "AI",
+      "rank": 2,
+      "summary": "Security researchers at Symantec uncovered an autonomous AI attack agent operating in 'Skynet mode,' designed to hijack exposed AI models by exploiting common web frameworks and bypassing security guardrails. The agent can perform up to 100,000 steps without human oversight, enabling actions such as database theft, credential harvesting, remote code execution, and cryptocurrency mining. Although deployed in a controlled honeypot environment, the tool demonstrates advanced capabilities previously unseen in real-world attacks, highlighting a new frontier in AI-driven cyber threats.",
+      "title_tr": "Otonom ‘Skynet modu’ yapay zeka ajanı, kötü niyetli eylemler gerçekleştirmek için diğer modelleri ele geçiriyor",
+      "summary_tr": "Siber güvenlik araştırmacıları Symantec, 'Skynet modu'nda çalışan otonom bir AI saldırı aracı keşfetti; bu araç maruz kalan AI modellerini, yaygın web framework'lerini istismar ederek ve güvenlik tedbirlerini atlayarak hedef almaktadır. Araç 100.000 adıma kadar insan gözetimine gerek duymadan çalışabilmekte ve bu sayede veri tabanı hırsızlığı, kimlik bilgisi toplama, uzaktan kod yürütme ve kripto para madenciliği gibi eylemleri gerçekleştirebilmektedir. Kontrollü bir honeypot ortamında konuşlandırılmış olmasına rağmen, araç ileri düzey yetenekler sergilemekte ve böylece AI destekli siber tehditlerde yeni bir dönemin habercisi olmaktadır."
+    },
+    {
+      "title": "Bill Gates warns AI could trigger two‑decade economic and social turmoil",
+      "links": [
+        "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMmpXNGdQOEVVRTA1RVl5SjhQRU8tNFZMRmpQQUQwVHlQME82WDVhMWw3amdvWmNib2hZS0p6VTVQWHZ6WEJ3WmdPU2pvdk1XakJXVFIwcFJKYzVWN3Y1QWdMRDlfWmVhZlJweEVaUzVzWklFbTdkMmRidlhJVVRTNXhNUHlhQzBxUUZPOFFybFpmM21LWDBRSTFiTXRoZ2Z3b2JQOEt4MHc4VGQtVlRLQkhORDJBdTlKVVV6bWV2bE0zaVkzdldvMlpKRm1xQzd3bEVrQVN6UGNPbGNHVzkxdkJuaC05VFdMdURUN1FTbGVPTC12ZnEtRg?oc=5"
+      ],
+      "category": "AI",
+      "rank": 3,
+      "summary": "No summary available: scraping failure",
+      "title_tr": "Bill Gates, yapay zekanın yirmi yıllık bir ekonomik ve sosyal kargaşaya yol açabileceği konusunda uyarıyor",
+      "summary_tr": "Özet bulunmuyor: veri alma işlemi başarısız oldu"
+    },
+    {
+      "title": "Comparison of standard RAG and agentic RAG approaches",
+      "links": [
+        "https://blog.bytebytego.com/p/ep230-rag-vs-agentic-rag"
+      ],
+      "category": "AI",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "Standart RAG ve ajansal RAG yaklaşımlarının karşılaştırılması",
+      "summary_tr": null
+    },
+    {
+      "title": "OpenAI halts internet access in model training; Anthropic issues apology",
+      "links": [
+        "https://www.theregister.com/ai-and-ml/2026/10/23/openai-disables-internet-access-during-model-training-while-anthropic-issues-another-mea-culpa/5305238"
+      ],
+      "category": "AI",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "OpenAI, model eğitimi sırasında internet erişimini durdurdu; Anthropic özür diledi",
+      "summary_tr": null
+    },
+    {
+      "title": "Starlink service restored to normal levels in Ukraine",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+        "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-xml-mrss",
+        "https://www.france24.com/en/tv-shows/spotlight/20261024-witkoff-should-step-down-says-ukraine-committee-chief",
+        "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions"
+      ],
+      "category": "Space",
+      "rank": 1,
+      "summary": "Ukraine’s defence minister announced on Saturday that Starlink connectivity has been restored to full capacity after days of restricted service, enabling drone operations and military communications at speeds exceeding 400 km/h. The dispute began last week amid allegations that the network’s limits were imposed following a request from former US President Donald Trump, which both sides denied. Ukraine relies heavily on Starlink’s military-grade and civilian services for frontline operations, while Russia remains unauthorized to use the network. The controversy unfolded alongside diplomatic tensions over Ukrainian strikes on Russian oil infrastructure and reported US threats to withhold intelligence sharing.",
+      "title_tr": "Ukrayna’da Starlink hizmeti normal seviyeye geri döndü",
+      "summary_tr": "Ukrayna Savunma Bakanı, Cumartesi günü Starlink bağlantısının hız sınırlamalarının ardından tam kapasiteye ulaştığını ve 400 km/saatin üzerinde hızlara olanak sağladığını duyurdu. Açıklandığına göre bu durum, insansız hava araçları operasyonları ve askerî iletişim için kritik önem taşımakta. Geçen hafta başlayan sorunun, eski ABD Başkanı Donald Trump’ın talebiyle ağın sınırlandırıldığı iddiasıyla bağlantılı olduğu öne sürülürken, her iki taraf da bu iddiayı reddetti. Ukrayna, Starlink’in askerî ve sivil ağlarını cephedeki operasyonlar için yaygın olarak kullanırken, Rusya’nın ağa erişimi bulunmamakta. İddia, aynı zamanda Ukrayna’nın Rus petrol tesislerine yönelik saldırıları ve ABD’nin istihbarat paylaşımını askıya alma tehdidini de içeren diplomatik gerilimlerin ortasında gündeme geldi."
+    },
+    {
+      "title": "Bennu sample analysis uncovers 4.5 billion‑year‑old solar system clue",
+      "links": [
+        "https://www.sciencedaily.com/releases/2026/10/261023023734.htm"
+      ],
+      "category": "Space",
+      "rank": 2,
+      "summary": "Analysis of asteroid Bennu samples, delivered to Earth in 2023 by NASA’s OSIRIS-REx mission, reveals a 4.5-billion-year-old chemical signature that links the asteroid to both inner and outer Solar System materials near the water-ice line, challenging prior theories of its origin. Researchers found Bennu’s isotopic profile closely matches that of Ryugu and rare CI meteorites, suggesting a mixed formation zone where fine dust and ice contributed to its structure. Jupiter’s early gravitational influence appears to have enabled this mixing, acting as a barrier that allowed dust to concentrate around the ice line. The findings provide new insight into the primordial ingredients that formed Earth and other terrestrial planets, including potential water and organic compounds, offering a snapshot of the Solar System’s infancy.",
+      "title_tr": "Bennu örneğinin analizi, 4,5 milyar yıllık bir Güneş Sistemi ipucunu ortaya çıkardı",
+      "summary_tr": "2023 yılında NASA’nın OSIRIS-REx görevi tarafından Dünya’ya getirilen asteroid Bennu örneklerinin analizi, 4.5 milyar yıllık bir kimyasal imzanın asteroidi hem İç hem de Dış Güneş Sistemi malzemeleriyle bağlantılı olduğunu ve su-buz hattı yakınındaki karma bir oluşum bölgesine işaret ettiğini ortaya koymaktadır. Araştırmacılar, Bennu’nun izotopik profilinin Ryugu ve nadir CI meteoritleriyle büyük benzerlikler gösterdiğini, bu durumun ince toz ve buzun katkıda bulunduğu karmaşık bir oluşum bölgesini işaret ettiğini belirlemiştir. Jüpiter’in erken kütleçekim etkisinin, tozun buz hattı çevresinde yoğunlaşmasına izin veren bir bariyer görevi görerek bu karışımın oluşmasına katkıda bulunduğu düşünülmektedir. Bulgular, Dünya ve diğer karasal gezegenlerin oluşumunda yer alan ilkel bileşenlere dair yeni anlayışlar sunmakta ve Güneş Sistemi’nin erken dönemlerine ilişkin bir anlık görüntü sağlamaktadır."
+    },
+    {
+      "title": "NASA outlines Artemis III lunar lander test flight schedule and upcoming tests",
+      "links": [
+        "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ1NmM2ViY2w1MWN1UlJZYzhnZzRMcDhEOGFwSy1IMHkxemFVV25fRlhCbkxyUnFXcElLSkRUTVpyUEFXRXotbDlEMThmNy1HMzQ1Wlp3cElXbFhNRGJQWFF1UWppelRXMmZCbGVBak9kbEQxU1hzVkFTZkJNSjY5MXVSX2FFb2lxTzRuaGhwMGZvLTNpRjFIdVRpQmFlTTM0ZGVleG5YMXBiVXNvMHlZbDNYay1YV1hNVVNBYnVxRmsyZmhZNXNZ?oc=5"
+      ],
+      "category": "Space",
+      "rank": 3,
+      "summary": "The provided article content appears to be a 404 error page, indicating that the requested cosmic object content is no longer available. It includes navigation links to NASA’s homepage, sitemap, and contact page instead of substantive reporting on the Artemis III lunar lander test flight schedule or upcoming tests as implied by the title.",
+      "title_tr": "NASA, Artemis III Ay iniş aracının test uçuş takvimini ve önümüzdeki testleri açıkladı",
+      "summary_tr": "Sağlanan makale içeriği, 404 hata sayfası olarak görünmekte olup, talep edilen kozmik içerik artık erişilebilir olmadığını göstermektedir. NASA’nın ana sayfası, site haritası ve iletişim sayfasına yönlendiren gezinme bağlantıları içermektedir. Bu bağlantılar, makalenin başlığında belirtilen Artemis III Ay iniş aracı test uçuş takvimi veya gelecek testler hakkında herhangi bir içerik sunmamaktadır."
+    },
+    {
+      "title": "NASA revises lunar lander strategy, resolving longstanding Orion challenge",
+      "links": [
+        "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/"
+      ],
+      "category": "Space",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "NASA, Ay iniş aracı stratejisini gözden geçirerek Orion ile ilgili uzun süredir devam eden sorunu çözdü",
+      "summary_tr": null
+    },
+    {
+      "title": "NASA and partners speed up lunar lander development for 2028 missions",
+      "links": [
+        "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/"
+      ],
+      "category": "Space",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "NASA ve ortakları, 2028 misyonları için Ay iniş aracı geliştirme çalışmalarını hızlandırıyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Lazuli private space telescope to observe 27 exoplanet targets",
+      "links": [
+        "https://www.universetoday.com/articles/27-exoplanet-targets-for-the-worlds-first-private-space-telescope"
+      ],
+      "category": "Space",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "Lazuli özel uzay teleskobu, 27 dışgezegen hedefini gözlemleyecek",
+      "summary_tr": null
+    },
+    {
+      "title": "Balloon‑borne telescope discovers intricate magnetic structures over solar surface",
+      "links": [
+        "https://www.sciencedaily.com/releases/2026/10/261023023723.htm"
+      ],
+      "category": "Space",
+      "rank": 7,
+      "summary": null,
+      "title_tr": "Balonla taşınan teleskop, Güneş yüzeyinde karmaşık manyetik yapılar keşfetti",
+      "summary_tr": null
+    },
+    {
+      "title": "NASA aims to establish lunar base and return astronauts in two years, channeling Apollo momentum",
+      "links": [
+        "https://phys.org/news/2026-10-nasa-apollo-urgency-moon-base.html"
+      ],
+      "category": "Space",
+      "rank": 8,
+      "summary": null,
+      "title_tr": "NASA, Apollo programının yarattığı ivmeyi de kullanarak iki yıl içinde bir ay üssü kurmayı ve astronotları Ay’a geri göndermeyi hedefliyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Analysts say SpaceX’s telecom goals will require prolonged effort",
+      "links": [
+        "https://news.google.com/rss/articles/CBMigAJBVV95cUxNM1FKRmdWRVNBWUVGTTBXM3ROQk5kamlLT1F4bGpST1k0cnFlZW1BQnllSTl4a0k5TDdELWZNd0hHaUxRWV9UVlVoVTJxUGZSM1pyUHVLU1hiT2VoU0hqQnBHRzZ5aWF4cVdlMHRGdkxsbm1rWlp1VWRSUEhwZEpDMEhWVHhPSW5ubW5wOXhYQ0t6WEVMcHg1THIzTHc5bEpOTlo0OVlBY3MxeFFxM0hYMFU3LTByZFg0TjU5RW5rbVotcFFsSDlIOTdYRU5xaDZUVTZFYXRBTXZINS1rREhBQzIyLXhZd2JYMEtkTWtxd1VuY1RmQTVWMFVnZUtsb255?oc=5"
+      ],
+      "category": "Space",
+      "rank": 9,
+      "summary": null,
+      "title_tr": "Analistler, SpaceX’in telekom hedeflerinin uzun soluklu bir çaba gerektireceğini belirtiyor",
+      "summary_tr": null
+    },
+    {
+      "title": "SpaceX conducts Starlink satellite launch as Falcon 9 cadence slows",
+      "links": [
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQTN0dk9QM01UUG90NWdTRlFOcmkxT1RiMmIzbmZlYXBfZnEzbC1VZDRmYmRJSFhmMm1OQ0VDMEFDM3R5ajBfYmQ4MW9UeHFtVlVGZGFka29QcDhzRllmY21WU2RKN0FtdktlUmV3V0ZhM2RzMlNpWUpqbThSXzhSaWR1YUpRZVgzSEVreWtXSms0V0x0ZFQzaG5uWlZtaDhBeFVoV29rM1pwUFFULVE?oc=5"
+      ],
+      "category": "Space",
+      "rank": 10,
+      "summary": null,
+      "title_tr": "Falcon 9’un fırlatma sıklığı azalırken SpaceX, Starlink uydusunun fırlatılmasını gerçekleştirdi",
+      "summary_tr": null
+    },
+    {
+      "title": "Potential massive cloud on Mars could expose unprecedented physical processes",
+      "links": [
+        "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/"
+      ],
+      "category": "Space",
+      "rank": 11,
+      "summary": null,
+      "title_tr": "Mars’ta bulunabilecek devasa bir bulut, daha önce görülmemiş fiziksel süreçleri ortaya çıkarabilir",
+      "summary_tr": null
+    },
+    {
+      "title": "NASA Artemis update covers SLS stacking, sortie suit, and dual 2028 mission paths",
+      "links": [
+        "https://www.nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths/"
+      ],
+      "category": "Space",
+      "rank": 12,
+      "summary": null,
+      "title_tr": "NASA’nın Artemis güncellemesi, SLS’nin montaj aşaması, uzay yürüyüşü giysisi ve 2028 için iki farklı görev senaryosunu ele alıyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Study shows flare ribbons expose concealed solar eruptions",
+      "links": [
+        "https://phys.org/news/2026-10-flare-ribbons-reveal-hidden-solar.html"
+      ],
+      "category": "Space",
+      "rank": 13,
+      "summary": null,
+      "title_tr": "Araştırma, parlama şeritlerinin gizli güneş patlamalarını ortaya çıkardığını gösteriyor",
+      "summary_tr": null
+    },
+    {
+      "title": "New research finds some white dwarfs display yellow, green, pink, or purple hues",
+      "links": [
+        "https://www.universetoday.com/articles/white-dwarfs-are-actuallyyellow-green-pink-and-purple"
+      ],
+      "category": "Space",
+      "rank": 14,
+      "summary": null,
+      "title_tr": "Yeni bir araştırmaya göre, bazı beyaz cüceler sarı, yeşil, pembe veya mor tonlar sergiliyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Historical note: V‑2 rocket captured first Earth photos in 1946",
+      "links": [
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcG9zNGphTDRWOUw3WXVjaEZGNTlZLXZoWDBvbjNNR05jbzd4MUhKWnVMelp1YTZmaEV6OFpUeUtHMEo1YllUOFQ4c19mRDgtdHhWRGpzZDhONlZjbFEyaFlvLVVfSnBoUC1uSTJGb3VWVEZaME5SVG4wNHVvSWFhWjZn?oc=5"
+      ],
+      "category": "Space",
+      "rank": 15,
+      "summary": null,
+      "title_tr": "Tarihsel not: V-2 roketi, 1946 yılında Dünya’nın ilk fotoğraflarını çekti",
+      "summary_tr": null
+    },
+    {
+      "title": "Space podcast episode examines the Artemis generation",
+      "links": [
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNGtLSG44TEtkRnZObW11c3Q1X3pWeWNPNUw5cGVGV05tUEJkd2pTYnptLTRpZ0w3YXRqMWQ2QkJtWFhFdTRiakVNUjlseF9aQkV1QVNtTVlFYTBaQVRaeUV2MElGNDlWR013eUxqdVpXeGlRdkY5Q2NhczFBV3pQUndsaFNRR2lHd3c4OVFYWlQtajltMXB4eDdoeENzQm1zNWdkVnFDbjctM3hLOEhGQzBNck9vNlE?oc=5"
+      ],
+      "category": "Space",
+      "rank": 16,
+      "summary": null,
+      "title_tr": "Uzay konulu bir podcast bölümü, Artemis kuşağını ele alıyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Astronomy Picture of the Day: ‘Rosetta’s Selfie’ (Oct 24 2026)",
+      "links": [
+        "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/"
+      ],
+      "category": "Space",
+      "rank": 17,
+      "summary": null,
+      "title_tr": "Günün Astronomi Fotoğrafı: ‘Rosetta’nın Selfie’si’ (24 Ekim 2026)",
+      "summary_tr": null
+    },
+    {
+      "title": "Sky guide for Oct 24: Mercury reaches stationary point",
+      "links": [
+        "https://www.astronomy.com/observing/the-sky-today-saturday-october-24-2026/"
+      ],
+      "category": "Space",
+      "rank": 18,
+      "summary": null,
+      "title_tr": "24 Ekim için gökyüzü rehberi: Merkür durma noktasına ulaşıyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Widespread protests across France lead to detentions and clashes in multiple cities",
+      "links": [
+        "https://haber.mynet.com/fransa-da-sular-durulmuyor-100-kisi-gozaltina-alindi-110107318357",
+        "https://www.france24.com/en/france/20261024-the-marches-went-well-%E2%80%93-french-government-on-demonstrations-a-week-after-looting-and-violence",
+        "https://www.france24.com/en/tv-shows/spotlight/20261024-france-watching-the-post-riot-protests",
+        "https://www.france24.com/en/video/20261024-france-clashes-erupt-as-protests-sweep-across-cities"
+      ],
+      "category": "Geopolitics",
+      "rank": 1,
+      "summary": "No article content was retrievable; instead, a 404 error page indicating that the requested webpage could not be found was displayed. The error message noted that the page was unavailable and included an automatic redirect to the site's homepage.",
+      "title_tr": "Fransa genelinde yaygın protestolar, birçok şehirde gözaltı ve çatışmalara yol açtı",
+      "summary_tr": "Hiçbir makale içeriği alınamaz oldu; bunun yerine, istenen web sayfasına ulaşılamadığını belirten 404 hata sayfası görüntülendi. Hata mesajı, sayfanın bulunamadığını belirtiyor ve site ana sayfasina otomatik bir yönlendirme içeriyordu."
+    },
+    {
+      "title": "Israel starts demolishing homes in West Bank Hebron area",
+      "links": [
+        "https://www.france24.com/en/israel-begins-demolitions-in-west-bank"
+      ],
+      "category": "Geopolitics",
+      "rank": 2,
+      "summary": "Israel has begun demolishing homes in the West Bank’s Hebron area after an attack on Israeli soldiers killed two personnel, prompting Palestinian officials to report that around 1,200 Palestinians have been displaced so far, with warnings that 1,300 more may also be evicted. The Palestinian Authority has called for international intervention to pressure Israel to halt the demolitions. The situation coincides with broader Israeli military operations in the West Bank, framed within a tense security context ahead of elections in Israel.",
+      "title_tr": "İsrail, Batı Şeria’nın Hebron bölgesinde evlerin yıkımına başladı",
+      "summary_tr": "İsrail askerlerinin öldürüldüğü saldırının ardından İsrail, Batı Şeria'nın Hebron bölgesinde konutları yıkmaya başladı. Saldırıda iki İsrailli askerin hayatını kaybetmesinin ardından 1.200 kadar Filistinlinin evlerinden çıkmak zorunda bırakıldığı, bunun yanı sıra 1.300'e yakın kişinin de tahliye edilebileceği bildirildi. Filistin Yönetimi, İsrail üzerinde uluslararası baskı oluşturulması çağrısında bulundu. İsrail'deki seçimler öncesinde gerilen güvenlik ortamında gerçekleşen bu olaylar, Batı Şeria genelinde geniş kapsamlı askerî operasyonlarla ilişkilendirildi."
+    },
+    {
+      "title": "Medicare Advantage plans may change next year – what seniors need to know",
+      "links": [
+        "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan"
+      ],
+      "category": "Geopolitics",
+      "rank": 3,
+      "summary": "Medicare Advantage plans are disappearing for many seniors next year, affecting up to 5 million people across 193 rural counties and several major cities. During the open enrollment period ending December 7, seniors must review options as insurance companies withdraw from unprofitable markets. Those losing plans may be automatically re-assigned or face gaps in coverage if they fail to act. Access to Medigap supplemental plans may be easier for some with pre-existing conditions due to special enrollment flexibility.",
+      "title_tr": "Medicare Advantage planlarında gelecek yıl değişiklikler olabilir – yaşlıların bilmesi gerekenler",
+      "summary_tr": "Medicare Advantage planları gelecek yıl birçok emekli için ortadan kalkıyor; bu durum 193 kırsal bölge ve birkaç büyük şehri etkileyerek 5 milyon kişiye kadar ulaşıyor. 7 Aralık’a kadar süren açık kayıt döneminde emeklilerin sigorta şirketlerinin kârsız bulduğu pazarlardan çekilmesi nedeniyle seçeneklerini gözden geçirmeleri gerekiyor. Planı sona erenler ya otomatik olarak yeniden atanacak ya da harekete geçmemeleri durumunda kapsamda boşluklarla karşılaşabilecekler. Özel kayıt esnekliği sayesinde bazıların için önceden var olan sağlık sorunları nedeniyle Medigap destek planlarına erişim kolaylaşabilir."
+    },
+    {
+      "title": "Sudanese women bear early siege casualties and lead frontline response",
+      "links": [
+        "https://news.un.org/feed/view/en/story/2026/10/1168663"
+      ],
+      "category": "Geopolitics",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "Sudanlı kadınlar, kuşatma sırasında ilk kayıpları veriyor ve ön cephedeki müdahaleye öncülük ediyor",
+      "summary_tr": null
+    },
+    {
+      "title": "EU proposes easing pesticide regulations amid expert opposition",
+      "links": [
+        "https://www.dw.com/en/eu-moves-to-loosen-rules-on-pesticide-use-as-experts-sound-the-alarm/a-79646422?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Geopolitics",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "AB, uzmanların muhalefetine rağmen pestisit düzenlemelerinin gevşetilmesini öneriyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Mass protests in Tel Aviv demand accountability from Netanyahu government",
+      "links": [
+        "https://www.france24.com/en/middle-east/20261024-thousands-take-to-tel-aviv-streets-for-protests-against-netanyahu"
+      ],
+      "category": "Geopolitics",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "Tel Aviv’de düzenlenen kitlesel protestolar, Netanyahu hükümetinden hesap sorulmasını talep ediyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Houthi forces launch attacks on Saudi oil sites and airports",
+      "links": [
+        "https://www.france24.com/en/middle-east/20261024-yemen-s-houthi-rebels-claim-new-attacks-on-oil-facilities-and-airports-across-saudi-arabia"
+      ],
+      "category": "Geopolitics",
+      "rank": 7,
+      "summary": null,
+      "title_tr": "Husi güçleri, Suudi petrol tesislerine ve havaalanlarına saldırılar düzenledi",
+      "summary_tr": null
+    },
+    {
+      "title": "Cost‑of‑living protests erupt across Italian cities",
+      "links": [
+        "https://www.france24.com/en/italy-hit-by-new-cost-of-living-protests"
+      ],
+      "category": "Geopolitics",
+      "rank": 8,
+      "summary": null,
+      "title_tr": "İtalya’nın çeşitli şehirlerinde yaşam maliyeti protestoları patlak verdi",
+      "summary_tr": null
+    },
+    {
+      "title": "Israel launches extensive security operation in Hebron after soldiers killed",
+      "links": [
+        "https://www.bbc.com/turkce/articles/cwr5yz384gl3o?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 9,
+      "summary": null,
+      "title_tr": "Askerlerin öldürülmesinin ardından İsrail, Hebron’da geniş çaplı bir güvenlik operasyonu başlattı",
+      "summary_tr": null
+    },
+    {
+      "title": "Armed attack on Jordanian church funeral leaves multiple dead and wounded",
+      "links": [
+        "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
+        "https://www.bbc.com/turkce/articles/cm5ynqg6qe3yo?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 10,
+      "summary": null,
+      "title_tr": "Ürdün’deki bir kilisede düzenlenen cenaze törenine yönelik silahlı saldırıda çok sayıda kişi öldü ve yaralandı",
+      "summary_tr": null
+    },
+    {
+      "title": "Guinea‑Bissau’s postponed elections leave political future uncertain",
+      "links": [
+        "https://www.dw.com/en/will-guinea-bissau-remain-trapped-in-political-chaos/a-79734069?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Geopolitics",
+      "rank": 11,
+      "summary": null,
+      "title_tr": "Gine-Bissau’da ertelenen seçimler, ülkenin siyasi geleceğini belirsizliğe sürükledi",
+      "summary_tr": null
+    },
+    {
+      "title": "Trade tariffs disrupt operations at Port Milwaukee",
+      "links": [
+        "https://www.npr.org/2026/10/24/nx-s1-6011193/trade-tariffs-cause-whiplash-at-port-milwaukee"
+      ],
+      "category": "Geopolitics",
+      "rank": 12,
+      "summary": null,
+      "title_tr": "Ticaret tarifeleri, Milwaukee Limanı’ndaki faaliyetleri aksatıyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Egypt announces willingness to provide military support to Saudi Arabia",
+      "links": [
+        "https://www.bbc.com/turkce/articles/cm4g14255xqgo?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 13,
+      "summary": null,
+      "title_tr": "Mısır, Suudi Arabistan’a askeri destek sağlamaya hazır olduğunu açıkladı",
+      "summary_tr": null
+    },
+    {
+      "title": "Arab parties’ influence in upcoming Israeli elections examined",
+      "links": [
+        "https://www.bbc.com/turkce/articles/c6e9l1nm35l4o?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 14,
+      "summary": null,
+      "title_tr": "Yaklaşan İsrail seçimlerinde Arap partilerin etkisi mercek altına alındı",
+      "summary_tr": null
+    },
+    {
+      "title": "George fielded questions on Ukraine, Russia, China, Iran and diesel issues",
+      "links": [
+        "https://geopoliticalfutures.com/george-answers-your-questions-ukraine-russia-china-iran-and-diesel/"
+      ],
+      "category": "Geopolitics",
+      "rank": 15,
+      "summary": null,
+      "title_tr": "George, Ukrayna, Rusya, Çin, İran ve dizel yakıtla ilgili konularda soruları yanıtladı",
+      "summary_tr": null
+    },
+    {
+      "title": "Bengi Başaran discusses constitution and persistent journalism issues",
+      "links": [
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX2J6Y2N5Y1ZPRGJPdHc0T2dyS0JNOUJfR0VhSlpfY01lSTBtdTBRM2tKZzFRYlpfRkkxWlFFM202cnlUVDc2MC1fZGNaNUNrUmVNZ3lrSEZIRjlPOHFUNTYwXzlFSFI5OWM2dGdORHFOeDBQY05FbnNkNEoxUGZpdjR1VVFkemhPYXU2YmZnTQ?oc=5"
+      ],
+      "category": "Geopolitics",
+      "rank": 16,
+      "summary": null,
+      "title_tr": "Bengi Başaran, anayasa ve gazetecilik alanındaki süregelen sorunları ele alıyor",
+      "summary_tr": null
+    },
+    {
+      "title": "German suspect on trial for alleged attempt to join Islamic State",
+      "links": [
+        "https://www.dw.com/en/german-national-facing-trial-for-alleged-attempt-to-join-is/a-79751032?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Geopolitics",
+      "rank": 17,
+      "summary": null,
+      "title_tr": "İslam Devleti’ne katılmaya teşebbüs ettiği iddiasıyla yargılanan Alman şüpheli",
+      "summary_tr": null
+    },
+    {
+      "title": "Turkey‑Libya maritime agreement heightens tensions with Greece and the EU",
+      "links": [
+        "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Turkey",
+      "rank": 1,
+      "summary": "Libya's parliament ratified a 2019 maritime boundary deal with Turkey, creating an economic corridor that cuts across Greece's claimed exclusive economic zone in the eastern Mediterranean. The move has drawn strong condemnation from Greece and the European Union, which argue the accord violates international law and ignores the legitimate rights of third states under UNCLOS. Ankara insists the corridor respects geography and rejects arbitration under UNCLOS, citing its own interpretation of fair maritime division. The agreement strengthens Turkey's strategic and economic ties with Libya, including joint oil and gas development and military cooperation with eastern forces loyal to General Khalifa Haftar, while threatening major infrastructure projects such as the EastMed pipeline designed to supply EU energy markets.",
+      "title_tr": "Türkiye-Libya deniz anlaşması, Yunanistan ve AB ile gerginliği tırmandırıyor",
+      "summary_tr": "Libya parlamentosu, Türkiye ile 2019 yılında imzalanan ve Doğu Akdeniz'de Yunanistan'ın münhasır ekonomik bölgesi olarak iddia ettiği alanları ihlal eden deniz sınırı anlaşmasını onayladı. Bu hamle Yunanistan ve Avrupa Birliği tarafından uluslararası hukuku ihlal eden ve UNCLOS kapsamında üçüncü devletlerin meşru haklarını görmezden gelen bir karar olarak şiddetle kınandı. Ankara ise koridorun coğrafi koşulları dikkate aldığını savunarak, UNCLOS altında tahkime karşı çıkıyor. Anlaşma; Türkiye ile Libya arasındaki stratejik ve ekonomik bağları, petrol ve doğal gaz geliştirme iş birliğini ve Doğu Libya kuvvetleriyle, General Halife Hafter’e bağlı güçlerle yürütülen askeri iş birliğini güçlendirerek, AB pazarlarına enerji tedarikini amaçlayan EastMed boru hattı gibi büyük altyapı projelerini de tehdit ediyor."
+    },
+    {
+      "title": "Turkey criticises Greece’s appointments of Turkish‑minority clergy in Western Thrace",
+      "links": [
+        "https://www.bbc.com/turkce/articles/cje36w30vwd7o?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Turkey",
+      "rank": 2,
+      "summary": "Turkey criticized Greece’s recent appointments of clergymen to muftiships in Western Thrace, where the local Turkish minority had elected its own candidates, arguing that Athens is violating religious freedoms and disregarding democratic principles. The move followed Greek appointments to the muftiships of Komotini and Xanthi, as well as Didymoteicho earlier in 2024. Both Ankara and the elected clerics condemned the appointments as discriminatory and a breach of the 1923 Lausanne Treaty, under which muftis are meant to be chosen by the Muslim community rather than appointed by the state.",
+      "title_tr": "Türkiye, Yunanistan’ın Batı Trakya’daki Türk azınlık din adamlarını atamasını eleştiriyor",
+      "summary_tr": "Türkiye, Batı Trakya’daki yerel Türk azınlık tarafından seçilen müftülerin atanmasını yapılanak Yunanistan’ın dini özgürlükleri ihlal ettiğini ve demokratik ilkeleri göz ardı ettiğini belirterek eleştirdi. Bu adım, 2024 yılında Yunanistan’ın Gümülcine ve İskeçe müftülüklerine, ayrıca daha önce Dimetoka müftülüğüne yaptığı atamalardan sonra geldi. Hem Ankara hem de seçilmiş din adamları, bu atamaları ayrımcı bir uygulama olarak nitelendirerek, 1923 Lozan Antlaşması’nın ihlali olduğunu savundular."
+    },
+    {
+      "title": "President Recep Tayyip Erdoğan visits Topkapı Palace for museum opening",
+      "links": [
+        "https://haber.mynet.com/cumhurbaskani-erdogan-kimliksizlestirme-siyasetine-firsat-vermedik-vermeyecegiz-110107318312"
+      ],
+      "category": "Turkey",
+      "rank": 3,
+      "summary": "No summary available: scraping failure",
+      "title_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, müzenin açılışı için Topkapı Sarayı’nı ziyaret etti",
+      "summary_tr": "Özet bulunmuyor: veri alma işlemi başarısız oldu"
+    },
+    {
+      "title": "Press‑freedom marches held in ten Turkish cities including Istanbul",
+      "links": [
+        "https://www.bbc.com/turkce/articles/cw77p30rplj3o?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Turkey",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "İstanbul dahil olmak üzere Türkiye’nin on şehrinde basın özgürlüğü yürüyüşleri düzenlendi",
+      "summary_tr": null
+    },
+    {
+      "title": "Phase 3 trial shows personalized mRNA vaccine cuts melanoma recurrence risk by >40%",
+      "links": [
+        "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/"
+      ],
+      "category": "Science",
+      "rank": 1,
+      "summary": "A Phase 3 clinical trial by Merck and Moderna showed that a personalized mRNA vaccine, Intismeran Autogene, combined with the immunotherapy drug Pembrolizumab, reduced the risk of melanoma recurrence or death by 42% and the risk of metastasis by 38% compared to Pembrolizumab alone. The trial involved 1,137 high-risk melanoma patients who had undergone tumor-removal surgery, with 82.2% remaining recurrence-free in the combination group versus 70% in the immunotherapy-only group after an average 24.6-month follow-up. Experts describe the findings as transformative, heralding a potential shift in early-stage melanoma treatment and personalized cancer therapy. While promising, regulatory approval and scalability remain future steps, and the vaccine is designed to treat rather than prevent the disease.",
+      "title_tr": "3. aşama klinik çalışma, kişiye özel mRNA aşısının melanom nüks riskini %40'ın üzerinde azalttığını ortaya koyuyor",
+      "summary_tr": "Merck ve Moderna tarafından yürütülen Faz 3 klinik çalışmada, personalize edilmiş mRNA aşısı Intismeran Autogene’in, immünoterapi ilacı Pembrolizumab ile birlikte kullanımının, tek başına Pembrolizumab kullanımına kıyasla melanom nüksetme veya ölüm riskini %42, metastaz riskini ise %38 azalttığı ortaya kondu. Tümörlerin cerrahi olarak çıkarıldığı 1.137 yüksek riskli melanom hastasının dahil edildiği çalışmada, kombinasyon tedavisi alan grubun %82,2’sinde herhangi bir nüksetme görülmezken, yalnızca immünoterapi alanlarda bu oran %70’de kaldı ve ortalama 24,6 aylık takip süresi sonunda gözlemlendi. Uzmanlar sonuçları, erken evre melanom tedavisinde ve kişiselleştirilmiş kanser tedavilerinde devrim niteliğinde buluş olarak tanımladı. Bununla birlikte, bu buluşun ilaç olarak onaylanması, uygulanabilirliğinin artırılması ve ölçeklendirilmesi gibi adımlar henüz atılması gereken gelecekteki aşamalar olup, aşı hastalığı önlemek yerine tedavi etmek amacıyla geliştirilmiştir."
+    },
+    {
+      "title": "U.S. records historic low birth rate while births to older women rise",
+      "links": [
+        "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc"
+      ],
+      "category": "Science",
+      "rank": 2,
+      "summary": "The U.S. birth rate fell to its lowest level ever recorded in 2025, continuing a two-decade decline, largely driven by sharp decreases among women in their 20s and teens. Meanwhile, birth rates rose among women aged 30 to 45, reflecting delayed motherhood tied to career stability, financial constraints, and personal choice. Experts link these trends to rising costs of living, limited childcare supports, and shifting priorities among younger generations, along with concerns about maternal mortality and affordability. The declining birth rate is contributing to population aging and, in some states, overall population loss.",
+      "title_tr": "ABD’de doğum oranı tarihi bir düşüş kaydederken, ileri yaştaki kadınların doğum sayısı artıyor",
+      "summary_tr": "ABD'de doğum oranı, 2025 yılında tarihteki en düşük seviyeye geriledi; bu durum genel olarak yirmi yılı aşkın bir süredir devam eden bir düşüşe işaret ediyor ve esas olarak yirmili yaşlarındaki ve ergenlik dönemindeki kadınlar arasındaki belirgin azalıştan kaynaklanıyor. Buna karşın, 30 ila 45 yaş arasındaki kadınlar arasında doğum oranları artış gösteriyor, bu durum kariyer istikrarı, finansal kısıtlamalar ve kişisel tercihlerle bağlantılı olarak anneliğin ertelenmesine bağlı olarak değerlendiriliyor. Uzmanlar, bu eğilimleri artan yaşam maliyetlerine, sınırlı çocuk bakım desteklerine, daha genç nesillerdeki öncelik değişikliklerine ve anne ölümcülüğü ile karşılanabilirlik kaygılarına dayandırıyor. Doğum oranındaki düşüş, nüfusun yaşlanmasına ve bazı eyaletlerde nüfus kaybına katkıda bulunuyor."
+    },
+    {
+      "title": "Reminiscences of Brazil’s most severe radiation accident",
+      "links": [
+        "https://www.bbc.com/turkce/articles/cr93z9v1g29ko?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Science",
+      "rank": 3,
+      "summary": "In 1987, Brazil experienced its most severe radiation accident in Goiânia when a cesium-137 source from an abandoned clinic was found and handled by scavengers. The resulting contamination exposed 249 people, resulting in four deaths, including a six-year-old child who ingested the powder. Despite cleanup efforts involving 130,000 tested individuals and the sterilization of buildings, survivors faced stigmatization, health problems, and years of legal battles over compensation. The accident led to stricter national and international regulations on radioactive material management.",
+      "title_tr": "Brezilya’nın en ciddi radyasyon kazasına dair anılar",
+      "summary_tr": "1987 yılında Brezilya, Goiânia'daki terk edilmiş bir klinikten alınan sezyum-137 kaynağının kaza sonucu bulunması ve hurdacılar tarafından elle temas edilmesiyle ülkenin en ağır radyasyon kazasını yaşadı. Ayrıca 249 kişi kontamine oldu, dördü hayatını kaybetti; bunlardan biri altı yaşındaki Leide’ydi, karanlıkta parlayan tuhaf maddeyi incelemek için elini yumağına sürdüğünde radyasyon aldığı için. Yaklaşık 130 bin kişinin test edildiği ve binaların dezenfekte edildiği dezenfeksiyon sürecine rağmen kurtulanlar damgalanma, sağlık sorunları ve telafis talepleriyle yıllarca mücadele etti; kaza ulusal ve uluslararası radyoaktif madde yönetmeliklerinin güncellenmesine yol açtı."
+    },
+    {
+      "title": "Ancient DNA reveals unexpected connections among Ice Age Europeans",
+      "links": [
+        "https://nautil.us/ice-age-europeans-were-more-connected-than-we-thought-1286066/"
+      ],
+      "category": "Science",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "Eski DNA, Buzul Çağı Avrupalıları arasında beklenmedik bağlantıları ortaya koyuyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Research suggests Laurentide Ice Sheet began expanding 2,000 years ago",
+      "links": [
+        "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/"
+      ],
+      "category": "Science",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "Araştırmalara göre, Laurentide Buz Tabakası 2.000 yıl önce genişlemeye başlamıştır",
+      "summary_tr": null
+    },
+    {
+      "title": "WHO recommendation on pregnancy glucose testing sparks criticism from Canan Karatay",
+      "links": [
+        "https://haber.mynet.com/dunya-saglik-orgutu-dso-oneriyor-canan-karatay-zehir-diyor-110107318354"
+      ],
+      "category": "Science",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "DSÖ’nün hamilelikte glikoz testi konusundaki tavsiyesi, Canan Karatay’ın eleştirilerine yol açtı",
+      "summary_tr": null
+    },
+    {
+      "title": "Study finds mother bats’ heart rates rise when hearing pups",
+      "links": [
+        "https://nautil.us/mother-bats-hearts-quicken-when-they-hear-babys-cries-1286069/"
+      ],
+      "category": "Science",
+      "rank": 7,
+      "summary": null,
+      "title_tr": "Bir araştırmaya göre, anne yarasaların yavrularının sesini duyduklarında kalp atış hızları artıyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Foods that may help maintain younger‑looking skin",
+      "links": [
+        "https://www.bbc.com/turkce/articles/crx23408y3exo?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Science",
+      "rank": 8,
+      "summary": null,
+      "title_tr": "Cildin daha genç görünmesini sağlamaya yardımcı olabilecek besinler",
+      "summary_tr": null
+    },
+    {
+      "title": "BlackX UEFI bootkit leverages Baton Drop vulnerability to evade Secure Boot",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/"
+      ],
+      "category": "Tech",
+      "rank": 1,
+      "summary": "A UEFI bootkit named BlackX, discovered in early 2026 and attributed to APT41, bypassed Secure Boot by exploiting the Baton Drop vulnerability (CVE-2022-21894). Targeting diplomatic agencies in Central Asia, BlackX disabled security solutions from Kaspersky and Avast while loading espionage payloads. Its implementation closely resembled the leaked BlackLotus bootkit, suggesting derivation from its techniques. Despite patched Windows systems, the attack succeeded due to manual revocation steps admins failed to perform, highlighting a persistent security gap.",
+      "title_tr": "BlackX UEFI bootkit, Secure Boot’u atlatmak için Baton Drop güvenlik açığından yararlanıyor",
+      "summary_tr": "2026 yılının başlarında keşfedilen ve APT41'e atfedilen BlackX adlı bir UEFI bootkit'i, Baton Drop (CVE-2022-21894) adı verilen güvenlik açığını sömürerek Secure Boot korumasını aşmayı başardı. Orta Asya'daki diplomatik kurumları hedef alan saldırıda BlackX, Kaspersky ve Avast güvenlik çözümlerini devre dışı bırakırken casusluk amaçlı yükler de yükledi. BlackX'in uygulaması, kaynak kodunun sızdırıldığı BlackLotus bootkit'ine oldukça benziyordu ve bunun tekniklerinden türetildiği düşünüldü. Tamamen yamalı Windows sistemlerine rağmen, saldırganlar bu başarısını, yöneticilerin elle gerçekleştirmesi gereken revokasyon adımlarını atlamasından faydalanarak elde etti ve bu durum güvenlik açığını kalıcı hale getirdi."
+    },
+    {
+      "title": "Data centers become a bipartisan issue in Wisconsin politics",
+      "links": [
+        "https://www.npr.org/2026/10/24/nx-s1-6011182/how-data-centers-became-a-bipartisan-political-issue-in-wisconsin"
+      ],
+      "category": "Tech",
+      "rank": 2,
+      "summary": "Data centers have become a contentious bipartisan issue in Wisconsin ahead of the midterms, as both Republican and Democratic candidates distance themselves from the industry after public backlash. Local governments like Milwaukee have enacted temporary moratoriums on new construction, while previous controversies such as the Foxconn deal fuel skepticism toward large tech investments. Concerns center on energy use, job creation, and regulatory transparency, with grassroots organizing pushing officials to prioritize community input and sustainability.",
+      "title_tr": "Veri merkezleri, Wisconsin siyasetinde iki partinin de ilgilendiği bir konu haline geldi",
+      "summary_tr": "Data merkezleri, ABD'nin orta seçimleri yaklaşırken Wisconsin'de iki partili bir sorun haline geldi; Cumhuriyetçi ve Demokrat adaylar, yerel halkın tepkisinin ardından sektöre karşı mesafeli duruş sergiliyor. Milwaukee gibi yerel yönetimler yeni inşaatlar için geçici moratoryumlar uygulamaya koyarken, Foxconn anlaşması gibi önceki tartışmalar büyük teknoloji yatırımlarına karşı güvensizliği besliyor. Enerji kullanımı, istihdam yaratılması ve düzenleyici şeffaflık endişeleriyle birlikte, toplumun taleplerini karşılamak için resmi kurumlar ve sivil toplum örgütleri, toplumsal katılım ve sürdürülebilirlik konularını önceliklendirmeye çalışıyor."
+    },
+    {
+      "title": "Analysis of why cybersecurity losses are not larger",
+      "links": [
+        "https://feeds.feedblitz.com/~/971939876/0/marginalrevolution~Why-are-cybersecurity-losses-not-worse.html"
+      ],
+      "category": "Tech",
+      "rank": 3,
+      "summary": "Cybercriminals are less sophisticated than often assumed, with most scams and fraud operations concentrated in lower-income regions like Nigeria, employing individuals facing limited formal economy opportunities. The majority of hackers work for governments or are involved in ransomware schemes, while the average attacker tends to be demographically less skilled than hypothetical elite profiles. Wages for cybercriminals are relatively low compared to local economic standards, contributing to the containment of large-scale cybersecurity losses despite persistent threats.",
+      "title_tr": "Siber güvenlik kayıplarının neden daha büyük olmadığına dair analiz",
+      "summary_tr": "Siber saldırganlar, genellikle varsayıldığı kadar sofistike değildir; çoğu dolandırıcılık ve aldatma faaliyetleri, Nijerya gibi düşük gelirli bölgelerde, resmi ekonomide daha az fırsatı olan bireyleri istihdam ederek yoğunlaşmıştır. Siber suçluların çoğu, hükümetler için çalışan ya da fidye yazılımı şemalarına dahil olan hackerlardır ve saldırganlar genellikle varsayımsal elit profillerden daha az nitelikli bir demografi oluşturmaktadır. Siber suçluların ücretleri, yerel ekonomik standartlara kıyasla nispeten düşüktür ve bu durum, süregelen tehditlere rağmen büyük ölçekli siber güvenlik kayıplarının sınırlı kalmasına katkıda bulunmaktadır."
+    },
+    {
+      "title": "2026’s top laptop picks after extensive testing",
+      "links": [
+        "https://www.wired.com/story/best-laptops/"
+      ],
+      "category": "Tech",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "Kapsamlı testlerin ardından 2026 yılının en iyi dizüstü bilgisayar seçkisi",
+      "summary_tr": null
+    },
+    {
+      "title": "Overview of a cybersecurity exchange‑traded fund",
+      "links": [
+        "https://feeds.feedblitz.com/~/971929502/0/marginalrevolution~Cybersecurity-ETF.html"
+      ],
+      "category": "Tech",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "Bir siber güvenlik borsa yatırım fonuna genel bakış",
+      "summary_tr": null
+    },
+    {
+      "title": "Top pet cameras for 2026: Furbo, Petcube, Enabot reviewed",
+      "links": [
+        "https://www.wired.com/gallery/best-pet-cameras/"
+      ],
+      "category": "Tech",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "2026'nın en iyi evcil hayvan kameraları: Furbo, Petcube ve Enabot incelemesi",
+      "summary_tr": null
+    },
+    {
+      "title": "Nine distinctive apps optimized for the iPhone Duo",
+      "links": [
+        "https://www.wired.com/story/unique-apps-to-try-on-the-iphone-duo/"
+      ],
+      "category": "Tech",
+      "rank": 7,
+      "summary": null,
+      "title_tr": "iPhone Duo için optimize edilmiş dokuz benzersiz uygulama",
+      "summary_tr": null
+    },
+    {
+      "title": "Review of Ray‑Ban Meta Audio smart glasses",
+      "links": [
+        "https://www.wired.com/review/ray-ban-meta-audio/"
+      ],
+      "category": "Tech",
+      "rank": 8,
+      "summary": null,
+      "title_tr": "Ray-Ban Meta Audio akıllı gözlük incelemesi",
+      "summary_tr": null
+    },
+    {
+      "title": "Garmin Vivoactive 5 and Forerunner 165 discounted up to 30%",
+      "links": [
+        "https://www.wired.com/story/garmin-deals-october-2026/"
+      ],
+      "category": "Tech",
+      "rank": 9,
+      "summary": null,
+      "title_tr": "Garmin Vivoactive 5 ve Forerunner 165 modellerinde %30’a varan indirim",
+      "summary_tr": null
+    },
+    {
+      "title": "Raspberry Pi Desktop runs smoothly on legacy ThinkPad hardware",
+      "links": [
+        "https://www.theregister.com/os-platforms/2026/10/24/raspberry-pi-desktop-proves-old-pcs-arent-past-it/5304676"
+      ],
+      "category": "Tech",
+      "rank": 10,
+      "summary": null,
+      "title_tr": "Raspberry Pi Desktop, eski ThinkPad donanımlarında sorunsuz bir şekilde çalışıyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Discussion on whether video games can constitute infidelity",
+      "links": [
+        "https://www.bbc.com/turkce/articles/cmx235yvwxpdo?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Tech",
+      "rank": 11,
+      "summary": null,
+      "title_tr": "Video oyunlarının sadakatsizlik sayılabileceği konusundaki tartışma",
+      "summary_tr": null
+    },
+    {
+      "title": "Econvitals platform tracks U.S. economic indicators",
+      "links": [
+        "https://feeds.feedblitz.com/~/971941955/0/marginalrevolution~Econvitals.html"
+      ],
+      "category": "Tech",
+      "rank": 12,
+      "summary": null,
+      "title_tr": "Econvitals platformu, ABD’deki ekonomik göstergeleri takip ediyor",
+      "summary_tr": null
+    }
+  ]
+}
