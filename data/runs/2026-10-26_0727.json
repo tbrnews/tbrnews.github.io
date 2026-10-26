@@ -1,0 +1,794 @@
+{
+  "schema_version": 1,
+  "stats": {
+    "last_run": "2026-10-26T06:27:47.825Z",
+    "sources_pulled": 74,
+    "headlines_read": 93,
+    "headlines_written": 83,
+    "summaries_written": 16,
+    "summaries_failed": 3,
+    "run_count": 28
+  },
+  "headlines": [
+    {
+      "title": "Researchers reveal AI coding agents compromised by malicious AGENTS.md file",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/"
+      ],
+      "category": "AI",
+      "rank": 1,
+      "summary": "Researchers demonstrated that AI coding agents like OpenAI Codex and Claude Code can be hijacked by malicious AGENTS.md files stored in the Downloads folder. A malicious instruction file, which can be silently dropped by web pages due to browser defaults, tricked agents into installing rogue packages or leaking OAuth tokens, exploiting the agents’ automatic loading of local files. The attack relies on the Downloads folder being writable by the web and commonly used as a working directory by agents. Foregoing prompt user confirmation doesn’t stop the exploit, so experts recommend running agents only in trusted project directories and reviewing instruction files carefully.",
+      "title_tr": "Araştırmacılar, kötü amaçlı AGENTS.md dosyası nedeniyle güvenliği ihlal edilen yapay zeka kodlama araçlarını ortaya çıkardı",
+      "summary_tr": "Araştırmacılar, OpenAI Codex ve Claude Code gibi yapay zeka kodlama ajanlarının, İndirilenler klasörüne yerleştirilen kötü niyetli AGENTS.md dosyalarıyla ele geçirilebildiğini gösterdi. Web sayfalarının tarayıcı varsayılanları nedeniyle sessizce indirebildiği talimat dosyaları, ajanların yerel dosyaları otomatik olarak yükleme özelliğinden yararlanarak sahte npm paketlerinin kurulmasına veya OAuth belirteçlerinin sızdırılmasına neden oldu. İndirilenler klasörünün web tarafından yazılabilir olması ve genellikle ajanlar tarafından çalışma dizini olarak kullanılması bu saldırıya olanak tanıdı. Uyarı eklentileri, kullanıcı onayını atlasa bile saldırıyı engelleyemedi; bu nedenle uzmanlar, ajanların sadece güvenilir proje dizinlerinde çalıştırılmasını ve talimat dosyalarının dikkatle incelenmesini öneriyor."
+    },
+    {
+      "title": "Possible detection of first exomoon outside the Solar System",
+      "links": [
+        "https://www.sciencedaily.com/releases/2026/10/261023023736.htm"
+      ],
+      "category": "Space",
+      "rank": 1,
+      "summary": "Astronomers using ESO's Very Large Telescope have detected evidence of an enormous, Jupiter-sized object orbiting a brown dwarf in the CD-35 2722 system, which may represent the first confirmed exomoon beyond our Solar System. This arrangement—where a massive satellite circles a substellar object that itself orbits a star—defies traditional definitions of planets and moons, challenging existing astronomical classifications. While previous candidates lacked definitive proof, this discovery is supported by measurements of the brown dwarf’s motion, offering strong yet tentative evidence. Confirmation would reshape understanding of celestial structures and planetary system formation.",
+      "title_tr": "Güneş Sistemi dışındaki ilk ekzoluun keşfi olasılığı",
+      "summary_tr": "Gök bilimciler, Avrupa Güney Gözlemevi’nin Çok Büyük Teleskobu’nu kullanarak, CD-35 2722 sisteminde Jüpiter büyüklüğünde devasa bir nesnenin, bir kahverengi cüceyi çevrelediğine dair kanıtlar tespit etmiş olup bu durum, Güneş Sistemimizin ötesindeki ilk onaylanmış dışuydu’nun keşfi olabilir. Bir yıldızın yörüngesinde dönen bir alt-yıldızsı nesnenin etrafındaki kütleli bir uydunun oluşturduğu bu yapılanma, gezegen ve uydu tanımlarını sarsmaktadır ve mevcut astronomik sınıflandırmaları zorlamaktadır. Önceki adaylar kesin kanıt eksikliğiyle karşılaşırken, bu keşif kahverengi cücenin hareketinin ölçümleriyle desteklenerek güçlü ancak henüz kesin olmayan kanıtlar sunmaktadır. Onaylanması, göksel yapılara ve gezegen sistemlerinin oluşumuna dair anlayışı yeniden şekillendirecektir."
+    },
+    {
+      "title": "Astronomers find three massive black holes in a single early‑universe galaxy",
+      "links": [
+        "https://www.sciencedaily.com/releases/2026/10/261024222000.htm"
+      ],
+      "category": "Space",
+      "rank": 2,
+      "summary": "Astronomers using the James Webb Space Telescope have discovered three actively feeding supermassive black holes within a single galaxy located over 12.5 billion light-years away, seen as it existed just 1.2 billion years after the Big Bang. The two central black holes, separated by 620 light-years, are expected to merge within hundreds of millions of years, while the third lies farther out. One black hole weighs 80 million solar masses, and another displays an unexpectedly high growth rate exceeding standard theoretical limits. The findings illuminate how massive black holes rapidly coalesced and evolved in the early universe, offering insights into future gravitational wave detection and the growth of cosmic giants.",
+      "title_tr": "Gökbilimciler, erken evrene ait tek bir galakside üç devasa kara delik keşfetti",
+      "summary_tr": "Gökbilimciler, James Webb Uzay Teleskobu'nu kullanarak, Büyük Patlama'dan sadece 1.2 milyar yıl sonraki haliyle görülen, 12.5 milyar ışık yılı ötedeki bir galakside üç aktif olarak beslenen süper kütleli kara deliğin varlığını keşfettiler. İki merkezi kara delik, 620 ışık yılı mesafeyle ayrılmış olup yüz milyonlarca yıl içinde birleşmesi bekleniyor; üçüncü kara delik ise daha uzakta yer alıyor. Bu kara deliklerden biri 80 milyon güneş kütlesine sahipken, diğeri standart teorik sınırların üzerinde olağanüstü bir büyüme hızına sahip. Bulgular, erken evrende kütleli kara deliklerin nasıl hızla birleşip evrimleştiğine ışık tutarak gelecekteki kütleçekim dalgası tespitlerine ve kozmik devlerin büyümesine dair içgörüler sunuyor."
+    },
+    {
+      "title": "Lunar meteorites provide new insights into Moon’s geological history",
+      "links": [
+        "https://www.universetoday.com/articles/rare-lunar-meteorites-could-fill-gaps-in-moons-evolution"
+      ],
+      "category": "Space",
+      "rank": 3,
+      "summary": "Lunar meteorites—rock fragments ejected from the Moon and landing on Earth—offer unique insights into the Moon’s geological past, including regions inaccessible to Apollo and Soviet missions. Unlike the limited and geographically concentrated samples returned by spacecraft, meteorites provide a more representative and random sampling of the lunar surface, potentially including material from the far side. Researchers emphasize their value despite only 835 verified specimens known, noting that unidentified provenance complicates interpretation. These meteorites are vital for testing models of the lunar magma ocean and understanding the formation of the lunar highlands crust.",
+      "title_tr": "Ay meteoritleri, Ay’ın jeolojik geçmişi hakkında yeni bilgiler sunuyor",
+      "summary_tr": "Ay’dan püskürtülerek Dünya’ya ulaşan ve meteorit olarak yeryüzüne düşen Ay kayaları, Ay’ın jeolojik geçmişine dair benzersiz bilgiler sunar. Apollo ve Sovyet görevlerinin sınırlı ve coğrafi olarak yoğunlaşmış örneklerinin aksine, meteoritler Ay yüzeyinin daha temsil edici ve rastgele bir örneğini sağlayarak, Ay’ın uzak tarafındaki materyalleri bile içerebilir. Yalnızca 835 doğrulanmış örneğin bilinmesine rağmen araştırmacılar, kaynağının bilinmemesinin yorumlamayı karmaşıklaştırdığını vurgular. Bu meteoritler, Ay magma okyanusu modellerini test etmek ve Ay’ın yüksek plato kabuğunun oluşumunu anlamak için hayati önem taşır."
+    },
+    {
+      "title": "Study reveals Milky Way’s disk formed from inside‑out, with younger stars in thinner layers",
+      "links": [
+        "https://phys.org/news/2026-10-milky-disk-grew-upside-younger.html"
+      ],
+      "category": "Space",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "Araştırma, Samanyolu’nun diskinin içten dışa doğru oluştuğunu ve daha genç yıldızların daha ince katmanlarda yer aldığını ortaya koyuyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Proposed Roberts Road expansion linked to SpaceX's upcoming Flight 16",
+      "links": [
+        "https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/"
+      ],
+      "category": "Space",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "Roberts Road’da önerilen genişletme çalışması, SpaceX’in yakında gerçekleştirilecek 16. uçuşuyla bağlantılı",
+      "summary_tr": null
+    },
+    {
+      "title": "Discovery of Saturn’s moon Iapetus in 1671",
+      "links": [
+        "https://www.astronomy.com/today-in-the-history-of-astronomy/oct-25-1671-iapetus-is-discovered/",
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObklFa0JDNHB4bmlVZWNwVDZZZi0zMk9sYklpT0FpQURIZVBrSEQ5dTEwRFZYVk9qWlM5dnNndExlYVhXWTc3eU44MVhMZnUxZzJPLVMtams0X2RHNm9CR1dZaVFMT0ozMEZhODY5ZV85VXRfTm9Jb0JOQjJWOEJSMWt2M0ZoSTliaE9aSTRUT2NJNlVHb09LWEoxV0F4amhiZk1pSThNV1hSYW1GcG5RVXhuNUJOTlhoNnpBbGF5ZFk0aUIzQXVRWjZTY2Y3TEptU2pUZGJuWQ?oc=5"
+      ],
+      "category": "Space",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "1671’de Satürn’ün uydusu Iapetus’un keşfi",
+      "summary_tr": null
+    },
+    {
+      "title": "UK space debris removal mission dubbed 'Binface'",
+      "links": [
+        "https://www.theregister.com/offbeat/2026/10/25/reg-readers-land-on-binface-as-name-for-uk-space-cleanup-mission/5305144"
+      ],
+      "category": "Space",
+      "rank": 7,
+      "summary": null,
+      "title_tr": "“Binface” olarak adlandırılan Birleşik Krallık uzay enkazı temizleme görevi",
+      "summary_tr": null
+    },
+    {
+      "title": "Astronomy Picture of the Day: Simulated universe showing dark matter",
+      "links": [
+        "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/"
+      ],
+      "category": "Space",
+      "rank": 8,
+      "summary": null,
+      "title_tr": "Günün Astronomi Fotoğrafı: Karanlık maddeyi gösteren simüle edilmiş evren",
+      "summary_tr": null
+    },
+    {
+      "title": "Saturn’s moon Dione visible transiting the planet on Oct 25",
+      "links": [
+        "https://www.astronomy.com/observing/the-sky-today-sunday-october-25-2026/"
+      ],
+      "category": "Space",
+      "rank": 9,
+      "summary": null,
+      "title_tr": "25 Ekim’de Satürn’ün uydusu Dione, gezegenin önünden geçerken görülebilecek",
+      "summary_tr": null
+    },
+    {
+      "title": "October's Hunter's Moon rises tonight; viewing information",
+      "links": [
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSzF4R3BRQ0tja3RYWW1wRzFhTmk4ZnpJS2oyMzVYY1J2bFgxU3RsN29YNDdRRUk2VG5sZDhJQXotTHk5cDAwWnZUdnFHSE04QWxheXlodVpFWDdlS2N2V2J5OUEtM2RXdUtjTU1sQkdWX19ZY2p4VHRuRkFuUzVGeHVYby0tQjdnX0NtUHBLUDlZS1k1U0pUNEFRVXVZQXYwTlRYNURZcEdvWnU3Tnc1NTVHVVRpT1Jn?oc=5"
+      ],
+      "category": "Space",
+      "rank": 10,
+      "summary": null,
+      "title_tr": "Ekim Ayı’nın Avcı Ayı bu gece doğacak; gözlem bilgileri",
+      "summary_tr": null
+    },
+    {
+      "title": "Serbian President Aleksandar Vucic concedes defeat in snap election",
+      "links": [
+        "https://haber.sol.org.tr/haber/sirbistanda-vucic-yenilgiyi-kabul-etti-secimi-kaybettik-415392",
+        "https://haber.mynet.com/sirbistan-da-basbakan-adayi-vucic-erken-genel-secimi-kaybettiklerini-acikladi-110107318563",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMnloNU5mZ2xZZU9ZTHVhWm13ZC05Y0I0R3VXeEFLN1pnODlMM05TbVljYm5hNFVoSXBmcTh0MkIzM1AxOWYzUktLWkpvNUhNX005Tkt0Q3Q5N2Q5LVlydGNMY2xkMkNsMGMtbjVkaDVDYXpQTnM1OE1KT3VpRUxnMk05aTBzTlR1dm9wRm1aU25EV2hta1VWbFl3UV9rVUwzVFE?oc=5",
+        "https://www.dw.com/en/serbia-election-vucic-concedes-defeat-to-student-led-movement/a-79753482?maca=en-rss-en-all-1573-xml-mrss",
+        "https://www.france24.com/en/europe/20261025-serbia-s-vucic-concedes-defeat-in-historic-snap-election-with-record-turnout"
+      ],
+      "category": "Geopolitics",
+      "rank": 1,
+      "summary": "Serbian President Aleksandar Vučić has conceded defeat in a snap election, marking a significant shift in the country’s political landscape. Independent observer groups reported widespread irregularities and called for a repeat vote, heightening pressure on Vučić’s administration. The opposition, led by coalitions like the Serbia Against Violence movement, declared victory based on incomplete but consistent results. The election’s outcome reflects growing public dissatisfaction with Vučić’s long-standing rule after years of allegations regarding media suppression and electoral integrity.",
+      "title_tr": "Sırbistan Cumhurbaşkanı Aleksandar Vučić, erken seçimlerde yenilgiyi kabul etti",
+      "summary_tr": "Sırbistan Devlet Başkanı Aleksandar Vuçiç, erken seçimde yenilgiyi kabul etti ve bu durum ülkenin siyasi manzarasında önemli bir değişimi işaret ediyor. Bağımsız gözlemci grupları yaygın usulsüzlükler rapor etti ve seçimlerin tekrarlanması çağrısında bulundu; bu durum Vuçiç'in yönetimine yönelik baskıları artırdı. Muhalefet, Sırbistan'da Şiddete Karşı Hareket gibi koalisyonların liderliğinde, eksik ancak tutarlı sonuçlar temelinde zaferini ilan etti. Seçimin sonucu, medya baskısı ve seçim bütünlüğüyle ilgili yıllardır süregelen iddiaların ardından Vuçiç'in uzun süredir devam eden iktidarına yönelik artan halk memnuniyetsizliğini yansıtıyor."
+    },
+    {
+      "title": "Brazilian presidential runoff set between Lula and Flávio Bolsonaro",
+      "links": [
+        "https://www.dw.com/en/brazil-votes-in-tight-runoff-between-leftist-lula-and-right-wing-flavio-bolsonaro/a-79753924?maca=en-rss-en-all-1573-xml-mrss",
+        "https://www.france24.com/en/tv-shows/spotlight/20261025-lula-s-legacy-flavio-s-future"
+      ],
+      "category": "Geopolitics",
+      "rank": 2,
+      "summary": "Brazil held a presidential runoff election on Sunday between incumbent Luiz Inacio Lula da Silva and Flavio Bolsonaro, son of the former right-wing president. Lula, running for a fourth non-consecutive term, faces off against Flavio Bolsonaro, who leads in vote share from the first round and has campaigned on tougher crime policies and freeing his imprisoned father. The election’s outcome will shape Brazil’s political direction and influence U.S. relations in Latin America, with Lula advocating continued social policies and Bolsonaro positioning himself closer to Washington. Over 33 million eligible voters abstained in the first round, leaving their mobilization pivotal for the tight runoff. Preliminary results were expected Sunday night.",
+      "title_tr": "Brezilya cumhurbaşkanlığı seçimlerinin ikinci turu Lula ile Flávio Bolsonaro arasında yapılacak",
+      "summary_tr": "Brezilya, Pazar günü görevdeki Lula İncio Lula da Silva ile eski sağcı başkanın oğlu Flavio Bolsonaro arasında yapılacak cumhurbaşkanlığı ikinci tur seçimine sahne oldu. Dört dönem için yarışan Lula’nın rakibi olan Flavio Bolsonaro, ilk tur seçimlerinde daha fazla oy alarak öne geçti ve hapisteki babasını serbest bırakma ve daha sert suç politikaları izleme sözü verdi. Seçimin sonucu Brezilya’nın siyasi yönelimini ve Latin Amerika’daki ABD nüfuzunu belirleyecek; Lula sosyal politikaları sürdürmeyi, Bolsonaro ise ABD ile daha yakın bir duruş sergilemeyi vaat ediyor. İlk turda yaklaşık 33 milyon kayıtlı seçmen sandığa gitmeyerek, yakın geçen ikinci turda kilit rol oynayabilir. Ön sonuçlar Pazar akşamı beklenmekteydi."
+    },
+    {
+      "title": "Israel faces polarized climate ahead of crucial election",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 3,
+      "summary": "Israel holds a pivotal election on Tuesday in a deeply polarized political climate following three years of regional war and the October 7 Hamas-led attacks on southern Israel. The vote pits the governing right-wing coalition led by Benjamin Netanyahu against a competing bloc led by the centrist former military chief Gadi Eisenkot, with polls showing a near tie and first-time voters playing a decisive role. Key fault lines include demands for a state commission to investigate the October 7 failures, and deep divisions over Netanyahu’s judicial reforms amid accusations they threaten Israel’s democracy. While security and the ongoing Gaza war dominate the campaign, differences between rivals on core issues like settlements and Palestinian statehood are narrower than the rhetoric suggests.",
+      "title_tr": "İsrail, kritik seçimler öncesinde kutuplaşmış bir ortamla karşı karşıya",
+      "summary_tr": "İsrail, 7 Ekim'de Hamas liderliğindeki saldırıların ardından yaşanan üç yıllık bölgesel savaşların ve derin siyasal kutuplaşmanın ardından Salı günü bir pivot seçim gerçekleştirecek. Seçim, başbakan Benjamin Netanyahu liderliğindeki sağcı koalisyon ile eski Genelkurmay Başkanı Gadi Eisenkot'un başını çektiği merkez çizgideki rakip bloğun arasındaki mücadeleye sahne oluyor; anketler ise neredeyse eşit bir rekabete ve ilk kez oy kullanacak seçmenlerin belirleyici rolüne işaret ediyor. Ana ayrışma noktaları arasında, 7 Ekim'deki başarısızlıkların araştırılması için devlet soruşturması komisyonu talebi ile Netanyahu'nun yargı sistemini zayıflatma çabalarına yönelik tehdit olarak görülen İsrail demokrasisine yönelik endişeler yer alıyor. Güvenlik ve devam eden Gazze savaşı seçim kampanyasının odak noktası olurken, yerleşimler ve Filistin devletinin kurulması gibi temel konularda rakipler arasındaki farklılıklar, retorikten daha dar bir çerçeveye sahip."
+    },
+    {
+      "title": "Elon Musk claims SpaceX limited Ukraine’s Starlink use, then restored service",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "Elon Musk, SpaceX’in Ukrayna’daki Starlink kullanımını kısıtladığını, ardından da hizmeti yeniden sağladığını iddia ediyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Iran threatens to target all German military bases if Berlin joins attacks",
+      "links": [
+        "https://haber.sol.org.tr/haber/irandan-almanyaya-uyari-tum-askeri-us-ve-tesisleriniz-hedef-olur-415393"
+      ],
+      "category": "Geopolitics",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "İran, Berlin’in saldırılara katılması halinde tüm Alman askeri üslerini hedef alacağı tehdidinde bulundu",
+      "summary_tr": null
+    },
+    {
+      "title": "US telcos alert FCC as Musk plans SpaceX‑based phone network by 2028",
+      "links": [
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWXc0TzBOUndZQ1Q2Y0xrRlZMZmU5VlhhWm1tOEt5WXhHaERMeFE4TjhWUnFlTzl5bDBrZFFxWDhxNXdreEpOdU9zQkUtQi12QUZ5SkZMdnFPNjlsUlBUNmxZcGpKaHl6Yzg5aTd1eU9aYm5RdkVUMEZiWC1uenY3ZHlpX0N1UFVjM1dVZWdhNVgtT1U2?oc=5"
+      ],
+      "category": "Geopolitics",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "Musk’ın 2028 yılına kadar SpaceX tabanlı bir telefon ağı kurmayı planlaması üzerine ABD’li telekom şirketleri FCC’yi uyardı",
+      "summary_tr": null
+    },
+    {
+      "title": "Binyamin Netanyahu seeks possible seventh term as Israeli prime minister",
+      "links": [
+        "https://www.bbc.com/turkce/articles/c94g1p2m21xlo?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 7,
+      "summary": null,
+      "title_tr": "Binyamin Netanyahu, İsrail başbakanı olarak yedinci dönem görevini üstlenmeyi hedefliyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Israel closes West Bank crossings on election day",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+        "https://www.dw.com/en/israel-to-close-all-west-bank-land-crossings-on-election-day/a-79755010?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Geopolitics",
+      "rank": 8,
+      "summary": null,
+      "title_tr": "İsrail, seçim gününde Batı Şeria’daki geçiş noktalarını kapattı",
+      "summary_tr": null
+    },
+    {
+      "title": "Marine Le Pen launches French presidential campaign in Orléans, presenting 'Renaissance' platform",
+      "links": [
+        "https://www.france24.com/en/video/20261025-marine-le-pen-launches-presidential-campaign-in-orl%C3%A9ans",
+        "https://www.france24.com/en/tv-shows/spotlight/20261025-le-pen-s-renaissance-4th-time-lucky"
+      ],
+      "category": "Geopolitics",
+      "rank": 9,
+      "summary": null,
+      "title_tr": "Marine Le Pen, Orléans’ta Fransa cumhurbaşkanlığı seçim kampanyasını başlatarak “Rönesans” adlı seçim programını tanıttı",
+      "summary_tr": null
+    },
+    {
+      "title": "Russia selected to host International Weightlifting Federation world championships post‑Ukraine invasion",
+      "links": [
+        "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 10,
+      "summary": null,
+      "title_tr": "Rusya, Ukrayna’nın işgalinin ardından Uluslararası Halter Federasyonu dünya şampiyonasına ev sahipliği yapmak üzere seçildi",
+      "summary_tr": null
+    },
+    {
+      "title": "UN proposes measures to reduce aircraft holding patterns before landing",
+      "links": [
+        "https://news.un.org/feed/view/en/story/2026/10/1168666"
+      ],
+      "category": "Geopolitics",
+      "rank": 11,
+      "summary": null,
+      "title_tr": "BM, iniş öncesi uçakların bekleme turlarını azaltmaya yönelik önlemler önerdi",
+      "summary_tr": null
+    },
+    {
+      "title": "US‑backed opposition figure Machado returns to Venezuela after exile",
+      "links": [
+        "https://haber.sol.org.tr/haber/abdnin-gozden-dusmus-kuklasi-machado-yeniden-venezuelada-415388"
+      ],
+      "category": "Geopolitics",
+      "rank": 12,
+      "summary": null,
+      "title_tr": "ABD destekli muhalefet lideri Machado, sürgünden sonra Venezuela’ya döndü",
+      "summary_tr": null
+    },
+    {
+      "title": "Trump says he may consider bombing Iran again",
+      "links": [
+        "https://haber.mynet.com/trump-tan-iran-aciklamasi-tekrar-bombalama-ihtimalim-var-110107318420"
+      ],
+      "category": "Geopolitics",
+      "rank": 13,
+      "summary": null,
+      "title_tr": "Trump, İran’ı yeniden bombalamayı düşünebileceğini söyledi",
+      "summary_tr": null
+    },
+    {
+      "title": "French authorities report over a thousand arrests during nationwide protests",
+      "links": [
+        "https://www.dw.com/en/france-hundreds-arrested-after-nationwide-protests/live-79748223?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Geopolitics",
+      "rank": 14,
+      "summary": null,
+      "title_tr": "Fransız yetkililer, ülke çapındaki protestolar sırasında binden fazla kişinin gözaltına alındığını bildirdi",
+      "summary_tr": null
+    },
+    {
+      "title": "Venezuelan opposition leader María Corina Machado returns from exile",
+      "links": [
+        "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile"
+      ],
+      "category": "Geopolitics",
+      "rank": 15,
+      "summary": null,
+      "title_tr": "Venezüella muhalefet lideri María Corina Machado sürgünden döndü",
+      "summary_tr": null
+    },
+    {
+      "title": "Israeli electorate faces pivotal election amid war fatigue",
+      "links": [
+        "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu"
+      ],
+      "category": "Geopolitics",
+      "rank": 16,
+      "summary": null,
+      "title_tr": "Savaş yorgunluğunun yaşandığı bir ortamda İsrail seçmenleri kritik bir seçimle karşı karşıya",
+      "summary_tr": null
+    },
+    {
+      "title": "Democrats look to independent Senate candidates in Nebraska and Montana to challenge Republicans",
+      "links": [
+        "https://www.npr.org/2026/10/25/nx-s1-5995460/midterms-independent-candidates-nebraska-montana"
+      ],
+      "category": "Geopolitics",
+      "rank": 17,
+      "summary": null,
+      "title_tr": "Demokratlar, Cumhuriyetçilere rakip olmak için Nebraska ve Montana’daki bağımsız Senato adaylarına göz dikiyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Lessons for US data‑center opposition from international experiences",
+      "links": [
+        "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/"
+      ],
+      "category": "Geopolitics",
+      "rank": 18,
+      "summary": null,
+      "title_tr": "Uluslararası deneyimlerden ABD’deki veri merkezi karşıtı hareketlere yönelik dersler",
+      "summary_tr": null
+    },
+    {
+      "title": "Paris suburb shooting suspect placed under psychiatric observation",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 19,
+      "summary": null,
+      "title_tr": "Paris banliyösündeki silahlı saldırı şüphelisi psikiyatrik gözlem altına alındı",
+      "summary_tr": null
+    },
+    {
+      "title": "Gabon reinstates social media access after eight‑month prohibition",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 20,
+      "summary": null,
+      "title_tr": "Gabon, sekiz aylık yasağın ardından sosyal medyaya erişimi yeniden sağladı",
+      "summary_tr": null
+    },
+    {
+      "title": "Budget and staffing concerns may delay creation of autonomous command AUTOWARCOM",
+      "links": [
+        "https://www.defenseone.com/threats/2026/10/funding-hegseth-autonomous-command/416800/"
+      ],
+      "category": "Geopolitics",
+      "rank": 21,
+      "summary": null,
+      "title_tr": "Bütçe ve personel konusundaki endişeler, otonom komuta merkezi AUTOWARCOM’un kurulmasını geciktirebilir",
+      "summary_tr": null
+    },
+    {
+      "title": "Greek PM Mitsotakis says Saudi Arabia's Patriot battery request will be honored in Riyadh",
+      "links": [
+        "https://haber.sol.org.tr/haber/micotakis-riyadda-yunanistan-suudi-arabistanin-patriot-bataryasi-talebini-kabul-etti-415389"
+      ],
+      "category": "Geopolitics",
+      "rank": 22,
+      "summary": null,
+      "title_tr": "Yunanistan Başbakanı Mitsotakis, Suudi Arabistan’ın Patriot füze bataryası talebinin Riyad’da karşılanacağını söyledi",
+      "summary_tr": null
+    },
+    {
+      "title": "Young Australian investor considers relocating due to tax changes",
+      "links": [
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORVc3Wm4wVWx3ODJCcUZfNW1qODFKUEduM3N6cFJLVWR0M3hzR0NxZUxBSGJtd2pqM1RvUlRFLWw3dzgzTGdZMFdIbE5nMWxJbW15UXFuUTBaX2dqOXpQaDFmbGxLOTY2V2FrUXFJcllnajRDV3VMZjE5cndiYVhsV3Axd0lJZ2NLN0NVZzBYOUxxNWJ0X01rdnJ0OVdqcHhmUU9BUnE5Um1mUFAzcDE4ZS1fcjJlVjEyOUVRY1d3RTdsUTZsSkpKYWQ4WExTU3lxR3ZGdXJoUHpmQQ?oc=5"
+      ],
+      "category": "Geopolitics",
+      "rank": 23,
+      "summary": null,
+      "title_tr": "Genç Avustralyalı yatırımcı, vergi değişiklikleri nedeniyle başka bir yere taşınmayı düşünüyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Comparison shows inflation lower under Trump than Biden, yet voter frustration persists",
+      "links": [
+        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdnBPejdqejdJRVZfSFhLa2thLXF5dFdTYTRyY2E5SEcwV0R3QnI4ZHFqeGFvcUZudkh5ejZBV2RfSEhxTTFreG9Ic21ydHdQQWFJXzU2SXJ5bkgwbU5lUjFoNmhYSU5EaUNGamVHcFZvMTJmLW5KeEF6Mll6b0RDV3BoNGItdUhyR2I3Nm83RVVMX0w5djJfMnl2NUxMcjhHWXRXMzVBaVhXVnloaGpza0I0Y2NHNVNxR0FpcUs1bF9ickNWU3dXOC1YUWFjTnAwSTRpODNfN0lyejBqdmpoZnVsNlh6WERPRVE?oc=5"
+      ],
+      "category": "Geopolitics",
+      "rank": 24,
+      "summary": null,
+      "title_tr": "Karşılaştırma, Trump döneminde enflasyonun Biden dönemine göre daha düşük olduğunu gösteriyor, ancak seçmenlerin hoşnutsuzluğu devam ediyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Rahul Gandhi calls for protest against voter roll changes and schedules rally on Nov 1",
+      "links": [
+        "https://www.dw.com/en/india-news-rahul-gandhi-urges-protest-against-voter-deletions-announces-november-1-rally/live-79748098?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Geopolitics",
+      "rank": 25,
+      "summary": null,
+      "title_tr": "Rahul Gandhi, seçmen kütüğündeki değişikliklere karşı protesto çağrısında bulundu ve 1 Kasım’da bir miting düzenleyeceğini duyurdu",
+      "summary_tr": null
+    },
+    {
+      "title": "Attorney General Blanche defends DOJ lawsuit contesting Alaska Senate results",
+      "links": [
+        "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses"
+      ],
+      "category": "Geopolitics",
+      "rank": 26,
+      "summary": null,
+      "title_tr": "Başsavcı Blanche, Alaska Senato seçim sonuçlarına itiraz eden Adalet Bakanlığı’nın açtığı davayı savunuyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Debate in Azerbaijan over President Aliyev's stance on headscarves and historical legacy",
+      "links": [
+        "https://www.bbc.com/turkce/articles/cq80zxkx40l7o?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 27,
+      "summary": null,
+      "title_tr": "Azerbaycan’da Cumhurbaşkanı Aliyev’in başörtüsü konusundaki tutumu ve tarihsel mirası üzerine tartışma",
+      "summary_tr": null
+    },
+    {
+      "title": "UK government departments dispute responsibilities for new datacenter projects",
+      "links": [
+        "https://www.theregister.com/public-sector/2026/10/25/want-to-build-a-uk-datacenter-please-hold-while-whitehall-transfers-you/5304956"
+      ],
+      "category": "Geopolitics",
+      "rank": 28,
+      "summary": null,
+      "title_tr": "İngiltere’deki devlet daireleri, yeni veri merkezi projelerinin sorumluluğu konusunda anlaşmazlık yaşıyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Europe ends daylight‑saving clocks, widening time difference with Turkey",
+      "links": [
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZGlQaWNxMGdVbk85d2ZLVDhDbHVyZmhxTWMzaFZyWHNPVFdjblkyM1FKVDBsWE1xajdvQnhFUUdpUUR4MGZTbnNDQ2VfUm1VSElmTkhsMzY0WEFjUVp6MmMtWWRTeUUwckV5ZDBWOWVGM0JJYTdCdkZYbHBfTnRVUFRiQXFVOU1OcXl0dVEwNTVmNWFyOVVDamwtWnBiVjk2LVNVanpMNzBpLUg0akVTZzFVV2s?oc=5"
+      ],
+      "category": "Geopolitics",
+      "rank": 29,
+      "summary": null,
+      "title_tr": "Avrupa yaz saati uygulamasını sona erdirdi; Türkiye ile saat farkı daha da arttı",
+      "summary_tr": null
+    },
+    {
+      "title": "Turkish presidential advisor Oktay Saral dismissed, reportedly over Azerbaijan remarks",
+      "links": [
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSmcyb2VrSC1HeHB4RjB6Z1ZycHNVLUNaY2t5bTN3MERORkNsN0tXZDJLWlhVN0VSZ0UtLWdmTzBwT2I2QkY3dnZVdmswclhnRE14WGdZU2V1dUNMdml0NWlXNndRTTVWNE9qZm56bV9Rdy1CM2d3ZzlFbXRRbG5sWVFWSnhweXhDNlFnMERaU21EX0lMZklJczZOUllEUDZxOXlBb1hrUjZZdUFYclMyaHFjeGxVam5S?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 1,
+      "summary": "No summary available: scraping failure",
+      "title_tr": "Türk cumhurbaşkanlığı danışmanı Oktay Saral’ın, Azerbaycan’la ilgili açıklamaları nedeniyle görevden alındığı bildirildi",
+      "summary_tr": "Özet bulunmuyor: veri alma işlemi başarısız oldu"
+    },
+    {
+      "title": "Mine manager arrested after fatal Zonguldak mining accident",
+      "links": [
+        "https://haber.sol.org.tr/haber/uc-isci-yasamini-yitirmisti-zonguldaktaki-madenin-isletme-muduru-tutuklandi-415390"
+      ],
+      "category": "Turkey",
+      "rank": 2,
+      "summary": "In Zonguldak's Kilimli district, a methane gas explosion at a licensed private mine killed three workers and injured five on October 23. The fugitive mine manager, M.K., was arrested in Ankara and remanded in custody on charges of voluntary manslaughter and injury. Three others—owner M.S.D., safety expert E.Y., and mining engineer Y.Ç.—had already been jailed for the same incident.",
+      "title_tr": "Zonguldak’ta meydana gelen ölümcül maden kazasının ardından maden müdürü gözaltına alındı",
+      "summary_tr": "Zonguldak'ın Kilimli ilçesindeki ruhsatlı özel maden ocağında 23 Ekim'de meydana gelen metan gazı patlamasında üç işçi yaşamını yitirdi ve beş işçi de yaralandı. Firari maden işletme müdürü M.K., Ankara'da yakalanarak tutuklandı ve kasıtlı adam öldürme ile yaralama suçlarından cezaevine gönderildi. Aynı olay kapsamında maden sahibesi M.S.D., iş sağlığı ve güvenliği uzmanı E.Y. ve maden mühendisi Y.Ç. de daha önce tutuklanmıştı."
+    },
+    {
+      "title": "Around 200 former Yeni Party members join CHP in İzmir",
+      "links": [
+        "https://haber.sol.org.tr/haber/izmirde-yeni-partiden-istifa-eden-yaklasik-200-kisi-chpye-katildi-415387"
+      ],
+      "category": "Turkey",
+      "rank": 3,
+      "summary": "Approximately 200 members, including the Buca district founding executives of the New Party (Yeni Parti), resigned and joined Turkey’s main opposition Republican People’s Party (CHP) in İzmir. The CHP welcomed the new members at a ceremony where they received membership badges from local leaders, with the İzmir provincial chair framing the move as a return to the party’s ideological roots. The development reflects a broader trend of affiliation shifts amid political tensions and institutional competition in Turkey.",
+      "title_tr": "İzmir’de yaklaşık 200 eski Yeni Parti üyesi CHP’ye katıldı",
+      "summary_tr": "Yeni Parti’nin (Yeni Parti) Buca ilçe kurucu yöneticileri de dahil olmak üzere yaklaşık 200 üye, görevlerinden istifa ederek Türkiye’nin ana muhalefet partisi Cumhuriyet Halk Partisi’ne (CHP) katıldı. CHP, yeni üyeleri yerel yöneticilerden rozetlerini aldıkları bir törenle karşıladı; İzmir il başkanı, bu hareketi partinin ideolojik köklerine dönüş olarak yorumladı. Siyasi gerginlikler ve kurumsal rekabetin hüküm sürdüğü Türkiye’de, aidiyet değişikliklerinin yaşandığına dair bir eğilimi yansıtan bu gelişme gerçekleşti."
+    },
+    {
+      "title": "Fatal head‑on collision in Ankara leaves three dead",
+      "links": [
+        "https://haber.mynet.com/ankara-da-korkunc-kaza-kafa-kafaya-carpistilar-3-olu-110107318441"
+      ],
+      "category": "Turkey",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "Ankara’da meydana gelen ölümcül kafa kafaya çarpışma sonucu üç kişi hayatını kaybetti",
+      "summary_tr": null
+    },
+    {
+      "title": "AK Party deputy head Şen remarks on alleged fund crisis",
+      "links": [
+        "https://haber.mynet.com/ak-parti-genel-baskan-yardimcisi-sen-den-dikkat-ceken-fon-krizi-cikisi-110107318418"
+      ],
+      "category": "Turkey",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "AK Parti Genel Başkan Yardımcısı Şen, iddia edilen fon kriziyle ilgili açıklama yaptı",
+      "summary_tr": null
+    },
+    {
+      "title": "Turkey Insurance deputy director Özer taken into custody in fund investigation",
+      "links": [
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ1R0b1NpVXFhUU01dEJHUjFsVDhNQXNuUW4yRzgxNHlnMzV4VHdWRExBQUJSQzhXcmsxdlo4Z0NKVzVSRkZpeXJjcEQ0V1BWQTVSOXlDX0haZWNNRG1BY3YwZFZGRWlLX3pTYUx1c3ZrcXNSTW5seGgzeml6clVpaW5RZmc2VmZsVGR5NTI4RlpNeEd4bzhYdzZMTEhGNTEydDMwY3U1dV9aNl9Qc1BQd1Vtc1dMVF93OXc?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "Türkiye Sigorta’nın müdür yardımcısı Özer, fon soruşturması kapsamında gözaltına alındı",
+      "summary_tr": null
+    },
+    {
+      "title": "Former AK Party MP Ertan Aydın arrested",
+      "links": [
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS0tUV3hHdWJ1UEtSVVJfQUpLRm1WVjBGemlCNi1qbTFHdll2RUh3SFVYUThhbWhGUVR0T0FPNkc4aVQzSXJGQ0N4Y0ZFVkF5dXI4WlNjdVFiTFU5NFVXUDJ5cUVNbGd1ZGF4dHNnV1JfQjlIcEwwU3Z2dVhLQkJtS0pfREk3MVRvN3BIb2xUcENVYzFILUtrSHJsV2NmMWZBVVNRZi1jQQ?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 7,
+      "summary": null,
+      "title_tr": "AK Parti'nin eski milletvekili Ertan Aydın gözaltına alındı",
+      "summary_tr": null
+    },
+    {
+      "title": "Ümit Kocasakal elected president of Istanbul Bar Association",
+      "links": [
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUmtmLVF2R1o5dVpKV2RLbERGVmhOVnNLa2NnN3NyS2dtbEhBbmhyTFlScjBlLU93and5aXJmRVlic3JETm43dWFiT0o1MDNwM1d1ZUJMamdlZzVLd2hyNmF5eU51Zm1iTUhrRGxQMGlwb21BUTZHWV9uRjJnTmFxU0tZd0VNMEwxNHZCUC1WVE0wdzI2ZFo3VWYwRDAxN255cnNvMUVuWVdnVWlYbFhWQVJVRmFNTWJ3?oc=5",
+        "https://www.bbc.com/turkce/articles/cq8jz33m09j1o?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Turkey",
+      "rank": 8,
+      "summary": null,
+      "title_tr": "Ümit Kocasakal, İstanbul Barosu Başkanı seçildi",
+      "summary_tr": null
+    },
+    {
+      "title": "Turkish Justice Minister Akın Gürlek says voluntary fund returns do not end investigations",
+      "links": [
+        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd09vbldidzhhazE4V3JoVHdXOVUzUHVIUnEtS1FoMmNYc2dEVFhnRjA1S0lIdTFJR2p3VFVkWl90cFZsUlB6c212bjRiU0tNYVBPcVlqVUZnaHNoOWY0VVNkZFJMYzlVNENpQXZBRVZMSk02SlU0SG50TDhMUFh6aHpwZTd6YURVdGdNRjZoR2FWd0dYVE1KbWNUakNMTEhwMEpzNkZKRFBOeFZiQ0hqalNPTGhsdWxfeE95WWdmam11dkQzcFZ4YjJzbmRDYkNhbmRZSk9lY0NrQmV4clE?oc=5",
+        "https://www.bbc.com/turkce/articles/c5rmy7wkek47o?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Turkey",
+      "rank": 9,
+      "summary": null,
+      "title_tr": "Türkiye Adalet Bakanı Akın Gürlek, gönüllü olarak fonların iadesinin soruşturmaları sonlandırmadığını belirtti",
+      "summary_tr": null
+    },
+    {
+      "title": "Turkish actor Menderes Samancılar dedicates award to press workers, stresses free press",
+      "links": [
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOelAyQ1VKVWhsVHVqZ1lsb255V0l1M1hWalZraDBYT0xLQUZCLWIwaXI4T2FOaGRvaGpSWm15NU1JSng4R0d0Qm9DWFF4d2xKS2RoVjdmQnNMdjEzNG9NWTRZMkZGWTFGQTdUcnBLQ3dPc0loZDdKSFU4X185a1lWMWM5QnVKdnpoVzE4UFNVbF9rWjUzUDhfZVVGdDRVMWlLUk8yRTEySVFGNDFBQzlsQ0J5S0o2UHhHem5zYVh3UHRkSTNhM0VUMU9hUWNIVEpJMkl2TUtXaU1DYjM1?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 10,
+      "summary": null,
+      "title_tr": "Türk oyuncu Menderes Samancılar, ödülünü basın çalışanlarına ithaf etti ve basın özgürlüğünün önemini vurguladı",
+      "summary_tr": null
+    },
+    {
+      "title": "U.S. measles cases more than double previous year, with Pennsylvania most affected",
+      "links": [
+        "https://www.npr.org/2026/10/25/nx-s1-6016205/measles-outbreak-pennsylvania"
+      ],
+      "category": "Science",
+      "rank": 1,
+      "summary": "The U.S. is experiencing its worst measles resurgence in decades, with over 4,580 cases reported since October 2026—more than double the total from 2025. Pennsylvania is the hardest-hit state, with 1,338 confirmed cases across 44 counties, resulting in 250 hospitalizations and five deaths. Nationwide, 96% of measles cases involve unvaccinated or incompletely vaccinated individuals. Amish communities in Lancaster and Mifflin counties, which have low vaccination rates, are heavily affected. Health officials emphasize that vaccination remains the most effective protection against the virus.",
+      "title_tr": "ABD’deki kızamık vakaları geçen yıla göre iki katından fazla arttı; en çok etkilenen eyalet ise Pennsylvania oldu",
+      "summary_tr": "ABD, tarihteki en kötü kızamık salgınlarından birini yaşamaktadır ve Ekim 2026'dan bu yana 4.580'den fazla vaka bildirilmiştir; bu sayı 2025 yılındaki toplamdan iki kat fazladır. Pennsylvania en kötü şekilde etkilenen eyalettir ve 44 ilçede 1.338 doğrulanmış vakaya, 250 hastaneye yatışa ve beş ölüme yol açmıştır. Ülke genelinde kızamık vakalarının %96'sında aşılanmamış veya eksik aşılanmış bireyler yer almaktadır. Aşılama oranlarının düşük olduğu Lancaster ve Mifflin ilçelerindeki Amish toplulukları ciddi şekilde etkilenmektedir. Sağlık yetkilileri, aşının virüse karşı en etkili koruma olduğunu vurgulamaktadır."
+    },
+    {
+      "title": "Homemade synthetic drugs worsen U.S. opioid crisis",
+      "links": [
+        "https://www.bbc.com/turkce/articles/c6z98312xk51o?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Science",
+      "rank": 2,
+      "summary": "Homemade synthetic opioids, particularly illicitly manufactured fentanyl combined with veterinary tranquilizers like xylazine and medetomidine, are worsening the U.S. opioid crisis by increasing overdose deaths and complicating emergency responses. These substances are cheap, potent, and widely available but undetectable without specialized testing, forcing communities to rely on naloxone (Narcan) sprays to reverse overdoses. Despite efforts to curb opioid-related fatalities, the crisis persists due to the adaptability of drug cartels and the shifting supply chain to backyard labs producing ever-more dangerous compounds.",
+      "title_tr": "Ev yapımı sentetik uyuşturucular, ABD’deki opioid krizini daha da kötüleştiriyor",
+      "summary_tr": "Ev yapımı sentetik opioidler, özellikle ilaç dışı üretimi yapılan fentanilin xylazine ve medetomidin gibi veterinerlik yatıştırıcılarıyla karıştırılması, ABD'deki opioid krizini yoğunlaştırmaktadır. Bu maddeler ucuz, güçlü ve yaygın olmalarına rağmen özel testler yapılmadıkça tespit edilemez durumdadır. Bu da toplumların kurtarma ilacı naloksonı (Narcan) spreylerine bağımlı kılmaktadır. Uyuşturucuyla ilgili ölümler azaltılmaya çalışılsa da, uyuşturucu kartellerinin uyum sağlama yeteneği ve tehlikeli yeni bileşikleri ev laboratuvarlarında üretmeleri nedeniyle kriz devam etmektedir."
+    },
+    {
+      "title": "Researchers confine antimatter particle for months to enable studies",
+      "links": [
+        "https://www.wired.com/story/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secrets/"
+      ],
+      "category": "Science",
+      "rank": 3,
+      "summary": "A Northwestern University team cooled a single positron—the antimatter counterpart of an electron—to near absolute zero and confined it using electric and magnetic fields in a vacuum, enabling months-long observation without particle destruction. This advance, reported in Physical Review Letters, marks a breakthrough in precision antimatter research and could allow up to 30 times more accurate measurements of the positron’s magnetic properties compared to prior studies. Improved comparisons between matter and antimatter may reveal subtle differences that could challenge existing laws governing these particles.",
+      "title_tr": "Araştırmacılar, çalışmalarını mümkün kılmak için antimadde parçacığını aylarca hapsettiler",
+      "summary_tr": "Northwestern Üniversitesi araştırma ekibi, bir pozitronu mutlak sıfıra yakın bir sıcaklığa soğuttu ve vakumlu ortamda elektrik ile manyetik alanlar kullanarak aylarca gözlem yapılmasına olanak tanıyan bir düzenekte hapsetti. Physical Review Letters dergisinde yayımlanan bu ilerleme, antimaddenin hassas araştırmalarında bir atılım olarak kaydedildi ve önceki çalışmalara kıyasla pozitronun manyetik özelliklerinin 30 kata kadar daha doğru ölçülmesini mümkün kılabilir. Madde ve antimadde arasındaki ince farklılıkların araştırılması, bu parçacıkların davranışını açıklayan mevcut yasalara meydan okuyabilecek bulgulara yol açabilir."
+    },
+    {
+      "title": "Study finds long-term oil spill damage to deep‑sea ecosystems",
+      "links": [
+        "https://www.wired.com/story/oil-spills-wreak-havoc-on-the-bottom-of-the-ocean-even-a-decade-later/"
+      ],
+      "category": "Science",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "Araştırma, derin deniz ekosistemlerinde petrol sızıntısının yol açtığı uzun vadeli hasarı ortaya koyuyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Study links circulating tumor DNA clearance to outcomes in resectable lung cancer (NeoCOAST‑2)",
+      "links": [
+        "https://www.nature.com/articles/s41586-026-11328-3"
+      ],
+      "category": "Science",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "Bir çalışma, dolaşımdaki tümör DNA’sının temizlenmesini, rezeke edilebilir akciğer kanserinde tedavi sonuçlarıyla ilişkilendiriyor (NeoCOAST‑2)",
+      "summary_tr": null
+    },
+    {
+      "title": "Uganda reports no active Ebola cases amid regional outbreak concerns",
+      "links": [
+        "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Science",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "Bölgesel salgın endişelerinin yaşandığı bir ortamda Uganda’da aktif Ebola vakası bildirilmedi",
+      "summary_tr": null
+    },
+    {
+      "title": "Evaluating safety and benefits of protein shakes for adolescents",
+      "links": [
+        "https://www.dw.com/en/protein-shakes-for-teenagers-good-or-bad-idea/a-79751929?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Science",
+      "rank": 7,
+      "summary": null,
+      "title_tr": "Ergenler için protein içeceklerinin güvenliği ve faydalarının değerlendirilmesi",
+      "summary_tr": null
+    },
+    {
+      "title": "Research analyzes how Federal Reserve chairs allocate their daily schedules",
+      "links": [
+        "https://feeds.feedblitz.com/~/971950499/0/marginalrevolution~How-central-bankers-spend-their-time.html"
+      ],
+      "category": "Science",
+      "rank": 8,
+      "summary": null,
+      "title_tr": "Araştırma, Federal Rezerv başkanlarının günlük programlarını nasıl düzenlediklerini inceliyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Study estimates economic value of unpaid breastfeeding over five centuries",
+      "links": [
+        "https://feeds.feedblitz.com/~/971952002/0/marginalrevolution~Facts-about-breastfeeding.html"
+      ],
+      "category": "Science",
+      "rank": 9,
+      "summary": null,
+      "title_tr": "Araştırma, beş yüzyıl boyunca emzirmenin ekonomik değerini tahmin ediyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Analysis: SpaceX, Meta and other hyperscalers reveal strategic hints",
+      "links": [
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLVUxNndKdElBX2hKblgxY1o4bzFmb2lsY3hEUzJEdGJpLTNvQ05iR0NrVUJsQS14MnI0WnVqRHUyRERiSXlRYXZzbzQxZm5qTUxwSWVKVnIwOXVlR01RYjRzVHZ2bktCX08zdzBzcXN0a25tcUFzdTdEUjlXSjlaWDJnc3ZQZGlReWNtVGFrdVdWRG1zTFV5SGhpV19TOHVuZVJjaFREcWZ0RGxlSlNlUlZDSFM0THgwSG42S295SVprOFBYN2ZQNEhXNGc?oc=5"
+      ],
+      "category": "Tech",
+      "rank": 1,
+      "summary": "No summary available: scraping failure",
+      "title_tr": "Analiz: SpaceX, Meta ve diğer hiper ölçekli şirketler stratejik ipuçları veriyor",
+      "summary_tr": "Özet bulunmuyor: veri alma işlemi başarısız oldu"
+    },
+    {
+      "title": "Meta settlement bans cosmetic‑procedure filters for teens, prompting definition challenges",
+      "links": [
+        "https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai"
+      ],
+      "category": "Tech",
+      "rank": 2,
+      "summary": "Following a $17 billion settlement with 47 states over child safety, Meta agreed to block some digital beauty filters for minors by early 2027, specifically those simulating extreme cosmetic procedures or heavy makeup. Yet determining which filters cross the line—balancing harmless fun against harmful self-image pressures—remains unclear. Teens report that even subtle AI edits fuel unhealthy comparisons, while shifting beauty trends and rapid tech advances keep regulations a moving target. State officials face legal and regional hurdles as they draft guidance for Meta, whereas the EU proposes an outright ban on all beauty filters for minors.",
+      "title_tr": "Meta’nın uzlaşma anlaşması, gençler için estetik ameliyat filtrelerini yasakladı; bu durum, tanımlarla ilgili tartışmalara yol açtı",
+      "summary_tr": "Meta, 47 eyaletle yaptığı 17 milyar dolarlık uzlaşmanın ardından, ergenler için dijital güzellik filtrelerini engellemeyi kabul etti; ancak özellikle aşırı kozmetik uygulamaları veya yoğun makyajı simüle eden filtreleri yasakladı. Bu yasakta yer alan 'aşırı' filtrelerin nerede durduğunun net bir şekilde tanımlanması hâlâ belirsizliğini koruyor. Gençlerse, fark edilmeyecek kadar hafif AI düzenlemelerinin bile zararlı karşılaştırmalara yol açtığını ifade ediyor. Değişen güzellik trendleri ve hızla ilerleyen teknolojiyle birlikte düzenlemeler giderek daha karmaşık bir hedef hâline geliyor. Eyalet yetkilileri Meta’ya yönelik kılavuz hazırlarken hukuki ve bölgesel zorluklarla karşı karşıya kalırken, AB ise tüm güzellik filtrelerinin ergenler için yasaklanmasını öneriyor."
+    },
+    {
+      "title": "Forecast of SpaceX stock price for end of 2030",
+      "links": [
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcV9Ra2l3bXdSeWRyblBXdlZxTklMZjhQdkJGYlZqa2U5T1R6ZzhoWDNHYzdPVXN2YVRsbEhYRTF3blBsZWJsUzVxT284SHhqanBEODhuTF9uZ2FDV05EOW5vSmZQc09wLWJET1B1ampVOERkTERidjlFbUNsckVpUW9sOFFPMzJHOWZHTmQzdW9FUkZyS1RKS2I0c0twcUsz?oc=5"
+      ],
+      "category": "Tech",
+      "rank": 3,
+      "summary": "No summary available: scraping failure",
+      "title_tr": "2030 sonu için SpaceX hisse senedi fiyatı tahmini",
+      "summary_tr": "Özet bulunmuyor: veri alma işlemi başarısız oldu"
+    },
+    {
+      "title": "Podcast discusses Kimi K3.1 Pro and cyber reality",
+      "links": [
+        "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber"
+      ],
+      "category": "Tech",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "Podcast'te Kimi K3.1 Pro ve siber gerçeklik ele alınıyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Review of Wallhack M-001 gaming mouse",
+      "links": [
+        "https://www.wired.com/review/wallhack-m-001/"
+      ],
+      "category": "Tech",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "Wallhack M-001 oyun faresi incelemesi",
+      "summary_tr": null
+    },
+    {
+      "title": "Top six folding smartphones for 2026",
+      "links": [
+        "https://www.wired.com/gallery/best-folding-phones/"
+      ],
+      "category": "Tech",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "2026'nın en iyi altı katlanabilir akıllı telefonu",
+      "summary_tr": null
+    },
+    {
+      "title": "MacBook Pro Max reaches record low price",
+      "links": [
+        "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/"
+      ],
+      "category": "Tech",
+      "rank": 7,
+      "summary": null,
+      "title_tr": "MacBook Pro Max, rekor düzeyde düşük bir fiyata ulaştı",
+      "summary_tr": null
+    },
+    {
+      "title": "Tips to prevent phone overheating when using CarPlay or Android Auto",
+      "links": [
+        "https://www.wired.com/story/apple-carplay-and-android-auto-make-your-phone-hot-heres-how-to-keep-it-cool/"
+      ],
+      "category": "Tech",
+      "rank": 8,
+      "summary": null,
+      "title_tr": "CarPlay veya Android Auto kullanırken telefonun aşırı ısınmasını önlemeye yönelik ipuçları",
+      "summary_tr": null
+    },
+    {
+      "title": "Review of Hyve smart parcel locker for secure deliveries",
+      "links": [
+        "https://www.wired.com/review/hyve-smart-package-locker/"
+      ],
+      "category": "Tech",
+      "rank": 9,
+      "summary": null,
+      "title_tr": "Güvenli teslimatlar için Hyve akıllı paket dolabının incelemesi",
+      "summary_tr": null
+    },
+    {
+      "title": "DIY project combines 150 IKEA Bluetooth speakers into a massive sound wall",
+      "links": [
+        "https://www.wired.com/story/we-linked-150-ikea-speakers-to-make-a-wall-of-sound/"
+      ],
+      "category": "Tech",
+      "rank": 10,
+      "summary": null,
+      "title_tr": "Bu kendin yap projesi, 150 adet IKEA Bluetooth hoparlörü devasa bir ses duvarında bir araya getiriyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Emergent Ventures India supports grant for digitizing community manuscripts",
+      "links": [
+        "https://feeds.feedblitz.com/~/971950325/0/marginalrevolution~Emergent-Ventures-India-th-cohort.html"
+      ],
+      "category": "Tech",
+      "rank": 11,
+      "summary": null,
+      "title_tr": "Emergent Ventures India, topluluk el yazmalarının dijitalleştirilmesine yönelik hibe desteğinde bulunuyor",
+      "summary_tr": null
+    }
+  ]
+}
