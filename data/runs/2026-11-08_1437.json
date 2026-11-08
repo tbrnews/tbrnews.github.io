@@ -1,0 +1,716 @@
+{
+  "schema_version": 1,
+  "stats": {
+    "last_run": "2026-11-08T13:37:29.386Z",
+    "sources_pulled": 74,
+    "headlines_read": 81,
+    "headlines_written": 72,
+    "summaries_written": 14,
+    "summaries_failed": 7,
+    "run_count": 41
+  },
+  "headlines": [
+    {
+      "title": "Experts warn AI power consumption could trigger a ‘Q‑Day’ by 2030",
+      "links": [
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON2syTTdnMDdBbWxpNXUtZXJ6ZkNLRWtfSnZheUxRZW9IRzRQc0xwUGlsQmlKNWx2SlpTMU1lWmJjazI0QWNJSTBqVUpxX29Dbk9xYzI3Um1SZldZcExmQlR6UEFmSW5xZzAzNDFpSEhId2lFdUR5dTh1WWNCa1V1R2VScThZY1BnNGNFaGxvRllZR2dZT3c5Y1l1a0pIVmh0VEp0V2RBOHp3RTcwY3RMZU8xNjRSVS1hWF9CQVpXNWpuUQ?oc=5"
+      ],
+      "category": "AI",
+      "rank": 1,
+      "summary": "No summary available: scraping failure",
+      "title_tr": "Uzmanlar, yapay zekanın enerji tüketiminin 2030 yılına kadar bir ‘Q-Day’e yol açabileceği konusunda uyarıyor",
+      "summary_tr": "Özet bulunmuyor: veri alma işlemi başarısız oldu"
+    },
+    {
+      "title": "Six common orchestration frameworks used in AI systems",
+      "links": [
+        "https://blog.bytebytego.com/p/ep232-6-frequently-used-orchestration"
+      ],
+      "category": "AI",
+      "rank": 2,
+      "summary": "The article outlines six widely used orchestration frameworks in AI systems—LangGraph, CrewAI, Microsoft Agent Framework, OpenAI Agents SDK, Google ADK, and Claude Agent SDK—each employing distinct approaches like graph-based workflows, role-based delegation, or embedded orchestration within agents. It also highlights cost optimization strategies for AI operations, such as prompt caching, model routing, batch API calls, semantic caching, context trimming, and using smaller models. Additionally, the piece provides technical insights into SQL query execution and the internal request-handling process of the Claude Code agent system.",
+      "title_tr": "AI sistemlerinde kullanılan altı yaygın orkestrasyon çerçevesi",
+      "summary_tr": "Makale, LangGraph, CrewAI, Microsoft Agent Framework, OpenAI Agents SDK, Google ADK ve Claude Agent SDK olmak üzere altı yaygın AI sistem orkestrasyon çatısının her birinin grafik tabanlı iş akışları, rol tabanlı devretme veya ajan içine gömülü orkestrasyon gibi farklı yaklaşımlar kullandığını açıklıyor. Ayrıca, istem önbelleği, model yönlendirme, toplu API çağrıları, anlamsal önbellek, bağlam budama ve daha küçük modeller kullanma gibi AI operasyonları için maliyet optimizasyonu stratejilerini de öne çıkarıyor. Bunun yanı sıra, SQL sorgusu yürütme süreci ve Claude Code ajan sistemi için dahili istek işleme akışına dair teknik bilgiler de sunuluyor."
+    },
+    {
+      "title": "Fireworks argues that using multiple AI models saves money compared to single‑model inference",
+      "links": [
+        "https://www.theregister.com/ai-and-ml/2026/11/07/fireworks-says-youre-wasting-money-on-ai-unless-youre-using-all-the-models/5308277"
+      ],
+      "category": "AI",
+      "rank": 3,
+      "summary": "Fireworks AI argues that companies waste money running AI inference on-premises because idle GPU fleets cost billions, and suggests instead using a managed service that automatically routes each query to the most suitable model. The company claims this “portfolio approach” can cut inference costs by more than half by minimizing model switching costs, exploiting caching efficiencies, and avoiding hidden data-retention and rework charges. Fireworks highlights its custom routing and routing-as-a-service APIs—competing offerings from Together AI, Baseten, and DeepInfra—as the practical path to those economies when compared with the raw GPU but hands-off approach of hyperscalers like Microsoft.",
+      "title_tr": "Fireworks, birden fazla yapay zeka modelinin kullanılmasının tek model tabanlı çıkarımla karşılaştırıldığında maliyet tasarrufu sağladığını savunuyor",
+      "summary_tr": "Fireworks AI, bir şirketin GPU varlıklarını yerinde işletmesinin milyarlarca dolara mal olduğunu savunarak, bunun yerine her sorgunun en uygun modele otomatik olarak yönlendirildiği bir yönetilen hizmet kullanma gereğini savunuyor. Şirket, bu \"portföy yaklaşımının\", model geçiş maliyetlerini en aza indirerek, önbelleğe alma verimliliklerinden yararlanarak ve gizli veri saklama ile yeniden çalıştırma ücretlerinden kaçınarak tahmine dayalı çıkarım maliyetlerini yarıdan fazla azaltabileceğini iddia ediyor. Fireworks, Microsoft gibi bulut sağlayıcıların aksine ham GPU sunucuları sağladığı halde yönetimini kullanıcıya bıraktığı yaklaşımına kıyasla, kendi özel yönlendirme ve yönlendirme hizmeti API’lerinin (Together AI, Baseten ve DeepInfra gibi rakip hizmetlerle birlikte) nasıl ekonomik avantajlar sunduğunu vurguluyor."
+    },
+    {
+      "title": "Details of Anthropic's founder succession plan involving confidential lists",
+      "links": [
+        "https://feeds.feedblitz.com/~/972546644/0/marginalrevolution~The-Anthropic-succession-plan.html"
+      ],
+      "category": "AI",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "Gizli listeleri içeren Anthropic’in kurucu halefiyet planına ilişkin ayrıntılar",
+      "summary_tr": null
+    },
+    {
+      "title": "Evaluation of top posts generated by ChatGPT based on reasoning and originality",
+      "links": [
+        "https://feeds.feedblitz.com/~/972555623/0/marginalrevolution~What-are-the-Best-MR-Posts.html"
+      ],
+      "category": "AI",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "ChatGPT tarafından üretilen en popüler gönderilerin mantık ve özgünlük açısından değerlendirilmesi",
+      "summary_tr": null
+    },
+    {
+      "title": "NASA announces awards for moon‑base transportation, technology and science projects",
+      "links": [
+        "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/"
+      ],
+      "category": "Space",
+      "rank": 1,
+      "summary": "NASA has announced new awards and mission updates to accelerate the Moon Base initiative, focusing on commercial lunar deliveries, lunar-surface infrastructure, and a nuclear-powered rover named PROMISE. The agency selected eight companies for CLPS 2 cargo lander contracts, expanded nuclear rover development with a $94 million award to Blue Origin, and issued $1.3 billion in launch and orbital transfer service task orders. A Mini-Communications and Solar Tower (miniCAST) was also awarded for lunar infrastructure. These efforts aim to establish a sustained human presence on the Moon’s South Pole by leveraging commercial partnerships and iterative, risk-reducing missions.",
+      "title_tr": "NASA, Ay üssüne yönelik ulaşım, teknoloji ve bilim projeleri için ödülleri açıkladı",
+      "summary_tr": "NASA, Ay Komi Başlatma (Moon Base) girişimini hızlandırmak amacıyla yeni ödüller ve görev güncellemeleri duyurdu; bu girişim ticari Ay teslimatlarını, Ay yüzeyi altyapısını ve PROMISE adlı nükleer enerjili bir keşif aracını kapsıyor. Ajans, CLPS 2 kargo iniş aracı sözleşmeleri için sekiz şirketi seçti, nükleer keşif aracının geliştirilmesine Blue Origin’e 94 milyon dolarlık bir ödülle devam etti ve 1,3 milyar dolarlık fırlatma ile yörünge transferi hizmeti görev emirleri yayınladı. Ay altyapısı için Mini-İletişim ve Güneş Kulesi (miniCAST) de ödüllendirildi. Bu çabalar, ticari ortaklıkları ve riski azaltan yinelemeli görevleri kullanarak Ay’ın Güney Kutbu’nda kalıcı bir insan varlığı kurmayı hedefliyor."
+    },
+    {
+      "title": "Rubin Observatory identifies two previously unknown companions of the Milky Way",
+      "links": [
+        "https://www.sciencedaily.com/releases/2026/11/261104012252.htm"
+      ],
+      "category": "Space",
+      "rank": 2,
+      "summary": "The Vera C. Rubin Observatory has detected two previously unknown satellites of the Milky Way during early observations that covered just 7% of the night sky. The discoveries include Aquarius IV, an extremely faint dwarf galaxy located 355,000 light-years away, and Rubin-GC1, a star cluster hidden behind cosmic dust. With estimates suggesting hundreds of undiscovered satellite galaxies may exist, the observatory’s advanced capabilities could significantly expand the known population of these faint objects. The findings hold promise for studying dark matter, galaxy formation, and the Milky Way’s assembly history.",
+      "title_tr": "Rubin Gözlemevi, Samanyolu’nun daha önce bilinmeyen iki uydusunu tespit etti",
+      "summary_tr": "Vera C. Rubin Gözlemevi, gece gökyüzünün yalnızca yüzde 7’lik kısmını kapsayan erken gözlemler sırasında Samanyolu’nun daha önce bilinmeyen iki uydusunu tespit etti. Keşifler arasında 355.000 ışık yılı uzaklıktaki son derece soluk bir cüce galaksi olan Aquarius IV ile kozmik tozun arkasında gizlenmiş bir yıldız kümesi olan Rubin-GC1 yer alıyor. Yüzlerce bilinmeyen uydu galaksi olabileceği tahminlerinde bulunulduğu göz önünde bulundurulduğunda, gözlemevinin ileri teknoloji yetenekleri bu soluk nesnelerin bilinen popülasyonunu önemli ölçüde genişletebilir. Bulgular, karanlık madde, galaksi oluşumu ve Samanyolu’nun birleşme geçmişi çalışmalarına katkı sağlama potansiyeline sahiptir."
+    },
+    {
+      "title": "Alternative cosmological model without dark matter or dark energy passes key tests",
+      "links": [
+        "https://phys.org/news/2026-11-theory-older-universe-dark-energy.html"
+      ],
+      "category": "Space",
+      "rank": 3,
+      "summary": "No summary available: scraping failure",
+      "title_tr": "Karanlık madde veya karanlık enerji içermeyen alternatif kozmolojik model, temel testleri başarıyla geçiyor",
+      "summary_tr": "Özet bulunmuyor: veri alma işlemi başarısız oldu"
+    },
+    {
+      "title": "Pakistani astronaut to join China’s Shenzhou 24 mission, first foreigner on Chinese space station",
+      "links": [
+        "https://phys.org/news/2026-11-pakistani-astronaut-board-shenzhou-foreigner.html"
+      ],
+      "category": "Space",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "Pakistanlı astronot, Çin’in Shenzhou 24 misyonuna katılacak; Çin uzay istasyonundaki ilk yabancı olacak",
+      "summary_tr": null
+    },
+    {
+      "title": "NASA chief discusses Artemis program, competition with China, and the moon race",
+      "links": [
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQXExRXdIbjVRWWdLc2xLZjB6bWxITkx4NVdrYWlwSkNnYWFsWmcxcWRoY2dwVkZtNndHckRfU2FzTzRtLUpSZ2VyeHE4bVZwc3hadFpPUU1yOURHS2tRdXJQR012amt1ZVNYeW4yd3kzZWlzOFVpQUk1SE5PaDZPLWc5dERxcDBQazlFQlJzWF9aSVdscTFpaEkwamNrVmJJeWpMaVRXZ1htNlVJYW1PQi16UnF5akQ1TDNVTl94bVppbVhWRF84R1hncjF6QzRfMUxDcQ?oc=5"
+      ],
+      "category": "Space",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "NASA başkanı, Artemis programı, Çin ile rekabet ve Ay yarışı konularını ele aldı",
+      "summary_tr": null
+    },
+    {
+      "title": "SpaceX conducts sunset launch of classified mission for U.S. Space Force",
+      "links": [
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxObUJOdmhXUExCaDVEMnUxMW1uWUN2aUdrVnR0eEwtOFhvMXdYSjZDS1VoYXBVUHBhOU9LSXFkcmhDNmdMcU5mbEluNWxTSG9xMjNhbmZMTjdXMWZKMnNZQVZMSjlob2FMOEJnbVIzeExZUE1FSUhoUVhXR2pIdlMyeWJiUTc1VW1Ga05CYV9YaHRTdzlJSDcxQXJpVG9kMktUR0RlWlpqOThmNHdab2xDemoxcmJpdw?oc=5"
+      ],
+      "category": "Space",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "SpaceX, ABD Uzay Kuvvetleri için gizli bir görevin gün batımı fırlatmasını gerçekleştirdi",
+      "summary_tr": null
+    },
+    {
+      "title": "NASA opens applications for new astronaut candidates for upcoming lunar missions",
+      "links": [
+        "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
+        "https://www.nasaspaceflight.com/2026/11/astronaut-class-25-applications/"
+      ],
+      "category": "Space",
+      "rank": 7,
+      "summary": null,
+      "title_tr": "NASA, yaklaşan Ay görevleri için yeni astronot adaylarına yönelik başvuruları başlattı",
+      "summary_tr": null
+    },
+    {
+      "title": "Study suggests Earth’s gravity helped sustain early lunar volcanic activity",
+      "links": [
+        "https://phys.org/news/2026-11-earth-gravity-early-moon-volcanic.html"
+      ],
+      "category": "Space",
+      "rank": 8,
+      "summary": null,
+      "title_tr": "Bir araştırmaya göre, Dünya’nın yerçekimi, Ay’daki erken dönem volkanik faaliyetlerin devam etmesine katkıda bulunmuştur",
+      "summary_tr": null
+    },
+    {
+      "title": "Researchers analyze cosmic microwave background patterns to probe the early universe",
+      "links": [
+        "https://phys.org/news/2026-11-untangling-patterns-cosmic-microwave-background.html"
+      ],
+      "category": "Space",
+      "rank": 9,
+      "summary": null,
+      "title_tr": "Araştırmacılar, erken evreni incelemek için kozmik mikrodalga arka planının desenlerini analiz ediyorlar",
+      "summary_tr": null
+    },
+    {
+      "title": "Opportunity to submit names for NASA's Dragonfly mission to Titan",
+      "links": [
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZlp5VUpaeFNkS1REZ0NpRGtEX29qbF9aMjdfLUJIel9LdXFDa3R4ak9BYzFyeXluZlJ0WEEyNG1VdERWMEZMREdySHFxMWRROVRWQk90ZTJmOHNFMVdBUncycjYzbjd3SWczQ3YwcEN0LUZFdzVnTlhidkJQVzg5Z2FKQXc5MXlIM1gzOGlYcFFJaFA5MVNaUFdTdVVrVXBqVXZvX1RxQTQxaTMwWVpyQm1ST09pY29ibWg5cDFrUWVmS3A2a1puNWZoNGRabkk?oc=5"
+      ],
+      "category": "Space",
+      "rank": 10,
+      "summary": null,
+      "title_tr": "NASA’nın Titan’a yönelik Dragonfly misyonu için isim önerisinde bulunma fırsatı",
+      "summary_tr": null
+    },
+    {
+      "title": "Physicist says an undiscovered red dwarf may still disturb the Sun’s Oort cloud",
+      "links": [
+        "https://www.universetoday.com/articles/our-suns-undiscovered-stellar-nemesis-is-still-out-there-says-physicist"
+      ],
+      "category": "Space",
+      "rank": 11,
+      "summary": null,
+      "title_tr": "Bir fizikçi, henüz keşfedilmemiş bir kırmızı cüce yıldızın Güneş’in Oort bulutunu hâlâ etkileyebileceğini söylüyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Photographer captures ISS aligned with Jupiter after years of planning",
+      "links": [
+        "https://nautil.us/this-photo-of-the-iss-next-to-jupiter-was-two-years-in-the-making-1286407/"
+      ],
+      "category": "Space",
+      "rank": 12,
+      "summary": null,
+      "title_tr": "Fotoğrafçı, yıllarca süren planlamanın ardından ISS’nin Jüpiter ile aynı hizada olduğu anı fotoğrafladı",
+      "summary_tr": null
+    },
+    {
+      "title": "1882 Great Comet influences early astrophotography techniques",
+      "links": [
+        "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-7-1882-a-great-comet-transforms-astrophotography/"
+      ],
+      "category": "Space",
+      "rank": 13,
+      "summary": null,
+      "title_tr": "1882 Büyük Kuyruklu Yıldızı, erken dönem astrofotografi tekniklerini etkilemiştir",
+      "summary_tr": null
+    },
+    {
+      "title": "Astronomy Picture of the Day: De Gerlache‑Kocher Massif (Nov 7 2026)",
+      "links": [
+        "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/"
+      ],
+      "category": "Space",
+      "rank": 14,
+      "summary": null,
+      "title_tr": "Günün Astronomi Fotoğrafı: De Gerlache-Kocher Masifi (7 Kasım 2026)",
+      "summary_tr": null
+    },
+    {
+      "title": "Sky outlook for Nov 7: Venus visibility alongside the Moon",
+      "links": [
+        "https://www.astronomy.com/observing/the-sky-today-saturday-november-7-2026/"
+      ],
+      "category": "Space",
+      "rank": 15,
+      "summary": null,
+      "title_tr": "7 Kasım için gökyüzü tahmini: Ay’ın yanında görülebilen Venüs",
+      "summary_tr": null
+    },
+    {
+      "title": "Israel's president tasks Gadi Eisenkot with forming a governing coalition",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+        "https://haber.mynet.com/herzog-hukumeti-kurma-gorevini-gadi-eisenkot-a-verdi-110107320360",
+        "https://www.dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-all-1573-xml-mrss",
+        "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog"
+      ],
+      "category": "Geopolitics",
+      "rank": 1,
+      "summary": "Israel's President Isaac Herzog has tasked opposition leader Gadi Eisenkot with forming a new coalition government following an inconclusive election in which neither Eisenkot's bloc nor Prime Minister Benjamin Netanyahu's right-wing coalition secured a majority in the 120-seat Knesset. Eisenkot's centrist party and allies hold 48 seats, while Netanyahu's bloc holds 53, leaving Arab-led parties with 19 seats as potential kingmakers despite pledges from most Jewish parties to exclude them. Herzog emphasized the urgency of forming a stable government to avoid further elections, and Eisenkot has up to 42 days to attempt negotiations, with precedents like the 2020 unity government providing a possible model amid Israel's historically fractured politics.",
+      "title_tr": "İsrail Cumhurbaşkanı, Gadi Eisenkot’a hükümet koalisyonunu kurma görevini verdi",
+      "summary_tr": "İsrail Devlet Başkanı Isaac Herzog, geçersiz parlamento seçimlerinin ardından muhalefet lideri Gadi Eisenkot'u yeni bir koalisyon hükûmeti kurmakla görevlendirdi. Eisenkot'un merkezci partisi ve müttefikleri 48 sandalye kazanırken, Başbakan Benjamin Netanyahu'nun sağcı bloğu 53 sandalyeye sahip oldu; 19 sandalyeye sahip Arap partileri, Yahudi partilerinin çoğunun onlardan kaçınma sözüne rağmen potansiyel 'kral yapıcı' konumunda bulunuyor. Herzog, daha fazla seçime gidilmemesi için acil bir hükûmet kurulması gerektiğini vurguladı ve Eisenkot'a 42 güne kadar görüşmelerde bulunma süresi tanındı; 2020'deki ulusal birlik hükûmeti örneği, İsrail'in tarihsel olarak parçalanmış siyasetiyle bir model sunuyor."
+    },
+    {
+      "title": "Armed attack in Krakow's main market square leaves multiple dead and injured, gunman identified with ultranationalist views",
+      "links": [
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxPcW1ZVFZsM09lSHNBeDIwbEF0UzlRMUd5c1VRUTQ4QTh3RjE2cWtFQnYxd3pJX2lUSFBOQ1VJdzBsOERPTTRzU0hxSGdJSnp3YUt0ZW1MeS00SHdpZUxSNjdrdlYzUmVqeE1qRm5qZkg2UEpTeUo3eEF2QkxRcWxybGF0Sm5aS1ZHQTFWVmY3SzZyUGxaSjVwcHRLa0w1QQ?oc=5",
+        "https://haber.mynet.com/polonya-da-silahli-saldiri-aracindan-insanlara-ates-etti-olu-ve-yaralilar-var-110107320326",
+        "https://www.dw.com/en/poland-gunman-kills-6-in-krakow-main-square-police-say/a-79886489?maca=en-rss-en-all-1573-xml-mrss",
+        "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15"
+      ],
+      "category": "Geopolitics",
+      "rank": 2,
+      "summary": "No summary available: scraping failure",
+      "title_tr": "Krakow’un ana pazar meydanında meydana gelen silahlı saldırıda çok sayıda kişi öldü ve yaralandı; saldırganın aşırı milliyetçi görüşlere sahip olduğu tespit edildi",
+      "summary_tr": "Özet bulunmuyor: veri alma işlemi başarısız oldu"
+    },
+    {
+      "title": "Russian missile strikes injure nine and damage Ukraine’s power grid ahead of diplomatic talks",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 3,
+      "summary": "Overnight Russian strikes using over 30 ballistic missiles and 170 drones damaged Ukraine’s energy infrastructure across 12 regions, knocking out power, water, and heating in several areas. Nine people, including one child, were injured in the attacks, which targeted critical infrastructure including substations and a kindergarten in Kyiv. The assaults come ahead of planned trilateral talks in Abu Dhabi next week. Ukrainian President Volodymyr Zelensky accused Moscow of trying to influence negotiations through force, while calling for stronger U.S. and international backing against Russian aggression.",
+      "title_tr": "Diplomatik görüşmeler öncesinde Rusya’nın füze saldırıları sonucu dokuz kişi yaralandı ve Ukrayna’nın elektrik şebekesinde hasar meydana geldi",
+      "summary_tr": "Geceleyin Rusya’nın 30’dan fazla balistik füze ve 170’in üzerinde insansız hava aracıyla yaptığı saldırılar, Ukrayna’nın 12 bölgesindeki enerji altyapısını vurmuş, birçok bölgede elektrik, su ve ısınmanın kesilmesine neden olmuştur. Saldırılarda dokuz kişi, bunlardan biri çocuk olmak üzere, yaralanırken; hasarlar arasında başkent Kiev’de bir anaokulunun da bulunduğu altyapılar da yer almıştır. Saldırılar, önümüzdeki hafta Abu Dabi’de gerçekleşecek üçlü görüşmelere denk gelmektedir. Ukrayna Devlet Başkanı Volodymyr Zelensky, Moskova’nın müzakere sürecini güç kullanarak etkilemeye çalıştığını söylerken, uluslararası toplumdan Rusya’nın saldırganlığına karşı daha güçlü destek çağrısında bulunmuştur."
+    },
+    {
+      "title": "European forces to train in Poland for post‑war support of Ukraine’s military",
+      "links": [
+        "https://www.defensenews.com/news/2026/11/07/european-troops-set-to-train-in-poland-for-postwar-ukraine-deployment/"
+      ],
+      "category": "Geopolitics",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "Avrupa güçleri, savaş sonrası dönemde Ukrayna ordusuna destek sağlamak amacıyla Polonya’da eğitim yapacak",
+      "summary_tr": null
+    },
+    {
+      "title": "Analysis of the future usefulness of COP climate summits",
+      "links": [
+        "https://www.newscientist.com/article/2596962-cop-climate-summits-might-yet-have-a-useful-future-heres-how/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+      ],
+      "category": "Geopolitics",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "COP iklim zirvelerinin gelecekteki yararlarına ilişkin analiz",
+      "summary_tr": null
+    },
+    {
+      "title": "United States offers $20 million reward for information on Iran’s nuclear program",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "ABD, İran’ın nükleer programıyla ilgili bilgi verenlere 20 milyon dolarlık ödül teklif ediyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Former Paraguayan president charged following a banking crisis that left many without access to funds",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 7,
+      "summary": null,
+      "title_tr": "Birçok kişinin parasına erişememesine yol açan bir bankacılık krizinin ardından Paraguay’ın eski cumhurbaşkanı hakkında dava açıldı",
+      "summary_tr": null
+    },
+    {
+      "title": "U.S. establishes ‘Iron Gate’ task force to block overland transport of Iranian weapons",
+      "links": [
+        "https://haber.mynet.com/abd-den-pes-pese-iran-hamleleri-iron-gate-kuruldu-savas-yeniden-baslayabilir-110107320317"
+      ],
+      "category": "Geopolitics",
+      "rank": 8,
+      "summary": null,
+      "title_tr": "ABD, İran silahlarının karayoluyla taşınmasını engellemek için “Iron Gate” görev gücü kurdu",
+      "summary_tr": null
+    },
+    {
+      "title": "Paraguay's president removed amid banking crisis that left millions unable to access funds",
+      "links": [
+        "https://www.bbc.com/turkce/articles/cqy0rr0kn81no?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 9,
+      "summary": null,
+      "title_tr": "Milyonlarca kişinin parasına erişememesine yol açan bankacılık krizi nedeniyle Paraguay cumhurbaşkanı görevden alındı",
+      "summary_tr": null
+    },
+    {
+      "title": "New Zealand voters express gloom ahead of the country’s tightest election in years",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 10,
+      "summary": null,
+      "title_tr": "Yeni Zelanda’daki seçmenler, ülkede son yıllarda görülen en çekişmeli seçim öncesinde karamsarlıklarını dile getiriyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Barnier says the UK cannot selectively adopt parts of the EU single‑market agreement",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 11,
+      "summary": null,
+      "title_tr": "Barnier, Birleşik Krallık’ın AB tek pazar anlaşmasının bazı kısımlarını seçici bir şekilde kabul edemeyeceğini söylüyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Italian foreign minister claims hackers leaked his personal data",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 12,
+      "summary": null,
+      "title_tr": "İtalya Dışişleri Bakanı, bilgisayar korsanlarının kişisel verilerini sızdırdığını iddia ediyor",
+      "summary_tr": null
+    },
+    {
+      "title": "U.S. announces first Muslim senator Sayed’s new political action committee ‘Habibi’",
+      "links": [
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSF9DZ0ZIem4yM2ZyVlJNUlBiX1QtLS15VGJBZnBidzJ0aGNNMjE2dGt2dFpYTUFseXByQjBnUzdnd0xJMnJCaVhIV3NrUnd5WnQxZ2gzWU4ydHhZYnRMS1JER1VrSVZ3VmNCeVdkUWNsd2Q3TElXdXB5MUs1MTFzRkdlUGZhYkZGd3g0eHJrMlFVLWZOWmlKSnpjdGlzODZPM3YwWXFSSzNteHg1UHZaemNCa08?oc=5"
+      ],
+      "category": "Geopolitics",
+      "rank": 13,
+      "summary": null,
+      "title_tr": "ABD, ilk Müslüman senatör Sayed’in yeni siyasi eylem komitesi “Habibi”yi duyurdu",
+      "summary_tr": null
+    },
+    {
+      "title": "Trump nominates controversial figure accused of hate crimes to White House position",
+      "links": [
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVDZfU080OHNLWC10RVB3YVluQW95MTNla2JxZElBYWp5YVF6RVUxSW91VTNlRTBlTElpSE1zXy1UUTNVSzRUa0FrRlBxNENlMThhNHp3VXV3dFV2cTRrSzZrOTN3bjlFYkxnWDJyR1dQX3hkUXJSNWNFTGdRY19LVC1YNWJsM2JzZjd0YjF4NzFCT1ZZMTRwd09BSzNTeWxyR1ExVQ?oc=5"
+      ],
+      "category": "Geopolitics",
+      "rank": 14,
+      "summary": null,
+      "title_tr": "Trump, nefret suçlarıyla suçlanan tartışmalı bir kişiyi Beyaz Saray görevine aday gösterdi",
+      "summary_tr": null
+    },
+    {
+      "title": "Oklahoma tribes warn proposed historic preservation changes could threaten Ohio tribal sites",
+      "links": [
+        "https://www.npr.org/2026/11/07/nx-s1-6029409/oklahoma-tribes-says-proposed-legal-changes-puts-ancestral-lands-in-ohio-at-risk"
+      ],
+      "category": "Geopolitics",
+      "rank": 15,
+      "summary": null,
+      "title_tr": "Oklahoma kabileleri, tarihi eserlerin korunmasına ilişkin önerilen değişikliklerin Ohio’daki kabile alanlarını tehdit edebileceği konusunda uyarıda bulunuyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Debate in the U.S. over the future of unconditional support for Israel",
+      "links": [
+        "https://www.bbc.com/turkce/articles/ckn8ww8d1yveo?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 16,
+      "summary": null,
+      "title_tr": "ABD’de İsrail’e koşulsuz desteğin geleceği üzerine tartışma",
+      "summary_tr": null
+    },
+    {
+      "title": "Reassessment of Mosaddegh's role in Iran's move toward democracy",
+      "links": [
+        "https://feeds.feedblitz.com/~/972541250/0/marginalrevolution~Was-Mossadegh-a-liberal-democratizing-force.html"
+      ],
+      "category": "Geopolitics",
+      "rank": 17,
+      "summary": null,
+      "title_tr": "İran’ın demokrasiye doğru ilerleyişinde Musaddık’ın rolünün yeniden değerlendirilmesi",
+      "summary_tr": null
+    },
+    {
+      "title": "Reader responses to a discussion on global geopolitical tensions",
+      "links": [
+        "https://geopoliticalfutures.com/george-answers-your-questions-global-tensions-in-geopolitics/"
+      ],
+      "category": "Geopolitics",
+      "rank": 18,
+      "summary": null,
+      "title_tr": "Küresel jeopolitik gerilimler üzerine yapılan bir tartışmaya okuyuculardan gelen tepkiler",
+      "summary_tr": null
+    },
+    {
+      "title": "Discussion on the overlooked history of economic populism in Texas",
+      "links": [
+        "https://www.npr.org/2026/11/07/nx-s1-6030759/the-surprising-and-often-forgotten-history-of-texas-tradition-of-economic-populism"
+      ],
+      "category": "Geopolitics",
+      "rank": 19,
+      "summary": null,
+      "title_tr": "Teksas’ta göz ardı edilen ekonomik popülizm tarihine dair tartışma",
+      "summary_tr": null
+    },
+    {
+      "title": "Personal rationale for adopting a bearish stance on China",
+      "links": [
+        "https://www.noahpinion.blog/p/why-im-becoming-a-china-bear"
+      ],
+      "category": "Geopolitics",
+      "rank": 20,
+      "summary": null,
+      "title_tr": "Çin konusunda düşüş eğilimi benimsememin kişisel gerekçeleri",
+      "summary_tr": null
+    },
+    {
+      "title": "Four more arrests made in fund investigation involving former SPK deputy chairman Enver Usca",
+      "links": [
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVkhGdGFMYlRUcVowR2xBZHZJNlhKY2dPMGx0dURQWTktcE52SWhJbzUtNWdYSVNDdDRUNGtYLTBva3VJZDJLdzFlRXV4Z1NEZ3RZRjVMZFNGNGs5YXJvem4xUFVfS3E0S2xhLW1mbjZsSFJLY1F0ZlNDNVdxdkNUZnVnQ2REa1hROE9ja2k3Q1JKS3dXR2s0ZWx5VVRiX05yalZNQm12WkwzVU5ra2tTa0ZyQ2otMTdSSlFhQWhaRQ?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 1,
+      "summary": "No summary available: scraping failure",
+      "title_tr": "Eski SPK Başkan Yardımcısı Enver Usca’nın da adı geçen fon soruşturmasında dört kişi daha gözaltına alındı",
+      "summary_tr": "Özet bulunmuyor: veri alma işlemi başarısız oldu"
+    },
+    {
+      "title": "Severe crash in Van, Turkey kills nine and injures five",
+      "links": [
+        "https://haber.mynet.com/van-da-korkunc-kaza-tir-ile-minibus-carpisti-7-kisi-hayatini-kaybetti-7-kisi-yaralandi-110107320335"
+      ],
+      "category": "Turkey",
+      "rank": 2,
+      "summary": "No summary available: scraping failure",
+      "title_tr": "Türkiye'nin Van ilinde meydana gelen şiddetli trafik kazasında dokuz kişi hayatını kaybetti, beş kişi yaralandı",
+      "summary_tr": "Özet bulunmuyor: veri alma işlemi başarısız oldu"
+    },
+    {
+      "title": "Investigations lead to detention of BDDK deputy and Takasbank CEO",
+      "links": [
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQllqNS1ydVplMnVzcXo5TTVzc2k5VnVKSnFTbEVJWWdDdzZUZ0E1cGtfRy1IOHhGcWJEWkNNWVctRHFqTVFJQ0VrQ3hUTm1OWnFmLTBWR1dEWkxRNXhNVlJaTEJseXduYTZqbzJia3d5REdmdGo0WEJzLWFqcEo0eG16dG90V1ktbGN1dG1Ja3VvcGszUUUwYTIxNlBib0ExaVIwUDZzRUsyMWZ1Qk5FLU1pcmtrOWxqVFhxNUc2MUdhUllROE5TemNsMzlsVzR2WjhvMy1B?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 3,
+      "summary": "No summary available: scraping failure",
+      "title_tr": "Soruşturmalar sonucunda BDDK başkan yardımcısı ve Takasbank genel müdürü gözaltına alındı",
+      "summary_tr": "Özet bulunmuyor: veri alma işlemi başarısız oldu"
+    },
+    {
+      "title": "Amedspor hosts charity night before Galatasaray match, praised by Pervin Buldan",
+      "links": [
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRS1Ea1lTcmNuVllzbERmRndxaVpQLUF1Ylo2WFhfa3RsckpqUE4yVHFKOGlVaURqb0RPUnc3UnFvQ2o2ODBUM2pFVkhaTDNxa3J1TTEtaTFPcEppV1JFblY3Rkp4ek5IMTdqaWFFeXUzakVKSlBTVzNkajk3NUxWMHBaY0hQcm4yNGlaNDdYSDc4djFVRF9qTVY2TTV2T0syMXN3ZUtNNjNTY3MzTm9rWm1wTkM?oc=5",
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUlBVZWhQai1uRUlGMnlVQklWazlLRExxdlh0TGVkb1Q3T1oyZTYtOTN4MFRFMi0yb1EwbmRZdHlnS0p2S3Z2X3BEOXhXY1c4dUZjWkwyRkp5UktfTzNyck5RNm1PZjREZW1aQjBNdXVSdXA3aEc4eU5LdXliZlc4U005OTdITS1OWkhCVTVhUXV0NVNld0VmaWFGRXktSmFDT3JsWmJjZFdmN3N3S2pXajFtek5uLVNzYnl6Snl4ZkpLSnROU1JNN0x1cU0wMlZWNXBv?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "Amedspor, Galatasaray maçı öncesinde bir yardım gecesi düzenledi; Pervin Buldan tarafından övgüyle karşılandı",
+      "summary_tr": null
+    },
+    {
+      "title": "Candan Yüceer resigns from Yeni Parti",
+      "links": [
+        "https://haber.mynet.com/candan-yuceer-yeni-parti-den-istifa-etti-carpici-iddia-sosyal-medyadan-duyurdu-110107320318",
+        "https://haber.mynet.com/candan-yuceer-yeni-parti-den-istifa-etti-110107320315"
+      ],
+      "category": "Turkey",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "Candan Yüceer, Yeni Parti’den istifa etti",
+      "summary_tr": null
+    },
+    {
+      "title": "Cyberattack targets Zonguldak governor’s social media account",
+      "links": [
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSThJWk16SFV5NnFYS2xmM1VzckxzU3BleUFINzEzMXh1bWtkWFFYWW9zNERnbmtfQmJ4NVdLZDhMNlhjd2lJc2x4OXFFNEFqU0V4QWZYeXRzeF84aXF0cG0zcjVTNm5EVmZtVl9EOEQ2Rm9kbXhHTkxpYTdXZzVxY3AwdTd4cTlH?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "Siber saldırı, Zonguldak valisinin sosyal medya hesabını hedef aldı",
+      "summary_tr": null
+    },
+    {
+      "title": "Investigation into attack on Fenerbahçe team bus reveals inconsistencies",
+      "links": [
+        "https://haber.mynet.com/fenerbahce-otobusune-saldiri-sorusturmasi-dikkat-ceken-hts-ve-ayak-izi-detayi-110107320314"
+      ],
+      "category": "Turkey",
+      "rank": 7,
+      "summary": null,
+      "title_tr": "Fenerbahçe takım otobüsüne düzenlenen saldırıya ilişkin soruşturmada tutarsızlıklar ortaya çıktı",
+      "summary_tr": null
+    },
+    {
+      "title": "Parliament proposes green passports for ten professional groups",
+      "links": [
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTnBfZ2tXMzR5OFZPR04zXy1zSGc3X3FGNDh4TDg3MGJ6LWJ2b3VBeFZWWks2OE5TaDdhMzJfY1FHdWdqWmZCU2hmUTJEVXZVaFRFbF9hTkxQSllubTBxYlpjYy1yeTQ5Q3RyQ1owUkhhMXJTVEttODRwS0xaZEpxR1FyejZDZUFEVnBVc3JHc0tlSlU?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 8,
+      "summary": null,
+      "title_tr": "Parlamento, on meslek grubu için yeşil pasaportların çıkarılmasını öneriyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Researchers explore why a vaccine for the Bundibugyo Ebola strain remains unavailable",
+      "links": [
+        "https://www.dw.com/en/ebola-why-is-there-still-no-vaccine/a-79888134?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Science",
+      "rank": 1,
+      "summary": "Researchers highlight a missed opportunity in vaccine development for the Bundibugyo Ebola strain, despite its identification in 2007 and 2012 outbreaks. While an existing vaccine (Ervebo) protects against the Zaire strain, trials suggest it may trigger cross-reactive immune responses against Bundibugyo, though its real-world efficacy remains unconfirmed. The outbreak’s persistence stems partly from challenges in rapid containment, including conflict, logistical hurdles, and patient mobility, compounded by the virus’s lower apparent severity masking transmission. Current studies, including the Tumaini trial, aim to close these gaps, but widespread vaccine deployment may take until mid-2027.",
+      "title_tr": "Araştırmacılar, Bundibugyo Ebola suşuna yönelik bir aşının neden hâlâ piyasada bulunmadığını araştırıyor",
+      "summary_tr": "Araştırmacılar, 2007 ve 2012 yıllarında tanımlanan Bundibugyo Ebola suşuna karşı aşı geliştirmede fırsatın kaçırıldığını vurguluyor. Zaire varyantına karşı koruma sağlayan mevcut bir aşı (Ervebo) olmasına rağmen, yapılan çalışmalar bunun Bundibugyo’ya karşı da çapraz tepki gösteren bağışıklık tepkileri tetikleyebileceğini öne sürüyor; ancak gerçek dünya etkinliğinin doğrulanması henüz mümkün değil. Salgının devam etmesinin nedenleri arasında, çatışmalar, lojistik zorluklar ve hastaların hareketliliği gibi hızlı müdahale engelleri, virüsün görece daha düşük görülen şiddeti nedeniyle bulaşmanın gizlenmesiyle birleşiyor. Mevcut çalışmalar arasında yer alan Tumaini denemesi bu boşlukları doldurmayı hedefliyor; ancak geniş çaplı aşı uygulamasının 2027 ortalarına kadar mümkün olmayabileceği belirtiliyor."
+    },
+    {
+      "title": "Scientists trace the routes of the Bantu expansion across Africa",
+      "links": [
+        "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/"
+      ],
+      "category": "Science",
+      "rank": 2,
+      "summary": "Scientists have traced the Bantu expansion, a significant migration that began 6,000 to 4,000 years ago from western Africa, transforming languages, genes, and cultures across sub-Saharan Africa. The Bantu-speaking peoples introduced advanced iron-smelting, farming, pottery, and livestock-herding, reshaping societies from hunter-gatherer communities to complex state societies. Linguistic, genetic, and archaeological evidence confirms the migration's origins in the Grassfields region of Cameroon and its spread through the Congo rainforest into eastern and southern Africa. Today, over 350 million people speak Bantu languages, and many share Bantu ancestry, reflecting this vast historical movement and cultural integration.",
+      "title_tr": "Bilim insanları, Afrika genelinde Bantu yayılmasının izlerini sürüyor",
+      "summary_tr": "Bilim insanları, 6.000 ila 4.000 yıl önce Batı Afrika’dan başlayan ve Alt-Sahra Afrikası’nın dil, genetik yapı ve kültürlerini dönüştüren Bantu yayılmasını izlerini sürdü. Bantu dili konuşan halklar, ileri demir eritme, çiftçilik, çömlekçilik ve hayvancılık gibi yenilikleri avcı-toplayıcı topluluklardan karmaşık devlet toplumlarına geçişi başlatarak toplumları şekillendirdi. Dilbilimsel, genetik ve arkeolojik bulgular, Bantu yayılmasının kökeninin Kamerun’un Grassfields bölgesinde olduğunu ve Kongo yağmur ormanı yoluyla Doğu ve Güney Afrika’ya yayıldığını doğruladı. Bugün 350 milyondan fazla insan Bantu dillerini konuşmakta ve birçok kişi Bantu soyunu paylaşmakta olup bu muazzam tarihsel hareket ve kültürel bütünleşmenin izlerini taşımaktadır."
+    },
+    {
+      "title": "Surgeon removes a knife that passed through a man's eye and brain without fatal injury",
+      "links": [
+        "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/"
+      ],
+      "category": "Science",
+      "rank": 3,
+      "summary": "A man in his 20s arrived at a UK hospital with a knife embedded in his face, the blade having passed through his right eye and brain without immediate fatal injury. Despite severe trauma to his brain and eye, scans revealed the knife narrowly missed critical structures like the corpus callosum and major blood vessels. After emergency surgery using a conservative approach, he recovered rapidly with no lasting neurological deficits, though he lost his right eye due to irreversible damage. The incident’s cause remains unclear, but doctors speculate his survival reflects an exceptionally fortunate trajectory relative to vital brain regions. Such low-velocity penetrating brain injuries are typically fatal, underscoring the rarity of his recovery.",
+      "title_tr": "Bir cerrah, bir erkeğin gözünden ve beyninden geçen bıçağı, ölümcül bir yaralanmaya yol açmadan çıkardı",
+      "summary_tr": "İngiltere'deki bir hastaneye 20'li yaşlardaki bir adam, yüzüne saplanmış halde bir bıçakla geldi; bıçağın sapı görünürken, 15 mm genişliğindeki bıçak sağ gözünden ve beyninden geçerek kafatasının tepesine kadar ulaşmıştı. Ciddi beyin ve göz hasarına rağmen, görüntülemeler bıçağın beynin kritik yapıları olan korpus kallozum ve ana kan damarlarına zarar vermemiş olduğunu ortaya koydu. Konservatif bir cerrahi yaklaşımla bıçak çıkarıldıktan sonra adam hızla iyileşti ve kalıcı nörolojik kayıp yaşamadı, ancak sağ gözü kurtarılamadı. Yaralanmanın nedeni belirsiz kaldı; ancak doktorlar, onun hayatta kalmasını hayati beyin bölgelerine göre son derece şanslı bir bıçak yoluna bağladı. Düşük hızlı penetre beyin yaralanmaları genellikle ölümcül olur ancak bu nadir vakada iyileşme olağanüstüydü."
+    },
+    {
+      "title": "NHS breach helpline staff report significant emotional strain during crisis",
+      "links": [
+        "https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201"
+      ],
+      "category": "Science",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "NHS veri ihlali yardım hattı çalışanları, kriz sırasında ciddi bir duygusal baskı yaşadıklarını bildirdi",
+      "summary_tr": null
+    },
+    {
+      "title": "Study reveals a missing billion-year layer in Earth’s rock record",
+      "links": [
+        "https://nautil.us/earths-rocks-have-a-missing-layer-spanning-up-to-a-billion-years-1286417/"
+      ],
+      "category": "Science",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "Araştırma, Dünya’nın kayaç kayıtlarında eksik olan bir milyar yıllık bir tabakayı ortaya çıkardı",
+      "summary_tr": null
+    },
+    {
+      "title": "Reasons for nighttime snacking and tips to change the habit",
+      "links": [
+        "https://www.bbc.com/turkce/articles/cm62yy51ekgyo?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Science",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "Gece atıştırmanın nedenleri ve bu alışkanlığı değiştirmek için ipuçları",
+      "summary_tr": null
+    },
+    {
+      "title": "Hackers steal $133 million from French bank through a service‑provider breach",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/"
+      ],
+      "category": "Tech",
+      "rank": 1,
+      "summary": "French cooperative bank Crédit Mutuel Arkéa suffered a $133 million cyber heist after hackers breached its network through a third-party service provider. The attackers exploited Arkéa’s own account to initiate fraudulent transfers to other institutions, converting proceeds into cryptocurrency before laundering part of the haul. The bank reported customer assets remained secure but suspended certain systems, noting the attack’s sophistication and ongoing judicial inquiries. Law enforcement’s proposed intervention was bypassed, enabling rapid fund dissipation.",
+      "title_tr": "Bilgisayar korsanları, bir hizmet sağlayıcısındaki güvenlik açığı yoluyla Fransız bankasından 133 milyon dolar çaldı",
+      "summary_tr": "Fransız ortak bankası Crédit Mutuel Arkéa, üçüncü taraf bir hizmet sağlayıcının ağından yararlanan siber saldırganlar tarafından 133 milyon dolarlık bir soygunla karşı karşıya kaldı. Saldırganlar, Arkéa’nın kendi hesabını kullanarak diğer kurumlara sahte transferler başlattı ve fonları kripto para birimine dönüştürdü. Banka, müşteri varlıklarının güvende olduğunu belirtse de bazı sistemleri askıya aldı ve saldırının karmaşıklığını vurgulayarak adli soruşturmaların devam ettiğini açıkladı. Kolluk kuvvetlerinin müdahalesi öngörülmesine rağmen, fonların önemli bir kısmı hızla kaybedildi."
+    },
+    {
+      "title": "Increasing IoT hacks highlight vulnerabilities in critical infrastructure",
+      "links": [
+        "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/"
+      ],
+      "category": "Tech",
+      "rank": 2,
+      "summary": "The article highlights recent IoT-related cybersecurity incidents targeting critical infrastructure, particularly focusing on vulnerabilities in internet-connected appliances such as supermarket freezers. It discusses how such devices, often connected for remote monitoring or tech support, become potential entry points for cyberattacks. Commentary from readers emphasizes the lack of necessity for some appliances to be internet-enabled and the broader issue of insecure legacy systems in vital infrastructure. The piece underscores the growing risks posed by IoT vulnerabilities and the insufficient proactive measures to address them.",
+      "title_tr": "Giderek artan IoT saldırıları, kritik altyapıdaki güvenlik açıklarını ortaya koyuyor",
+      "summary_tr": "Makale, süpermarket buz dolapları gibi internete bağlı cihazlardaki güvenlik açıklarına odaklanarak, Kritik altyapılara yönelik Son IoT siber güvenlik olaylarını öne çıkarıyor. Genellikle uzaktan izleme veya teknik destek amacıyla internete bağlanan bu cihazların siber saldırılar için potansiyel giriş noktaları haline geldiği tartışılıyor. Okuyuculardan gelen yorumlar ise bazı cihazların internete bağlı olmasının gereksiz olduğunu ve kritik altyapılardaki güvensiz eski sistemlerin daha geniş bir sorun olduğunu vurguluyor. Parça, IoT güvenlik açıklarının giderek artan risklerine ve bunlara yönelik yetersiz proaktif önlemlere dikkat çekiyor."
+    },
+    {
+      "title": "SonicWall patches SSL‑VPN MFA bypass vulnerability being exploited in attacks",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/"
+      ],
+      "category": "Tech",
+      "rank": 3,
+      "summary": "SonicWall has disclosed and patched CVE-2026-19868, a critical SSL-VPN authentication bypass flaw compromising SAML-based multi-factor authentication in affected SonicOS firewalls. The vulnerability, exploited in real-world attacks as confirmed by CISA, enables adversaries with alternate credentials to circumvent MFA controls on SSL-VPN services. SonicWall urges immediate upgrades to versions 7.3.4-7013 and 8.2.3-8015, while CISA mandates remediation by November 20 for federal agencies. Six additional vulnerabilities, including high-severity management interface flaws, were also addressed in the update.",
+      "title_tr": "SonicWall, saldırılarda istismar edilen SSL-VPN MFA atlatma güvenlik açığını gideren yamalar yayınladı",
+      "summary_tr": "SonicWall, CVE-2026-19868 olarak izlenen kritik bir SSL-VPN kimlik doğrulama atlatma güvenlik açığını açıkladı ve düzeltti. Bu hata, SAML tabanlı çok faktörlü kimlik doğrulamayı (MFA) tehlikeye atarak, farklı kimlik doğrulama yöntemlerine sahip kimlik bilgilerine sahip saldırganların MFA kontrollerini atlatmasına olanak tanır. CISA tarafından gerçek dünya saldırılarında istismar edildiği doğrulanan bu açıktan etkilenen Sistemler için acil yükseltme çağrısında bulunuldu. CISA, federal kurumların 20 Kasım 2026'ya kadar düzeltmeyi tamamlamasını zorunlu kıldı. Ayrıca, yönetim arayüzündeki yüksek önem dereceli güvenlik açıkları dahil olmak üzere altı ek hata da düzeltildi."
+    },
+    {
+      "title": "CTM360 reveals fake‑gift‑card scams impersonating major brands",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/"
+      ],
+      "category": "Tech",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "CTM360, büyük markaların adını kullanarak yapılan sahte hediye kartı dolandırıcılıklarını ortaya çıkarıyor",
+      "summary_tr": null
+    },
+    {
+      "title": "British soldier court‑martialed after ignoring orders to lock down his phone and being blackmailed",
+      "links": [
+        "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/"
+      ],
+      "category": "Tech",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "Telefonunu kilitleme emirlerini dikkate almadığı ve şantaja maruz kaldığı için İngiliz asker askeri mahkemeye sevk edildi",
+      "summary_tr": null
+    },
+    {
+      "title": "Asahi Linux 7.3 development report on Apple‑device compatible distribution",
+      "links": [
+        "https://lwn.net/Articles/1105936/"
+      ],
+      "category": "Tech",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "Apple cihazlarıyla uyumlu dağıtım hakkında Asahi Linux 7.3 geliştirme raporu",
+      "summary_tr": null
+    },
+    {
+      "title": "Technical overview of the Amutable Operating System and its infrastructure",
+      "links": [
+        "https://lwn.net/Articles/1105934/"
+      ],
+      "category": "Tech",
+      "rank": 7,
+      "summary": null,
+      "title_tr": "Amutable İşletim Sistemi ve Altyapısına İlişkin Teknik Genel Bakış",
+      "summary_tr": null
+    },
+    {
+      "title": "Top Wi‑Fi router recommendations for 2026 after testing over fifty models",
+      "links": [
+        "https://www.wired.com/gallery/best-wifi-routers/"
+      ],
+      "category": "Tech",
+      "rank": 8,
+      "summary": null,
+      "title_tr": "Elli modelin üzerinde test edildikten sonra 2026 yılı için en iyi Wi-Fi yönlendirici önerileri",
+      "summary_tr": null
+    },
+    {
+      "title": "Commentary on Windows operating system failures at UK motorway service stations",
+      "links": [
+        "https://www.theregister.com/offbeat/2026/11/07/windows-takes-a-break-at-uk-motorway-services/5307862"
+      ],
+      "category": "Tech",
+      "rank": 9,
+      "summary": null,
+      "title_tr": "İngiltere’deki otoyol dinlenme tesislerinde yaşanan Windows işletim sistemi arızalarına ilişkin yorum",
+      "summary_tr": null
+    }
+  ]
+}
