@@ -1,946 +1,852 @@
 {
   "schema_version": 1,
   "stats": {
-    "last_run": "2026-11-10T14:18:14.829Z",
+    "last_run": "2026-11-12T09:38:41.448Z",
     "sources_pulled": 74,
-    "headlines_read": 187,
-    "headlines_written": 176,
-    "summaries_written": 13,
-    "summaries_failed": 8,
-    "run_count": 43
+    "headlines_read": 190,
+    "headlines_written": 181,
+    "summaries_written": 12,
+    "summaries_failed": 9,
+    "run_count": 44
   },
   "headlines": [
     {
-      "title": "Anthropic prepares for IPO, releasing Claude Fable 5.2 and Mythos 5.2 models",
+      "title": "Analyses of U.S. midterm election outcomes and their implications for geopolitics, technology, and AI policy",
       "links": [
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxORUxtR3VZQVJjcnhWLW1rb3RBdG1vMlFJRlpGeG9iTmdtZ0RrVTBDRkJITUQtM3FjZkhrZHQtb3J4cGNsLUs0SllMR05JcENTWFVOZjJLUUM0c0k2aXlhZGJKNFdnUFd2ZUVtcmp3WWdudFhpWG41by11a3lDZWI1b3Z1VHppTzBteEt4amNJeXc0Y0diSkxnMUdGeVVwNXQ2Y3RUeC1qS3V6cU04eUJtUUg2WHBPVk5pWXB5Vlp1YktpOWxY?oc=5",
-        "https://www.noahpinion.blog/p/noah-brad-delong-and-dan-wang-discuss"
+        "https://geopoliticalfutures.com/george-friedman-breaks-down-americas-midterm-fallout/",
+        "https://geopoliticalfutures.com/george-friedman-breaks-down-americas-midterm-fallout-podcast/",
+        "https://geopoliticalfutures.com/international-reaction-to-the-us-midterms/",
+        "https://www.project-syndicate.org/commentary/us-midterms-democrats-ai-mandate-by-gabriela-ramos-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en",
+        "https://www.project-syndicate.org/commentary/us-midterm-election-results-show-americans-are-fed-up-with-political-corruption-by-luigi-zingales-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en",
+        "https://www.npr.org/2026/11/11/nx-s1-6037432/whats-behind-democratic-socialists-historic-victories-in-the-midterms",
+        "https://www.npr.org/2026/11/11/nx-s1-6036790/swing-voters-swing-states-democrats-congress"
       ],
       "category": "AI",
       "rank": 1,
       "summary": "No summary available: scraping failure",
-      "title_tr": "Anthropic, halka arz hazırlıklarını sürdürürken Claude Fable 5.2 ve Mythos 5.2 modellerini yayınladı",
+      "title_tr": "ABD ara seçim sonuçlarının ve bunların jeopolitika, teknoloji ve yapay zeka politikası üzerindeki etkilerinin analizleri",
       "summary_tr": "Özet bulunmuyor: veri alma işlemi başarısız oldu"
     },
     {
-      "title": "New Congressman Scott Wiener may influence AI regulation",
+      "title": "TSMC to commit $1 billion to Anthropic and OpenAI",
       "links": [
-        "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/"
+        "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/"
       ],
       "category": "AI",
       "rank": 2,
-      "summary": "Scott Wiener, newly elected to Congress after serving as a California state senator, is positioned to influence federal AI policy, building on his past efforts such as SB 1047 and SB 53 that sought to regulate frontier AI systems in California. A vocal advocate for AI safety, Wiener warns about the rapid progress of AI and the risks of recursive self-improvement, emphasizing the urgent need for regulation with real enforcement mechanisms. He supports ideas like a federal AI regulator, whistleblower protections, and testing requirements, while opposing broad federal preemption of state laws. Wiener acknowledges political challenges, particularly under a president skeptical of AI risk, but remains cautiously hopeful about eventual Congressional action.",
-      "title_tr": "Yeni Kongre Üyesi Scott Wiener, yapay zeka düzenlemelerini etkileyebilir",
-      "summary_tr": "Scott Wiener, California’lı eyalet senatosu üyeliğinden sonra yapılanan dar bir seçimle Kongre’ye giren yeni üye, California’da SB 1047 ve SB 53 gibi öncü yapay zeka sistemlerinin düzenlenmesini amaçlayan yasal çalışmalarıyla federal yapay zeka politikalarına yön verme konumuna geldi. Yapay zeka güvenliği savunucusu olarak, yapay zekanın hızlı ilerleyişi ve kendini yineleyen iyileştirmeler risklerine dikkat çekerek, güçlü ve uygulanabilir düzenlemelerin acilen gerekli olduğunu vurguluyor. Federal bir yapay zeka düzenleyicisi, ihbarcı korumaları ve test gereklilikleri gibi fikirleri desteklerken, federal yasanın eyalet yasalarını geniş çapta geçersiz kılmasına karşı çıkıyor. Wiener, özellikle yapay zeka risklerine kuşkucu yaklaşan bir başkanın varlığında, Kongre’nin harekete geçmesinin zorluklarını kabul etmekle birlikte, nihayetinde dikkatli bir iyimserlik içinde olmayı sürdürüyor."
+      "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) plans to invest up to $1 billion in OpenAI and Anthropic, including $500 million in OpenAI preferred stock and $500 million in Anthropic shares at IPO price. The investment reflects industry-wide circular financing amid the AI boom, as TSMC’s chip factories supply critical hardware to these AI firms. Analysts caution this structure complicates assessments of real market demand, while TSMC’s record profits from AI-driven chip demand provide ample capital for such bets.",
+      "title_tr": "TSMC, Anthropic ve OpenAI’ye 1 milyar dolarlık yatırım taahhüdünde bulunacak",
+      "summary_tr": "Taiwan Semiconductor Manufacturing Company (TSMC), Tayvan merkezli yarı iletken üreticisi, OpenAI ve Anthropic'e toplam 1 milyar dolar yatırım yapmayı planlıyor. Bu yatırımın 500 milyon doları OpenAI'nin tercih edilen hisselerine, kalan 500 milyon doları ise Anthropic'in İPO fiyatındaki hisselerine yönelik olacak. TSMC'nin tesisleri, AI firmalarına kritik bileşenler sağlayarak şimdiden yüksek kar elde etmektedir. Analistler ise bu tür devresel finansmanın, AI pazarındaki gerçek talebin değerlendirilmesini zorlaştırdığını belirtiyor."
     },
     {
-      "title": "Claude Code tool inadvertently leaks secrets on GitHub",
+      "title": "Anthropic Reports AI Safety Alarm Activation Ahead of IPO",
       "links": [
-        "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/"
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUTRqOU1uQ3V4RzE1YnpNX004b0JjUGlWUjgxbHd5MDAtaGpjREpoTE9DYUNUTVhqQnhDc0loMnRLY3NYRkJWVlZFNm1aU080UEtla1R1MmdoMGVSSEFJZmdFME1nTUx5akx0MW5vYUlaWTVpRTdLeW1iVmRCY3lrQU55SmluSWt2ZU1GNWVjaDR1UDZiUWk2NFF0WnhwWjhFS3pWbXd5TmdmSmlnSnM5cEU5SjNnQzN4ZWVYa2NmMklMYWpWVEV5NmttazQ?oc=5"
       ],
       "category": "AI",
       "rank": 3,
-      "summary": "Security researchers at Apiiro found that Claude Code inadvertently exposes sensitive data in over 1,100 public GitHub repositories by storing user-approved shell commands—including API tokens, database passwords, and private keys—in local settings files that sometimes get committed. The issue arises when these local configuration files, which should remain excluded by global .gitignore, are manually or accidentally pushed to public repositories. Anthropic acknowledged the concern and is exploring fixes, while recommending developers use secret scanners and avoid manual inclusion of settings files in version control.",
-      "title_tr": "Claude Code aracı, GitHub'da istemeden gizli bilgileri sızdırdı",
-      "summary_tr": "Güvenlik araştırmacıları Apiiro, kullanıcı onaylı kabuk komutlarının—API belirteçleri, veri tabanı parolaları ve özel anahtarlar dahil—yerel ayar dosyalarında saklanması ve bazen Github’a kamuya açık olarak yüklenmesiyle Claude Code’un 1.100’den fazla kamu GitHub deposunda hassas verileri açığa çıkardığını tespit etti. Bu yerel yapılandırma dosyaları normalde global .gitignore tarafından dışlanması gerekirken, elle ya da kazayla kamu depolarına itildiklerinde sorun ortaya çıkıyor. Anthropic yetkilisi endişeyi kabul etti ve düzeltmeler üzerinde çalıştıklarını belirtti, geliştiricilerin özel tarayıcılar kullanmalarını ve ayar dosyalarını versiyon kontrolüne elle dahil etmemelerini önerdi."
+      "summary": "No summary available: scraping failure",
+      "title_tr": "Anthropic, halka arz öncesinde yapay zeka güvenliği alarmının devreye girdiğini bildirdi",
+      "summary_tr": "Özet bulunmuyor: veri alma işlemi başarısız oldu"
     },
     {
-      "title": "Report projects AI research could reach recursive self‑improvement by 2027",
+      "title": "JioStar executive discusses scaling AI discovery to 500 million users",
       "links": [
-        "https://thezvi.substack.com/p/ai-r-and-d-is-accelerating-towards"
+        "https://openai.com/index/jiostar-vijay-seshadri"
       ],
       "category": "AI",
       "rank": 4,
       "summary": null,
-      "title_tr": "Rapora göre, yapay zeka araştırmaları 2027 yılına kadar özyinelemeli kendi kendini geliştirme aşamasına ulaşabilir",
+      "title_tr": "JioStar yöneticisi, yapay zeka tabanlı içerik keşif sistemini 500 milyon kullanıcıya genişletmeyi ele alıyor",
       "summary_tr": null
     },
     {
-      "title": "Attackers exploit Claude 'Office Party' flaw to run code on Linux systems",
+      "title": "New token pooling-aware training method improves multi-vector embedding models",
       "links": [
-        "https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux"
+        "https://huggingface.co/blog/token-pooling"
       ],
       "category": "AI",
       "rank": 5,
       "summary": null,
-      "title_tr": "Saldırganlar, Linux sistemlerinde kod çalıştırmak için Claude 'Office Party' güvenlik açığını istismar ediyor",
+      "title_tr": "Token havuzlamayı dikkate alan yeni bir eğitim yöntemi, çok vektörlü gömme modellerini iyileştiriyor",
       "summary_tr": null
     },
     {
-      "title": "AI system outperforms scientists in detecting errors in clinical papers",
+      "title": "Three arrested for conducting impersonation fraud using AI-generated content",
       "links": [
-        "https://www.science.org/content/article/ai-beats-scientists-finding-errors-clinical-research-papers"
+        "https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html"
       ],
       "category": "AI",
       "rank": 6,
       "summary": null,
-      "title_tr": "Yapay zeka sistemi, klinik makalelerdeki hataları tespit etme konusunda bilim insanlarından daha başarılı",
+      "title_tr": "Yapay zeka ile üretilen içerikleri kullanarak kimlik sahtekarlığı yaptıkları gerekçesiyle üç kişi gözaltına alındı",
       "summary_tr": null
     },
     {
-      "title": "Combining vibrations and AI to enable autonomous rock‑burial detection for robots",
+      "title": "Report examines how artificial intelligence is reshaping influence operations in the United States",
       "links": [
-        "https://www.universetoday.com/articles/virginia-tech-researchers-use-vibrations-and-ai-to-estimate-depth-of-buried-objects-for-future-lunar"
+        "https://www.foreignaffairs.com/china/new-kind-foreign-agent"
       ],
       "category": "AI",
       "rank": 7,
       "summary": null,
-      "title_tr": "Titreşimleri ve yapay zekayı birleştirerek robotlar için otonom kaya gömülme algılamasını mümkün kılmak",
+      "title_tr": "Raporda, yapay zekanın ABD’deki etki operasyonlarını nasıl yeniden şekillendirdiği inceleniyor",
       "summary_tr": null
     },
     {
-      "title": "Google counters Nvidia with new specialized AI chips",
+      "title": "Europe’s AI expansion plans outpace its electricity grid capacity",
       "links": [
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPam04WS0zYVBvV09xOExDV2hWRTkzRUNIbjZlZHRieVc4enl1blJqa05udTBYb0dRbUwxcWdVUThLUTBhcHpvNzJJTWtZZFV6Q2EtZzUyalczTmJpUFhpTmRPckwtMWx4VmoxQU9rVWpqWjVxcVB2ZklTSnAxLTRBeTEyQXNfdmlwZ2c2MXhscmtTSkFoVTRMX1BSMVpWc0ttSF9GSDQxdVZYSGc?oc=5"
+        "https://www.project-syndicate.org/commentary/europe-must-invest-in-grid-expansion-and-address-public-opposition-to-data-centers-by-sona-muzikarova-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en"
       ],
       "category": "AI",
       "rank": 8,
       "summary": null,
-      "title_tr": "Google, yeni özel yapay zeka yongalarıyla Nvidia’ya karşılık veriyor",
+      "title_tr": "Avrupa’nın yapay zeka genişleme planları, elektrik şebekesi kapasitesini geride bırakıyor",
       "summary_tr": null
     },
     {
-      "title": "ChatGPT Enterprise added to AWS Marketplace",
+      "title": "Investors Warn That Generative AI May Face Economic and Political Headwinds",
       "links": [
-        "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
+        "https://www.project-syndicate.org/commentary/ai-trade-risks-both-political-and-economic-by-jim-o-neill-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en"
       ],
       "category": "AI",
       "rank": 9,
       "summary": null,
-      "title_tr": "ChatGPT Enterprise, AWS Marketplace’e eklendi",
+      "title_tr": "Yatırımcılar, Üretken Yapay Zekanın Ekonomik ve Siyasi Engellerle Karşılaşabileceği Konusunda Uyardı",
       "summary_tr": null
     },
     {
-      "title": "CodeRabbit leverages OpenAI models to increase software output",
+      "title": "Anthropic's Oversubscribed IPO Raises Questions About Order Book Value",
       "links": [
-        "https://openai.com/index/coderabbit-codex-daybreak"
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNE9QY25CRXJzVVZDaGw4MTRwRTNVM0g2QXpGY19BX2xrS1g5bWJqZ09KVUM4Q01Dd0xfU2FGdEdEUTl4LUNtT1ZNaU8xUzB2azJEZ2pzcDhxZ19nMThlbUJEbnZ2NlpfcXRDTm5SSF9OU3VLOHdCRmc2VVhjWG82S1U0THZhS1FOU3lBTTRQRDRTUU1hYjFRdTZoMDd5U3hRellxWVFTRWR5Ylltc25hUnRCZ01DZkxZNDZvY0JkcDhvdXoyNTJiazNoMFVDXzNKbjB1QjdDVDNoZw?oc=5"
       ],
       "category": "AI",
       "rank": 10,
       "summary": null,
-      "title_tr": "CodeRabbit, yazılım üretimini artırmak için OpenAI modellerinden yararlanıyor",
+      "title_tr": "Anthropic’in Talep Fazlası Olan Halka Arzı, Sipariş Defteri Değeri Konusunda Sorular Doğuruyor",
       "summary_tr": null
     },
     {
-      "title": "AI adoption in specialty chemicals industry examined",
+      "title": "Google launches Gemini Decisions API for rapid multimodal decision-making",
       "links": [
-        "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/"
+        "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
       ],
       "category": "AI",
       "rank": 11,
       "summary": null,
-      "title_tr": "Özel kimyasallar sektöründe yapay zeka kullanımına ilişkin inceleme",
+      "title_tr": "Google, hızlı çok modlu karar verme için Gemini Decisions API’sini piyasaya sürdü",
       "summary_tr": null
     },
     {
-      "title": "LinkedIn uses AI to automatically review tens of thousands of pull requests",
+      "title": "BotPsy introduces on-device personal assistant powered by compact agentic language model",
       "links": [
-        "https://blog.bytebytego.com/p/how-linkedin-uses-ai-to-review-40000"
+        "https://huggingface.co/blog/qvac/botpsy"
       ],
       "category": "AI",
       "rank": 12,
       "summary": null,
-      "title_tr": "LinkedIn, yapay zeka kullanarak on binlerce çekme isteğini otomatik olarak inceliyor",
+      "title_tr": "BotPsy, kompakt ajan tabanlı dil modeli ile çalışan, cihaz üzerinde çalışan kişisel asistanı tanıtıyor",
       "summary_tr": null
     },
     {
-      "title": "Summary of AI Security conference covering recent research",
+      "title": "Indie game developer Big Walk employs AI to resolve bug, sparking debate in gaming community",
       "links": [
-        "https://www.schneier.com/blog/archives/2026/11/ai-security.html"
+        "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/"
       ],
       "category": "AI",
       "rank": 13,
       "summary": null,
-      "title_tr": "Son dönemdeki araştırmaları ele alan AI Güvenliği konferansının özeti",
+      "title_tr": "Bağımsız oyun geliştiricisi Big Walk, bir hatayı gidermek için yapay zeka kullanıyor; bu durum oyun camiasında tartışmalara yol açtı",
       "summary_tr": null
     },
     {
-      "title": "Discussion of AI-driven space economies and robotic lunar missions",
+      "title": "AI newsletter roundup highlights Nvidia investigation, Anthropic IPO, and industry trends",
       "links": [
-        "https://importai.substack.com/p/import-ai-480-self-sustaining-space"
+        "https://lastweekin.ai/p/last-week-month-in-ai-347-nvidias"
       ],
       "category": "AI",
       "rank": 14,
       "summary": null,
-      "title_tr": "Yapay zeka odaklı uzay ekonomileri ve robotik ay görevleri üzerine tartışma",
+      "title_tr": "AI haber bültenleri özetinde Nvidia soruşturması, Anthropic’in halka arzı ve sektör trendleri öne çıkıyor",
       "summary_tr": null
     },
     {
-      "title": "OpenAI introduces Control Room to monitor model workloads",
+      "title": "Release of Claude Mythos 5.2 model announced",
       "links": [
-        "https://openai.com/index/control-room"
+        "https://thezvi.substack.com/p/fable-and-mythos-52-the-system-card"
       ],
       "category": "AI",
       "rank": 15,
       "summary": null,
-      "title_tr": "OpenAI, model iş yüklerini izlemek için Control Room’u tanıttı",
+      "title_tr": "Claude Mythos 5.2 modelinin piyasaya sürülmesi duyuruldu",
       "summary_tr": null
     },
     {
-      "title": "Kuken Industries uses OpenAI API to locate engineering drawings quickly",
+      "title": "Report discusses how AI heightens importance of cyber resilience",
       "links": [
-        "https://openai.com/index/kuken"
+        "https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience"
       ],
       "category": "AI",
       "rank": 16,
       "summary": null,
-      "title_tr": "Kuken Industries, mühendislik çizimlerini hızlı bir şekilde bulmak için OpenAI API’sini kullanıyor",
+      "title_tr": "Raporda, yapay zekanın siber dayanıklılığın önemini nasıl artırdığı ele alınmaktadır",
       "summary_tr": null
     },
     {
-      "title": "Synthetic dataset of Japanese demographics and finance released",
+      "title": "Proposal to Publish Articles Created by Artificial Intelligence",
       "links": [
-        "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan"
+        "https://www.project-syndicate.org/commentary/legitimacy-of-ai-generated-academic-articles-by-peter-singer-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en"
       ],
       "category": "AI",
       "rank": 17,
       "summary": null,
-      "title_tr": "Japonya’nın demografik ve finansal verilerini içeren sentetik veri seti yayınlandı",
+      "title_tr": "Yapay Zeka Tarafından Oluşturulan Makalelerin Yayınlanmasına İlişkin Öneri",
       "summary_tr": null
     },
     {
-      "title": "Analysis argues data center concerns may stem from electricity usage",
+      "title": "Critique of AI Companies for Lacking Consumer Value and Consent Issues",
       "links": [
-        "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
+        "https://www.project-syndicate.org/commentary/how-ai-companies-squandered-goodwill-of-american-public-by-brian-judge-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en"
       ],
       "category": "AI",
       "rank": 18,
       "summary": null,
-      "title_tr": "Analizlere göre, veri merkezleriyle ilgili endişelerin elektrik tüketiminden kaynaklanıyor olabileceği öne sürülüyor",
+      "title_tr": "Tüketici Değeri Sunmamaları ve Rıza Sorunları Nedeniyle Yapay Zeka Şirketlerine Yönelik Eleştiriler",
       "summary_tr": null
     },
     {
-      "title": "PwC CISO discusses AI, robotics and future security challenges",
+      "title": "Veterans receive free year of ChatGPT Plus subscription",
       "links": [
-        "https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security"
+        "https://openai.com/index/chatgpt-plus-for-veterans"
       ],
       "category": "AI",
       "rank": 19,
       "summary": null,
-      "title_tr": "PwC’nin Bilgi Güvenliği Direktörü (CISO), yapay zeka, robotik ve geleceğin güvenlik sorunlarını ele alıyor",
+      "title_tr": "Gazilere bir yıllık ücretsiz ChatGPT Plus aboneliği veriliyor",
       "summary_tr": null
     },
     {
-      "title": "Human emotional responses to advancing AI capabilities",
+      "title": "NASA Launches New Initiative to Retrieve Mars Sample Return",
       "links": [
-        "https://www.project-syndicate.org/commentary/ai-five-stages-of-grief-by-dani-rodrik-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en"
-      ],
-      "category": "AI",
-      "rank": 20,
-      "summary": null,
-      "title_tr": "Gelişen yapay zeka yeteneklerine karşı insanların duygusal tepkileri",
-      "summary_tr": null
-    },
-    {
-      "title": "Recommended books to navigate concerns about artificial intelligence",
-      "links": [
-        "https://nautil.us/essential-reading-in-an-era-of-ai-doomsaying-1286439/"
-      ],
-      "category": "AI",
-      "rank": 21,
-      "summary": null,
-      "title_tr": "Yapay zeka konusundaki endişeleri gidermeye yardımcı olacak önerilen kitaplar",
-      "summary_tr": null
-    },
-    {
-      "title": "NASA announces accelerated program aiming for crewed lunar landing by 2028",
-      "links": [
-        "https://www.sciencedaily.com/releases/2026/11/261108233054.htm"
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb2xzbng4WWx2dVljSmNXR21sV2NMcjlvQTY2emNiSVlKRWlpanRQMWFtWG5DZXpienh5QUZXekVycEN5eXZkNDBxdC1UUi1GaWZFMHRZTllOek1jOGJxdF90OF9fc0JTMVdmVUJ6NENUMXlvRWdTYnp0enExYWlyd0JNUVlQQWd2VEw0M2FMM2tDV0FRbVRXLQ?oc=5"
       ],
       "category": "Space",
       "rank": 1,
-      "summary": "NASA has accelerated its Artemis program, aiming to land astronauts on the Moon by 2028 through streamlined preparations, competing lunar landers from SpaceX and Blue Origin, and a newly designed lightweight spacesuit. The plan includes a 2027 orbital test mission involving both spacecraft before the crewed lunar landing attempt. NASA also introduced internal engineering improvements, reduced costs, and explored additional rocket options to bolster the mission's feasibility. The initiative supports long-term goals, including a sustained human presence on the Moon and eventual human missions to Mars.",
-      "title_tr": "NASA, 2028 yılına kadar insanlı Ay inişini hedefleyen hızlandırılmış bir programı duyurdu",
-      "summary_tr": "NASA, Artemis programını hızlandırarak, SpaceX ve Blue Origin tarafından geliştirilen rekabetçi iniş araçları, yeni hafif uzay giysileri ve hızlanan roket hazırlıkları sayesinde 2028 yılına kadar astronotları Ay’a indirmeyi hedefliyor. Bu plan kapsamında, 2027 yılında gerçekleştirilecek bir yörünge test göreviyle her iki şirketin uzay araçları test edilecek ve ardından mürettebatlı Ay inişi denemesine geçilecek. NASA ayrıca iç mühendislik iyileştirmelerini hayata geçirerek maliyetleri düşürdü ve görevin başarısını artırmak için ek roket seçeneklerini değerlendiriyor. Bu çalışmalar, Ay’da kalıcı bir insan varlığının yanı sıra gelecekte Mars’a yapılacak insanlı görevler için de temel oluşturmayı destekliyor."
+      "summary": "No summary available: scraping failure",
+      "title_tr": "NASA, Mars Örnek Getirme Programı için Yeni Bir Girişim Başlattı",
+      "summary_tr": "Özet bulunmuyor: veri alma işlemi başarısız oldu"
     },
     {
-      "title": "NASA releases $10 billion lunar contracts, including nuclear‑powered rover",
+      "title": "Scientists Detect Fast Radio Bursts Using Acoustic Techniques in Finnish Cathedral",
       "links": [
-        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZHFlSEpzUTV6NzhqelJBQWoxa1d2WjlEdllSdFVoZWY2cWdDZ2RfQ1c3TkJqSmY1bEpjUTVIaWxtRDkwUkp5WnI1dUNscm5wcmRXTW93VFZHeWJ3dVBGRVBCakJBUVRtanpUbVlhZVN1ejNlNDlMY3k1aEhhZ0owcWxQY0JaejRBWTVnVjhYMTQycnFtMHVaZmRFT1dJUW5nNU9mRnJISnU5a2dkMW5sVVZtSkRBY2lLUTV0U3QzUmdlUF90OGg1S1N2aWt1ZmJleTdFVTRDSFNLQWI1d0hjZUlRUzRWQVJ3RTUySmZZSS0?oc=5"
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVkpQQUlCV0lERUJtemJTR3ZqNkdwd2xwX291am5JT3FwY3RCYXp1cjZWNi05ZGhDMS00STR3a3UwNVVOWFJjU2VFWG9hNnBmQmdWUEVIODl0UXZmck5VRy1ZQVhCcXIzN2xlYk9sVHJSbUtvczNXSHFDR0pmNF9vczhZSDZVei1tQm43OGNhRnZGWWVnMy1PM3BPTEd2eVZqd3pramxUdnNsYWpTZ3hYVmNmb0VUVTA?oc=5"
       ],
       "category": "Space",
       "rank": 2,
       "summary": "No summary available: scraping failure",
-      "title_tr": "NASA, nükleer enerjili gezici araç da dahil olmak üzere 10 milyar dolarlık Ay sözleşmelerini açıkladı",
+      "title_tr": "Bilim insanları, Finlandiya’daki bir katedralde akustik teknikler kullanarak hızlı radyo patlamalarını tespit etti",
       "summary_tr": "Özet bulunmuyor: veri alma işlemi başarısız oldu"
     },
     {
-      "title": "Pentagon considers deploying military satellite network around the Moon",
+      "title": "Schedule Released for SpaceX Starship Flight 15 Double‑Landing Test on Nov 13",
       "links": [
-        "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/"
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQzVsamhRZ2ItbHg4cE1oOC1ORFR1MlBXRU96aHdIbzgtcXUzOXpRcGFxMGdzdDh6SkJZaXFZc3RUUVlLYkxrQ1J5T1BtQzNyVENockM4MHViT2RKWExucTAtMC1iTjUtV3plektOSnFWWXphN3c0ZHgyTzlHWEdfVXZPaG1kb25RLUhLdTlwUGRPMmdaQjhNYW5ZWnB3M21zTmdqSkY5XzlxTjF4S05hOWRuRzJhdUhvZkFkNGRJSGF5ZTdmR01NWTM5SzgxMU96UGRwT3Fn?oc=5"
       ],
       "category": "Space",
       "rank": 3,
-      "summary": "The Pentagon has issued a Request for Information seeking industry input on a potential 'proliferated cislunar constellation' of up to five military satellites to operate near the Moon by late 2029, marking an expansion of US military operations into cislunar space. Following a December 2025 executive order emphasizing threats to US space interests across low-Earth to lunar orbits, Space Force leaders have framed the Moon as a contested warfighting domain. While NASA focuses on science and exploration, these satellites may support domain awareness, navigation, communications, and surveillance, including tracking objects and debris around the Moon. Initial steps include smaller missions like Oracle-M and Oracle-Prime scheduled for 2027, but the RFI signals a shift toward a larger, sustained military presence in cislunar space.",
-      "title_tr": "Pentagon, Ay’ın çevresinde bir askeri uydu ağı kurmayı değerlendiriyor",
-      "summary_tr": "Pentagon, Aralık 2029'a kadar Ay yakınında konuşlandırılacak olan ve en fazla beş askeri uydudan oluşan 'çoğaltılmış cislunar takımyıldızı' (proliferated cislunar constellation) için endüstri görüşüne başvuran bir Bilgi İsteme Duyurusu (Request for Information) yayınladı. Bu adım, ABD'nin alçak yörüngeden Ay'a kadar uzanan uzay çıkarlarını tehditlere karşı korumak amacıyla Aralık 2025'te imzalanan bir başkanlık emrinin ardından geldi. Space Force liderleri, Ay'ı bir çatışma alanı olarak tanımlayarak bu alandaki varlığın önemini vurguladı. NASA bilimsel araştırmalara odaklanırken, Pentagon'un planladığı uydular cislunar uzayda alan farkındalığı, seyrüsefer, iletişim ve gözetim gibi roller üstlenebilir. Oracle-M ve Oracle-Prime gibi 2027'ye planlanan başlangıç görevleri mevcut olsa da RFI, cislunar bölgede kalıcı bir askerî varlığın ilk adımlarını temsil ediyor."
+      "summary": "No summary available: scraping failure",
+      "title_tr": "13 Kasım'da Gerçekleşecek SpaceX Starship 15. Uçuş Çift İniş Testi İçin Program Açıklandı",
+      "summary_tr": "Özet bulunmuyor: veri alma işlemi başarısız oldu"
     },
     {
-      "title": "Caltech‑developed robot autonomously assembles structure aboard the International Space Station",
+      "title": "Anduril claims its inaugural satellite can track adversaries in darkness of orbit",
       "links": [
-        "https://www.sciencedaily.com/releases/2026/11/261108233043.htm"
+        "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/"
       ],
       "category": "Space",
       "rank": 4,
       "summary": null,
-      "title_tr": "Caltech tarafından geliştirilen robot, Uluslararası Uzay İstasyonu’nda bir yapıyı kendi kendine monte etti",
+      "title_tr": "Anduril, ilk uydusunun yörüngedeki karanlıkta düşmanları izleyebildiğini iddia ediyor",
       "summary_tr": null
     },
     {
-      "title": "SpaceX schedules Starship Flight 15 double‑catch test for Nov 13",
+      "title": "Novel imaging technique reveals a hidden exoplanet in James Webb data",
       "links": [
-        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObzJxS3pPV3MwcVN1czhMWEZlYm1xbGV2eC02ZzdwdktJaGxoOUJpWm1fS2pYcTVKU3R5cTAzdzZEdXhRR0lFeXVzT1FZRXU1NGltT1lBVjNGbFYtUG5JN2J2bVN0SlRBRVRoOEp3WlpmRnJ0OC1sSVBfLWlzTy1fS0U4QlZpRDdFLU9jczAxM2ZHTF9tRmJTeGFLcy1mQzJXcktVTzEtY0F1NUFlYmlqelZUR1NEdldOLWQ4Umgzb2ZlT1VuRFdUUzM2a1gxS2p0cDJvdA?oc=5"
+        "https://www.sciencedaily.com/releases/2026/11/261108233028.htm"
       ],
       "category": "Space",
       "rank": 5,
       "summary": null,
-      "title_tr": "SpaceX, Starship Uçuş 15 çift yakalama testini 13 Kasım’a planladı",
+      "title_tr": "Yeni bir görüntüleme tekniği, James Webb verilerinde gizli bir ötegezegeni ortaya çıkardı",
       "summary_tr": null
     },
     {
-      "title": "SpaceX described as infrastructure company by senior official",
+      "title": "Scientists verify accuracy of the first black‑hole image with new data",
       "links": [
-        "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/"
+        "https://www.theregister.com/science/2026/11/11/scientists-check-their-work-and-confirm-it-with-update-on-iconic-black-hole-image/5309183",
+        "https://www.nature.com/articles/d41586-026-03642-7"
       ],
       "category": "Space",
       "rank": 6,
       "summary": null,
-      "title_tr": "Üst düzey bir yetkili, SpaceX’i bir altyapı şirketi olarak nitelendirdi",
+      "title_tr": "Bilim insanları, yeni verilerle ilk kara delik görüntüsünün doğruluğunu teyit etti",
       "summary_tr": null
     },
     {
-      "title": "Chandra X‑ray Observatory identifies cause of star’s repeated outbursts",
+      "title": "Asteroid mining could affect the platinum market",
       "links": [
-        "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/"
+        "https://www.universetoday.com/articles/asteroid-mining-will-crash-the-platinum-market-but-thats-good-news-for-earth",
+        "https://phys.org/news/2026-11-asteroid-platinum-good-news-earth.html"
       ],
       "category": "Space",
       "rank": 7,
       "summary": null,
-      "title_tr": "Chandra X-ışını Gözlemevi, bir yıldızın tekrarlanan patlamalarının nedenini belirledi",
+      "title_tr": "Asteroit madenciliği platin piyasasını etkileyebilir",
       "summary_tr": null
     },
     {
-      "title": "Launch schedule previews Starship, Vulcan and Electron missions",
+      "title": "NASA considers procurement reforms as strategic advantage in lunar exploration race",
       "links": [
-        "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/"
+        "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/"
       ],
       "category": "Space",
       "rank": 8,
       "summary": null,
-      "title_tr": "Fırlatma takvimi, Starship, Vulcan ve Electron görevlerine ilişkin ön bilgileri içeriyor",
+      "title_tr": "NASA, Ay keşif yarışında tedarik reformlarını stratejik bir avantaj olarak görüyor",
       "summary_tr": null
     },
     {
-      "title": "New AI system proposed to coordinate rescue of inactive low‑Earth‑orbit satellites",
+      "title": "Saturn's outer ring contains salty grains formed from frozen Enceladus plumes",
       "links": [
-        "https://www.universetoday.com/articles/an-artificial-cortex-to-guide-satellite-rescue-missions"
+        "https://www.nature.com/articles/d41586-026-03489-y"
       ],
       "category": "Space",
       "rank": 9,
       "summary": null,
-      "title_tr": "Aktif olmayan alçak Dünya yörüngesindeki uyduların kurtarılmasını koordine etmek üzere yeni bir yapay zeka sistemi önerildi",
+      "title_tr": "Satürn’ün dış halkasında, donmuş Enceladus püskürmelerinden oluşan tuzlu taneler bulunmaktadır",
       "summary_tr": null
     },
     {
-      "title": "Astronomers detect wobbling ‘disappearing’ hot Jupiter with nearby planetary companion",
+      "title": "Horizon Microtechnologies secures funding to scale micro‑additive manufacturing for satellite constellations",
       "links": [
-        "https://phys.org/news/2026-11-planet-neighbor.html"
+        "https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/"
       ],
       "category": "Space",
       "rank": 10,
       "summary": null,
-      "title_tr": "Gökbilimciler, yakınında bir gezegen eşi bulunan, sallantılı ve “ortadan kaybolan” bir sıcak Jüpiter tespit etti",
+      "title_tr": "Horizon Microtechnologies, uydu takımyıldızları için mikro-katkılı üretim sürecini genişletmek üzere finansman sağladı",
       "summary_tr": null
     },
     {
-      "title": "NASA awards $1 million student prizes for lunar base competition",
+      "title": "NASA administrator outlines Space Launch System roadmap through the 2030s",
       "links": [
-        "https://www.nasa.gov/news-release/la-nasa-destina-un-millon-de-dolares-al-reto-estudiantil-base-lunar/",
-        "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdjY4ZnZZNENQTE5sUm1iT0F6dTkxZkhjaTJBZy1fdy0wVExuUjhnM1JNeE5PZm5hSm1Ud3JRUnJFdGlMR1FCTWlrZE9vUF9zTks3RFF2T1BSNld0Z21qUGozdVZPS09pQ1ZKV3J1cElZbHJwbnFKaUtBYmduSnlNalF0TG9RTGk0a0l0eV9IMGFzcFE4NFZENEhGTHFzWUM5TThxN25JOUs4VGo4N0NQYjE2aVJmU0xvY3BMMjU5ZzhDeV9WaWtlSDViY0gweU5TS2J4QUJRRnNIZWg1Zlk2SjVRdW1mSjNJQ09GSV8xVTFrSHhNR2pOMA?oc=5"
+        "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/"
       ],
       "category": "Space",
       "rank": 11,
       "summary": null,
-      "title_tr": "NASA, Ay üssü yarışması kapsamında öğrencilere 1 milyon dolarlık ödül verdi",
+      "title_tr": "NASA yöneticisi, 2030’lu yıllara kadar uzanan Uzay Fırlatma Sistemi yol haritasını açıkladı",
       "summary_tr": null
     },
     {
-      "title": "Mars rover discovers unexpected ruby‑like mineral deposits",
+      "title": "TESS observes a disappearing exoplanet that may wobble out of view",
       "links": [
-        "https://science.nasa.gov/blog/rubies-on-mars/"
+        "https://www.universetoday.com/articles/planets-dont-just-disappear-but-they-can-wobble-out-of-sight-if-their-neighbour-is-close-enough"
       ],
       "category": "Space",
       "rank": 12,
       "summary": null,
-      "title_tr": "Mars gezgini, beklenmedik yakut benzeri maden yatakları keşfetti",
+      "title_tr": "TESS, sallanarak görüş alanından kaybolabilecek bir ötegezegeni gözlemliyor",
       "summary_tr": null
     },
     {
-      "title": "Perseverance rover’s recent abrasion resembles earlier sample site",
+      "title": "New cosmological model proposes the universe is twice as old as previously thought",
       "links": [
-        "https://science.nasa.gov/blog/newest-sample-oldest-rock/"
+        "https://www.sciencedaily.com/releases/2026/11/261108233040.htm"
       ],
       "category": "Space",
       "rank": 13,
       "summary": null,
-      "title_tr": "Perseverance gezgininin son dönemde maruz kaldığı aşınma, daha önceki numune alma noktasına benziyor",
+      "title_tr": "Yeni bir kozmolojik model, evrenin daha önce düşünülenden iki kat daha eski olduğunu öne sürüyor",
       "summary_tr": null
     },
     {
-      "title": "NASA announces mid‑power electric rocket challenge for thruster development",
+      "title": "Simulations replicate bright edges of plasma jets from Centaurus A’s black hole",
       "links": [
-        "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/"
+        "https://phys.org/news/2026-11-centaurus-spotlight-plasma-simulations-black.html"
       ],
       "category": "Space",
       "rank": 14,
       "summary": null,
-      "title_tr": "NASA, itici motor geliştirmeye yönelik orta güçte elektrikli roket yarışmasını duyurdu",
+      "title_tr": "Simülasyonlar, Centaurus A’daki kara delikten çıkan plazma fışkırmalarının parlak kenarlarını canlandırıyor",
       "summary_tr": null
     },
     {
-      "title": "CCIA report highlights satellite connectivity’s role in expanding internet access",
+      "title": "Bennu asteroid samples and Murchison meteorite show unexpected organic molecules",
       "links": [
-        "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth/"
+        "https://phys.org/news/2026-11-bennu-asteroid-analysis-unexpected-space.html"
       ],
       "category": "Space",
       "rank": 15,
       "summary": null,
-      "title_tr": "CCIA raporu, internet erişiminin yaygınlaştırılmasında uydu bağlantısının rolünü vurguluyor",
+      "title_tr": "Bennu asteroitinden alınan örnekler ve Murchison göktaşı, beklenmedik organik moleküller içeriyor",
       "summary_tr": null
     },
     {
-      "title": "Vera C. Rubin Observatory creates decade‑long night‑sky time‑lapse",
+      "title": "Discovery of the earliest compact quasar pair challenges black‑hole growth theories",
       "links": [
-        "https://www.planetary.org/space-missions/the-vera-c-rubin-observatory"
+        "https://phys.org/news/2026-11-earliest-compact-quasar-pair-poses.html"
       ],
       "category": "Space",
       "rank": 16,
       "summary": null,
-      "title_tr": "Vera C. Rubin Gözlemevi, on yıllık bir gece gökyüzü zaman atlamalı videosu hazırladı",
+      "title_tr": "En eski kompakt kuasar çiftinin keşfi, kara delik büyüme teorilerini sorgulamaya açıyor",
       "summary_tr": null
     },
     {
-      "title": "Study finds evidence of lingering magma chambers on Mars",
+      "title": "LISA gravitational‑wave observatory could detect exoplanets via space‑time ripples",
       "links": [
-        "https://www.universetoday.com/articles/mars-molten-heart-is-long-gone-but-some-magma-chambers-may-persist"
+        "https://phys.org/news/2026-11-ripples-space-reveal-exoplanets.html"
       ],
       "category": "Space",
       "rank": 17,
       "summary": null,
-      "title_tr": "Bir araştırma, Mars’ta hâlâ var olan magma odalarının kanıtlarını ortaya koydu",
+      "title_tr": "LISA yerçekimi dalgası gözlemevi, uzay-zaman dalgalanmaları yoluyla ötegezegenleri tespit edebilir",
       "summary_tr": null
     },
     {
-      "title": "Research tests dust effects on Mars rover materials for future astronaut safety",
+      "title": "Rocket Lab Increases Price of Neutron Launch Service to $70 Million",
       "links": [
-        "https://www.universetoday.com/articles/a-perseverance-experiment-could-help-astronauts-prepare-for-dust-storms-on-mars"
+        "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOb2duVzhNUkxrZTZPTmdPSHQyMDZVMTg1S0wzMWhqeDBMeFBQQXcySENyWTVReHJHMFBqYkozdHMxMlNoai1PMDVpSDdPaFhlVFEwZDVLV3dBek96ZWUtTmJPU1doRmNqV1ZXWGlTdDR0TFd6dFRacWROWUVUeDVhOHVCaG5qaC00WFRlYnFtLTRXOU15MHdmc3dnYXNHbUluNF8tQjVYazBDMG9LaGNkeUZDY1BxNWVsczN3NXo5ZUxBZkpEdEJqWFdFYU1yeE9lbmN0My01T29wYmRwXzUyTmJacG9WSEpnbGpPTXpsdGdoa0VL?oc=5"
       ],
       "category": "Space",
       "rank": 18,
       "summary": null,
-      "title_tr": "Araştırma, gelecekteki astronotların güvenliği için Mars gezgini malzemeleri üzerindeki tozun etkilerini inceliyor",
+      "title_tr": "Rocket Lab, Neutron Fırlatma Hizmetinin Fiyatını 70 Milyon Dolara Yükseltti",
       "summary_tr": null
     },
     {
-      "title": "Paper reports low oxygen retention in nearby dwarf galaxies",
+      "title": "NASA invites public to signal Voyager 1 as it reaches one light‑day distance",
       "links": [
-        "https://www.universetoday.com/articles/nearby-dwarf-galaxies-show-surprising-lack-of-oxygen-says-paper"
+        "https://www.theregister.com/offbeat/2026/11/11/nasa-asks-earthlings-to-wave-as-voyager-1-reaches-a-light-day-away/5309127"
       ],
       "category": "Space",
       "rank": 19,
       "summary": null,
-      "title_tr": "Bir makale, yakındaki cüce galaksilerde oksijen tutulumunun düşük olduğunu bildiriyor",
+      "title_tr": "NASA, Voyager 1’in bir ışık günü uzaklığına ulaşması vesilesiyle halkı Voyager 1’e sinyal göndermeye davet ediyor",
       "summary_tr": null
     },
     {
-      "title": "SpaceX schedules Falcon 9 launch of classified USSF‑627 mission",
+      "title": "Moog commemorates 25‑year anniversary of ESPA rideshare design milestone",
       "links": [
-        "https://www.astronomy.com/whats-launching-this-week/spacex-goes-for-a-starship-double-catch/"
+        "https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/"
       ],
       "category": "Space",
       "rank": 20,
       "summary": null,
-      "title_tr": "SpaceX, gizli USSF-627 görevinin Falcon 9 roketiyle fırlatılmasını planlıyor",
+      "title_tr": "Moog, ESPA ortak kullanım tasarımındaki dönüm noktasının 25. yıl dönümünü kutluyor",
       "summary_tr": null
     },
     {
-      "title": "Detection of gas emissions near Martian volcano points to possible subsurface magma",
+      "title": "Unusual magnetic fields of Uranus and Neptune compared with Earth",
       "links": [
-        "https://www.astronomy.com/science/mysterious-gas-on-mars-suggests-magma-below/"
+        "https://www.universetoday.com/articles/the-ice-giants-magnetic-fields-are-very-strange-compared-to-earths"
       ],
       "category": "Space",
       "rank": 21,
       "summary": null,
-      "title_tr": "Mars’taki bir volkanın yakınında tespit edilen gaz emisyonları, yeraltında magma bulunabileceğine işaret ediyor",
+      "title_tr": "Uranüs ve Neptün’ün olağandışı manyetik alanları ile Dünya’nın manyetik alanının karşılaştırılması",
       "summary_tr": null
     },
     {
-      "title": "Subaru observations determine shape and surface temperature of comet 2P/Encke’s nucleus",
+      "title": "Chandra X‑ray telescope identifies a supernova impostor star",
       "links": [
-        "https://phys.org/news/2026-11-subaru-telescope-reveals-temperature-comet.html"
+        "https://www.universetoday.com/articles/the-chandra-x-ray-observatory-unmasks-a-supernova-impostor"
       ],
       "category": "Space",
       "rank": 22,
       "summary": null,
-      "title_tr": "Subaru gözlemleri, 2P/Encke kuyruklu yıldızının çekirdeğinin şeklini ve yüzey sıcaklığını belirledi",
+      "title_tr": "Chandra X-ışını teleskobu, bir süpernova taklidi yıldızı tespit etti",
       "summary_tr": null
     },
     {
-      "title": "Chandra X‑ray observations identify cause of repeated outbursts from a super‑nova impostor star",
+      "title": "Argon isotope measurements may clarify the interior composition of Uranus and Neptune",
       "links": [
-        "https://phys.org/news/2026-11-supernova-impostor-chandra-source-giant.html"
+        "https://phys.org/news/2026-11-argon-uranus-neptune-reveal-interiors.html"
       ],
       "category": "Space",
       "rank": 23,
       "summary": null,
-      "title_tr": "Chandra X-ışını gözlemleri, bir süpernova taklidi yıldızdan kaynaklanan tekrarlanan patlamaların nedenini ortaya çıkardı",
+      "title_tr": "Argon izotop ölçümleri, Uranüs ve Neptün’ün iç bileşimini aydınlatabilir",
       "summary_tr": null
     },
     {
-      "title": "Research suggests two close rocky exoplanets could appear to reverse motion from an alien viewpoint",
+      "title": "Review: Seestar S30 Plus Smart Telescope Recommended for Beginners",
       "links": [
-        "https://phys.org/news/2026-11-nearby-rocky-worlds-alien-astronomers.html"
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVU1mclc0WTV1Xzl2SUxaRTNsa0dyM3RleFZxZUtfRk1fNDNweHByZlN6QXdPODNGV09vSnlWVXQ5RkdPcDR6R3g3alRsSU5NeVJnRUh4Zk1PNTgxUElIdmxYTHBtSGRhRWNrS3dHWm5Rb2VsUUpMaWszU1JsUDBLcjVmcVRiZjNGdldxWEZqNmN3OVJCb1FJTVZicDhaelhKNmNSb1hrT21LaFUtNnlzN3Z5QzJpNzBkN2hBRG02TUU1a2ZoMnc?oc=5"
       ],
       "category": "Space",
       "rank": 24,
       "summary": null,
-      "title_tr": "Araştırmalara göre, birbirine yakın iki kayalık ötegezegen, uzaylıların bakış açısından hareket yönünü tersine çevirmiş gibi görünebilir",
+      "title_tr": "İnceleme: Seestar S30 Plus Akıllı Teleskop – Yeni Başlayanlara Önerilir",
       "summary_tr": null
     },
     {
-      "title": "Starfish Space's 'Otter' servicing craft loses contact, ending NASA demo",
+      "title": "Challenges in Raising a Satellite's Orbit Explained",
       "links": [
-        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOc3dDYVJISXZPYlR2YVRlLW10XzMxaHRvU2Y4NGVYZ042TzdTLXNFTVJzdURZdVNYZVo4VTR4ZDJjX3QtUjJDeXg3NDBjQmMzVFc5OWtjbEJPbXR6cXFQYkZBQmZtaWV6WkNjUExFcTFJamphVks3bVl5aGJ2UW90el9kSFUtVW1vVEdycnJaNTVqamNmbTJnVl9LbzRpS2ZaNDJXRVN2RlFOV01oQTVTeDkxZ25BbWpRcXF1cnN3NFZmeVIxeHYxV0JYdXZjUXhkbm40YkdHQVRSWnVkeWJwci1mSFB0QkdrcUE?oc=5"
+        "https://nautil.us/heres-why-its-so-hard-to-boost-a-satellite-1286550/"
       ],
       "category": "Space",
       "rank": 25,
       "summary": null,
-      "title_tr": "Starfish Space’in ‘Otter’ bakım aracıyla iletişim kesildi; NASA’nın tanıtım etkinliği sona erdi",
+      "title_tr": "Bir Uydunun Yörüngesini Yükseltmedeki Zorluklar Açıklanıyor",
       "summary_tr": null
     },
     {
-      "title": "Cape Cod meteorite identified as solitary outer‑solar‑system object",
+      "title": "Astronomy Picture of the Day features galaxy NGC 4449",
       "links": [
-        "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeG5KeDhham9IY0xyUmlTc0RwR0VRbjUwaTFTU0JvR0c3V1ZzYUstelV6c1lfYU52aV9yeU9PazV0Y00xeEVIamJ5Ml9oY2JyQ3lLam5wLVRtaUtzbE81a2swMU9ZdjRfMG5JZEFZVUtmWE1aeFZSVk5hVGZ6dHZsSTU2OTZhTTRWNERtZU5SS3J5OWo3Y0l5MnRSeTlvaXEzLTFKbVRKekpwNkFCZGp0NExnRlVhUUhaQUNIaFc2cUlLQV9ya0l5RFdMenNsZw?oc=5"
+        "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/"
       ],
       "category": "Space",
       "rank": 26,
       "summary": null,
-      "title_tr": "Cape Cod göktaşı, Güneş Sistemi dışından gelen tek bir nesne olarak tanımlandı",
+      "title_tr": "\"Günün Astronomi Fotoğrafı\" köşesinde NGC 4449 galaksisi yer alıyor",
       "summary_tr": null
     },
     {
-      "title": "Study probes whether JWST's Little Red Dots are primordial black holes",
+      "title": "Discussion on preserving space‑age artifacts for future generations",
       "links": [
-        "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNHFJN3Awam9ydnctaWJQbmhMLWw2LUJtay0zdE91ZkVxOWhSRFFrUXV6RWlHSWkzQ2hzUmxaWUlabTVsZElJdGdnU3MxejBGVExNaFRCZTF0Y2NaVUhJbXZ1SXJJUEJGNWxuU2RXWUg2MHZDZU5TazhxUVRYc3p0Y3lvUW1fRXdfcmxuTVB2UWJXbms3Y2MzWTFjR3V1czQ4a3N1SU1BWVV1QTdRU3pGcnRfM0JoQV8xMWxYYkNZX09QSmZ0bmRBUTZUR2I4OWswc3hfRmpYWWphYktMWDkzejZRUGdJR1NYTzN1aVZSamRZRUQ2cGww?oc=5"
+        "https://www.newscientist.com/article/2598181-who-will-step-up-to-preserve-space-age-artefacts-for-future-generations/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
       ],
       "category": "Space",
       "rank": 27,
       "summary": null,
-      "title_tr": "Araştırma, JWST’nin “Küçük Kırmızı Noktaları”nın ilkel kara delikler olup olmadığını inceliyor",
+      "title_tr": "Gelecek nesiller için uzay çağı eserlerinin korunmasına ilişkin tartışma",
       "summary_tr": null
     },
     {
-      "title": "NASA calls for next generation of astronauts for future missions",
+      "title": "Total solar eclipse observed over the Taula site in Menorca",
       "links": [
-        "https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas/"
+        "https://www.astronomy.com/picture-of-the-day/photo/taula-eclipse/"
       ],
       "category": "Space",
       "rank": 28,
       "summary": null,
-      "title_tr": "NASA, gelecekteki görevler için yeni nesil astronotlar arıyor",
+      "title_tr": "Menorca’daki Taula bölgesi üzerinde tam güneş tutulması gözlemlendi",
       "summary_tr": null
     },
     {
-      "title": "NASA science officer shares experiences from year‑long Mars simulation",
+      "title": "2026 calendar of full‑moon dates and phases",
       "links": [
-        "https://www.nature.com/articles/d41586-026-03588-w"
+        "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types/"
       ],
       "category": "Space",
       "rank": 29,
       "summary": null,
-      "title_tr": "NASA bilim görevlisi, bir yıl süren Mars simülasyonundaki deneyimlerini paylaşıyor",
+      "title_tr": "2026 yılı dolunay tarihleri ve evreleri takvimi",
       "summary_tr": null
     },
     {
-      "title": "Researchers explore food emulsifier to improve rocket fuel performance",
+      "title": "Venus reaches a stationary point in the night sky on November 10",
       "links": [
-        "https://www.universetoday.com/articles/a-common-food-emulsifier-could-solve-one-of-rocketrys-oldest-fuel-problems"
+        "https://www.astronomy.com/observing/the-sky-today-wednesday-november-11-2026/"
       ],
       "category": "Space",
       "rank": 30,
       "summary": null,
-      "title_tr": "Araştırmacılar, roket yakıtının performansını artırmak için bir gıda emülgatörünü inceliyor",
+      "title_tr": "10 Kasım'da Venüs, gece gökyüzünde durma noktasına ulaşacak",
       "summary_tr": null
     },
     {
-      "title": "Study examines evolution of millisecond pulsar–white dwarf binary systems",
+      "title": "Hubble Captures Image of Glittering Stars of Uncertain Origin",
       "links": [
-        "https://www.universetoday.com/articles/a-stellar-odd-couple-at-an-unusual-stage-of-evolution"
+        "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONlZFRzl5Z01WUWZRQzFaNlJ4Q0UzcXFqSTdRTUdUWXlzZktZY3JET085SVhPaTJ3OVlpaUhiR0NKbGlaaGhpaXV1UGxRZ0I1MTBLVjB1Y0RtQjlKY3dxNTdDbUt3YXc4aWYxLXpPUzd6XzFCdHI0SkFhYnBCRkZaUmp0VFpfaHFNMEFKVDdHcV9xcWt6M0JveHZJSEhnMXFvNkVxM1FMd1BVcUxiUlJkWGdGM1VicDZZeHdsRDJVNjNVVHJHSU9oMmNnOE5pSmFGdlN4WlhWdGNXa19aX1EtQ3d3N2ZyYUdFTjAyOTBmN3hKWk5QRWpuYw?oc=5"
       ],
       "category": "Space",
       "rank": 31,
       "summary": null,
-      "title_tr": "Araştırma, milisaniye pulsar-beyaz cüce ikili sistemlerinin evrimini inceliyor",
+      "title_tr": "Hubble, Kökeni Belirsiz Parıldayan Yıldızların Görüntüsünü Yakaladı",
       "summary_tr": null
     },
     {
-      "title": "Analysis of growing orbital debris risk following simulated satellite collisions",
+      "title": "Birth of astronomer V.M. Slipher in 1875",
       "links": [
-        "https://www.astronomy.com/science/our-increasingly-cluttered-skies/"
+        "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-11-1875-the-birth-of-v-m-slipher/"
       ],
       "category": "Space",
       "rank": 32,
       "summary": null,
-      "title_tr": "Simüle edilmiş uydu çarpışmalarının ardından artan yörünge enkazı riskinin analizi",
+      "title_tr": "Astronom V.M. Slipher'in 1875'teki doğumu",
       "summary_tr": null
     },
     {
-      "title": "NASA confirms Swift spacecraft re‑enters Earth’s atmosphere after two decades",
+      "title": "NY regulator accuses T‑Mobile of illegal 50 GB data cap on low‑income broadband plan",
       "links": [
-        "https://www.astronomy.com/science/link-to-meet-with-swift-but-wont-boost/"
-      ],
-      "category": "Space",
-      "rank": 33,
-      "summary": null,
-      "title_tr": "NASA, Swift uzay aracının yirmi yıl sonra Dünya atmosferine yeniden girdiğini doğruladı",
-      "summary_tr": null
-    },
-    {
-      "title": "Physicist argues a distant solar companion may still lurk beyond known Oort cloud",
-      "links": [
-        "https://phys.org/news/2026-11-sun-undiscovered-stellar-nemesis-physicist.html"
-      ],
-      "category": "Space",
-      "rank": 34,
-      "summary": null,
-      "title_tr": "Bir fizikçi, bilinen Oort bulutunun ötesinde hâlâ uzak bir Güneş eşinin gizleniyor olabileceğini savunuyor",
-      "summary_tr": null
-    },
-    {
-      "title": "NASA showcases futuristic aircraft in November 9 photo of the day",
-      "links": [
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc05lWkxqYjBoRlVCeTJDaFZfcVRXRnppWFN2cmU2dW9iWWhIYnlrMDNHOXBYMjZSR2Q5N3ZiWXZrVkVWS1B5SDNoekRmMkdPZVVyUlphYTIwRlpVNnJNeUF2VGxvYS16NHFDMzBoSkU1cnVVVW9IeWMtamp5MUYtNkFWQ0EtTm9YaHdMN2g5Q1UwNHFBeFhtaS1GbUtxaFFRbWZsSktZdEp6dnpqR3ZibXNOR1RyblMxUHk0NHJB?oc=5"
-      ],
-      "category": "Space",
-      "rank": 35,
-      "summary": null,
-      "title_tr": "NASA, 9 Kasım’daki “Günün Fotoğrafı”nda fütüristik bir hava aracını sergiliyor",
-      "summary_tr": null
-    },
-    {
-      "title": "NASA announces astronaut recruitment deadline for upcoming lunar missions",
-      "links": [
-        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYW9YT3VQblFHUFlXZGVEampfWWJnUWp6d3VBM085Vmt1U193ZGNVUml3cVljR2hxR0NjWFc2VjRWbmlEX3J4RFRBcFRDYy1wUkh5OFdpU1UxVml2TDduMWtMdld4cGNfNU1xQnpidlIxRVJmeE01R0JKZDZwUVhybnVHak9RbHJiVExGOUpWUlltYzZNTExQQU5QRXRzYzROdFBOMm5aMnp0UkNRSWQ4ZmNEUHM4VU1fdFNDNC1FU3FtTXRoQ3AtbG81dW9JSU1CWG1kUVJJNEtmQUZVMzVYR2tpdVNIaGM?oc=5"
-      ],
-      "category": "Space",
-      "rank": 36,
-      "summary": null,
-      "title_tr": "NASA, yaklaşan Ay görevleri için astronot seçme sürecinin son başvuru tarihini açıkladı",
-      "summary_tr": null
-    },
-    {
-      "title": "Observations reveal hot gas bubble around Wolf‑Rayet star WR 134 in Cygnus",
-      "links": [
-        "https://www.astronomy.com/picture-of-the-day/photo/hot-gas-in-cygnus/"
-      ],
-      "category": "Space",
-      "rank": 37,
-      "summary": null,
-      "title_tr": "Gözlemler, Kuğu takımyıldızındaki Wolf-Rayet yıldızı WR 134’ün çevresinde sıcak bir gaz kabarcığı olduğunu ortaya koyuyor",
-      "summary_tr": null
-    },
-    {
-      "title": "Biography marks the 1939 birth of astronomer Carl Sagan",
-      "links": [
-        "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-9-1939-the-birth-of-carl-sagan/"
-      ],
-      "category": "Space",
-      "rank": 38,
-      "summary": null,
-      "title_tr": "Biyografide, astronom Carl Sagan’ın 1939’da doğduğu belirtilmektedir",
-      "summary_tr": null
-    },
-    {
-      "title": "Overview of typical main‑sequence stars and their evolutionary characteristics",
-      "links": [
-        "https://phys.org/news/2026-11-stellar-odd-couple-unusual-stage.html"
-      ],
-      "category": "Space",
-      "rank": 39,
-      "summary": null,
-      "title_tr": "Tipik ana sekans yıldızlarına ve evrimsel özelliklerine genel bakış",
-      "summary_tr": null
-    },
-    {
-      "title": "France attributes supermarket cyberattacks and fires to Iranian hackers",
-      "links": [
-        "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/"
+        "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/"
       ],
       "category": "Geopolitics",
       "rank": 1,
-      "summary": "France publicly attributed a series of cyberattacks in October 2026 that disrupted refrigeration systems at over 700 supermarkets across the country to Iranian state-backed hackers, specifically the Shahid Kaveh unit under the IRGC. The attacks, which targeted Danfoss controllers and altered defrost settings, caused food losses, at least fifteen fires, and tens of millions of euros in damage. The incidents were later linked to reconnaissance against Schneider Electric systems and included additional attacks on the French national blood service. France announced plans to sanction Iranian entities involved and summon Iran’s ambassador in response.",
-      "title_tr": "Fransa, süpermarketlere yönelik siber saldırıları ve yangınları İranlı bilgisayar korsanlarına atfediyor",
-      "summary_tr": "Fransa, Ekim 2026’da ülkedeki 700’den fazla süpermarkette soğutma sistemlerinin aksamasına yol açan siber saldırıları İran devlet destekli hackerlara, özellikle IRGC’ye bağlı Şahid Kaveh birimine dayandırdı. Danfoss kontrolcülerinin hedef alındığı ve erime ayarlarının değiştirildiği saldırılar, gıda kayıplarına, en az on beş yangına ve milyonlarca avroluk hasara neden oldu. Olaylar, Schneider Electric sistemlerinin keşif faaliyetleriyle bağlantılı bulundu ve ayrıca Fransız ulusal kan servisine yönelik saldırıları da içeriyordu. Fransa, İranlı unsurların yaptırım listesine alınması ve İran büyükelçisinin çağrılması planları açıkladı."
+      "summary": "New York regulators accused T-Mobile of breaching the state’s Affordable Broadband Act by capping low-income home Internet plans at 50 GB per month and throttling speeds to 600 Kbps after the cap, instead of maintaining the legally required 25 Mbps. The company also restricted access to these plans to 5G areas and hid plan details from search engines. New York reached a settlement requiring T-Mobile to drop the cap, expand availability to 4G areas within 120 days, and improve plan visibility while avoiding admissions of wrongdoing.",
+      "title_tr": "New York düzenleme kurumu, T-Mobile’ı düşük gelirli geniş bant tarifesinde yasadışı bir 50 GB veri sınırı uygulamakla suçluyor",
+      "summary_tr": "New York yetkilileri, T-Mobile'ın eyaletin Uygun Fiyatlı Geniş Bant Yasası'nı ihlal ederek düşük gelirli haneler için olan internet planlarına 50 GB'lik aylık veri sınırı koyduğunu ve bu sınırın aşılması durumunda hızları 600 Kbps'ye düşürdüğünü öne sürdü. Şirket aynı zamanda bu planlara yalnızca 5G hizmetinin bulunduğu bölgelerde erişim sağladı ve plan detaylarını arama motorlarından gizledi. New York, T-Mobile'ın veri sınırını kaldırmasını, 4G bölgelerinde hizmeti 120 gün içinde genişletmesini ve planlara erişimi iyileştirmesini gerektiren bir anlaşmaya vardı, ancak T-Mobile herhangi bir ihlal kabul etmedi."
     },
     {
-      "title": "Assessment warns of escalating risk of crisis in Taiwan",
+      "title": "US bitcoin mining surge outpaces grid capacity, driving tenfold increase in energy demand",
       "links": [
-        "https://www.foreignaffairs.com/taiwan/recipe-disaster-taiwan-lissner-rapp-hooper"
+        "https://www.theregister.com/systems/2026/11/11/us-bit-barn-boom-sees-energy-needs-grow-10x-as-fast-as-grid-capacity/5309191"
       ],
       "category": "Geopolitics",
       "rank": 2,
-      "summary": "The article warns that the risk of a crisis over Taiwan is escalating due to shifting U.S. policy and growing Chinese coercive actions. It highlights how both Trump’s rhetoric and Congress’s hesitation on U.S. commitments to Taiwan, combined with China’s military and economic pressure tactics, are increasing the possibility of conflict. The authors argue that Taiwan’s critical role in global supply chains, especially in semiconductor production, has made U.S. interests in the island more vital than ever, raising concerns that delays in arms sales or weak deterrence could embolden Beijing. They urge the U.S. to clarify its strategic interests and strengthen deterrence measures to prevent miscalculations.",
-      "title_tr": "Değerlendirme, Tayvan’da kriz riskinin giderek arttığına dair uyarıda bulunuyor",
-      "summary_tr": "Makale, ABD’nin Tayvan politikasında yaşanan kaymanın ve Çin’in artan baskı taktikleri nedeniyle Tayvan üzerindeki kriz riskinin tırmandığını uyarıyor. Trump’un retoriği ve ABD Kongresi’nin Tayvan’a yönelik taahhütler konusundaki tereddüdüyle birleşen Çin’in askeri ve ekonomik baskı yöntemlerinin, çatışma olasılığını artırdığına dikkat çekiliyor. Yazarlarca, Tayvan’ın küresel tedarik zincirlerindeki, özellikle yarıiletken üretimindeki kritik rolünün, ABD’nin ada üzerindeki çıkarlarını her zamankinden daha hayati hale getirdiği belirtiliyor; geciken silah satışları ya da zayıf caydırıcılığın, Pekin’in cesaretini artırabileceği kaygıları taşınıyor. Yazarlar, ABD’nin stratejik çıkarlarını netleştirmesi ve caydırıcılık önlemlerini güçlendirmesi gerektiğini savunuyor."
+      "summary": "Electricity demand by US data centers, driven largely by AI and bitcoin mining, is surging roughly ten times faster than grid capacity, which has grown at about 2% annually since 2000. Analysts warn that traditional grid connections may become unreliable, forcing operators to source 58% of their power off-grid by 2030. Grid delays of two to six years at constrained sites could cost up to $2.4 billion in lost revenue, prompting data centers to explore alternative power solutions and on-site generation despite added complexities.",
+      "title_tr": "ABD’deki bitcoin madenciliğindeki artış, şebeke kapasitesini aşarak enerji talebinde on kat artışa yol açıyor",
+      "summary_tr": "ABD'deki veri merkezlerinin elektrik talebi, büyük ölçüde yapay zeka ve bitcoin madenciliği nedeniyle, 2000 yılından bu yana yılda ortalama sadece %2 büyüyen şebeke kapasitesinin yaklaşık on katı hızla artıyor. Analistler, geleneksel şebeke bağlantılarına güvenmenin giderek güvenilmez hale gelebileceği konusunda uyarıyor; veri merkezlerinin 2030 yılına kadar elektriğin yüzde 58’ini şebeke dışından temin etmek zorunda kalabileceğini öngörüyor. Güç kısıtlı bölgelerdeki gecikmeler iki ila altı yıl arasında değişebilir ve bunun sonucunda da en fazla 2.4 milyar dolar gelir kaybı yaşanabilir; bu durum veri merkezlerini alternatif enerji çözümleri ve yerinde üretim gibi seçeneklere yönlendiriyor olsa da ek karmaşıklıklar da beraberinde geliyor."
     },
     {
-      "title": "Report identifies Africa’s fragile states and rare‑earth resources as drivers of transnational terrorism",
+      "title": "Russia‑Ukraine peace talks discuss post‑war security but end without agreement",
       "links": [
-        "https://www.foreignaffairs.com/nigeria/new-epicenter-global-terror"
+        "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss"
       ],
       "category": "Geopolitics",
       "rank": 3,
-      "summary": "Africa has become the global hub of transnational terrorism, accounting for over half of terrorism-related deaths worldwide in the past five years and hosting three of the four deadliest jihadi groups, including ISIS and al-Shabab. Fragile state institutions, youth unemployment, and political manipulation by elites contribute to extremism’s spread, while climate change and resource scarcity fuel conflicts in ungoverned territories rich in critical minerals. External actors, including Iran, Qatar, and Saudi Arabia, have long supported radical networks, while global powers like China and Russia exploit security vacuums to access Africa’s mineral wealth, undermining counterterrorism efforts. The threat now transcends the continent as transnational affiliations and illicit trades bind African groups to global networks, increasing risks of coordinated attacks beyond Africa’s borders.",
-      "title_tr": "Raporda, Afrika’daki istikrarsız devletler ve nadir toprak elementleri kaynaklarının, sınır ötesi terörizmin itici güçleri olduğu belirtiliyor",
-      "summary_tr": "Afrika, son beş yılda dünya genelindeki terörle ilgili ölümlerin yarısından fazlasına sahne olmuş ve IŞİD ile el-Şebab’ın da aralarında bulunduğu dünyanın dört en ölümcül cihatçı grubuna ev sahipliği yapan küresel terörizmin merkezi haline gelmiştir. Kırılgan devlet kurumları, genç işsizliği ve elitlerin siyasi manipülasyonu aşırıcılığın yayılmasına katkıda bulunurken, iklim değişikliği ve kaynak kıtlığı ile zengin nadir toprak minerallerine sahip hükümet dışı bölgelerdeki çatışmaları körüklemektedir. İran, Katar ve Suudi Arabistan gibi dış aktörler uzun süredir radikal ağları desteklerken, Çin ve Rusya gibi küresel güçler de güvenlik boşluklarını mineral zengini Afrika’ya erişim kazanmak için kullanmakta ve karşıterörizm çabalarını baltalamaktadır. Afrika merkezli grupların küresel ağlara ve yasadışı ticaretlere dahil olması, tehdidin kıta sınırlarını aşarak koordineli saldırılar riskini artırmaktadır."
+      "summary": "Trilateral talks in Abu Dhabi between Russia, Ukraine, and the United States concluded without a breakthrough but yielded some momentum toward a potential prisoner-of-war exchange. Discussions focused on a post-war security framework, with Kyiv seeking guarantees of future support and Moscow prioritizing restrictions on NATO's influence in Eastern Europe. No agreement was reached on territorial disputes, particularly over the Donetsk region, where Russia insists on further territorial gains. U.S. negotiators Steve Witkoff and Jared Kushner will travel to Moscow and Dublin to continue talks with Russian President Vladimir Putin and Ukrainian President Volodymyr Zelensky. The process remains complex due to deep mistrust and unresolved bilateral issues.",
+      "title_tr": "Rusya-Ukrayna barış görüşmelerinde savaş sonrası güvenlik konusu ele alındı, ancak anlaşmaya varılamadan sona erdi",
+      "summary_tr": "Abu Dabi'de Rusya, Ukrayna ve Amerika Birleşik Devletleri arasındaki üçlü görüşmeler bir çığır açıcı sonuç doğurmadan sona erdi ancak potansiyel bir savaş esiri takası için bazı ivmeler ortaya çıktı. Tarafların odaklandığı konu olan savaş sonrası güvenlik çerçevesinde, Kiev gelecekteki destek garantilerini ararken, Moskova ise Doğu Avrupa'daki NATO etkisinin sınırlandırılmasını önceliklendirdi. Rusya'nın halihazırda denetimi altında bulunan ve Donetsk bölgesi ile ilgili olarak, Rusya'nın daha fazla toprak kazanma ısrarı nedeniyle toprak anlaşmazlıklarında bir mutabakata varılamadı. Steve Witkoff ve Jared Kushner adlı ABDli müzakereciler, görüşmelere devam etmek üzere Moskova'da Rusya Devlet Başkanı Vladimir Putin ve Dublin'de Ukrayna Devlet Başkanı Volodımır Zelenski ile bir araya gelecek. Derin güvensizlik ve çözümlenmemiş iki taraflı meseleler nedeniyle süreç karmaşık olmaya devam ediyor."
     },
     {
-      "title": "President Trump meets Qatari mediator to explore possible end to Iran conflict",
+      "title": "Russian-Linked Hackers Compromise Romanian Government Servers to Access NATO and EU Emails",
       "links": [
-        "https://foreignpolicy.com/2026/11/09/trump-qatar-thani-iran-war-nvidia-huang-affair-chinese-spy/"
+        "https://www.defensenews.com/global/europe/2026/11/11/romanian-servers-targeted-by-russian-hackers-to-scoop-up-emails-about-nato-eu/"
       ],
       "category": "Geopolitics",
       "rank": 4,
       "summary": null,
-      "title_tr": "Başkan Trump, İran ile olan çatışmaya olası bir çözüm bulmak amacıyla Katarlı arabulucuyla bir araya geldi",
+      "title_tr": "Rusya ile bağlantılı hackerlar, NATO ve AB e-postalarına erişmek için Romanya hükümetinin sunucularını ele geçirdi",
       "summary_tr": null
     },
     {
-      "title": "Report highlights budget pressures and supplier gaps in US munitions production",
+      "title": "UN Relief Coordinator Urges Immediate Gaza Aid Amid Delays",
       "links": [
-        "https://warontherocks.com/cogs-of-war/the-record-budgets-and-missing-suppliers-shaping-americas-munitions-ramp/"
+        "https://news.un.org/feed/view/en/story/2026/11/1168788"
       ],
       "category": "Geopolitics",
       "rank": 5,
       "summary": null,
-      "title_tr": "Raporda, ABD mühimmat üretiminde yaşanan bütçe sıkıntıları ve tedarikçi eksiklikleri vurgulanıyor",
+      "title_tr": "BM Yardım Koordinatörü, Gecikmelerin Yaşandığı Bir Dönemde Gazze’ye Acil Yardım Çağrısında Bulundu",
       "summary_tr": null
     },
     {
-      "title": "Essay proposes new framework for US‑China strategic stability beyond coercion",
+      "title": "UN Chief Calls for Global Climate Justice Agreement at COP31",
       "links": [
-        "https://warontherocks.com/rethinking-strategic-stability-with-china-from-coercion-to-constructivism/"
+        "https://news.un.org/feed/view/en/story/2026/11/1168783"
       ],
       "category": "Geopolitics",
       "rank": 6,
       "summary": null,
-      "title_tr": "Makale, zorlama ötesinde ABD-Çin stratejik istikrarı için yeni bir çerçeve öneriyor",
+      "title_tr": "BM Genel Sekreteri, COP31’de Küresel İklim Adaleti Anlaşması Çağrısında Bulundu",
       "summary_tr": null
     },
     {
-      "title": "Politicians' enthusiasm for stimulus checks",
+      "title": "Russia and Ukraine Conduct Large‑Scale Prisoner Swap After Abu Dhabi Talks",
       "links": [
-        "https://www.project-syndicate.org/commentary/cash-payments-to-voters-amount-to-little-more-than-vote-buying-by-greg-kaplan-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en"
+        "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks"
       ],
       "category": "Geopolitics",
       "rank": 7,
       "summary": null,
-      "title_tr": "Siyasetçilerin teşvik çeklerine olan ilgisi",
+      "title_tr": "Rusya ve Ukrayna, Abu Dabi’deki görüşmelerin ardından geniş çaplı bir esir takası gerçekleştirdi",
       "summary_tr": null
     },
     {
-      "title": "UN Security Council discusses Russian attacks on Ukraine's power grid amid peace talks",
+      "title": "Court rejects Trump administration's attempt to monitor journalists' LinkedIn messages",
       "links": [
-        "https://news.un.org/feed/view/en/story/2026/11/1168761"
+        "https://arstechnica.com/tech-policy/2026/11/trump-admin-loses-fight-to-spy-on-random-journalists-linkedin-dms/"
       ],
       "category": "Geopolitics",
       "rank": 8,
       "summary": null,
-      "title_tr": "Barış görüşmeleri sürerken BM Güvenlik Konseyi, Rusya’nın Ukrayna’nın elektrik şebekesine yönelik saldırılarını görüşüyor",
+      "title_tr": "Mahkeme, Trump yönetiminin gazetecilerin LinkedIn mesajlarını izleme girişimini reddetti",
       "summary_tr": null
     },
     {
-      "title": "Israeli leader Benjamin Eisenkot faces hurdles forming governing coalition after presidential invitation",
+      "title": "Analysis of diverging earnings trends between Intel and AMD",
       "links": [
-        "https://foreignpolicy.com/2026/11/09/israel-eisenkot-netanyahu-election-government-herzog/",
-        "https://geopoliticalfutures.com/daily-memo-negotiations-on-the-next-israeli-government/"
+        "https://stratechery.com/2026/intel-earnings-amd-earnings-intel-and-amds-divergence/"
       ],
       "category": "Geopolitics",
       "rank": 9,
       "summary": null,
-      "title_tr": "İsrailli lider Benjamin Eisenkot, cumhurbaşkanının davetinin ardından hükümet koalisyonu kurma konusunda engellerle karşı karşıya",
+      "title_tr": "Intel ve AMD arasındaki farklı kâr eğilimlerinin analizi",
       "summary_tr": null
     },
     {
-      "title": "Report referenced in article on increasing yuan usage in global trade",
+      "title": "Analysis of the current status of Russia‑Ukraine negotiations in Abu Dhabi",
       "links": [
-        "https://www.atlanticcouncil.org/insight-impact/in-the-news/the-cbdc-tracker-cited-in-coindesk-on-the-number-of-countries-actively-testing-or-developing-cbdcs-2-3/"
+        "https://www.atlanticcouncil.org/content-series/fastthinking/where-the-russia-ukraine-peace-talks-stand-after-abu-dhabi/"
       ],
       "category": "Geopolitics",
       "rank": 10,
       "summary": null,
-      "title_tr": "Küresel ticarette yuan kullanımının artmasına ilişkin makalede atıfta bulunulan rapor",
+      "title_tr": "Abu Dabi’de yürütülen Rusya-Ukrayna müzakerelerinin mevcut durumunun analizi",
       "summary_tr": null
     },
     {
-      "title": "Experts discuss how US 2027 budget and debt ceiling talks could affect worldwide markets",
+      "title": "Scenario outlining a jointly managed Strait of Hormuz in final negotiations",
       "links": [
-        "https://www.atlanticcouncil.org/insight-impact/in-the-news/tannebaum-quoted-in-the-new-york-times-on-us-unreliability-influencing-de-dollarization-efforts-4-9/"
+        "https://foreignpolicy.com/2026/11/11/strait-hormuz-endgame-iran-trump-control-oman-war-shipping-oil/"
       ],
       "category": "Geopolitics",
       "rank": 11,
       "summary": null,
-      "title_tr": "Uzmanlar, ABD’nin 2027 bütçesi ve borç tavanı görüşmelerinin dünya piyasalarını nasıl etkileyebileceğini tartışıyor",
+      "title_tr": "Son aşamadaki müzakerelerde, Hürmüz Boğazı’nın ortak yönetimini öngören senaryo",
       "summary_tr": null
     },
     {
-      "title": "Analysis suggests Pentagon secretary Hegseth may face removal from his post",
+      "title": "Daily briefing on latest developments in Ukraine talks and Israel coalition discussions",
       "links": [
-        "https://foreignpolicy.com/2026/11/09/pete-hegseth-midterms-trump-iran-war-impeachment-congress/"
+        "https://geopoliticalfutures.com/daily-memo-update-on-ukraine-negotiations-israel-coalition-talks/"
       ],
       "category": "Geopolitics",
       "rank": 12,
       "summary": null,
-      "title_tr": "Yapılan analizlere göre, Pentagon Bakanı Hegseth görevinden alınabilir",
+      "title_tr": "Ukrayna görüşmelerindeki ve İsrail koalisyon müzakerelerindeki son gelişmelere ilişkin günlük brifing",
       "summary_tr": null
     },
     {
-      "title": "Critique claims Pentagon secretary Hegseth’s tenure has harmed department effectiveness",
+      "title": "China’s position becomes precarious amid trilateral talks with Russia and the United States",
       "links": [
-        "https://foreignpolicy.com/2026/11/09/hegseth-impeachment-charges-massie-defense-pentagon-damage/"
+        "https://thediplomat.com/2026/11/for-china-twos-company-and-threes-a-risk/"
       ],
       "category": "Geopolitics",
       "rank": 13,
       "summary": null,
-      "title_tr": "Eleştiriler, Pentagon sekreteri Hegseth’in görev süresinin bakanlığın verimliliğine zarar verdiğini öne sürüyor",
+      "title_tr": "Çin’in konumu, Rusya ve ABD ile yürütülen üçlü görüşmelerin ortasında sallantıya giriyor",
       "summary_tr": null
     },
     {
-      "title": "Opinion proposes solutions to break deadlock in UN Security Council reforms",
+      "title": "Argument to Maintain U.S. Military Presence in NATO's Kosovo Force",
       "links": [
-        "https://foreignpolicy.com/2026/11/09/united-nations-security-council-reform-fix/"
+        "https://www.defenseone.com/ideas/2026/11/keep-us-troops-natos-kfor/417171/"
       ],
       "category": "Geopolitics",
       "rank": 14,
       "summary": null,
-      "title_tr": "Görüş, BM Güvenlik Konseyi reformlarındaki çıkmazı aşmak için çözüm önerileri sunuyor",
+      "title_tr": "NATO’nun Kosova Gücü’nde ABD Askeri Varlığının Sürdürülmesi Lehine İleri Sürülen Argüman",
       "summary_tr": null
     },
     {
-      "title": "Essay argues US neglect of intelligence contributed to Iran war outcomes",
+      "title": "UN Highlights Successes and Gaps in Global Early Warning Systems",
       "links": [
-        "https://foreignpolicy.com/2026/11/09/trump-iran-cia-intelligence/"
+        "https://news.un.org/feed/view/en/story/2026/11/1168787"
       ],
       "category": "Geopolitics",
       "rank": 15,
       "summary": null,
-      "title_tr": "Makalede, ABD’nin istihbaratı ihmal etmesinin İran savaşının sonuçlarına katkıda bulunduğu savunuluyor",
+      "title_tr": "BM, Küresel Erken Uyarı Sistemlerindeki Başarıları ve Eksiklikleri Vurguladı",
       "summary_tr": null
     },
     {
-      "title": "Analysis examines how US midterm elections influence global political dynamics",
+      "title": "UN Announces Withdrawal of Peacekeepers from Southern Lebanon After Nearly Five Decades",
       "links": [
-        "https://geopoliticalfutures.com/the-geopolitics-of-the-midterms/"
+        "https://news.un.org/feed/view/en/story/2026/11/1168784"
       ],
       "category": "Geopolitics",
       "rank": 16,
       "summary": null,
-      "title_tr": null,
+      "title_tr": "BM, Yaklaşık Beş On Yılın Ardından Barış Gücü Askerlerinin Güney Lübnan’dan Çekileceğini Açıkladı",
       "summary_tr": null
     },
     {
-      "title": "Discussion of tension between Xi’s authority and internal political reliability",
+      "title": "China and Russia Expand Security and Military Logistics Influence in Africa",
       "links": [
-        "https://thediplomat.com/2026/11/xi-jinpings-paradox-of-political-control/"
+        "https://haber.sol.org.tr/haber/afrikadaki-yeni-nufuz-mucadelesi-cin-guvenlik-alanina-rusya-askeri-lojistige-yerlesiyor"
       ],
       "category": "Geopolitics",
       "rank": 17,
       "summary": null,
-      "title_tr": null,
+      "title_tr": "Çin ve Rusya, Afrika’da Güvenlik ve Askeri Lojistik Alanındaki Etkilerini Genişletiyor",
       "summary_tr": null
     },
     {
-      "title": "Opinion urges durable US‑South Korea strategy toward North Korea beyond electoral cycles",
+      "title": "Von der Leyen Calls for Accelerated Clean Energy Transition",
       "links": [
-        "https://thediplomat.com/2026/11/after-the-midterms-seoul-and-washington-need-a-north-korea-policy-that-outlasts-elections/"
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZlpBa1k0TWxSRU9jM29tNm5iQWZHRE03OGdCSjFMNU5fdERVS2U0YTYyZVg2WG1BdXR6YWNiYkVtWkx6UndxTHVNeUhwZmlXa2h1XzZocExkdHVJZThLcHlWSElSbzBRVldtQlMzUjhFaHJFT3BGNnUwSUVPOG56dHhiTkZmdERBQkYxeTVZaVg5RHg0UlVVU3EtemszRzFqNXVTS0NBYw?oc=5"
       ],
       "category": "Geopolitics",
       "rank": 18,
       "summary": null,
-      "title_tr": null,
+      "title_tr": "Von der Leyen, Temiz Enerjiye Geçişin Hızlandırılmasını İstedi",
       "summary_tr": null
     },
     {
-      "title": "Analysis debates merits of establishing theater commands in Indian armed forces",
+      "title": "House Halts Hegseth Impeachment While Prosecutors Arrest Suspected Iran‑Backed Plotters",
       "links": [
-        "https://thediplomat.com/2026/11/indias-theater-commands-a-never-ending-debate/"
+        "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases"
       ],
       "category": "Geopolitics",
       "rank": 19,
       "summary": null,
-      "title_tr": null,
+      "title_tr": "Savcılar İran Destekli Olduğu Şüphelenilen Komplocuları Tutuklarken, Meclis Hegseth’in Görevden Alınma Sürecini Askıya Aldı",
       "summary_tr": null
     },
     {
-      "title": "Report follows Rohingya refugees returning from Bangladesh to Myanmar’s Rakhine State",
+      "title": "Spain Holds First Nationwide General Strike in 14 Years Over Housing Crisis",
       "links": [
-        "https://thediplomat.com/2026/11/homeward-bound-rohingya-refugees-trek-back-from-bangladesh-to-myanmars-rakhine-state/"
+        "https://www.bbc.com/turkce/articles/cmvg2rvpg774o?at_medium=RSS&at_campaign=rss"
       ],
       "category": "Geopolitics",
       "rank": 20,
       "summary": null,
-      "title_tr": null,
+      "title_tr": "İspanya, konut krizi nedeniyle 14 yıldır ilk kez ülke çapında genel grev düzenledi",
       "summary_tr": null
     },
     {
-      "title": "EU pledges €60 million to Romania, Bulgaria and Turkey for Black Sea security monitoring",
+      "title": "Analysis Highlights India's Strong Economic Growth Amid Skepticism",
       "links": [
-        "https://balkaninsight.com/2026/11/09/eu-offers-black-sea-countries-support-to-counter-security-threats/bi/"
+        "https://www.noahpinion.blog/p/india-is-quietly-doing-great"
       ],
       "category": "Geopolitics",
       "rank": 21,
       "summary": null,
-      "title_tr": null,
+      "title_tr": "Analiz, Şüpheci Yaklaşımlara Rağmen Hindistan’ın Güçlü Ekonomik Büyümesini Vurguluyor",
       "summary_tr": null
     },
     {
-      "title": "Column examines Trump’s appointment of Stephen Miller and its impact on congressional relations",
+      "title": "Barcelona sees clashes after tens of thousands join Spain’s general strike",
       "links": [
-        "https://www.project-syndicate.org/commentary/why-trump-promoted-stephen-miller-despite-voter-repudiation-by-stephen-holmes-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en"
+        "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
       ],
       "category": "Geopolitics",
       "rank": 22,
       "summary": null,
-      "title_tr": null,
+      "title_tr": "İspanya’daki genel greve on binlerce kişinin katılması üzerine Barselona’da çatışmalar yaşandı",
       "summary_tr": null
     },
     {
-      "title": "Seychelles minister discusses blue economy ahead of COP31",
+      "title": "Donald Trump’s remarks suggest a shift in U.S. approach toward North Korea",
       "links": [
-        "https://www.project-syndicate.org/videos/who-s-winning-and-who-s-losing-the-ocean-marie-may-jeremie?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en"
+        "https://www.foreignaffairs.com/north-korea/trump-facing-very-different-north-korea"
       ],
       "category": "Geopolitics",
       "rank": 23,
       "summary": null,
-      "title_tr": null,
+      "title_tr": "Donald Trump’ın açıklamaları, ABD’nin Kuzey Kore’ye yönelik yaklaşımında bir değişiklik olduğunu gösteriyor",
       "summary_tr": null
     },
     {
-      "title": "Analysis says US midterms unlikely to alter support for allies",
+      "title": "Democrats consider how they will influence U.S. foreign policy",
       "links": [
-        "https://www.project-syndicate.org/commentary/midterms-dont-change-much-for-us-allies-by-ian-bremmer-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en"
+        "https://foreignpolicy.com/2026/11/11/democratic-congress-foreign-policy-priorities-jason-crow-working-class-americans/"
       ],
       "category": "Geopolitics",
       "rank": 24,
       "summary": null,
-      "title_tr": null,
+      "title_tr": "Demokratlar, ABD dış politikasını nasıl etkileyeceklerini değerlendiriyorlar",
       "summary_tr": null
     },
     {
-      "title": "Shipwrecks off Senegal and Greece kill at least 56 migrants",
+      "title": "Hoax bomb threats target numerous schools across Europe",
       "links": [
-        "https://news.un.org/feed/view/en/story/2026/11/1168769"
+        "https://foreignpolicy.com/2026/11/11/hoax-bomb-threats-schools-italy-europe-hybrid-warfare-russia-iran/"
       ],
       "category": "Geopolitics",
       "rank": 25,
@@ -949,9 +855,9 @@
       "summary_tr": null
     },
     {
-      "title": "Heavy rains in Gaza cause tent collapses, killing children and others",
+      "title": "India positions itself as a mediator in the Ukraine conflict",
       "links": [
-        "https://news.un.org/feed/view/en/story/2026/11/1168766"
+        "https://foreignpolicy.com/2026/11/11/india-ukraine-war-russia-mediation-black-sea/"
       ],
       "category": "Geopolitics",
       "rank": 26,
@@ -960,9 +866,9 @@
       "summary_tr": null
     },
     {
-      "title": "COP31 convenes in Antalya as nations seek concrete climate actions",
+      "title": "One year after a contested election, Tanzania’s president intensifies crackdown on dissent",
       "links": [
-        "https://news.un.org/feed/view/en/story/2026/11/1168763"
+        "https://foreignpolicy.com/2026/11/11/tanzania-samia-hassan-lissu-chadema-sentence/"
       ],
       "category": "Geopolitics",
       "rank": 27,
@@ -971,9 +877,9 @@
       "summary_tr": null
     },
     {
-      "title": "Researchers sue to prevent NSF from closing social science directorate",
+      "title": "Calls for Congress to halt military aid to Israel",
       "links": [
-        "https://www.science.org/content/article/researchers-sue-block-nsf-demolishing-social-science-directorate"
+        "https://foreignpolicy.com/2026/11/11/us-midterm-elections-israel-iran-war-congress/"
       ],
       "category": "Geopolitics",
       "rank": 28,
@@ -982,9 +888,9 @@
       "summary_tr": null
     },
     {
-      "title": "Survey reveals German interest in US politics following midterm elections",
+      "title": "India evaluates the impact of a potential U.S. ‘Blue Tsunami’ on bilateral relations",
       "links": [
-        "https://www.atlanticcouncil.org/dispatches/what-germans-most-want-to-know-about-the-post-midterms-united-states/"
+        "https://foreignpolicy.com/2026/11/11/us-midterms-india-blue-tsunami-trump-democrats-trade/"
       ],
       "category": "Geopolitics",
       "rank": 29,
@@ -993,9 +899,9 @@
       "summary_tr": null
     },
     {
-      "title": "Opinion piece argues US immigration differs from Europe unless policy changes",
+      "title": "Analysis of how Israel’s leader lost political support linked to Trump",
       "links": [
-        "https://www.atlanticcouncil.org/insight-impact/in-the-news/charai-for-the-national-interest-on-immigration-the-us-is-not-europe-unless-it-chooses-to-be/"
+        "https://foreignpolicy.com/2026/11/11/us-midterm-elections-netanyahu-trump-republicans-israel-aid/"
       ],
       "category": "Geopolitics",
       "rank": 30,
@@ -1004,9 +910,9 @@
       "summary_tr": null
     },
     {
-      "title": "Study cites CBDC Tracker while analyzing Europe’s retail and wholesale payment strategies",
+      "title": "Study finds Japan’s main military limitation is the timing of force dispersion",
       "links": [
-        "https://www.atlanticcouncil.org/insight-impact/in-the-news/the-cbdc-tracker-cited-in-coindesk-on-the-number-of-countries-actively-testing-or-developing-cbdcs-2-2/"
+        "https://warontherocks.com/japans-most-dangerous-military-constraint-is-time/"
       ],
       "category": "Geopolitics",
       "rank": 31,
@@ -1015,9 +921,9 @@
       "summary_tr": null
     },
     {
-      "title": "Interview covers analysis of US midterm elections for Swiss broadcaster",
+      "title": "Assessment of whether critical minerals can transform Pakistan’s economy",
       "links": [
-        "https://www.atlanticcouncil.org/insight-impact/in-the-news/tannebaum-quoted-in-the-new-york-times-on-us-unreliability-influencing-de-dollarization-efforts-4-8/"
+        "https://thediplomat.com/2026/11/can-critical-minerals-reshape-pakistans-economic-trajectory/"
       ],
       "category": "Geopolitics",
       "rank": 32,
@@ -1026,9 +932,9 @@
       "summary_tr": null
     },
     {
-      "title": "Commentary on potential Congressional limits to Trump’s agenda after 2026 midterms",
+      "title": "Examination of how Indian courts have become entangled with religious issues",
       "links": [
-        "https://www.atlanticcouncil.org/insight-impact/in-the-news/tannebaum-quoted-in-the-new-york-times-on-us-unreliability-influencing-de-dollarization-efforts-4-7/"
+        "https://thediplomat.com/2026/11/how-indias-courts-became-so-entangled-with-religion/"
       ],
       "category": "Geopolitics",
       "rank": 33,
@@ -1037,9 +943,9 @@
       "summary_tr": null
     },
     {
-      "title": "Analysis references piece on digital euro’s future in OMFIF publication",
+      "title": "North Macedonia risks falling behind EU accession compared to neighboring states",
       "links": [
-        "https://www.atlanticcouncil.org/insight-impact/in-the-news/tannebaum-quoted-in-the-new-york-times-on-us-unreliability-influencing-de-dollarization-efforts-4-6/"
+        "https://balkaninsight.com/2026/11/11/north-macedonia-losing-ground-on-eu-accession-as-neighbours-advance-analyst/bi/"
       ],
       "category": "Geopolitics",
       "rank": 34,
@@ -1048,9 +954,9 @@
       "summary_tr": null
     },
     {
-      "title": "Column compares current Pentagon chief Hegseth to former secretary Rumsfeld",
+      "title": "Croatia’s illegal waste dumping scandal becomes a political issue",
       "links": [
-        "https://foreignpolicy.com/2026/11/09/hegseth-impeachment-iran-war-democratic-congress-donald-rumsfeld/"
+        "https://balkaninsight.com/2026/11/11/croatian-waste-scandal-turns-environment-into-political-battleground/bi/"
       ],
       "category": "Geopolitics",
       "rank": 35,
@@ -1059,9 +965,9 @@
       "summary_tr": null
     },
     {
-      "title": "Feature explores religious symbolism in Ukrainian media coverage",
+      "title": "House Republicans Vote to Send Hegseth Impeachment Articles to Judiciary Committee",
       "links": [
-        "https://warontherocks.com/stained-glass-and-sacred-spaces-symbolism-abounds-in-ukrainian-media/"
+        "https://www.defensenews.com/congress/2026/11/10/house-republicans-sidestep-effort-to-impeach-hegseth/"
       ],
       "category": "Geopolitics",
       "rank": 36,
@@ -1070,9 +976,9 @@
       "summary_tr": null
     },
     {
-      "title": "Analysis of Mongolia president’s state visit to Finland and its implications",
+      "title": "Analysis of COP31 Planning Emphasizes Public Interest Over Private Gains",
       "links": [
-        "https://thediplomat.com/2026/11/why-did-mongolias-president-visit-finland/"
+        "https://haber.sol.org.tr/haber/cop31-antalya-bize-neyi-gosteriyor-416026"
       ],
       "category": "Geopolitics",
       "rank": 37,
@@ -1081,9 +987,9 @@
       "summary_tr": null
     },
     {
-      "title": "Study assesses whether cash transfer programs can boost economic empowerment for Indian women",
+      "title": "Attacks on Fuel Facilities Lead to 1.5 Million Tons of CO2 Emissions",
       "links": [
-        "https://thediplomat.com/2026/11/can-cash-transfers-empower-indian-women/"
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaWh1TDZMbUZYaWNROEtiTDJvYVZIbTI5QkJNbDdobW9HaHpFa25PTnZZcmktX0Q4TTI1S3JMQkducDIzcDJBdVFfN2ZpRldSSFRTMjFtanhIS2s2TTN4bFpPMEhoTjRJUWZ1WmZuYXY4eFdMYURkTUtHdndDVEh5UmdBT1pZZHVpUnAyV0pMb3ZOUTd6anJKZVdzY3ZwS0N5WkFJMEZld0VSaHo2SXloSW44WTZFTmVzVC16YzB3R2ZDMjRUSlE?oc=5"
       ],
       "category": "Geopolitics",
       "rank": 38,
@@ -1092,9 +998,9 @@
       "summary_tr": null
     },
     {
-      "title": "Report details Kazakhstan‑Tajikistan agreements and limits compared to Russian support",
+      "title": "Trump Claims Iran Conflict Will Soon Conclude",
       "links": [
-        "https://thediplomat.com/2026/11/kazakhstan-offers-tajikistan-cooperation-not-a-substitute-for-russia/"
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZTFhMFN3X3JRNWN6SWpuVERyQUxoVGF6LTFmbHgza2lsbEthOTdvU05wTWUzYkQzSWFQYVF5WjZCNjBEdGUzMWIxN0dHUnJ6NUpjb0xKRGROUjVja2F6aUwycHBEQmQwODRVcjdDNjQ2QXpGSFBucmJma0xSeDcwUnV2SXlidw?oc=5"
       ],
       "category": "Geopolitics",
       "rank": 39,
@@ -1103,9 +1009,9 @@
       "summary_tr": null
     },
     {
-      "title": "Greek coast guard recovers 21 migrants dead after sea crossing near Crete",
+      "title": "Kennedy Family Joins Lawsuit to Stop Construction of Trump Memorial Arch",
       "links": [
-        "https://balkaninsight.com/2026/11/09/greece-retrieves-21-dead-migrants-off-crete-island/bi/"
+        "https://www.npr.org/2026/11/11/nx-s1-6037372/kennedys-trump-arch-lawsuit-jfk-grave-arlington-cemetery"
       ],
       "category": "Geopolitics",
       "rank": 40,
@@ -1114,9 +1020,9 @@
       "summary_tr": null
     },
     {
-      "title": "Montenegro reports 14 nationals participating in overseas conflicts since 2022",
+      "title": "New Article Explores Resurgence of Spying Among the Elite",
       "links": [
-        "https://balkaninsight.com/2026/11/09/montenegro-registers-14-citizens-fighting-in-foreign-wars-since-2022/bi/"
+        "https://feeds.feedblitz.com/~/972802046/0/marginalrevolution~Spying-makes-a-comeback.html"
       ],
       "category": "Geopolitics",
       "rank": 41,
@@ -1125,9 +1031,9 @@
       "summary_tr": null
     },
     {
-      "title": "Investigation continues after Polish mass shooter dies, motive still unknown",
+      "title": "Toyota begins production of compact Kei trucks after Trump endorsement",
       "links": [
-        "https://balkaninsight.com/2026/11/09/polish-mass-shooter-dies-of-injuries-motive-remains-unclear/rd/"
+        "https://arstechnica.com/cars/2026/11/toyota-resurrects-scion-with-right-hand-drive-kei-trucks/"
       ],
       "category": "Geopolitics",
       "rank": 42,
@@ -1136,9 +1042,9 @@
       "summary_tr": null
     },
     {
-      "title": "Analysis of Socialist Party of Serbia’s exit from parliament and future prospects",
+      "title": "Serbian student movement faces upcoming political challenges",
       "links": [
-        "https://balkaninsight.com/2026/11/09/bye-bye-serbias-sps-the-socialists-who-werent/bi/"
+        "https://foreignpolicy.com/2026/11/11/serbia-parliament-elections-vucic-corruption-student-movement-sns-student-list/"
       ],
       "category": "Geopolitics",
       "rank": 43,
@@ -1147,9 +1053,9 @@
       "summary_tr": null
     },
     {
-      "title": "Youth protests erupt in multiple countries over inequality and corruption",
+      "title": "Former Serbian economy minister arrested on suspicion of abusing office",
       "links": [
-        "https://www.project-syndicate.org/commentary/young-people-protests-france-india-serbia-change-effects-on-liberal-democracy-by-ian-buruma-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en"
+        "https://balkaninsight.com/2026/11/11/serbian-ex-minister-arrested-for-suspected-abuse-of-office/bi/"
       ],
       "category": "Geopolitics",
       "rank": 44,
@@ -1158,9 +1064,9 @@
       "summary_tr": null
     },
     {
-      "title": "International Labour Organization's role in fostering dialogue across divisions",
+      "title": "Croatian parliament member proposes ban on anti‑abortion prayers near hospitals",
       "links": [
-        "https://www.project-syndicate.org/commentary/ilo-offers-useful-model-for-fostering-international-cooperation-amid-global-fragmentation-by-jayati-ghosh-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en"
+        "https://balkaninsight.com/2026/11/11/croatian-mp-seeks-to-ban-anti-abortion-prayers-near-hospitals/bi/"
       ],
       "category": "Geopolitics",
       "rank": 45,
@@ -1169,9 +1075,9 @@
       "summary_tr": null
     },
     {
-      "title": "Swiss referendum to decide on loosening weapons export restrictions challenges neutrality",
+      "title": "Albanian government disputes over salaries of judges and prosecutors",
       "links": [
-        "https://www.defensenews.com/global/europe/2026/11/09/swiss-neutrality-proponents-challenge-arms-firms-in-vote-on-easing-of-exports/"
+        "https://balkaninsight.com/2026/11/11/politics-and-pay-albanian-govt-locks-horns-with-judges-prosecutors/bi/"
       ],
       "category": "Geopolitics",
       "rank": 46,
@@ -1180,108 +1086,20 @@
       "summary_tr": null
     },
     {
-      "title": "Refugees from Ethiopia in Kenya's Moyale region require food, water, shelter",
+      "title": "Turkey, Greece, and France Advance Subsea Power Cable Project in Eastern Mediterranean",
       "links": [
-        "https://news.un.org/feed/view/en/story/2026/11/1168762"
-      ],
-      "category": "Geopolitics",
-      "rank": 47,
-      "summary": null,
-      "title_tr": null,
-      "summary_tr": null
-    },
-    {
-      "title": "Senator Rubio says US should stop financing Israel",
-      "links": [
-        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZTltMWtaYTdSWFVWVFBmZEdvcGhSclNweHlPblE3b0NiSFUtU3lqZUlYQU45bVNXcWRJclNzZXBWRlJXQnhfTnB6ekJELWwwenVmSTcxZl9PREVMZHpwVWlKTUwtay1UenFpZTBzSXBYY2NSYTJIczhkRnhBSFNIaEtRTk9XNlJsQUJOeUtpRjdUX2tp?oc=5"
-      ],
-      "category": "Geopolitics",
-      "rank": 48,
-      "summary": null,
-      "title_tr": null,
-      "summary_tr": null
-    },
-    {
-      "title": "Proposal to eliminate state veto power over power line projects",
-      "links": [
-        "https://feeds.feedblitz.com/~/972689024/0/marginalrevolution~End-the-State-Veto-on-Power-Lines.html"
-      ],
-      "category": "Geopolitics",
-      "rank": 49,
-      "summary": null,
-      "title_tr": null,
-      "summary_tr": null
-    },
-    {
-      "title": "Paraguay's democracy and press expose political scandal",
-      "links": [
-        "https://feeds.feedblitz.com/~/972669662/0/marginalrevolution~The-Paraguayan-bank-story.html"
-      ],
-      "category": "Geopolitics",
-      "rank": 50,
-      "summary": null,
-      "title_tr": null,
-      "summary_tr": null
-    },
-    {
-      "title": "Betting loss lawsuit filed against Kalshi over illegal gambling",
-      "links": [
-        "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/"
-      ],
-      "category": "Geopolitics",
-      "rank": 51,
-      "summary": null,
-      "title_tr": null,
-      "summary_tr": null
-    },
-    {
-      "title": "Balkan Insight summarises key developments in the region for the week",
-      "links": [
-        "https://balkaninsight.com/2026/11/09/monday-briefing-from-the-balkans-november-9-2026/bi/"
-      ],
-      "category": "Geopolitics",
-      "rank": 52,
-      "summary": null,
-      "title_tr": null,
-      "summary_tr": null
-    },
-    {
-      "title": "Advice for service members on shutdown effects, Tricare enrollment and scam avoidance",
-      "links": [
-        "https://www.defensenews.com/video/2026/11/09/shutdown-woes-tricare-open-season-and-tips-for-avoiding-scams-moaa-headlines/"
-      ],
-      "category": "Geopolitics",
-      "rank": 53,
-      "summary": null,
-      "title_tr": null,
-      "summary_tr": null
-    },
-    {
-      "title": "Trump says winning upcoming elections impossible under current system",
-      "links": [
-        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYzktQVhKRVEzRDRYTGZVOVFXVG5zbVlGMU02X1RIM1M4Zmg1NS1VcVFCYnMwdDNWNk9vZGxkRkhobVJyNXlQY2NrUF93eW9ndWR6NFpCOE5IQzQ5S1RJdkMwSnNua2I5R2Vzd3JLN3h0LV8zLW5sTksyQUU0SHBmV0pWUnpQXzdIWVJSUVE2TEF2Z2JTNHNNUk5MT0lqY0V4anNKb2RSR2R5ZGxpenpDVmR1Unh4Z3dq?oc=5"
-      ],
-      "category": "Geopolitics",
-      "rank": 54,
-      "summary": null,
-      "title_tr": null,
-      "summary_tr": null
-    },
-    {
-      "title": "Explosion at HABAŞ steel plant in Izmir kills 17 workers, injures others",
-      "links": [
-        "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWHFsdzFqRUZSRDJzdEExYUVYZU1tTE1NbkJ0aTBkaXlTMWtKc2dweWlLU25saS1GdzZ6M3lpN1l3Q0pFY1ZoVEJ5N3U1SkNBcDVfWi1wTmFOMkJQVklKWDhmLWxwaTY1eExWYU1CVnc1dXRmV2xPTXFMRUZOTV9zVXVfaDVYSUpYTEoycHQ1NGxSLXVOWUFnR0tNNGd3eWlLOWJwaWhSczB3VVdSTU4xbFc2T0RieksxODBFeEF1NlhKUFhWMWs0eUh2aGRQSm5NVmpCUFdmVnRGSGFjTWREZFZEQlFTaXRsZXE4?oc=5"
+        "https://www.bbc.com/turkce/articles/cq772l6n4rlyo?at_medium=RSS&at_campaign=rss"
       ],
       "category": "Turkey",
       "rank": 1,
-      "summary": "No summary available: scraping failure",
+      "summary": "Turkey, Greece, and France have moved closer to advancing the Great Sea Interconnector (GSI) subsea power cable project in the Eastern Mediterranean after months of negotiations. Turkey issued a NAVTEX allowing French research vessel Abeille Marengo to conduct surveys in areas under its continental shelf claim, while Greece countered by asserting jurisdiction over the same waters. The 898-kilometer cable aims to connect Cyprus’s electricity grid to Europe via Crete, with an eventual extension to Israel, and is supported by the EU with a €657 million pledge.",
       "title_tr": null,
-      "summary_tr": "Özet bulunmuyor: veri alma işlemi başarısız oldu"
+      "summary_tr": "Türkiye, Yunanistan ve Fransa, aylarca süren müzakerelerin ardından Doğu Akdeniz'deki Great Sea Interconnector (GSI) denizaltı elektrik kablo projesini ilerletmek için önemli bir adım attı. Türkiye, Fransız araştırma gemisi Abeille Marengo’nun kendi kıta sahanlığındaki bazı alanlarda araştırma yapmasına izin veren bir NAVTEX yayınladı; ancak Yunanistan ise aynı sulardaki yetki alanını kendi hak sahası olarak ilan ederek karşı çıktı. 898 kilometrelik kablo hattının Kıbrıs’ın elektrik şebekesini Girit üzerinden Avrupa’ya bağlaması planlanıyor ve projenin İsrail’e kadar uzatılması da öngörülüyor. AB tarafından da desteklenen projeye 657 milyon Euro taahhüt edildi."
     },
     {
-      "title": "President Erdoğan backs two‑state solution for Cyprus, responding to Azerbaijan",
+      "title": "Turkey's President Skips Meeting with Northern Cyprus Leader at COP31 Reception",
       "links": [
-        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQY2dIUEVWbXZ2d2pkNjZrLVkwRkpBSGVTWXR4c0dSd25qU3lTMUxPbkp3d1R0MW80YUhDZHpWay1kU0RLZjlSdnVDaXQzX3hKbHVkMmd3S0NjOEoxTGVUYzNaU1Y2MWloTjhJZlJEd2dudW1wSkZsd0Q2RVRnQTdYY1FoMXA1dnZ5X2xoX2VZaElNVVhzd2Y0SFlCSmM5R2xSWVpUeXBtdWZkbE1mYkNZZXdUVGxqNURmMnBfaDY0SWRXLVl6VTFYd3RkTW4xMnNUcTF5ZVlLNVg0Mzd3c182Mm05RFJoSFp6OHBPWGZR?oc=5"
+        "https://news.google.com/rss/articles/CBMihwJBVV95cUxQb1hxZHpvUWN3ZkdfQTdiNHlMUVo3WWUyU2M5c2xXYk5zX1ZCMjBURU13Wk5OcEpzdGpLbTFXNFM4czdyN0tsOHQ0RGt5TmdyWnFvNWtRTVFLUjMyaFVVZS1vcUg5d1hGcGZRc1M3emxaSTRlQk5pNDNFTVVVblNFN0FIekFxQ2c5RjJwZjdybHJsZEM4UmFtbS1lc0xoNmhOOGx5LURWcGJCUkxxWUItTzFRTzJVX1pfOGtDT3ZUbHpmUTM5Z2YzSi04Z3NBV3ZMdnFrUjJKRDdvWXpkYlB0U2IzU01RYnd4dzZSS2lFM1IxemVhMmY0VlBQTDhaam01ZERRRzRIZw?oc=5"
       ],
       "category": "Turkey",
       "rank": 2,
@@ -1290,9 +1108,9 @@
       "summary_tr": "Özet bulunmuyor: veri alma işlemi başarısız oldu"
     },
     {
-      "title": "Explosion at Aliağa steel plant claims 10 lives",
+      "title": "Investigation Links Turkish Figure Gökçer Tahincioğlu to Office Rental and Stock Probe",
       "links": [
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYlFremp3WnRJb2pHWmVpcjNVQW9XZ0ZMVFVlMUFJaGpCelBEOGpjdFA0YWNPS3dTOFpaLVE5cFFaVThaV2FlOUU2RkVreDc3SUZ1WFoxRjFKSUxyTi1Ld3M3bkhOaEZ5QjVYV1RsV3g1a3hfMDY2alVBNGJzTlEzbjMzZ1VlZ1VmeERzU25iak5ZQmhlTWQtVUpxbDUxeXNhN2VYQTNBTEdmZw?oc=5"
+        "https://news.google.com/rss/articles/CBMinAJBVV95cUxQQVNhQnhfNVUxdEZzdkFWc01lRDliS2YxM1hJZlNqMkNNZV81WnhSSmpWUkxaZjMtcThBdnVCbm9RVkNqMTRuWUh3R1lpZHlGWERadUtPa3ZsYlpINGdEdDhzUXlBbWpMc3Q0YnB3dU1QNFA5RXhHZUZWOFFRTXhVQjZwOENIOWx5M056V1ZCZ3Fyb2F3RFd4MWRiWDFiWE1qOGF4em1HVW1ES0VINGxKdDNCajNmYmdJZzhxby1mVkhCZXdUa3hvM05BZHNvT05qZjJyNEVSekxTODdmZDFzWmpZWjZiLXdBTloxeHVSMXA5bllPa0N2YkhnZVFRelN5OTJla2tjLXR0Q25EcWdTSHUzNnpjbFdrbkxKcQ?oc=5"
       ],
       "category": "Turkey",
       "rank": 3,
@@ -1301,9 +1119,9 @@
       "summary_tr": "Özet bulunmuyor: veri alma işlemi başarısız oldu"
     },
     {
-      "title": "Minister Gürlek calls for removal of parliamentary immunity in political dispute",
+      "title": "Turkey's Interior Minister Announces Green Passport Initiative",
       "links": [
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQUNDeXAyQVdmOXpRWHhHNFhZcEtUOEVCcFNSOHlMMUpQOFM1QnhLYmkyMnUzTVRXY0R2VDJnY1IwdjBBeFdjNzFzT2xLQ0ktZllBNUFSMm03R0otb042bWV6R1l1Y3RQVVdjaVp2UG9uRUI0NGt4TVptNXY2NVBVdnNiV05IMGtHVm9JNW1haU9IMm85NThaZnBTR1V1dXFzbmd4b1hRS3V0MndJVGdGWXA5YWNMMnp0UG5ab2RhdTBNLVhKenJuMHdn?oc=5"
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRUFfa2NwRVE3elAzbHhYQTYwU2NxVlBWVVFTODNWNlZPMDI1cVhKdnF2V0otczY2emwzaDRXZmJGUVplSHQtaFoydnFmWTh3WTI1ZkoxQ3JTc0ZOY0JCQVZ6enhZWEI4dk8zSUJuUHJPTnlHazFzMTNiYU1IaUFaQml6UF96eFR1bjFhNEZxVENtbGMwVGJN?oc=5"
       ],
       "category": "Turkey",
       "rank": 4,
@@ -1312,86 +1130,42 @@
       "summary_tr": null
     },
     {
-      "title": "Apple to open seven education and technology centers in Turkey",
+      "title": "IBM plans to provide dual‑processor quantum system access by 2027",
       "links": [
-        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS1pjbEpON1dWM3hxdTBraWhFUU5kOWZ4NlJ4LU94VVZJQWJyQ2xHTWxMVG02a2pJYXYwb2VMZUFkRjhaRXE4WmkwQXNIaG5tMGtwbUdhcVpvRDhUV2dLd095S3pJcHVWSGhMTU16UURBdDZ6dWFFdm9vMk5LV0V6UWR3c2Ftb1ZyMFZFTmJVb2NjTnQ4WWg5VEJmbjB0aWhMdld0V2k5bkJJcUIwLThvMWhMclNEMnN5?oc=5"
-      ],
-      "category": "Turkey",
-      "rank": 5,
-      "summary": null,
-      "title_tr": null,
-      "summary_tr": null
-    },
-    {
-      "title": "Koç Holding aims to cut freshwater usage by 85% by 2040",
-      "links": [
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU0YydDY0Y0ZBSnVTVTV2WXBGcU5KWXFDMVdOajlhQ1o5Wm1IYW1rV19NTTgtY0JOcmdTOEw5TWo1Mk1ZeVE2N0ttVDRrX3NHbWJSLXdTU2RNTm1PWXJIU2dBWWNYeXpvcGFyT2xPckk2RzkxVmtJZGNqdjBuOWFRSEkyV3VXSF9ZNmk5Tjk2cGxJSmdiRThwb2Rxd2xMam10SjdYN1hPOWs5c3dMX2xEZElyaFNMb3NxTjY2QV9wVQ?oc=5"
-      ],
-      "category": "Turkey",
-      "rank": 6,
-      "summary": null,
-      "title_tr": null,
-      "summary_tr": null
-    },
-    {
-      "title": "Turkey and Azerbaijan relations improve following leaders' meeting in Shusha",
-      "links": [
-        "https://www.bbc.com/turkce/articles/c83vqvw35g4yo?at_medium=RSS&at_campaign=rss"
-      ],
-      "category": "Turkey",
-      "rank": 7,
-      "summary": null,
-      "title_tr": null,
-      "summary_tr": null
-    },
-    {
-      "title": "Turkish SGK imposes 198,000 lira fine for uninsured company‑car usage",
-      "links": [
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRml4elZUMGZZMW1XczYtQkhNZEFtTXB3b1VTalhmZW1zMkpSRjFxbU9hanR1ZUZVNTl5bHMzU19sTG42R1JhVzNZOFFQb25iQl80SVRBb3JtbTl0c3Z3QUwwbGtmVldWX1lHcEVodE9LVi1wNmwwNnFfbnl1RGt3Yy1IeHpYOURlRTh3ZEN3QzhKM1dDWWdObHpxNDhYaXpVQVBTMUpvWnZTel92d2phRm9HMXluZzB6SGJKNzVHaWlwT0E?oc=5"
-      ],
-      "category": "Turkey",
-      "rank": 8,
-      "summary": null,
-      "title_tr": null,
-      "summary_tr": null
-    },
-    {
-      "title": "UN warns El Niño could cost world economy up to $11 trillion",
-      "links": [
-        "https://news.un.org/feed/view/en/story/2026/11/1168768"
+        "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/"
       ],
       "category": "Science",
       "rank": 1,
-      "summary": "A UN report warns that the El Niño weather pattern could inflict up to $11 trillion in economic damage globally and worsen food insecurity, particularly affecting small-scale farmers. It urges integrated investments to build rural resilience, combining market access, agricultural inputs, technologies, and financial services. Separately, the UN details ongoing displacement in Mozambique’s Cabo Delgado region, where armed groups have driven over 205,000 people from their homes, triggering a humanitarian crisis with acute food and shelter needs. In Yemen, WHO and partners are rolling out a measles-rubella vaccination campaign to immunize nearly one million children in southern governorates amid high displacement.",
+      "summary": "IBM announced at its Quantum Developer’s Conference that it is expanding the scope of its next-generation Nighthawk processors with a version containing over 500 programmable qubits. By 2027, the company plans to offer access to a dual-processor quantum system, though it has reduced the number of linked processors from nine to two. A major performance boost comes from hardware-based qubit resets introduced in the September 2026 update, which accelerates certain operations up to 19-fold, allowing Nighthawk to perform roughly 10,000 gate operations before error likelihood becomes problematic. IBM also demonstrated successful chip-to-chip communication with high fidelity, though delays in linking multiple chips have prompted adjustments to its roadmap.",
       "title_tr": null,
-      "summary_tr": "Birleşmiş Milletler’in bir raporuna göre, El Niño hava olayı küresel ekonomiye 11 trilyon dolara kadar zarar verebilir ve gıda güvenliğini daha da kötüleştirebilir; bu durum özellikle küçük ölçekli çiftçileri etkilemektedir. Rapor, kırsal dayanıklılığı artırmak için pazar erişimi, tarımsal girdiler, teknolojiler ve finansal hizmetlerin bir arada ele alınmasını gerektiriyor. Ayrıca, BM Cabo Delgado bölgesinde silahlı grupların 205 binden fazla kişiyi evinden ettiği ve ciddi bir insani krize yol açtığına dikkat çekiyor; bu durum gıda ve barınma ihtiyacını beraberinde getiriyor. Yemen’de ise DSÖ ve ortakları, Güney Yemen’in 11 ilinde yaklaşık bir milyon çocuğa kızamık-kızamıkçık aşısı uygulamak üzere bir kampanya yürütüyor."
+      "summary_tr": "IBM, Quantum Developer Konferansı'nda, Nighthawk adlı yeni nesil işlemcilerinin, 500'ün üzerinde programlanabilir kübit barındıran bir versiyonunu geliştirmeyi planladığını duyurdu. Şirket, 2027 yılına kadar çift işlemcili kuantum sistemine erişim sunmayı hedefliyor olsa da, bağlı işlemci sayısını dokuzdan ikiye düşürdü. Eylül 2026 güncellemesiyle tanıtılan donanım tabanlı kübit sıfırlama özelliği sayesinde, Nighthawk'ın belirli işlemlerde hızını 19 kata kadar artırarak yaklaşık 10.000 kapı işlemi gerçekleştirebilmesi mümkün hale geldi. IBM ayrıca, yüksek verimlilikle başarılı bir şekilde çipten-çipe haberleşme de gösterdi; ancak çoklu çipleri birleştirmedeki gecikmeler nedeniyle yol haritasında düzenlemeler yapıldı."
     },
     {
-      "title": "Brain organoids proposed as novel computing platforms",
+      "title": "Extreme drought threatens survival of iconic cactus species",
       "links": [
-        "https://www.science.org/content/article/neurons-dish-are-newest-computing-machines"
+        "https://www.nature.com/articles/d41586-026-03671-2"
       ],
       "category": "Science",
       "rank": 2,
-      "summary": "No summary available: scraping failure",
+      "summary": "Extreme and worsening droughts driven by climate change are pushing some of the world’s most recognizable cactus species toward extinction by overwhelming their ability to store water and survive prolonged dry spells. Research based on long-term observations and physiological studies warns that iconic desert flora may disappear within decades if current trends continue, reshaping ecosystems that millions of species depend on. The findings relate directly to the survival capacity of cacti, which occupy unique biological niches in arid regions, underscoring the broader consequences of shifting climate patterns for global biodiversity.",
       "title_tr": null,
-      "summary_tr": "Özet bulunmuyor: veri alma işlemi başarısız oldu"
+      "summary_tr": "İklim değişikliği nedeniyle giderek şiddetlenen aşırı kuraklıklar, dünyanın en tanınan kaktüs türlerini su depolama ve uzun süreli kuraklıklara direnme yeteneklerinin ötesine iterek yok olma tehdidi altına sokuyor. Uzun vadeli gözlemler ve fizyolojik çalışmalara dayanan araştırmalar, mevcut eğilimlerin devam etmesi halinde simgesel çöl bitkilerinin birkaç on yıl içinde yok olabileceğini ve milyonlarca türün bağımlı olduğu ekosistemleri yeniden şekillendireceğini ortaya koyuyor. Bulgular, kurak bölgelerdeki ekolojik nişlerinde yer alan kaktüslere odaklanarak, değişen iklim kalıplarının küresel biyolojik çeşitlilik üzerindeki daha geniş sonuçlarını vurguluyor."
     },
     {
-      "title": "U.S. imposes new regulations on synthetic DNA to prevent bioterrorism",
+      "title": "Report examines scale and impact of worldwide wildlife trade",
       "links": [
-        "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna"
+        "https://www.nature.com/articles/d41586-026-03591-1"
       ],
       "category": "Science",
       "rank": 3,
-      "summary": "No summary available: scraping failure",
+      "summary": "A Nature news article highlights how understanding the global scope of wildlife trade—legal and illegal—can inform conservation strategies to reduce biodiversity loss. It points out data gaps that obscure the true scale of the problem and underscores the need for accurate information to guide policy and efforts. The piece is part of Nature's coverage on ecological and conservation challenges.",
       "title_tr": null,
-      "summary_tr": "Özet bulunmuyor: veri alma işlemi başarısız oldu"
+      "summary_tr": "Nature dergisinde yayınlanan bir makale, yasal ve yasa dışı yollarla yapılan dünya çapındaki vahşi yaşam ticaretinin küresel boyutunu anlamanın, biyolojik çeşitlilik kaybını önlemeyi amaçlayan koruma stratejilerini yönlendirmede nasıl yol gösterici olabileceğine dikkat çekiyor. Makale, bu sorunun gerçek boyutunu gizleyen veri boşluklarına da işaret ederek, doğru bilgilerin politika ve çabaları yönlendirmedeki önemini vurguluyor. Bu içerik, ekoloji ve koruma biyolojisiyle ilgili zorluklara dair Nature'ın kapsamının bir parçasıdır."
     },
     {
-      "title": "Debate continues on RNA world hypothesis for origin of life",
+      "title": "Study finds microplastics present in blood of remote Brazilian giant anteaters",
       "links": [
-        "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/"
+        "https://www.nature.com/articles/d41586-026-03660-5"
       ],
       "category": "Science",
       "rank": 4,
@@ -1400,9 +1174,9 @@
       "summary_tr": null
     },
     {
-      "title": "X‑chromosome gene linked to lower autism prevalence in females",
+      "title": "Research shows microplastics alter seawater color near Great Pacific Garbage Patch",
       "links": [
-        "https://www.newscientist.com/article/2598114-x-chromosome-gene-may-reduce-autism-rates-in-women-and-girls/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+        "https://www.nature.com/articles/d41586-026-03637-4"
       ],
       "category": "Science",
       "rank": 5,
@@ -1411,9 +1185,9 @@
       "summary_tr": null
     },
     {
-      "title": "New interpretation suggests quantum paradoxes stem from time considerations",
+      "title": "Climate‑induced drought places cacti species at high extinction risk",
       "links": [
-        "https://www.newscientist.com/article/2595461-is-schrodingers-cat-both-dead-and-alive-no-its-just-haunted-by-its-past/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+        "https://www.nature.com/articles/d41586-026-03496-z"
       ],
       "category": "Science",
       "rank": 6,
@@ -1422,9 +1196,9 @@
       "summary_tr": null
     },
     {
-      "title": "First observation of ultraquantum turbulence in ultracold potassium atoms",
+      "title": "Heavy rainfall causes water level rise in Navajo Reservoir, New Mexico",
       "links": [
-        "https://www.newscientist.com/article/2597812-weird-ultraquantum-turbulence-seen-for-the-first-time/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+        "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/"
       ],
       "category": "Science",
       "rank": 7,
@@ -1433,9 +1207,9 @@
       "summary_tr": null
     },
     {
-      "title": "UN report says extreme heat in India will persist into next year",
+      "title": "New catalyst enables efficient C–H arylation of arene compounds",
       "links": [
-        "https://news.un.org/feed/view/en/story/2026/11/1168760"
+        "https://www.nature.com/articles/s41586-026-11391-w"
       ],
       "category": "Science",
       "rank": 8,
@@ -1444,9 +1218,9 @@
       "summary_tr": null
     },
     {
-      "title": "Study finds cold therapy may hinder post‑exercise recovery",
+      "title": "Metabolic cycles may have driven the emergence of life",
       "links": [
-        "https://www.newscientist.com/article/2598085-cold-therapy-may-be-worse-than-doing-nothing-for-post-exercise-recovery/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+        "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/"
       ],
       "category": "Science",
       "rank": 9,
@@ -1455,9 +1229,9 @@
       "summary_tr": null
     },
     {
-      "title": "Large handaxes may have served symbolic purposes in prehistoric Britain",
+      "title": "Study suggests blood‑thinner could reduce cartilage damage and osteoarthritis pain in animals",
       "links": [
-        "https://www.newscientist.com/article/2597990-prehistoric-britons-may-have-made-giant-stone-axes-to-show-off/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+        "https://www.newscientist.com/article/2598488-blood-thinning-drug-limits-cartilage-damage-and-relieves-osteoarthritis-pain/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
       ],
       "category": "Science",
       "rank": 10,
@@ -1466,9 +1240,9 @@
       "summary_tr": null
     },
     {
-      "title": "Study highlights complexities of using ancient mineral grains to trace impact events",
+      "title": "New Study Validates Use of Digital Twins in Program Evaluation",
       "links": [
-        "https://phys.org/news/2026-11-mineral-grains-invaluable-reconstructing-impact.html"
+        "https://feeds.feedblitz.com/~/972841367/0/marginalrevolution~Experimentally-validated-digital-twins.html"
       ],
       "category": "Science",
       "rank": 11,
@@ -1477,9 +1251,9 @@
       "summary_tr": null
     },
     {
-      "title": "Study finds common additive may reduce risk of cognitive decline",
+      "title": "Timing and Approaches to Dieting for Longevity",
       "links": [
-        "https://nautil.us/common-food-additive-linked-to-lower-risk-of-cognitive-impairment-1286473/"
+        "https://nautil.us/the-what-and-when-of-longevity-dieting-1286564/"
       ],
       "category": "Science",
       "rank": 12,
@@ -1488,9 +1262,9 @@
       "summary_tr": null
     },
     {
-      "title": "Paleo diet likely included significant insect consumption",
+      "title": "New Fossil Shows 150‑Million‑Year‑Old Bird Adapted to Terrestrial Life",
       "links": [
-        "https://www.newscientist.com/article/2598048-a-true-paleo-diet-would-include-a-lot-more-insects/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+        "https://nautil.us/this-150-million-year-old-bird-had-a-body-built-for-the-land-1286543/"
       ],
       "category": "Science",
       "rank": 13,
@@ -1499,9 +1273,9 @@
       "summary_tr": null
     },
     {
-      "title": "Exploring whether thoughts are visual, verbal, or coded representations",
+      "title": "Prominent Fossil May Illuminate Hidden Hominin Diversity",
       "links": [
-        "https://nautil.us/do-we-think-in-pictures-words-or-code-1286476/"
+        "https://nautil.us/famous-fossil-could-be-rosetta-stone-for-hidden-hominin-diversity-1286535/"
       ],
       "category": "Science",
       "rank": 14,
@@ -1510,9 +1284,9 @@
       "summary_tr": null
     },
     {
-      "title": "Scientists identify new species from 9.5‑million‑year‑old whale fossil",
+      "title": "Study reveals individual personality traits in rattlesnakes influencing venom potency",
       "links": [
-        "https://nautil.us/a-new-species-emerges-from-a-9-5-million-year-old-whale-carcass-1286464/"
+        "https://www.nature.com/articles/d41586-026-03536-8"
       ],
       "category": "Science",
       "rank": 15,
@@ -1521,17 +1295,98 @@
       "summary_tr": null
     },
     {
-      "title": "Nvidia CEO Jensen Huang alleged affair with Chinese spy triggers board probe and market fallout",
+      "title": "UK Data Shows Political Differences Increase Couple Separation Rates",
       "links": [
-        "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
-        "https://stratechery.com/2026/jensen-huangs-affair-the-culper-report-huangs-righteousness/",
-        "https://foreignpolicy.com/2026/11/09/jensen-huang-spy-scandal-alice-nvidia-trump-china/",
-        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRGc4bGk1cml4YmljVW9CYWVkb1RKQ1pBbTNWWWozcXF3QmhjU1hfTEgtQWQ2NXNIb0xjVE1BOHYyWDlpX1N2eW9qR1ozNnpzVVpXSVYxdHlpLTJrWXJOaXpDaHVJRFNWcU9ZYUR0YU1fYTB6eDg3Q3hNZTN5alFXOXhNblZtUFNYSkhFU2Z6cXZYTkJZZ2xCYTBaNEpUVE9xUzRZNDhZdk51T2V3X0x0Y1M2RndUQWR3MjFramdVeGI1bFp2NnU2R1NBaGNsV0V4ZFh1STBaNkI2Qi1FcklOT3VJYjhhMzE3NjZUOG9vWmc?oc=5",
-        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNS1ByMHpJZ2IyT0NHM3hqQW9MSW5tQURkLXpvZGxSNFloMmVqTkc2Nm1RMHo5ZzctMG5pczlpcUN1YndnYW5OU3hZUE44a1RvWElCVGwxZnVWdkV4MENhYjVWLXpXUTQ3OEJjMEZiVGtiS1plQkRyMTMxT0lBS0cxYUltYUdXQUlITmNWUWFYQnNQZUlHWXJndXQ0WldTLU1yX18zWVI1TldXZFFaMjh0Y3dyYmQ2cjB1OFNsa2Z4NFFENWdzMldzRkptTHJJQ0ZPb2dNOXVmOTZOYVBOVmt4YUhtTXZranc?oc=5",
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQnNtZ2tHRmdtNnZmbTI3NkVIV21wZm1XTUFDUTdYQmxuc3pMVmpYS0J4ZG9MbDN6b28tWDFaZ0RiWWxFc0txUmhONjc5U002VU9Ba1VrQjFuV0ZRY0VYWWlWX3ZibG1BaGZoM2ZDSXRJd3JXQ2JTVTJRSEJrZ0x6ZW9KSVlPQTNiRk9fTTZrbnFJRHcxX0JLUXlvZzluZHNHQ2lSZW5KYzF0bHRNWDlwZk5uand6MkFxcmV3Y01oQ0dEZElpS1E?oc=5",
-        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYU5fTUZfS2drVGlTTk43X0NHYU9EMWZJQ0pmN1IyMDlWRFJLUjdpamR6QmlYN2pLR2FYaGw2RHJPbHl6VTdXOTRDaTlMSEJEWUZLYXlSNkw0VWlRSmlTNGl6WjFmVU5rRkRVeng2alFRSjdRR2lVTEpvSWM3THFmc1dQNk5SVG9pcm93WW1IQjFLV0xSOTBZd0RoQnU4SWJJRWhMcHZWMFpWcHRvSU1TQWVsTXR6NzdBcFFRRURMdUlCZ0hnSnNzZkV6eGZ6clp6dGVhcEZUMTkwRHpwSGhibg?oc=5",
-        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWVlXMkhoLU0tY3hoTGd6MmJJaGdfa0puVDdYamRzVFRhWXVSMXNuQjJlRURFU1Z0NGpUa05PaFRGeXNDaDR4QWRTSi1rSnBXcmRGSzdUZ0tsQ0NWTkRHQzRKNTFYSWJDcnhFdUJBcXBkSkhCWmV4d3lKSlRvZExSekVaRm91d3gtSGhhN0hVZDVPMktiWDJ4bW03RGo5ajkyOTgwUkJ5WHk5bGoxdXhDX2FZR2wtM0xiNTRMRlRkQldLZGNBbGg4elI2NW5kakxlbXp0YjNaMA?oc=5",
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZjQxU1NGcmJlVEtVeW1XNHhtUHhIRk5RVGVnVFpkRHBFX0NQRDRyX0ZrSjBHdWdUTllCOGxYbkxGRE5BNFNXN1JfcjM3clo2QXVGdUtZYnhqVkxjTUc4ZDlfcXRIM0NZeS1UTE9rUGxMZmozLXdHVm5Kbmx1eHFFWXh4OU8zQTBIaGJhM0J2dzFrWnBSc0h2TVIwdzlxNW1nUmlidmZEOVppSl94YXNjbmJXRmZESGd5OVZCYXpzSUVISXl6V21fT3ZB?oc=5"
+        "https://feeds.feedblitz.com/~/972805361/0/marginalrevolution~UK-fact-of-the-day.html"
+      ],
+      "category": "Science",
+      "rank": 16,
+      "summary": null,
+      "title_tr": null,
+      "summary_tr": null
+    },
+    {
+      "title": "Effects of Coffee Consumption on Gastrointestinal Health",
+      "links": [
+        "https://nautil.us/whats-all-that-coffee-doing-to-your-gut-1286572/"
+      ],
+      "category": "Science",
+      "rank": 17,
+      "summary": null,
+      "title_tr": null,
+      "summary_tr": null
+    },
+    {
+      "title": "Key Factors Influencing Collective Memory",
+      "links": [
+        "https://nautil.us/the-four-forces-that-shape-collective-memory-1286569/"
+      ],
+      "category": "Science",
+      "rank": 18,
+      "summary": null,
+      "title_tr": null,
+      "summary_tr": null
+    },
+    {
+      "title": "Study Finds Lean Muscle Mass Alone Does Not Guarantee Metabolic Health",
+      "links": [
+        "https://nautil.us/lean-muscle-mass-isnt-a-cure-all-for-metabolic-health-1286540/"
+      ],
+      "category": "Science",
+      "rank": 19,
+      "summary": null,
+      "title_tr": null,
+      "summary_tr": null
+    },
+    {
+      "title": "How to use Nature Index tables: a practical guide",
+      "links": [
+        "https://www.nature.com/articles/d41586-026-03441-0"
+      ],
+      "category": "Science",
+      "rank": 20,
+      "summary": null,
+      "title_tr": null,
+      "summary_tr": null
+    },
+    {
+      "title": "Readers ponder whether reality is a brain‑generated interpretation",
+      "links": [
+        "https://www.newscientist.com/article/2597847-what-is-the-world-actually-like-if-what-we-see-is-just-our-brains-interpretations/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+      ],
+      "category": "Science",
+      "rank": 21,
+      "summary": null,
+      "title_tr": null,
+      "summary_tr": null
+    },
+    {
+      "title": "Exploring why music triggers emotions across cultures",
+      "links": [
+        "https://www.newscientist.com/article/2597844-why-does-music-evoke-emotion-and-do-people-from-other-cultures-feel-the-same-way/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+      ],
+      "category": "Science",
+      "rank": 22,
+      "summary": null,
+      "title_tr": null,
+      "summary_tr": null
+    },
+    {
+      "title": "Factors Influencing Sex Determination in Alligators",
+      "links": [
+        "https://nautil.us/the-temperamental-nature-of-alligator-gender-reveal-parties-1286547/"
+      ],
+      "category": "Science",
+      "rank": 23,
+      "summary": null,
+      "title_tr": null,
+      "summary_tr": null
+    },
+    {
+      "title": "CoreWeave shares jump after strong Q3 results and raised outlook",
+      "links": [
+        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV0dWd1dJeXNYZFJPTmR3NXo4LVB0Q1ctZERUSnFBNFYtQi00NVh4UlJuOU5pNmhIS3RKSWZTZmNWRVVWcUJNdC1wR2NwN0xBOEEyNldsMXZNTXdlZUtuUFRzX2hyMUhZdngzOGFjV2lrRE5RaEpjMkJtaHlYdTJ1Q3JFUTFsUy0wYVQ0dENuV3ZvdTFHQjk0cGZYR1MzWVI4TDNVQXZyc09TblRvc3lhc1ZtOEtWOFZCdmVXeGpaV0VWenFfcmNjTGJTbzdPNVpyb080WVRSMGo5VHhFaElHWm5jdw?oc=5",
+        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQUlzUVY2WTVjSmsxVU1kRFdxa0tqaXRKbDh3NXFvVmNJSjZPREtXNjIzU3ZPYldpWGc5Y3A3TnQ0R2RaSmlZejdtQktLT0k3UHB1cVh5ZndKa3F4S3E0RE9RM3FKUWN1TjJfcU1Qd0pZOUVmQzVVV2RnX0NjS0VqbS1PNjYyOFRNTjVwV0FqSW5mNndvcmtEQk4teC1xaWZKTXcwUURFTU1rWDd5QkhZbHhUSDJxNXg5eC00S1pkTEFFZFFtbjQ3bGpIRXpjUFpwdmFyVzVtQ2JYd2xseEVrTw?oc=5"
       ],
       "category": "Tech",
       "rank": 1,
@@ -1540,31 +1395,31 @@
       "summary_tr": "Özet bulunmuyor: veri alma işlemi başarısız oldu"
     },
     {
-      "title": "Active exploitation of 'sshole' Linux SSH vulnerability reported",
+      "title": "Investigation seeks to identify operators behind ransomware group Qilin",
       "links": [
-        "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/"
+        "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/"
       ],
       "category": "Tech",
       "rank": 2,
-      "summary": "Security researchers report active exploitation of a critical Linux vulnerability named 'sshole,' which impacts systems running both OpenSSH and the musl library under specific conditions. Exploits allow unauthenticated access to high-privilege accounts by sending oversized passwords, bypassing normal authentication. Multiple threat groups, including one tracked as GT10, have already launched attacks, installing backdoors like TAC Agent. Patches are available, and administrators are urged to update OpenSSH immediately.",
+      "summary": "Qilin, a Russia-based ransomware-as-a-service group active since September 2022, is identified as one of the world's most prolific cybercrime threats, affiliating hackers who deploy double-extortion attacks and targeting English-speaking criminals. Investigations reveal its administrator, known as 'Haise,' previously used aliases such as 'Rjun' and 'Alexbigboss44' on cybercrime forums, linking to Aleksey Mikhailovich Yakovtsev, a 36-year-old St. Petersburg resident. The identification stems from operational security missteps and cross-referenced data from breached forums, leaked records, and cyber intelligence platforms like Intel 471 and Flashpoint.",
       "title_tr": null,
-      "summary_tr": "Güvenlik araştırmacıları, 'sshole' adı verilen ve OpenSSH ile musl kütüphanesi koşulları altında çalışan Linux sistemlerini etkileyen kritik bir güvenlik açığının etkin şekilde istismar edildiğini bildiriyor. Açık, saldırganlara normal kimlik doğrulamasını atlayarak yüksek ayrıcalıklı hesaplara erişim sağlayan büyük parola yükleri göndererek yetki kazanmayı sağlıyor. GT10 olarak izlenen tehdit grubu da dahil olmak üzere birçok saldırgan grubu, TAC Agent gibi arka kapılar kurarak saldırılar yürütüyor. Açığa karşı düzeltmeler yayınlanmış olup, sistem yöneticilerinin hemen OpenSSH’yi güncellemeleri isteniyor."
+      "summary_tr": "Eylül 2022'den beri aktif olan Qilin, 'double-extortion' saldırıları düzenleyen ve İngilizce konuşan suçluları da bünyesine katan,Rusya merkezli bir fidye yazılımı hizmeti (RaaS) grubu olarak dünyanın en üretken siber suç tehditlerinden biri haline geldi. Grubun 'Haise' rumuzunu kullanan yöneticisinin daha önce 'Rjun' ve 'Alexbigboss44' rumuzlarını da kullandığı, Siber suç forumları ve sızıntı yapılan veriler üzerinden yapılan araştırmalarla St. Petersburg'lu 36 yaşındaki Aleksey Mikhailovich Yakovtsev ile bağlantılı olduğu ortaya çıktı. Bu tespit, Intel 471 ve Flashpoint gibi siber istihbarat platformlarının yanı sıra, ele geçirilen forum kayıtları ve sızıntı verilerinin analiz edilmesiyle gerçekleştirildi."
     },
     {
-      "title": "N‑able takes cloud platform offline after disclosure of 30+ zero‑day bugs",
+      "title": "Active ScreenConnect malware campaign compromises managed service providers",
       "links": [
-        "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/"
+        "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/"
       ],
       "category": "Tech",
       "rank": 3,
-      "summary": "N-able suspended its cloud-hosted N-central remote monitoring platform worldwide following the public release of more than 30 purported zero-day vulnerabilities by researcher Sean Bales, whose exploits include full system takeover via unauthenticated XXE leading to RCE. N-able confirmed it is developing hotfixes and stated no active exploitation had been observed at the time of the incident response. The researcher said prior responsible disclosures to N-able went unaddressed for months, prompting a non-disclosure release of the N-central flaws.",
+      "summary": "An active malware campaign is leveraging compromised ScreenConnect remote-access environments to target managed service providers (MSPs), deploying rogue clients on customer devices without exploiting software vulnerabilities. The attacks, discovered by Huntress and actively investigated by ConnectWise, involve unauthorized access via third-party extensions and Run Command functionality, affecting dozens of organizations and hundreds of endpoints. Huntress identified six compromised MSPs and hundreds of impacted devices, noting ongoing attempts to expand access through malicious scripts and persistence mechanisms. The threat actors reportedly abuse legitimate ScreenConnect features, while indicators of compromise and mitigation steps have been shared to help organizations detect and respond to the activity.",
       "title_tr": null,
-      "summary_tr": "Güvenlik araştırmacısı Sean Bales'in N-able'un N-central uzaktan izleme platformunda sistem bütünlüğünü tehlikeye atabilecek 30'dan fazla sıfırıncı gün güvenlik açığını yayımlamasının ardından N-able, barındırılan N-central ortamlarını küresel olarak çevrimdışı hale getirdi. Açıklanan açıklar arasında yetkisiz XXE saldırılarını takip eden uzaktan kod yürütme (RCE) yoluyla tam sistem ele geçirmeyi sağlayan saldırılar da bulunuyordu. N-able, yamalar geliştirmekte olduğunu doğruladı ve o sırada aktif bir saldırı tespit edilmediğini belirtti. Araştırmacı, daha önce bildirdiği açıkların aylarca yamalanmaması nedeniyle N-central açıklarını sorumlu şekilde açıklamadan yayımladığını ifade etti."
+      "summary_tr": "Bir kötü amaçlı yazılım kampanyası, özgün ScreenConnect uzaktan erişim platformlarının kötüye kullanılması yoluyla hizmet sağlayıcılarına (MSP'ler) saldırarak, onların ScreenConnect ortamlarını tehlikeye atmakta ve müşteri cihazlarına kötü niyetli uzaktan erişim istemcileri yüklemektedir. Huntress tarafından tespit edilen ve ConnectWise tarafından araştırılan bu saldırılar, üçüncü taraf eklentiler ve Run Command fonksiyonunun kötüye çıkarılması yoluyla yetkisiz erişimi içermekte olup, düzinelerce kuruluş ve yüzlerce uç noktaya yayılmaktadır. Huntress, altı ilemedilmiş MSP ve yüzlerce etkilenen cihaz belirlerken, saldırganların ScreenConnect'in meşru özelliklerini kullanmakta olduğu ve saldırıların devam ettiği görülmektedir. Olayda kullanılan göstergeler ve saldırı önleme adımları, organizasyonların tehlikeleri tespit etmesi ve yanıt vermesi için paylaşılmıştır."
     },
     {
-      "title": "Students accurately modeled Binance hack tactics and propose safeguards for future attacks",
+      "title": "Maersk reports data breach after WhiteArmor ransomware extortion attempt",
       "links": [
-        "https://www.atlanticcouncil.org/dispatches/what-students-got-right-about-the-6-billion-binance-hack-and-how-they-would-prevent-the-next-one/"
+        "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/"
       ],
       "category": "Tech",
       "rank": 4,
@@ -1573,9 +1428,9 @@
       "summary_tr": null
     },
     {
-      "title": "US and NATO explore robotics integration on the battlefield",
+      "title": "Threat actors deploy AntiFox AI agents on Alibaba Cloud to steal AWS credentials",
       "links": [
-        "https://www.defenseone.com/technology/2026/11/defense-one-futures-robot-wars/417131/"
+        "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/"
       ],
       "category": "Tech",
       "rank": 5,
@@ -1584,9 +1439,9 @@
       "summary_tr": null
     },
     {
-      "title": "Pentagon awards $450 million loan to Neros for domestic drone manufacturing",
+      "title": "Research highlights rise of eBPF rootkits among illicit actors",
       "links": [
-        "https://www.defensenews.com/industry/techwatch/2026/11/09/neros-to-expand-domestic-drone-production-with-450m-pentagon-loan/"
+        "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/"
       ],
       "category": "Tech",
       "rank": 6,
@@ -1595,9 +1450,9 @@
       "summary_tr": null
     },
     {
-      "title": "Google's chip division accelerates ahead of Nvidia's AI hardware surge",
+      "title": "CISA warns of active exploitation targeting Cisco BroadWorks vulnerability",
       "links": [
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcEtvbWZHX2VIU2pyd2J6ZWNvZkJQcEZOcHI1b2RLNGpkY2FVRktTU205RHNKMlhrYkVvQzl6YXp1Xzd2RmNpZFpzd0d6eHNrUlhVdGRIVW4xc1U1LThnVG5wZTRwNmZrcGV3U25wN2dyNjZsX290Ri1KOGg4emVpVTR0WlctWW8zR3doN0ZLU0NYLVo1R0p4bnRtaVV5UlhlLXlMTE1JemRfRnIxeTJYREttTDFXcHV5ekpJREJlaEphQQ?oc=5"
+        "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/"
       ],
       "category": "Tech",
       "rank": 7,
@@ -1606,9 +1461,9 @@
       "summary_tr": null
     },
     {
-      "title": "Innovative coffee cup coating limits microplastic release and eases recycling",
+      "title": "N‑able shuts down N‑central service following discovery of 33 security vulnerabilities",
       "links": [
-        "https://nautil.us/medium-roast-cream-no-plastic-new-coffee-cup-coating-protects-against-microplastics-1286452/"
+        "https://www.darkreading.com/endpoint-security/n-able-n-central-offline-33-flaws"
       ],
       "category": "Tech",
       "rank": 8,
@@ -1617,9 +1472,9 @@
       "summary_tr": null
     },
     {
-      "title": "SEGA newsletter breach exposes 2.2 million email addresses",
+      "title": "CISA Releases Guidance on Rapid Response to Cyber and Infrastructure Risks",
       "links": [
-        "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/"
+        "https://www.defenseone.com/policy/2026/11/cisa-outlines-internal-plan-swiftly-address-cyber-infrastructure-threats/417172/"
       ],
       "category": "Tech",
       "rank": 9,
@@ -1628,9 +1483,9 @@
       "summary_tr": null
     },
     {
-      "title": "York University reports data breach affecting records since 2007",
+      "title": "Apple announces closure of its long-standing online community forum",
       "links": [
-        "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/"
+        "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/"
       ],
       "category": "Tech",
       "rank": 10,
@@ -1639,9 +1494,9 @@
       "summary_tr": null
     },
     {
-      "title": "CISA adds four actively exploited vulnerabilities to KEV catalog",
+      "title": "Cloudflare explains adoption of novel QuePaxa consensus algorithm for its service",
       "links": [
-        "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog"
+        "https://blog.cloudflare.com/choosing-quepaxa/"
       ],
       "category": "Tech",
       "rank": 11,
@@ -1650,9 +1505,9 @@
       "summary_tr": null
     },
     {
-      "title": "Git explores voting mechanism for policy on LLM‑generated contributions",
+      "title": "eMudhra revokes additional intermediate certificates following private‑key handling error",
       "links": [
-        "https://lwn.net/Articles/1104195/"
+        "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/"
       ],
       "category": "Tech",
       "rank": 12,
@@ -1661,9 +1516,9 @@
       "summary_tr": null
     },
     {
-      "title": "Dutch Optics11 offers long-range underwater acoustic sensing to navies",
+      "title": "Notion reveals Fireworks AI breach leaked user chat transcripts",
       "links": [
-        "https://www.defensenews.com/global/europe/2026/11/09/dutch-firm-optics11-in-talks-with-navies-on-secretive-underwater-listening-tech/"
+        "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/"
       ],
       "category": "Tech",
       "rank": 13,
@@ -1672,9 +1527,9 @@
       "summary_tr": null
     },
     {
-      "title": "Company proposes repurposing trawlers into autonomous Arctic anti‑submarine platforms",
+      "title": "N‑able issues hotfixes addressing zero‑day flaws in N‑central platform",
       "links": [
-        "https://www.defensenews.com/global/europe/2026/11/09/firm-bets-on-converted-fishing-trawlers-to-tackle-russian-submarines-in-the-arctic/"
+        "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/"
       ],
       "category": "Tech",
       "rank": 14,
@@ -1683,9 +1538,9 @@
       "summary_tr": null
     },
     {
-      "title": "Sig Sauer equips small drones with pistols to counter unmanned threats",
+      "title": "Researchers identify 'Greeter' attack chain leaving hello messages in cloud logs",
       "links": [
-        "https://www.defensenews.com/video/2026/11/09/drones-that-see-sense-and-hunt-business-of-defense-part-2/"
+        "https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack"
       ],
       "category": "Tech",
       "rank": 15,
@@ -1694,9 +1549,9 @@
       "summary_tr": null
     },
     {
-      "title": "Cloudflare launches Vite Ecosystem Fund with $301,300 for open‑source projects",
+      "title": "New hardening measures added to glibc dynamic linker",
       "links": [
-        "https://blog.cloudflare.com/launching-vite-ecosystem-fund/"
+        "https://lwn.net/Articles/1105134/"
       ],
       "category": "Tech",
       "rank": 16,
@@ -1705,9 +1560,9 @@
       "summary_tr": null
     },
     {
-      "title": "CISA releases new cyber‑incident reporting questionnaire",
+      "title": "Brazil highlights risks of digital infrastructure dependence on major tech firms",
       "links": [
-        "https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents"
+        "https://foreignpolicy.com/2026/11/11/brazil-meta-lula-elections-big-tech/"
       ],
       "category": "Tech",
       "rank": 17,
@@ -1716,9 +1571,9 @@
       "summary_tr": null
     },
     {
-      "title": "Microsoft patches remote code execution flaw in Windows Paint",
+      "title": "Analysis of Modern Digital Privacy Frameworks and Their Limitations",
       "links": [
-        "https://www.darkreading.com/application-security/microsoft-rce-bug-windows-paint-confusion"
+        "https://www.project-syndicate.org/onpoint/conceptual-framework-we-use-to-understand-privacy-is-fundamentally-flawed-by-lowry-pressly-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en"
       ],
       "category": "Tech",
       "rank": 18,
@@ -1727,9 +1582,9 @@
       "summary_tr": null
     },
     {
-      "title": "Black Hat India 2026 cyber‑security conference inaugurated in Bengaluru",
+      "title": "Warhound Develops Genetic Editing and Training Program for Enhanced Military Dogs",
       "links": [
-        "https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut"
+        "https://www.defensenews.com/industry/techwatch/2026/11/11/inside-warhounds-plan-to-engineer-a-better-military-working-dog/"
       ],
       "category": "Tech",
       "rank": 19,
@@ -1738,9 +1593,9 @@
       "summary_tr": null
     },
     {
-      "title": "NIST issues guidance for solo‑business cybersecurity practices",
+      "title": "Goldman Sachs Labels Chip Stocks Oversold, Suggests Buying Opportunities",
       "links": [
-        "https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure"
+        "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT0pnN29CUTRORHVwTUNRSFY1dndZcjM1cGRqOWRVbVEwYm1UelIxUXE3VHNDbjhoU25kMmNKdHBXWVdjOVc0YXVubnNSV2lKUWdRdXNaM1JrbkdZaVVaLVUxd3gyeXI2WkhSR2FEU1BBV0FydDh5dm1ic2dOYUkzRmtiNl9xYnFlbm00RzdTbjZoaTZCM0RpcDY5a2lXRGhTR1FIWnZNLU5WTGx1dkRaaUNRVmQwUk5Ga3dabVVWTE1fNHBLaVFDcmx4dw?oc=5"
       ],
       "category": "Tech",
       "rank": 20,
@@ -1749,9 +1604,9 @@
       "summary_tr": null
     },
     {
-      "title": "Linus Torvalds releases Linux kernel 7.4‑rc2 prepatch",
+      "title": "Google Labs unveils Tabletop for collaborative planning and group activities",
       "links": [
-        "https://lwn.net/Articles/1106300/"
+        "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"
       ],
       "category": "Tech",
       "rank": 21,
@@ -1760,9 +1615,9 @@
       "summary_tr": null
     },
     {
-      "title": "OpenIndiana 2026.10 operating system version released",
+      "title": "Microsoft releases update repairing USB audio problems from recent security patches",
       "links": [
-        "https://lwn.net/Articles/1106285/"
+        "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/"
       ],
       "category": "Tech",
       "rank": 22,
@@ -1771,9 +1626,9 @@
       "summary_tr": null
     },
     {
-      "title": "Weekly security updates released for Debian, Fedora and other packages",
+      "title": "Canonical experiences service outage before Ubuntu Summit",
       "links": [
-        "https://lwn.net/Articles/1106282/"
+        "https://www.theregister.com/os-platforms/2026/11/11/canonical-web-services-get-stage-fright-ahead-of-ubuntu-summit/5309186"
       ],
       "category": "Tech",
       "rank": 23,
@@ -1782,9 +1637,9 @@
       "summary_tr": null
     },
     {
-      "title": "Celestron launches Mosaic Mode for wide‑field astrophotography on its smart telescope",
+      "title": "Microsoft Patch Tuesday update causes installation errors on some systems",
       "links": [
-        "https://www.astronomy.com/uncategorized/celestron-origins-mosaic-mode-brings-wide-field-astrophotography-to-the-biggest-smart-telescope/"
+        "https://www.theregister.com/os-platforms/2026/11/11/microsofts-patch-tuesday-cant-break-stuff-if-it-wont-install/5309059"
       ],
       "category": "Tech",
       "rank": 24,
@@ -1793,9 +1648,9 @@
       "summary_tr": null
     },
     {
-      "title": "Latest drone innovations highlighted in Defense News weekly episode",
+      "title": "ZWO releases the Seestar S30 Plus smart telescope",
       "links": [
-        "https://www.defensenews.com/video/2026/11/09/drones-incoming-new-innovations-on-offer-in-uas-tech-defense-news-weekly-full-episode-11-10-26/"
+        "https://www.astronomy.com/observing/zwo-introduces-the-seestar-s30-plus/"
       ],
       "category": "Tech",
       "rank": 25,
@@ -1804,9 +1659,9 @@
       "summary_tr": null
     },
     {
-      "title": "Intel's stock regains dot‑com peak after 25 years, then falls within six months",
+      "title": "Allegations Surface Claiming Nvidia CEO Is a Chinese Agent",
       "links": [
-        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTFVhMmE0YXkwU3pGZ0lWSDFrb0t3a3hVUnI0VXdJbjZjZGJLdnc2VG5CLTY0V0FQODFHbjdQNDFQWHVRSmYyck10N2UweGpuNzh4WWd5ZGE0TGFKZm9tcTZWejFpR0hndDJTTWFMNUhjUU05aWg3VzBVRDNTYVRwZllLcG5EdjkzV2lVNlM3V1Y3a3B4U0Q0Nng3M1F5SXdfbzBzdWZqWEU5RHd0SWxWOWE3N2R4MXVDOXMwaGVzVE0tMVphMnBQamFtMWJtS2kzVXNodXFIR0szRzVoQ2hXbkFtM3o?oc=5"
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR0dscldDeU1Md0tpQjI1SGRMeTBzcllUQXFPbXJPa3FlMDE4UHBWVEZIaUZxRjZfMTI5TFRIQkk4T19HbUxuWEc0NjdWOV9NOXJyNGpVYTM4MzZjeC1BZFFWaGJUN1BWc21VVm0tcHdvZ1NIWDd4eFc4am1XSmc0T0NsQlVkdGU2cU5YNFZpZ3g3dkZPTFBOQVZid0pHRWM4Z2ZEU3hXeXpMVm1SZmhoMUo2Sy1fOHFWUThja01Taw?oc=5"
       ],
       "category": "Tech",
       "rank": 26,
@@ -1815,9 +1670,9 @@
       "summary_tr": null
     },
     {
-      "title": "Economic analysis of deploying cyber‑security honeypots",
+      "title": "Enrollment deadline approaches for Build Production‑Grade AI Systems course",
       "links": [
-        "https://feeds.feedblitz.com/~/972688682/0/marginalrevolution~The-economics-of-honeypots.html"
+        "https://blog.bytebytego.com/p/last-call-for-enrollment-build-production"
       ],
       "category": "Tech",
       "rank": 27,
@@ -1826,12 +1681,45 @@
       "summary_tr": null
     },
     {
-      "title": "Suggestion to hide PR details using HTML <details> tag",
+      "title": "ByteByteGo Roundup delivers latest software development trends",
       "links": [
-        "https://simonwillison.net/2026/Nov/9/details-summary/"
+        "https://blog.bytebytego.com/p/the-roundup-by-bytebytego"
       ],
       "category": "Tech",
       "rank": 28,
+      "summary": null,
+      "title_tr": null,
+      "summary_tr": null
+    },
+    {
+      "title": "iFixit reports MacBook Pro touchscreen repairs cause damage",
+      "links": [
+        "https://www.theregister.com/personal-tech/2026/11/11/apples-touchscreen-macbook-pro-does-not-like-to-be-taken-apart/5309110"
+      ],
+      "category": "Tech",
+      "rank": 29,
+      "summary": null,
+      "title_tr": null,
+      "summary_tr": null
+    },
+    {
+      "title": "Zellij terminal workspace version 0.46 released",
+      "links": [
+        "https://lwn.net/Articles/1106903/"
+      ],
+      "category": "Tech",
+      "rank": 30,
+      "summary": null,
+      "title_tr": null,
+      "summary_tr": null
+    },
+    {
+      "title": "Wednesday security updates released for multiple Linux distributions",
+      "links": [
+        "https://lwn.net/Articles/1106876/"
+      ],
+      "category": "Tech",
+      "rank": 31,
       "summary": null,
       "title_tr": null,
       "summary_tr": null
