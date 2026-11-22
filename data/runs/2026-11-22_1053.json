@@ -1,0 +1,1020 @@
+{
+  "schema_version": 1,
+  "stats": {
+    "last_run": "2026-11-22T09:53:20.181Z",
+    "sources_pulled": 74,
+    "headlines_read": 110,
+    "headlines_written": 104,
+    "summaries_written": 17,
+    "summaries_failed": 4,
+    "run_count": 50
+  },
+  "headlines": [
+    {
+      "title": "Weekly AI roundup: IPOs, market correction, new GPT models, Nvidia leadership change",
+      "links": [
+        "https://lastweekin.ai/p/last-week-in-ai-348-ipo-correction"
+      ],
+      "category": "AI",
+      "rank": 1,
+      "summary": "Anthropic debuted a record $81.3B IPO on November 19, briefly becoming a $2T company before its stock fell nearly 9% the next day; the listing coincided with a sharp market correction as Nvidia, AMD, and Micron shares plunged following an SEC probe and broader AI stock selloff. Meanwhile, OpenAI’s GPT-6.2 models drew criticism for usability issues despite lower pricing, while Google and Microsoft released cheaper rival models like Gemini 4 Neon and MAI Code 2. Elsewhere, Nvidia CEO Jensen Huang resigned amid reports of affairs and espionage allegations, with an SEC investigation into accounting and a California subpoena over China chip violations. U.S. and Chinese leaders agreed to keep humans in control of military AI systems as the U.S. tightened AI chip export rules targeting China.",
+      "title_tr": "Haftalık yapay zeka özeti: Halka arzlar, piyasa düzeltmesi, yeni GPT modelleri, Nvidia’da yönetim değişikliği",
+      "summary_tr": "Anthropic, 19 Kasım'da kaydedilen en büyük halka arz olan 81,3 milyar dolarlık bir değerle piyasaya çıkmış ve geçici olarak 2 trilyon dolarlık bir şirket haline gelmiştir; ancak hisse senedi ertesi gün neredeyse yüzde 9 düşmüş ve Nvidia, AMD ile Micron'un hisselerinin SEC tarafından soruşturulduğu ve daha geniş bir yapay zeka hisse satışı furyasının yaşandığı bir dönemde, piyasa düzeltmesine tanıklık edilmiştir. Bu sırada OpenAI'nin GPT-6.2 modelleri fiyatları düşürmüş olmasına rağmen kullanılabilirlik sorunları nedeniyle eleştirilere maruz kalırken, Google ve Microsoft ise daha ucuz rakip modelleri piyasaya sürmüştür; bunlar arasında Gemini 4 Neon ve MAI Code 2 bulunmaktadır. Bunun yanı sıra Nvidia CEO'su Jensen Huang, ilişki skandalları ve casusluk iddiaları nedeniyle istifa etmiş; şirket hesaplarına yönelik SEC soruşturması ve Çin çip ihlalleriyle ilgili California eyaletinin ihtarname göndermesiyle karşı karşıya kalmıştır. ABD ve Çin liderleri ayrıca askeri yapay zeka sistemlerinde insan kontrolünü sürdürme konusunda anlaşmış ve ABD, Çin'e yönelik yapay zeka çip ihracat kurallarını sıkılaştırmıştır."
+    },
+    {
+      "title": "Nasdaq 100 records worst week since 2020 as AI-driven sell‑off dampens market sentiment",
+      "links": [
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ1hBdGw1anUtLVZ1cFNyVmJmX0liYVYxcGg3WEpaOURrSlJLWHZDSzlIbjFBM3ZaTlllb29CTERST2ZDaWVfWUxnRUJ5b19ybWs2dXp5NFRjUmU5TVlVUHYtYm5maDRxMUlpVFc0WDhyUEJFN1M2MjJGWGY0dXk1V2RHanl3S1pWU3J0Rm5CRDdjRXVJN2c?oc=5"
+      ],
+      "category": "AI",
+      "rank": 2,
+      "summary": "No summary available: scraping failure",
+      "title_tr": "Yapay zeka kaynaklı satış dalgası piyasa havasını olumsuz etkilerken, Nasdaq 100 2020'den bu yana en kötü haftasını yaşadı",
+      "summary_tr": "Özet bulunmuyor: veri alma işlemi başarısız oldu"
+    },
+    {
+      "title": "UN Geneva talks fail to secure binding regulations on autonomous weapons",
+      "links": [
+        "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones"
+      ],
+      "category": "AI",
+      "rank": 3,
+      "summary": "Diplomats at U.N. talks in Geneva failed to secure legally binding regulations on autonomous weapons, instead agreeing to a two-year window for optional guidelines amid rising global concerns. Humanitarian groups and the International Committee of the Red Cross had pushed for urgent, mandatory rules, citing escalating civilian deaths by semi-autonomous drones in conflicts like Ukraine, Sudan, and Gaza. Major powers, including the U.S., Russia, and Israel, resisted binding measures, while the compromise deal was widely criticized as insufficient. Experts warn that unchecked proliferation of these technologies could undermine existing laws of war and accountability mechanisms.",
+      "title_tr": "Cenevre’deki BM görüşmelerinde otonom silahlarla ilgili bağlayıcı düzenlemeler sağlanamadı",
+      "summary_tr": "Cenevre'deki Birleşmiş Milletler görüşmelerinde, otonom silahların yasal olarak bağlayıcı düzenlemelerine ilişkin ilerleme kaydedilemedi; bunun yerine seçmeli kılavuz ilkelerin geliştirilmesine yönelik iki yıllık bir pencereye karar verildi. Uluslararası Kızılhaç Komitesi ve insani yardım kuruluşları, Ukrayna, Sudan ve Gazze'deki yarı otonom drone'lar nedeniyle artan sivil ölümlerine dikkat çekerek acil bağlayıcı kurallar talep etmişti. ABD, Rusya ve İsrail gibi büyük güçler ise bağlayıcı düzenlemelere karşı çıktı. Uzmanlar, bu teknolojilerin denetimsiz yayılmasının savaş hukuku ve hesap verebilirlik mekanizmalarını zayıflatacağını uyarıyor."
+    },
+    {
+      "title": "Anthropic engineer warns that Claude Code could exacerbate technology outages",
+      "links": [
+        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZHJCVThaVWVtUkpteGlHSWR3MDRPd0lsVjJ6dTlEaGhVX1hsWVFhRW45WEdDTlNTS05iUGs3TzVrTTY4QTI3aVBrVG5CbU40Yi1sWFNYN0JPUXY0RE1TUGJ1WndpanJVbUZiOVNiV2JXbUhicno2eGludENWRmFlU3RVR0hLemhoYkVLd05PMDZzSGc1dVhHNEJYWUpvMmdyTmh0TXUzWW1icGhDRGhRZTBkN2ctSlA3ei1nMEJxRnRSYlhSRlpnMC10Zm8tODhIQjkzdjl3VEZNODNVaHJCR2plZ3drajg?oc=5"
+      ],
+      "category": "AI",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "Anthropic mühendisi, Claude Code’un teknoloji kesintilerini daha da kötüleştirebileceği konusunda uyarıyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Who are the seven billionaires behind Anthropic's rise to a $1 trillion valuation?",
+      "links": [
+        "https://www.bbc.com/turkce/articles/ck987ypp95ddo?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "AI",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "Anthropic’in 1 trilyon dolarlık değerlemeye ulaşmasının ardında yatan yedi milyarder kimlerdir?",
+      "summary_tr": null
+    },
+    {
+      "title": "Google staff petition to allow school use of Search without AI features",
+      "links": [
+        "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy"
+      ],
+      "category": "AI",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "Google çalışanları, okulların yapay zeka özellikleri olmadan Arama hizmetini kullanmasına izin verilmesi için imza kampanyası başlattı",
+      "summary_tr": null
+    },
+    {
+      "title": "Overview of GPT‑6.2 Astra and Sol system specifications",
+      "links": [
+        "https://thezvi.substack.com/p/gpt-62-astra-and-sol-the-system-card"
+      ],
+      "category": "AI",
+      "rank": 7,
+      "summary": null,
+      "title_tr": "GPT‑6.2 Astra ve Sol sistem özelliklerine genel bakış",
+      "summary_tr": null
+    },
+    {
+      "title": "ChatGPT model adapted to run on Super Nintendo hardware",
+      "links": [
+        "https://www.theregister.com/offbeat/2026/11/21/chatgpt-shrunk-down-to-run-on-a-super-nintendo/5311418"
+      ],
+      "category": "AI",
+      "rank": 8,
+      "summary": null,
+      "title_tr": "Super Nintendo donanımında çalışacak şekilde uyarlanmış ChatGPT modeli",
+      "summary_tr": null
+    },
+    {
+      "title": "ESA‑Japanese BepiColombo probe reaches Mercury orbit",
+      "links": [
+        "https://www.nature.com/articles/d41586-026-03803-8",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZTNvdl9DUkdXMllqTXdqM053Mmc1REdQZjVTOGlXY1JGZVNvSHRTeFhIZjJXYVE0OFZ3UHBPWDdkdi1TTHZWc3lrZkNPVXd6LTFmT3kxN28zclJOcTlXLVNSanl4UnRHNzhuVDNnenhLTXRqQ3RJRk1sNEJIVTUycVA1Zi0tNnhyNjJJV2JBaFNDdUZZY1J3Vi10MTBHMXd0RXc?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVpfVUs0dWl3c09Hb2lNSk9CemNOcWVXNmU1c181dGFmOWpBeWhqVHRIWGJxS1pNcTQ0UU1udFgtQnVHRWplbGV0UVVyR24zYThpeUlTOWxKM1dPcGJnODF2SXBNUEJ4SW5tMy1xb2dLa2g2Mjlia1hBZUJUUHRNa3p3Z2xDY0VxdjMwOVl0WUFqNWtWMU1odEthcw?oc=5"
+      ],
+      "category": "Space",
+      "rank": 1,
+      "summary": "The joint European–Japanese BepiColombo spacecraft has successfully entered orbit around Mercury after an eight-year voyage, becoming only the second mission to do so after NASA’s MESSENGER. ESA confirmed the European-built module’s insertion on 21 November, with the mission now entering a period of maneuvers to separate the two science probes—JAXA’s MIO and ESA’s MPO—into different orbits. Following separation, the probes will study Mercury’s magnetic field, solar wind interactions, and surface composition from altitudes as low as 400 km. The mission also tested its X-ray instrument on the Crab Nebula during the cruise phase.",
+      "title_tr": "ESA-Japon BepiColombo uzay aracı Merkür yörüngesine ulaştı",
+      "summary_tr": "Avrupa–Japonya ortak yapımı BepiColombo uzay aracı, NASA’nın MESSENGER’ından sonra sadece ikinci kez olarak Merkür’ün yörüngesine sekiz yıllık bir yolculuk sonrasında başarıyla girdi. ESA, 21 Kasım’da Avrupa yapımı modülün yörüngeye girişini doğruladı; bundan sonraki süreçte JAXA’nın MIO’su ve ESA’nın MPO’su olmak üzere iki bilimsel sondanın farklı yörüngelere yerleştirilmesi için manevralara girişilecek. Ayrılışın ardından sondalar Merkür’ün manyetik alanı, güneş rüzgarı etkileşimleri ve yüzey bileşimini 400 km kadar alçak irtifalardan inceleyecek. Görev ayrıca seyir aşamasında X-ışını cihazını Yengeç Bulutsusu üzerinde test etti."
+    },
+    {
+      "title": "JWST captures aftermath of giant star consuming smaller companion in Andromeda",
+      "links": [
+        "https://www.sciencedaily.com/releases/2026/11/261120075556.htm"
+      ],
+      "category": "Space",
+      "rank": 2,
+      "summary": "Astronomers using NASA’s James Webb Space Telescope observed the rare merger of a small star into a giant supergiant in the Andromeda galaxy, creating a rejuvenated merged star nicknamed Bao. The event began with a seven-year spiral-in phase after thousands of years of stability, culminating in a violent eruption detected in 2025. Webb’s mid-infrared data revealed dust expelled over centuries and confirmed the merger, offering unprecedented insight into the common envelope evolution process. The findings advance understanding of how binary stars interact, potentially leading to extreme cosmic phenomena like neutron stars, black holes, or millisecond pulsars. Future telescopes such as NASA’s Roman Space Telescope may uncover more such transient events.",
+      "title_tr": "JWST, Andromeda'da dev bir yıldızın daha küçük bir eş yıldızı yutmasının ardından ortaya çıkan manzarayı görüntüledi",
+      "summary_tr": "Andromeda galaksisinde yer alan NASA’nın James Webb Uzay Teleskobu’nu kullanan gökbilimciler, dev bir süperdev yıldızın içine doğru spiral çizen küçük bir yıldızın kaynaşmasını gözlemledi; sonuçta Bao adı verilen yenilenmiş bir yıldız ortaya çıktı. Olay, binlerce yıllık stabilitenin ardından yedi yıllık bir spiral içe dönüş evresi ile başladı ve 2025 yılında şiddetli bir patlama ile sonuçlandı. Webb’in orta-kızılötesi verileri, yüzyıllar boyunca püskürtülmüş tozu ortaya çıkararak ve yıldızların kaynaştığını doğrulayarak ortak zarf evrim sürecine dair eşsiz bilgiler sundu. Bulgular, çift yıldızların birbirleriyle nasıl etkileşime girdiğini anlamaya ve sonunda nötron yıldızları, kara delikler ya da milisaniye pulsarları gibi aşırı kozmik olgulara yol açabilecek süreçleri açıklamaya önemli katkılar sağladı. NASA’nın gelecekteki Roman Uzay Teleskobu gibi teleskopları da benzer geçici olayları ortaya çıkarabilir."
+    },
+    {
+      "title": "Mercury‑bound X‑ray telescope begins observations after eight years in space",
+      "links": [
+        "https://www.sciencedaily.com/releases/2026/11/261120075547.htm"
+      ],
+      "category": "Space",
+      "rank": 3,
+      "summary": "After an eight-year cruise covering 10 billion kilometers, the Mercury Imaging X-ray Spectrometer (MIXS) aboard ESA and JAXA’s BepiColombo mission has returned its first successful observations of the Crab Nebula, performing even better than pre-launch tests. Developed primarily at the University of Leicester, the telescope will map Mercury’s surface chemistry in unprecedented detail by detecting fluorescent X-rays from solar irradiation. With no radiation damage and sharper-than-expected resolution detected, the instrument is on track for orbital operations starting 21 November 2026.",
+      "title_tr": "Merkür yörüngesindeki X-ışını teleskobu, uzayda geçirdiği sekiz yılın ardından gözlemlerine başladı",
+      "summary_tr": "Sekiz yıllık bir yolculuk ve 10 milyar kilometrelik bir mesafeden sonra, ESA ve JAXA’nın BepiColombo misyonu kapsamında yer alan Leicester Üniversitesi tarafından geliştirilen Mercury Imaging X-ray Spectrometer (MIXS), Yengeç Bulutsusu’nun başarılı ilk gözlemlerini yaptı ve fırlatma öncesi testlerden daha iyi performans sergiledi. Güneş ışınımı yoluyla Merkür yüzeyindeki floresan X-ışınlarını tespit ederek gezegenin kimyasal bileşimini eşine görülmemiş bir ayrıntıyla haritalayacak olan cihaz, 21 Kasım 2026’da başlayacak yörünge operasyonlarına hazırlanıyor; ayrıca cihazda herhangi bir radyasyon hasarı görülmedi ve çözünürlüğün beklenenden daha yüksek olduğu saptandı."
+    },
+    {
+      "title": "Fermi satellite completes 14‑year all‑sky map filling MeV gamma‑ray gap",
+      "links": [
+        "https://phys.org/news/2026-11-fermi-year-sky-bridges-astronomy.html"
+      ],
+      "category": "Space",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "Fermi uydusu, 14 yıllık tüm gökyüzü haritasını tamamlayarak MeV gama ışını boşluğunu doldurdu",
+      "summary_tr": null
+    },
+    {
+      "title": "ESA probe revisits asteroid site of past NASA planetary‑defense tests",
+      "links": [
+        "https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/"
+      ],
+      "category": "Space",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "ESA sondası, NASA’nın geçmişte gezegen savunma testlerini gerçekleştirdiği asteroit bölgesini yeniden ziyaret etti",
+      "summary_tr": null
+    },
+    {
+      "title": "Mars rover and orbiter experience technical glitches",
+      "links": [
+        "https://www.theregister.com/science/2026/11/21/nasa-mars-rover-and-orbiter-suffer-glitches/5311360"
+      ],
+      "category": "Space",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "Mars gezgini ve yörünge aracı teknik aksaklıklar yaşıyor",
+      "summary_tr": null
+    },
+    {
+      "title": "SpaceX plans to retire the first Starship upper stage caught by 'chopsticks'",
+      "links": [
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVFVrdHE3QlZ1OHpJZXFMdDgwTjZVdFZyNjFmNVcydnlUODZlTDFIek5hNGpJMXBLUEhsREVTaGF6T0pueFRWZWZvVzAzTG81TjJncTVtZHI3c0pBLW1zbHI5ME9IZTdHX3VJY0xLUFN1UnktVEpPWUtuRlY5TXo2M09yWFZVYlB2aTFsczlZczZqUGF5WUszMS1oYkY4Y3NOX0k5NkdXZnJSNkcyczM4MkZuN3dTOVA5NlZZOEF0OFVQLUtQc1p1UTZGaG9qWTV4SnpSS3RWNzZrdU1l?oc=5"
+      ],
+      "category": "Space",
+      "rank": 7,
+      "summary": null,
+      "title_tr": "SpaceX, “çubuklarla” yakalanan ilk Starship üst kademesini hizmetten çekmeyi planlıyor",
+      "summary_tr": null
+    },
+    {
+      "title": "SpaceX conducts classified launch for US Space Force from California",
+      "links": [
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaFpmRmxNQ2N6MU5PdnZrbHYyMWtzanU0QWZVZjY1aEJKX29VcFZ5Zkx5YkpNVGZ3dlRlQ3Y0VDZmR3U2ZFZtQXY4cEVTRm1ZSDdkbzV1TGpYYzFUVlJIOG9jeDIwS3dVR2cwandlREJac2dRMU43anlpX3lRYl90emVISEotNjRBTVNwY1cxYm1sUmlJckw2YWc2NGczRWlYU2xTUjdTejNwTFVzeWdCWEk1dU0?oc=5"
+      ],
+      "category": "Space",
+      "rank": 8,
+      "summary": null,
+      "title_tr": "SpaceX, Kaliforniya’dan ABD Uzay Kuvvetleri adına gizli bir fırlatma gerçekleştirdi",
+      "summary_tr": null
+    },
+    {
+      "title": "Lesson from 16th‑century spice trade proposed for space entrepreneurs",
+      "links": [
+        "https://www.universetoday.com/articles/space-entrepreneurs-should-look-to-16th-century-spice-trade-for-inspiration"
+      ],
+      "category": "Space",
+      "rank": 9,
+      "summary": null,
+      "title_tr": "16. yüzyıl baharat ticaretinden alınan ders, uzay girişimcileri için önerildi",
+      "summary_tr": null
+    },
+    {
+      "title": "On this day in space (Nov 21, 1676): Danish astronomer accidentally measures speed of light while observing Io",
+      "links": [
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYzN1Ym5ORmtxWUFHSEFYZzRRSjhkSEVhMEpKVXVyaEhMQnVlUXluVkNUdFdQbnpBZlFrbUpSZ3NoS2RLRHhmeERQdElZMlFzRW9obkNkeVJuNlowQU5sdlhXRXBoMlVoWl9uSFFleHBpMUlpdWEzNW1VY2VVMUtXdExlNA?oc=5"
+      ],
+      "category": "Space",
+      "rank": 10,
+      "summary": null,
+      "title_tr": "Uzayda bu gün (21 Kasım 1676): Danimarkalı astronom, Io’yu gözlemlerken yanlışlıkla ışık hızını ölçer",
+      "summary_tr": null
+    },
+    {
+      "title": "Astronomy Picture of the Day features Voyager’s view of Neptune",
+      "links": [
+        "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/"
+      ],
+      "category": "Space",
+      "rank": 11,
+      "summary": null,
+      "title_tr": "“Günün Astronomi Fotoğrafı”nda Voyager’ın Neptün’ü gösteren görüntüsü yer alıyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Skywatch: Mercury positioned far west of Sun on Nov 21",
+      "links": [
+        "https://www.astronomy.com/observing/the-sky-today-saturday-november-21-2026/"
+      ],
+      "category": "Space",
+      "rank": 12,
+      "summary": null,
+      "title_tr": "Gökyüzü Gözlemi: 21 Kasım’da Merkür, Güneş’in çok batısında yer alacak",
+      "summary_tr": null
+    },
+    {
+      "title": "Russian missile strike hits Zelensky's hometown, killing two and wounding dozens",
+      "links": [
+        "https://www.france24.com/en/europe/20261121-russia-attacks-zelensky-s-hometown-ukraine-reaffirms-wish-to-join-nato",
+        "https://www.france24.com/en/russia-launches-ballistic-missile-attack-on-zelensky-s-hometown-in-central-ukraine"
+      ],
+      "category": "Geopolitics",
+      "rank": 1,
+      "summary": "France 24 reported on a missile strike in Russian-occupied territory that targeted the hometown of Ukrainian President Volodymyr Zelensky, resulting in at least two fatalities and dozens of injuries. The attack underscores the ongoing civilian toll amid intensified conflict in the region. While initial reports confirm casualties, further details about the extent of damage and targeted locations remain limited.",
+      "title_tr": "Rusya'nın füze saldırısı Zelensky'nin memleketini vurdu; saldırıda iki kişi hayatını kaybetti, onlarca kişi yaralandı",
+      "summary_tr": "Fransa 24, Rusya işgali altında bulunan bölgelerde meydana gelen bir füze saldırısını haberleştirdi; saldırı Ukrayna Cumhurbaşkanı Volodymyr Zelensky'nin memleketinde gerçekleşti ve en az iki ölüm ile düzinelerce yaralıya yol açtı. Saldırı, bölgedeki çatışmanın artması nedeniyle devam eden sivil kayıpların önemini vurguluyor. İlk raporlar can kayıplarını doğrulamakla birlikte, hasarın boyutu ve hedeflenen konumlar hakkında daha fazla ayrıntı sınırlıdır."
+    },
+    {
+      "title": "EU and Indonesia finalize long‑awaited trade agreement eliminating most tariffs",
+      "links": [
+        "https://www.france24.com/en/video/20261121-eu-indonesia-agreement-sees-the-light-after-ten-years-of-negotiations"
+      ],
+      "category": "Geopolitics",
+      "rank": 2,
+      "summary": "The European Union and Indonesia have concluded a comprehensive trade agreement after a decade of negotiations, eliminating 98.5% of tariffs between them. Effective January 1, the deal grants the EU market access to 280 million consumers while ensuring a steady supply of nickel for batteries, which is crucial for battery production. Indonesia stands to benefit from easier exports of palm oil, textiles, and footwear. The agreement comes just in time to replace the EU’s current trade preferences for Indonesia, which were set to expire at the start of 2027.",
+      "title_tr": "AB ve Endonezya, gümrük vergilerinin çoğunu ortadan kaldıran, uzun zamandır beklenen ticaret anlaşmasını sonuçlandırdı",
+      "summary_tr": "Avrupa Birliği ve Endonezya, on yıllık görüşmelerin ardından aralarındaki gümrük tarifelerinin %98,5’ini ortadan kaldıran kapsamlı bir ticaret anlaşmasını sonuçlandırdı. 1 Ocak’tan itibaren yürürlüğe girecek olan anlaşma ile AB, 280 milyon tüketiciye erişim sağlarken, piller için kritik olan nikelin sabit tedarikini de güvence altına almış olacak. Endonezya ise hurma yağı, tekstil ve ayakkabı ihracatında kolaylık elde edecek. Anlaşma, AB’nin Endonezya için Ocak 2027’de sona erecek olan mevcut ticaret ayrıcalıklarının yerini alması açısından da zamanında gelmiş oldu."
+    },
+    {
+      "title": "Zelensky calls Crimean Bridge attacks a fair response during meeting with UK official",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 3,
+      "summary": "Ukrainian President Volodymyr Zelensky defended Kyiv’s recent strikes on the Crimean Bridge, calling them a proportional response to 109 Russian attacks on Ukrainian bridges and rejecting Moscow’s claims that the bridge serves only civilian purposes. The meetings between Zelensky and UK Defence Secretary Wes Streeting highlighted Western unity in opposing Russia’s invasion, while condemning Putin’s actions and escalating attacks on Ukrainian infrastructure. Streeting also criticized reported Russian missile strikes on Poland during military exercises, framing it as an intentional provocation. Meanwhile, Europe and the U.S. reaffirmed readiness for peace negotiations, though Russia has shown limited willingness to engage positively, complicating diplomatic efforts.",
+      "title_tr": "Zelensky, Birleşik Krallık’tan bir yetkiliyle yaptığı görüşmede Kırım Köprüsü’ne yönelik saldırıları “haklı bir tepki” olarak nitelendirdi",
+      "summary_tr": "Ukrayna Cumhurbaşkanı Volodymyr Zelensky, Kiev’in Kırım Köprüsü’ne yönelik yakın tarihli saldırılarını, Rusya’nın Ukrayna’daki 109 köprüye gerçekleştirdiği saldırılara verilen adil bir yanıt olduğunu savundu. Zelensky ve Birleşik Krallık Savunma Bakanı Wes Streeting’in yaptığı görüşmeler, Rusya’nın işgaline karşı Avrupa’nın birlikteliğini vurgularken, Putin’in eylemlerini ve Ukrayna altyapısına yönelik artan saldırılarını kınadı. Streeting, Polonya’daki bir askeri tatbikat sırasında reported şekilde Rusya’nın füze saldırılarını da kasıtlı bir provokasyon olarak nitelendirdi. Avrupa ve ABD ise barış görüşmelerine hazır olduklarını yeniden teyit ederken, Rusya’nın bu sürece yapıcı yaklaşım sergilemekte isteksiz olması diplomatik çabaları karmaşıklaştırdı."
+    },
+    {
+      "title": "Senate bill to speed renewable permits splits environmentalists over oil‑gas provisions",
+      "links": [
+        "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas"
+      ],
+      "category": "Geopolitics",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "Yenilenebilir enerji izinlerini hızlandırmayı amaçlayan Senato tasarısı, petrol ve doğalgazla ilgili hükümler nedeniyle çevrecileri ikiye böldü",
+      "summary_tr": null
+    },
+    {
+      "title": "Drone strikes ignite Russian cargo ship in Gulf of Finland",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+        "https://www.france24.com/en/drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland"
+      ],
+      "category": "Geopolitics",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "Finlandiya Körfezi’nde bir Rus kargo gemisi, insansız hava aracı saldırıları sonucu alev aldı",
+      "summary_tr": null
+    },
+    {
+      "title": "US military lacks comprehensive plan to upgrade munition stockpiles",
+      "links": [
+        "https://www.defenseone.com/threats/2026/11/military-lacks-munitions-plan/417390/"
+      ],
+      "category": "Geopolitics",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "ABD ordusu, mühimmat stoklarını yenilemek için kapsamlı bir plana sahip değil",
+      "summary_tr": null
+    },
+    {
+      "title": "Europe prepares for further Russian offensives with Ukrainian assistance",
+      "links": [
+        "https://www.defenseone.com/threats/2026/11/europeans-ukraines-help-brace-more-russian-attacks/417389/"
+      ],
+      "category": "Geopolitics",
+      "rank": 7,
+      "summary": null,
+      "title_tr": "Avrupa, Ukrayna’nın desteğiyle Rusya’nın yeni saldırılarına hazırlanıyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Midwife recounts delivering births amid intensified fighting in Yemen",
+      "links": [
+        "https://news.un.org/feed/view/en/story/2026/11/1168851"
+      ],
+      "category": "Geopolitics",
+      "rank": 8,
+      "summary": null,
+      "title_tr": "Bir ebe, Yemen’de şiddetlenen çatışmalar sırasında doğumlara yardımcı olduğunu anlatıyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Haitian farmers struggle to recover amid violence, hunger, and El Niño",
+      "links": [
+        "https://news.un.org/feed/view/en/story/2026/11/1168834"
+      ],
+      "category": "Geopolitics",
+      "rank": 9,
+      "summary": null,
+      "title_tr": "Haitili çiftçiler, şiddet, açlık ve El Niño’nun ortasında toparlanmak için mücadele ediyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Mexican special forces capture drug lord known as 'Chapo Isidro'",
+      "links": [
+        "https://www.dw.com/en/mexican-special-forces-arrest-drug-kingpin-chapo-isidro/a-80010745?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Geopolitics",
+      "rank": 10,
+      "summary": null,
+      "title_tr": "Meksika özel kuvvetleri, “Chapo Isidro” olarak bilinen uyuşturucu baronunu yakaladı",
+      "summary_tr": null
+    },
+    {
+      "title": "Israeli opposition leader Eisenkot invites Netanyahu's Likud to coalition negotiations",
+      "links": [
+        "https://www.france24.com/en/middle-east/20261121-eisenkot-invites-netanyahu-s-party-for-marathon-israeli-coalition-talks"
+      ],
+      "category": "Geopolitics",
+      "rank": 11,
+      "summary": null,
+      "title_tr": "İsrailli muhalefet lideri Eisenkot, Netanyahu’nun Likud partisini koalisyon görüşmelerine davet etti",
+      "summary_tr": null
+    },
+    {
+      "title": "France sees lower turnout in sixth consecutive Saturday of cost‑of‑living protests",
+      "links": [
+        "https://www.france24.com/en/france/20261121-france-s-sixth-consecutive-saturday-of-protests-draw-lower-turnout"
+      ],
+      "category": "Geopolitics",
+      "rank": 12,
+      "summary": null,
+      "title_tr": "Fransa’da, yaşam maliyeti protestolarının düzenlendiği üst üste altıncı Cumartesi günü katılım oranı düştü",
+      "summary_tr": null
+    },
+    {
+      "title": "Trump orders federal contractors to seek White House approval before responding to congressional inquiries",
+      "links": [
+        "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress"
+      ],
+      "category": "Geopolitics",
+      "rank": 13,
+      "summary": null,
+      "title_tr": "Trump, federal müteahhitlere Kongre’den gelen sorulara yanıt vermeden önce Beyaz Saray’dan onay almalarını emretti",
+      "summary_tr": null
+    },
+    {
+      "title": "Mexican forces kill or capture cartel leader in bloody firefight, leaving 11 dead",
+      "links": [
+        "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained"
+      ],
+      "category": "Geopolitics",
+      "rank": 14,
+      "summary": null,
+      "title_tr": "Meksika güvenlik güçleri, kanlı bir çatışmada kartel liderini öldürdü ya da yakaladı; çatışmada 11 kişi hayatını kaybetti",
+      "summary_tr": null
+    },
+    {
+      "title": "BBC investigation reveals London detective in charge of sexual‑crime cases assaulted women",
+      "links": [
+        "https://www.bbc.com/turkce/articles/c8e39lrep7vro?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 15,
+      "summary": null,
+      "title_tr": "BBC’nin araştırması, cinsel suç davalarından sorumlu bir Londra dedektifinin kadınlara saldırdığını ortaya çıkardı",
+      "summary_tr": null
+    },
+    {
+      "title": "Miliband states EU deal independent of tuition fee agreement",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 16,
+      "summary": null,
+      "title_tr": "Miliband, AB anlaşmasının öğrenim ücreti anlaşmasından bağımsız olduğunu belirtiyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Discussion of potential Trump‑Putin‑Xi summit",
+      "links": [
+        "https://geopoliticalfutures.com/george-answers-your-questions-the-trump-putin-and-xi-summit/"
+      ],
+      "category": "Geopolitics",
+      "rank": 17,
+      "summary": null,
+      "title_tr": "Trump-Putin-Xi zirvesi olasılığı üzerine tartışma",
+      "summary_tr": null
+    },
+    {
+      "title": "Debate over whether the latest COP summit ranks as the worst ever",
+      "links": [
+        "https://www.france24.com/en/tv-shows/spotlight/20261121-worst-ever-cop-summit"
+      ],
+      "category": "Geopolitics",
+      "rank": 18,
+      "summary": null,
+      "title_tr": "En son COP zirvesinin şimdiye kadarki en kötüsü olup olmadığına dair tartışma",
+      "summary_tr": null
+    },
+    {
+      "title": "UK foreign secretary says EU‑UK student fee agreement will proceed despite lack of consensus",
+      "links": [
+        "https://www.bbc.com/turkce/articles/cm9q845x4983o?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 19,
+      "summary": null,
+      "title_tr": "İngiltere Dışişleri Bakanı, uzlaşma sağlanamamış olmasına rağmen AB-İngiltere öğrenci harçları anlaşmasının yürürlüğe gireceğini söyledi",
+      "summary_tr": null
+    },
+    {
+      "title": "NPR correspondent reflects on covering a historic South American election and papal visit",
+      "links": [
+        "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america"
+      ],
+      "category": "Geopolitics",
+      "rank": 20,
+      "summary": null,
+      "title_tr": "NPR muhabiri, Güney Amerika’daki tarihi bir seçim ve papanın ziyaretini haberleştirme deneyimini değerlendiriyor",
+      "summary_tr": null
+    },
+    {
+      "title": "COP31 talks in Turkey stall amid disputes over energy and fossil‑fuel policies",
+      "links": [
+        "https://www.france24.com/en/cop31-deep-divisions-persist-over-energy-finance-and-science",
+        "https://www.bbc.com/turkce/articles/cq8j40d29kneo?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Turkey",
+      "rank": 1,
+      "summary": "Attempts to advance climate negotiations during the COP31 talks in Turkey have stalled due to unresolved disputes over energy policies and the future role of fossil fuels. Negotiations faced significant challenges as countries remained divided on key decisions regarding energy transitions and the continued reliance on or phasing out of fossil fuel use. The impasse reflects broader tensions between economic priorities and environmental commitments in global climate efforts. This deadlock raises concerns about the potential delays in achieving critical climate targets and agreements.",
+      "title_tr": "Türkiye’de düzenlenen COP31 müzakereleri, enerji ve fosil yakıt politikaları konusundaki anlaşmazlıklar nedeniyle tıkanma noktasına geldi",
+      "summary_tr": "Türkiye'deki COP31 iklim görüşmeleri sırasında enerji politikaları ve fosil yakıtların gelecekteki rolüne ilişkin anlaşmazlıklar nedeniyle müzakereler tıkanmıştır. Ülkeler, enerji geçişleri ve fosil yakıt kullanımının devam ettirilmesi veya aşamalı olarak sonlandırılması konusundaki kilit kararlar üzerinde bölünmüş olarak kalmıştır. Bu çıkmaz, küresel iklim çabalarında ekonomik öncelikler ile çevresel taahhütler arasındaki gerilimleri yansıtmaktadır. Bu durgunluk, önemli iklim hedeflerine ve anlaşmalarına ulaşmada yaşanabilecek gecikmelere ilişkin endişeleri artırmaktadır."
+    },
+    {
+      "title": "Mansur Yavaş's adviser replies to claim that İmamoğlu avoided answering question",
+      "links": [
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdFlxTE1iWVExZWprWm5NMVBLMHUyMGhWRV9SeEI3ZU51QnMwYXJkblB3UFFxZmhuMjNVaXlraEFaQ0VScnNVSmEtSlM2MmFJck85WUdmcGhEX2VjME9tX19XcVNHSTY2SXhVcTQtR0dFYzBkMUxOUGlkMmU3Z3d1UUdhSnBUNzJvRHMyM0JkM3ZMVGN1RDZwQWlpQWV6cEdKaVRNMmQ4NWh0blpEeXR5c05iSFZ5RGxYNE9ITDRrTQ?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 2,
+      "summary": "No summary available: scraping failure",
+      "title_tr": "Mansur Yavaş’ın danışmanı, İmamoğlu’nun soruya cevap vermekten kaçındığı iddiasına yanıt verdi",
+      "summary_tr": "Özet bulunmuyor: veri alma işlemi başarısız oldu"
+    },
+    {
+      "title": "Ahmet Şık reveals individuals involved in fund investigation",
+      "links": [
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTDExcEJydXZWX1FJYmoxa3l0Y2p3QV9WY3pYTEhzTk9NZDdSSlpqRzhSV2JIaFZXQTl6aktQX1FneGF0Mk1kUnp1cUYybUsxaHVtUVpBSnNYeE9QSzk1Zi1IWlc5aW8xaXdyZ2ZydzRrdFdGaVU0UUZiMm10MTVjM0V2cFAzWDM4WkNmVGpidzExTjVpdXVLcW9FZ0poeXRUb0E1eGxLQXRmWHc1R1BFWFUxQlp2Tnl3UW56UE1WSXpyOFZaOHRjcjNyZURLdEpWT3JzTg?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 3,
+      "summary": "No summary available: scraping failure",
+      "title_tr": "Ahmet Şık, fon soruşturmasına karışan kişilerin kimliklerini açıkladı",
+      "summary_tr": "Özet bulunmuyor: veri alma işlemi başarısız oldu"
+    },
+    {
+      "title": "Turkish Minister Bolat warns EU about 'Made in EU' labeling",
+      "links": [
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxQWjRScG16X2J0S0xfZHZIbW9KMjVidUhhdWZCa3hiSThFNkZMYjJ0LXZNdHdYLXJuVEVDMG5Jb09HZVQ4RHQxUmJfbHpLQy1zSUVpTnVlZlJTMFU2MXRzQl82bFBYbHlDREhNS3IxUDZSdnIwMUFxX1FPemIydUkwREVrSEJBa3FKU1prclZwaDZsQzZYQnBkWWNpU1Fidw?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "Türkiye Bakanı Bolat, AB’yi ‘Made in EU’ etiketlemesi konusunda uyardı",
+      "summary_tr": null
+    },
+    {
+      "title": "Can Atalay calls for immediate release following European Court of Human Rights decision",
+      "links": [
+        "https://www.bbc.com/turkce/articles/c3y0xnx8vk5ko?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Turkey",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "Can Atalay, Avrupa İnsan Hakları Mahkemesi’nin kararının ardından derhal serbest bırakılmasını talep ediyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Emre Belözoğlu urges Fenerbahçe to focus on upcoming matches",
+      "links": [
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWXNVZUhLR2c0OWd2VldVMzE3YmFJVUFiYWs3cmE4UWIyQXprRnNQZVlmVFh0MjB4SDRyaTVPM0hmb2JwaUxWeUdwZnBOam9vaFN2dTZnMDNsajFpZjR3Rmp3MUd2bFpiWGFDdTNfYWg0OEg2eXVzT1lzOHU3MUtWWUhKUDJiU1Q1SzVFeEt6eFk5azZqU2VYNjFMUFhSTzdu?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "Emre Belözoğlu, Fenerbahçe’ye önümüzdeki maçlara odaklanmasını tavsiye ediyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Ali Yiğit calls for İbrahim Hacıosmanoğlu's resignation",
+      "links": [
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMGJyZkhLMzZUeklTOTNPd1Y1X3BnelZCTEF6cXItaGd1Ym5PdjBuUlhyTlVnOGdIZVF4SXE4RW5pWERWOXRuUGJfdkhzWGExeUo3dmVTaEZiaGlnVXRkVjhXX0F5NWw5UjlJR210RGttdVlRckcyX3RqYTA0WE1Pc3M3eVNTdjRxMDU0Njk2WVZYbG5wSVhtMGFRTXFnRUQtWHc?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 7,
+      "summary": null,
+      "title_tr": "Ali Yiğit, İbrahim Hacıosmanoğlu'nun istifasını talep ediyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Foreign Minister Hakan Fidan remarks on Saudi defense policy",
+      "links": [
+        "https://www.mynet.com/haber/bakan-fidan-dan-canli-yayinda-dikkat-ceken-sozler-savas-bizim-isimiz-110107322173"
+      ],
+      "category": "Turkey",
+      "rank": 8,
+      "summary": null,
+      "title_tr": "Dışişleri Bakanı Hakan Fidan, Suudi Arabistan’ın savunma politikası hakkında açıklamalarda bulundu",
+      "summary_tr": null
+    },
+    {
+      "title": "MHP leader Bahçeli criticizes Özel, warns against dividing Turkey",
+      "links": [
+        "https://www.mynet.com/haber/devlet-bahceli-den-ozgur-ozel-e-sert-sozler-chp-yi-boldunuz-turkiye-yi-size-boldurtmeyiz-110107322145"
+      ],
+      "category": "Turkey",
+      "rank": 9,
+      "summary": null,
+      "title_tr": "MHP lideri Bahçeli, Özel’i eleştirdi ve Türkiye’nin bölünmesine karşı uyarıda bulundu",
+      "summary_tr": null
+    },
+    {
+      "title": "Former Bolu mayor Tanju Özcan released under judicial control",
+      "links": [
+        "https://www.mynet.com/haber/son-dakika-tanju-ozcan-adli-kontrol-sartiyla-tahliye-edildi-110107322143"
+      ],
+      "category": "Turkey",
+      "rank": 10,
+      "summary": null,
+      "title_tr": "Eski Bolu Belediye Başkanı Tanju Özcan, adli denetim altında serbest bırakıldı",
+      "summary_tr": null
+    },
+    {
+      "title": "AK Party urges Özel to consider support for 86 million voters",
+      "links": [
+        "https://www.mynet.com/haber/ak-parti-den-ozgur-ozel-e-dikkat-ceken-cagri-sizin-desteginiz-86-milyona-vereceginiz-bir-destektir-110107322132"
+      ],
+      "category": "Turkey",
+      "rank": 11,
+      "summary": null,
+      "title_tr": "AK Parti, Özel’den 86 milyon seçmene destek vermeyi düşünmesini istiyor",
+      "summary_tr": null
+    },
+    {
+      "title": "President Erdoğan emphasizes prompt justice",
+      "links": [
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMUxDT3FiN1AteUlXcG5yMnpvVzlZbEhmS0dWemFYVzNNLXpLdm51bVlnWlFUZE9rTGdqRXpiVUdwbU41ODEyMFVQZE1FY3hGOXBiRkR4Y1gxNTBQYUZKNzFUQWlDMHY5Y0JVTHdJWVZiMWpjMFJoVGFud1EzNUpnZ0lVb25xU3g1Nl9LbHB0YjZDbHJCcEVUMFloTVhpYUdYbmxpM296ZTFVbWxSLWJCSFFXVUs?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 12,
+      "summary": null,
+      "title_tr": "Cumhurbaşkanı Erdoğan, adaletin gecikmeden sağlanmasının önemini vurguluyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Bahçeli rebukes Özel, refuses division of Turkey",
+      "links": [
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbXFPWTJpZjlXaTdxUmxaVXNLRlJoTUhiQnZxZ2JKeDZjMGdMWEluTms1NkVaX0tfNV8wNUltTUFickJwZjdKb3kyV1hhNTN1UUd4aGxLTGgwZmx1ZjdSeDZWQkljZVp4QUxVcFpEQUw4dmZXcmRZenowTmhyQ3pQOWFyZ3Vya2ZKMHBZMEVMWGlNYkdaMFVRVzFtem9oQnJXZ1E3MWtWLUFVRnRLWmhoQjF3?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 13,
+      "summary": null,
+      "title_tr": "Bahçeli, Özel’i eleştirdi ve Türkiye’nin bölünmesini reddetti",
+      "summary_tr": null
+    },
+    {
+      "title": "İmamoğlu sends letter supporting peace but not the government",
+      "links": [
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM2VScVZINnlKZkM2Rmw2NDV0SE85OExIdWxyay1jOGgyWGdEOHFqdkdsdE5zdlJwZEN1UHVCTURiZVdpSzJmQ3paV002N2k1akI1bi1OREloWEJIbWJrRHQwaFV0MXctYlJ0dVV4a3BxUGdWNERFM0NYeVQ0VDdKVXgtM3JnbjJIRXhnMkd4dDJMUFdZbjJVWDZNdWduX3VVYzlGTjBDUl9UNXZwOUpYaGo2aGtUNm1V?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 14,
+      "summary": null,
+      "title_tr": "İmamoğlu, barışı destekleyen ancak hükümeti desteklemeyen bir mektup gönderdi",
+      "summary_tr": null
+    },
+    {
+      "title": "Istanbul municipality provides student transit subsidy of 1 lira per ride",
+      "links": [
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd1lDd2tmUjdpV0VwazVOWWl6ZVp2emowU2JzelNZYkxsQWxaNkhWMlpOVG1BMHV0VUdxejU0QmdHMU5fdEpJS21sTmhkOHNTRTl1ODV5cHk3T1BWanBoLWNYNEdJeDRtcDdUaHQ3RVZPRXoyalF3MWNYX1AyRTk0M1lfTzhiY1VoeHV2VnNwbFIzcVhMME9uV1ZGZ2hNTUk?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 15,
+      "summary": null,
+      "title_tr": "İstanbul Belediyesi, öğrencilere yolculuk başına 1 lira tutarında ulaşım yardımı sağlıyor",
+      "summary_tr": null
+    },
+    {
+      "title": "EU parliament to consider visa‑free travel with six criteria",
+      "links": [
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc2cyXzFZX3N5S0xkRnlBZy1YZmo4ZHRVZjZQdGk5U2F6RklNaVFfRDRsS3piMU84eXA5VmRrZ2hXN2hBc3ZTYV9WQTBlc21QUTJFMHgxdlhIME9fVjJjYkVFSWk3NFdPTEZzWGdMSU1KeVFodVRQSDZSdTNfOWNUT0FpbU9QR0FOVHJ5ak91OVB0VHpRem43RmFGY3BIQml5LUlQdEt5eFhheVFOeGpvVm5zeVo?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 16,
+      "summary": null,
+      "title_tr": "AB Parlamentosu, altı kriter temelinde vizesiz seyahat konusunu ele alacak",
+      "summary_tr": null
+    },
+    {
+      "title": "Current water level percentages of Istanbul's reservoirs",
+      "links": [
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQy1jRkNiQnd4elRUT1pEVmYxNF9FOHVocXN5akszQkM5VFhyVmxNbjlGR05Sb0xsOC1XUC1ZM3g0a2JEUVBrdDFGTE9oQ2xGcGJEeUF0cG1Kd3ZlTW83azhNZGIyUjNFQWxfa0wyMzUySjB5NjFIUDkyZnZDQmtyZWhjeURBM05hV05mbWx5X1BmUHdXUDFV?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 17,
+      "summary": null,
+      "title_tr": "İstanbul’daki barajların güncel su seviyesi yüzdeleri",
+      "summary_tr": null
+    },
+    {
+      "title": "Kocaelispor vs Fenerbahçe: announced starting lineups",
+      "links": [
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdml1TE4zZEN2VmMwYy11RGdkeXdmTVZqcjI0V3JZbE9aN1FvbTkyLThwOVN5aFRuNkRJQXU4YkNqRTFUQWUyWDVZdVZ6WmloV2xxV1RqVTkwNTVBdFU5dFhIc2xjMXZHTU5KWm9aMTdQU3AwNFNWT25ZWF9VMlFHMjE1djRkTjNaenU4Q0V5LThaamNoTElMOGJZRW15VVNST1FZ?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 18,
+      "summary": null,
+      "title_tr": "Kocaelispor - Fenerbahçe: Açıklanan ilk onbirler",
+      "summary_tr": null
+    },
+    {
+      "title": "Serdar Gündoğ critiques country's institutional credibility",
+      "links": [
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRU5XMFkzd2NGRjVQZmtyMjdFQmZHbmNOS0s1WTEyTVhFRXZ4OTB6NXhvSnNnYVAxYVdieDItRE9XNlJnRnhhbFF2VmpTNDFJNHIySVVlcGdBMmRBbG4zaUM2NURIc0JaUEFVUVNxZzdHdHRTTjhzYlFyLVdoVGJDZ251WHdsdklHYW5GNExzck5oQ2FtNExfeEtsZ1A?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 19,
+      "summary": null,
+      "title_tr": "Serdar Gündoğ, ülkenin kurumsal güvenilirliğini eleştiriyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Actress Ezgi Mola talks about ending her marriage",
+      "links": [
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQzllZGIxYlVsQUFqNlRfUFJDN21KbGV0TGNqazVtSVNhZGhUdGFVSHU4bDF1b25sTENJemdUS0tEQy1Dc1JZSVNvU0syV0xNeFhYelZQMWJ5Nzd6ZEg5eERmS2dQWW5iWXQ3cUFTQWdZOXNnVVVKNU1UMHhnODZoVG1zeUN6NGhFV3RWdEoyRG42MF9CbXB5N2tFQTA?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 20,
+      "summary": null,
+      "title_tr": "Oyuncu Ezgi Mola, evliliğinin sona ermesinden bahsediyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Profile of Barış Özbay and his past career",
+      "links": [
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNkxwdTRLUnlTVjF5T29NdjZIYzk3WHlBWFg4WHp3dU5DMkpnRHZqRkFTVnpQMjQtREZ4RGR4QXNTNUgxSlZXbnpaS1k4LUM1bnZPdXpKbkFlV2gzSHpSWDk3cm5Kc2k5VVNoaU1NS0xTWmFCLWREX1l1MjFZOTM4cEtkUHlfOUZESVRDR2d3VnJ1NGpId1ZCOA?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 21,
+      "summary": null,
+      "title_tr": "Barış Özbay’ın profili ve geçmiş kariyeri",
+      "summary_tr": null
+    },
+    {
+      "title": "Bayer to pay multi‑billion settlement over Roundup-linked non‑Hodgkin lymphoma claims",
+      "links": [
+        "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement"
+      ],
+      "category": "Science",
+      "rank": 1,
+      "summary": "Bayer has agreed to a nationwide settlement of up to $7.25 billion to resolve claims that its herbicide Roundup, containing the ingredient glyphosate, caused non-Hodgkin lymphoma. The settlement, finalized in a Missouri court, will provide compensation ranging from $10,000 to $165,000 to thousands of affected individuals based on exposure levels and diagnosis age. Bayer, which acquired Monsanto, has long denied that glyphosate causes cancer, though the WHO has labeled it as probably carcinogenic. This agreement builds on a prior $10–11 billion settlement from 2020 and represents one of the largest mass tort personal-injury class action settlements in U.S. history.",
+      "title_tr": "Bayer, Roundup ile bağlantılı non-Hodgkin lenfoma davaları nedeniyle milyarlarca dolarlık tazminat ödeyecek",
+      "summary_tr": "Bayer, Roundup'un ana maddesi olan glifosatın non-Hodgkin lenfoma oluşumuna neden olduğunu iddia edenlere yönelik olarak, 7,25 milyar ABD dolarına kadar ulaşabilecek ulusal çaplı bir yerleşime anlaşmıştır. Missouri eyaletindeki bir mahkeme tarafından onaylanan yerleşim, binlerce etkilenen bireye maruz kalma düzeylerine ve tanı yaşlarına bağlı olarak 10.000 ABD dolarından 165.000 ABD dolarına kadar tazminat ödemeyi öngörmektedir. Monsanto'yu satın alan Bayer, glifosatın kansere neden olduğunu uzun süredir reddetmektedir; oysa Dünya Sağlık Örgütü glifosatı muhtemel kanserojen olarak sınıflandırmıştır. Bu anlaşma, 2020 yılında yapılan 10–11 milyar ABD doları tutarındaki önceki yerleşime ek olarak sunulmakta olup ABD tarihinin en büyük toplu haksız fiil davalarından biri olarak kayıtlara geçmektedir."
+    },
+    {
+      "title": "Antibiotic resistance: challenges and potential solutions",
+      "links": [
+        "https://www.dw.com/en/getting-rid-of-antibiotic-resistance-challenges-and-possible-solutions/a-80010693?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Science",
+      "rank": 2,
+      "summary": "Antibiotic resistance, driven largely by improper use in human and animal medicine, poses a massive threat: an estimated 39 million deaths may occur over the next 25 years without urgent action. Modern healthcare relies on effective antibiotics to perform procedures and treat infections, but resistant pathogens are spreading via hospitals, wastewater, agriculture, and the environment. Measures like targeted prescribing, better diagnostics, improved animal husbandry, and global One Health strategies are proposed, yet political progress has lagged behind scientific recommendations.",
+      "title_tr": "Antibiyotik direnci: zorluklar ve olası çözümler",
+      "summary_tr": "İnsan ve hayvancılık tıbbındaki uygun olmayan antibiyotik kullanımı, acil eylem alınmadığı takdirde gelecek 25 yıl içinde tahmini 39 milyon ölüme yol açabilecek devasa bir tehdit olan antibiyotik direncini tetiklemektedir. Modern sağlık hizmetleri, enfeksiyonların tedavisinde ve tıbbi işlemlerin gerçekleştirilmesinde etkili antibiyotiklere bağımlıdır; ancak dirençli patojenler hastanelerden, atık sulardan, tarımdan ve çevreden yayılmaktadır. Hedefli reçetelerin oluşturulması, daha gelişmiş teşhis yöntemleri, iyileştirilmiş hayvancılık uygulamaları ve küresel 'One Health' stratejileri gibi önlemler önerilmekte ancak siyasi ilerleme bilimsel önerilerin gerisinde kalmaktadır."
+    },
+    {
+      "title": "Proposed experimental test to investigate multiple flows of time",
+      "links": [
+        "https://www.sciencedaily.com/releases/2026/11/261120075558.htm"
+      ],
+      "category": "Science",
+      "rank": 3,
+      "summary": "Physicists have proposed a method to test whether time can exist in multiple quantum states at once by using advanced atomic clocks, whose sensitivity could reveal a previously unobserved quantum effect linking time to motion. The research, involving teams from multiple institutions, suggests that controlling a clock's quantum motion may produce measurable changes linked to Einstein’s theory of relativity, potentially transforming our understanding of time and gravity. While still theoretical, the approach could pave the way for new experiments in quantum gravity and ultra-precise timekeeping.",
+      "title_tr": "Zamanın çoklu akışlarını araştırmak için önerilen deneysel test",
+      "summary_tr": "Fizikçiler, ileri atomik saatler kullanarak zamanın birden fazla kuantum durumunda aynı anda var olup olmadığını test etmenin bir yolunu önerdiler; hassasiyetleri, zaman ile hareket arasındaki daha önce gözlemlenmemiş bir kuantum etkisini ortaya çıkarabilir. Kyushu Üniversitesi liderliğindeki ekiplerin dahil olduğu araştırma, bir saatin kuantum hareketinin kontrol edilmesinin, Einstein’ın izafiyet teorisiyle bağlantılı ölçülebilir değişiklikler üretebileceğini öne sürüyor ve zaman ile yerçekimi anlayışımızı değiştirebilecek potansiyele sahip. Henüz teorik olsa da, bu yaklaşım kuantum yerçekimi ve son derece hassas zaman ölçümü alanlarında yeni deneylerin önünü açabilir."
+    },
+    {
+      "title": "Oceans and forests have absorbed roughly half of human carbon emissions for decades – can they continue?",
+      "links": [
+        "https://nautil.us/oceans-and-forests-have-absorbed-roughly-half-our-carbon-emissions-for-decades-slowing-climate-change-but-can-they-keep-it-up-1286879/"
+      ],
+      "category": "Science",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "Okyanuslar ve ormanlar, on yıllardır insan kaynaklı karbon emisyonlarının yaklaşık yarısını emmiş durumda – bu durum devam edebilir mi?",
+      "summary_tr": null
+    },
+    {
+      "title": "Exploring a potential hidden cause of allergies beyond the immune system",
+      "links": [
+        "https://nautil.us/is-this-the-hidden-cause-of-allergies-1286943/"
+      ],
+      "category": "Science",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "Bağışıklık sisteminin ötesinde, alerjilerin olası bir gizli nedenini araştırmak",
+      "summary_tr": null
+    },
+    {
+      "title": "Genetics research refutes claims of innate racial IQ differences",
+      "links": [
+        "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/"
+      ],
+      "category": "Science",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "Genetik araştırmalar, ırklar arasında doğuştan gelen IQ farklılıkları olduğu yönündeki iddiaları çürütmektedir",
+      "summary_tr": null
+    },
+    {
+      "title": "Investigation into why polar bear populations are thriving in northern Canada",
+      "links": [
+        "https://nautil.us/why-are-these-polar-bears-thriving-1286870/"
+      ],
+      "category": "Science",
+      "rank": 7,
+      "summary": null,
+      "title_tr": "Kanada’nın kuzeyinde kutup ayısı popülasyonlarının neden artmakta olduğuna dair araştırma",
+      "summary_tr": null
+    },
+    {
+      "title": "New insights into the beak structure of duck‑billed dinosaurs",
+      "links": [
+        "https://nautil.us/the-secrets-hiding-in-a-duck-billed-dinosaurs-beak-1286946/"
+      ],
+      "category": "Science",
+      "rank": 8,
+      "summary": null,
+      "title_tr": "Ördek gagalı dinozorların gaga yapısına dair yeni bilgiler",
+      "summary_tr": null
+    },
+    {
+      "title": "Observation on Riemann hypothesis surprise alongside Anthropic share decline",
+      "links": [
+        "https://feeds.feedblitz.com/~/973640645/0/marginalrevolution~A-simple-observation.html"
+      ],
+      "category": "Science",
+      "rank": 9,
+      "summary": null,
+      "title_tr": "Antropik hisselerindeki düşüşün yanı sıra Riemann hipoteziyle ilgili sürpriz üzerine bir gözlem",
+      "summary_tr": null
+    },
+    {
+      "title": "Physicist Bruno Rossi passed away on Nov 21 1993",
+      "links": [
+        "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-21-1993-the-death-of-bruno-rossi/"
+      ],
+      "category": "Science",
+      "rank": 10,
+      "summary": null,
+      "title_tr": "Fizikçi Bruno Rossi, 21 Kasım 1993 tarihinde vefat etti.",
+      "summary_tr": null
+    },
+    {
+      "title": "FBI suffers second breach targeting the National Crime Information Center database",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/"
+      ],
+      "category": "Tech",
+      "rank": 1,
+      "summary": "The FBI has reportedly suffered a second breach in two months, this time targeting the National Crime Information Center (NCIC), a nationwide police database used by law enforcement to share criminal records. The intrusion was discovered recently, though the timing, method, and extent of access remain unclear. The FBI has not publicly confirmed the incident, and it is unknown if sensitive records were accessed or if the system’s availability was affected. This incident follows a prior breach by the ShinyHunters group two months ago, though no connection has been established between the two events.",
+      "title_tr": "FBI, Ulusal Suç Bilgi Merkezi veritabanını hedef alan ikinci bir siber saldırıya maruz kaldı",
+      "summary_tr": "FBI, iki ay içinde ikinci kez reportedly reportedly tarafından bildirilen bir siber saldırıya uğradı; bu kez bu saldırı, eyalet ve yerel güvenlik güçlerinin yanı sıra federal kolluk kuvvetleri arasında bilgi paylaşımında kullanılan Ulusal Suç Bilgi Merkezi (NCIC), adı verilen ulusal polis veritabanını hedef aldı. Saldırı yakın zamanda keşfedildi; ancak saldırının gerçekleştiği zaman, yöntemi ve erişim kapsamı henüz belli değil. FBI, olayın kamuoyuna henüz doğrulanmadı ve sisteme erişilen hassas kayıtlar olup olmadığı ya da sistemin kolluk kuvvetlerine erişilebilirliğinin etkilenip etkilenmediği bilinmiyor. Bu olay, iki ay önce ShinyHunters grubunun gerçekleştirdiği önceki siber saldırıdan (ki FBI, olay nedeniyle soruşturma başlatarak grup üyelerinin bazılarını tutuklatmıştı) sonra meydana gelmiş olup, ikisi arasında henüz bir bağlantı tespit edilmedi."
+    },
+    {
+      "title": "Microsoft Entra Connect Health vulnerability used to exfiltrate tenant data",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/"
+      ],
+      "category": "Tech",
+      "rank": 2,
+      "summary": "Microsoft disclosed a data breach in its Entra Connect Health monitoring service after attackers exploited an API vulnerability to access tenant metadata and administrator email addresses. The flaw allowed unauthorized read-only access to configuration information such as tenant IDs, license tiers, and synchronization status but did not expose sensitive data like passwords or cryptographic keys. Microsoft patched the issue on November 19, 2026, and notified affected organizations while recommending enhanced monitoring and phishing-resistant MFA for privileged accounts. The company has not disclosed the number of impacted tenants or the identity of the threat actors.",
+      "title_tr": "Microsoft Entra Connect Health’teki güvenlik açığı, kiracı verilerinin sızdırılması için kullanıldı",
+      "summary_tr": "Microsoft, Entra Connect Health izleme hizmetindeki bir API güvenlik açığının saldırganlar tarafından istismar edilmesi sonucu bir veri ihlaline uğradığını açıkladı. Saldırganlar, yönetici e-posta adresleri ve kiracı yapılandırma bilgileri de dahil olmak üzere kiracı meta verilerine yetkisiz salt okuma erişimi elde etti. Açıktaki ihlal hassas veriler (şifreler, kriptografik anahtarlar vb.) açığa çıkarmadı ve Microsoft 19 Kasım 2026 tarihinde düzeltme uyguladı. Etkilenen organizasyonlara bildirimde bulunan şirket, tehdit aktörlerinin kimliği veya etkilenen kiracı sayısı hakkında bilgi vermedi."
+    },
+    {
+      "title": "AI‑driven cyber threats accelerate system patches and trigger internet outages",
+      "links": [
+        "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/"
+      ],
+      "category": "Tech",
+      "rank": 3,
+      "summary": "Cybersecurity professionals report that an increase in AI-driven cyber threats is forcing rapid deployment of system patches, resulting in frequent internet outages and operational disruptions. The pace of patching is straining IT departments, with some system administrators acknowledging that the uptick in vulnerabilities is providing job security amid ongoing tech industry layoffs. The situation highlights growing challenges in balancing proactive security measures with the stability of digital infrastructure.",
+      "title_tr": "Yapay zeka destekli siber tehditler, sistem yamalarının uygulanmasını hızlandırıyor ve internet kesintilerine yol açıyor",
+      "summary_tr": "Siber güvenlik profesyonelleri, AI destekli siber tehditlerdeki artışın sistem yamalarının hızlı şekilde dağıtılmasını zorunlu kıldığını ve bu durumun sık sık internet kesintilerine ve operasyonel aksaklıklara yol açtığını bildiriyor. Yama uygulama hızının BT departmanları üzerinde baskı oluşturduğu, bazı sistem yöneticilerinin ise bu artan güvenlik açıklarının mevcut teknoloji endüstrisi işten çıkarmaları döneminde iş güvenliğini sağladığını belirttiği görülüyor. Durum, proaktif güvenlik önlemleriyle dijital altyapının istikrarı arasındaki dengeyi sağlamanın giderek büyüyen zorluklarını ortaya koyuyor."
+    },
+    {
+      "title": "Rackspace Spot breach exposes Kubernetes secrets to attackers",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/"
+      ],
+      "category": "Tech",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "Rackspace Spot’taki güvenlik ihlali, Kubernetes gizli bilgilerini saldırganların eline düşürdü",
+      "summary_tr": null
+    },
+    {
+      "title": "BADBOX Android TV botnet resurfaces generating 40 billion ad requests daily",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/"
+      ],
+      "category": "Tech",
+      "rank": 5,
+      "summary": null,
+      "title_tr": null,
+      "summary_tr": null
+    },
+    {
+      "title": "Undisclosed AWS outage reveals hidden service disruption",
+      "links": [
+        "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511"
+      ],
+      "category": "Tech",
+      "rank": 6,
+      "summary": null,
+      "title_tr": null,
+      "summary_tr": null
+    },
+    {
+      "title": "RansomwareHelp CTO charged with wire fraud in FBI sting",
+      "links": [
+        "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/"
+      ],
+      "category": "Tech",
+      "rank": 7,
+      "summary": null,
+      "title_tr": null,
+      "summary_tr": null
+    },
+    {
+      "title": "Amazon allows bot commerce on AWS while restricting it on retail platform",
+      "links": [
+        "https://www.theregister.com/ai-and-ml/2026/11/20/amazons-split-personality-aws-embraces-bot-commerce-while-main-site-enforces-bans/5311493"
+      ],
+      "category": "Tech",
+      "rank": 8,
+      "summary": null,
+      "title_tr": null,
+      "summary_tr": null
+    },
+    {
+      "title": "Experts discuss tech‑stock slump amid concerns over AI investment returns",
+      "links": [
+        "https://www.bbc.com/turkce/articles/cx7v2ne04np2o?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Tech",
+      "rank": 9,
+      "summary": null,
+      "title_tr": null,
+      "summary_tr": null
+    },
+    {
+      "title": "Launch of Evidence Guide: platform for computational audits of scientific papers",
+      "links": [
+        "https://feeds.feedblitz.com/~/973620947/0/marginalrevolution~Paul-Litvaks-Evidence-Guide.html"
+      ],
+      "category": "Tech",
+      "rank": 10,
+      "summary": null,
+      "title_tr": null,
+      "summary_tr": null
+    },
+    {
+      "title": "Top travel‑friendly laptops for 2026",
+      "links": [
+        "https://www.wired.com/story/best-laptops-for-travel/"
+      ],
+      "category": "Tech",
+      "rank": 11,
+      "summary": null,
+      "title_tr": null,
+      "summary_tr": null
+    },
+    {
+      "title": "Comparison of Docker and Kubernetes in episode EP234",
+      "links": [
+        "https://blog.bytebytego.com/p/ep234-docker-vs-kubernetes"
+      ],
+      "category": "Tech",
+      "rank": 12,
+      "summary": null,
+      "title_tr": null,
+      "summary_tr": null
+    },
+    {
+      "title": "PHP 8.6 introduces stricter defaults to improve security",
+      "links": [
+        "https://www.theregister.com/devops/2026/11/20/php-86-things-are-gonna-get-a-lot-more-strict-around-here/5311486"
+      ],
+      "category": "Tech",
+      "rank": 13,
+      "summary": null,
+      "title_tr": null,
+      "summary_tr": null
+    },
+    {
+      "title": "Analysts speculate on Jensen Huang's next strategic move amid Intel and SpaceX interest",
+      "links": [
+        "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVUtCZC0zLUNQYkUwUVAxSlkxU05NWEt1WC1LZDUweWdKYUlhZnJnVmxOV0dzTXltUHlfbkdyOTB6ZGNaSW1lZlNjTnB0c1UxR1BDcW9yaEMwV0FmVEk1emFGSzN6ZXJJYXhpcjFuZ2luOHJ0TXN0LUNtUGJsNkNZMGJFcWNad0UzTHQ4Mm9FWVZQUXQtUS1EbXRhc25pU0VGeDAxYWtIaDZTUlZ2RlpPSk5QaXR4dGw0VThfb1BrdTVtck5xQTlxMDBKOG0zVmh2blRYV3Q1dlF0ZlkzTGh4WTRZRXl2WkJlamNDazBFUUtOeVozTWNieQ?oc=5"
+      ],
+      "category": "Tech",
+      "rank": 14,
+      "summary": null,
+      "title_tr": null,
+      "summary_tr": null
+    },
+    {
+      "title": "Emergent Ventures' 60th cohort highlights AI, genetics, and energy projects",
+      "links": [
+        "https://feeds.feedblitz.com/~/973582415/0/marginalrevolution~Emergent-Ventures-th-cohort.html"
+      ],
+      "category": "Tech",
+      "rank": 15,
+      "summary": null,
+      "title_tr": null,
+      "summary_tr": null
+    },
+    {
+      "title": "Top-rated power banks for 2026 after testing",
+      "links": [
+        "https://www.wired.com/gallery/best-portable-chargers-power-banks/"
+      ],
+      "category": "Tech",
+      "rank": 16,
+      "summary": null,
+      "title_tr": null,
+      "summary_tr": null
+    },
+    {
+      "title": "Review of Sony Bravia 9 II television highlights adjustability and brightness",
+      "links": [
+        "https://www.wired.com/review/sony-bravia-9-ii/"
+      ],
+      "category": "Tech",
+      "rank": 17,
+      "summary": null,
+      "title_tr": null,
+      "summary_tr": null
+    },
+    {
+      "title": "Recommended Tineco vacuum and cleaning devices from Black Friday 2026",
+      "links": [
+        "https://www.wired.com/story/tineco-black-friday-sale-2026/"
+      ],
+      "category": "Tech",
+      "rank": 18,
+      "summary": null,
+      "title_tr": null,
+      "summary_tr": null
+    },
+    {
+      "title": "Therabody devices discount code offers 15% off in November 2026",
+      "links": [
+        "https://www.wired.com/story/therabody-promo-code/"
+      ],
+      "category": "Tech",
+      "rank": 19,
+      "summary": null,
+      "title_tr": null,
+      "summary_tr": null
+    },
+    {
+      "title": "Mountain Hardwear clothing discount code 15% off November 2026",
+      "links": [
+        "https://www.wired.com/story/mountain-hardwear-promo-codes/"
+      ],
+      "category": "Tech",
+      "rank": 20,
+      "summary": null,
+      "title_tr": null,
+      "summary_tr": null
+    }
+  ]
+}
