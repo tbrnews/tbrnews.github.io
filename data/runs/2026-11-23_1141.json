@@ -1,0 +1,691 @@
+{
+  "schema_version": 1,
+  "stats": {
+    "last_run": "2026-11-23T10:41:33.872Z",
+    "sources_pulled": 74,
+    "headlines_read": 72,
+    "headlines_written": 66,
+    "summaries_written": 17,
+    "summaries_failed": 4,
+    "run_count": 51
+  },
+  "headlines": [
+    {
+      "title": "Anthropic IPO flop triggers fire‑sale in stocks amid AI market jitters",
+      "links": [
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZjc4cHQ0TnRGd25uNTM5MUw5Zk5WUUdIV09nY3ltNDNBR2pvemJNRl9TOTZnR2lNay1CdTl1RHhPZEhtVmdTWE1qdS1SZVVmWURldUhJTTgxTktCX0xsMTdPNGpKS0JkYV9fUXpaY0NqLWlBa0tlVElTSmpnV1NzVGZ3Z0RSWW9XTFkwVm9YdW5WOWNRQU92MzUyekxmNjZWUnkyZ1VNdl9FMy13eTN5SFhIVG14TG5DZHZyYVR2VUxwOHkzeWRz?oc=5"
+      ],
+      "category": "AI",
+      "rank": 1,
+      "summary": "No summary available: scraping failure",
+      "title_tr": "Anthropic’in halka arzındaki başarısızlık, yapay zeka piyasasındaki tedirginliklerin ortasında hisse senetlerinde acil satış dalgasına yol açtı",
+      "summary_tr": "Özet bulunmuyor: veri alma işlemi başarısız oldu"
+    },
+    {
+      "title": "US banks prohibit third‑party AI bots from accessing customer accounts",
+      "links": [
+        "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/"
+      ],
+      "category": "AI",
+      "rank": 2,
+      "summary": "Major U.S. banks including Wells Fargo, JPMorgan Chase, Bank of America, Citibank, and PNC are restricting third-party AI agents from accessing customer accounts over security and liability concerns. Amid growing adoption of AI-powered shopping bots that act on behalf of users—often without oversight of each click—the institutions updated terms to prohibit login sharing and warn that such use is at the customer’s own risk. The banks, widely seen as risk-averse, appear to be preemptively managing potential fallout as these tools remain experimental and prone to costly errors. While early adopters continue to deploy agents for routine or mundane shopping tasks, many financial firms are simultaneously developing their own in-house AI agents, indicating a strategic pivot rather than a withdrawal.",
+      "title_tr": "ABD’deki bankalar, üçüncü taraf yapay zeka botlarının müşteri hesaplarına erişimini yasaklıyor",
+      "summary_tr": "Amerika Birleşik Devletleri'ndeki büyük bankalar—Wells Fargo, JPMorgan Chase, Bank of America, Citibank ve PNC dahil—müşteri hesaplarına erişim sağlaması amacıyla üçüncü taraf AI ajanlarından kaynaklanan güvenlik ve sorumluluk riskleri nedeniyle bu sistemlerin kullanımını kısıtlıyor. Kullanıcı adına otomatik olarak hareket eden ve genellikle her bir tıklamanın denetimini sağlamayan AI destekli alışveriş botlarının artan kullanımına karşılık bankalar, müşterilerin giriş bilgilerini paylaşmasını yasaklayan ve böylesi kullanımların müşterinin kendi sorumluluğunda olduğunu açıkça belirten maddeleri güncelledi. Riskten kaçınma eğiliminde olan bankalar, bu araçlar henüz deneysel olduklarından ve maliyetli hatalara yol açma eğiliminden ötürü olası olumsuz sonuçları şimdiden yönetmeye çalışıyor gibi görünüyor. Erken benimseyen kullanıcıların rutin veya sıradan alışveriş görevleri için AI ajanlarını kullanmayı sürdürmesine rağmen, birçok finans kuruluşu aynı anda kendi iç geliştirme AI ajanlarını oluşturma yoluna gidiyor; bu da stratejik bir yön değiştirmeyi değil, aksine bir geri çekilmeyi işaret ediyor."
+    },
+    {
+      "title": "Asian nations implement measures to support markets following AI‑driven sell‑off",
+      "links": [
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2hTbGd3Q2JhVFl6bkQyd1BqMGJ1Nnk5ckhIcFlLOTAySEZuV2ExRnVEMmpYcnZPUlVNbzdfMmhpR0F3SEhxeF92WlNSUmFuc0JobFROVmNxU3JTSDBNNDdZZk1NSDdLcGc1TnJZSjd1bDFyam5TdFBFVE00OFBIVmo4dDI3dU82SXJrWUl3LThUUlBEa1N3cm1oZTY?oc=5"
+      ],
+      "category": "AI",
+      "rank": 3,
+      "summary": "No summary available: scraping failure",
+      "title_tr": "Asya ülkeleri, yapay zeka kaynaklı satış dalgasının ardından piyasaları desteklemek için önlemler alıyor",
+      "summary_tr": "Özet bulunmuyor: veri alma işlemi başarısız oldu"
+    },
+    {
+      "title": "Understanding how perplexity gauges AI model progress",
+      "links": [
+        "https://openai.com/index/perplexity-and-intelligence"
+      ],
+      "category": "AI",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "Perplexity’nin yapay zeka modelinin ilerlemesini nasıl ölçtüğünü anlamak",
+      "summary_tr": null
+    },
+    {
+      "title": "NBER paper examines AI-driven growth effects on developing economies",
+      "links": [
+        "https://feeds.feedblitz.com/~/973698491/0/marginalrevolution~Will-AI-Growth-Reach-the-Developing-World.html"
+      ],
+      "category": "AI",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "NBER raporu, yapay zeka kaynaklı büyümenin gelişmekte olan ekonomiler üzerindeki etkilerini inceliyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Discussion on extreme wealth concentration among AI industry leaders",
+      "links": [
+        "https://www.noahpinion.blog/p/ai-people-are-very-very-very-very"
+      ],
+      "category": "AI",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "Yapay zeka sektörünün önde gelenleri arasında aşırı servet yoğunlaşmasına ilişkin tartışma",
+      "summary_tr": null
+    },
+    {
+      "title": "BepiColombo mission’s two spacecraft successfully enter Mercury orbit",
+      "links": [
+        "https://phys.org/news/2026-11-mercury-visitor-years-pair-spacecraft.html",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZTNvdl9DUkdXMllqTXdqM053Mmc1REdQZjVTOGlXY1JGZVNvSHRTeFhIZjJXYVE0OFZ3UHBPWDdkdi1TTHZWc3lrZkNPVXd6LTFmT3kxN28zclJOcTlXLVNSanl4UnRHNzhuVDNnenhLTXRqQ3RJRk1sNEJIVTUycVA1Zi0tNnhyNjJJV2JBaFNDdUZZY1J3Vi10MTBHMXd0RXc?oc=5"
+      ],
+      "category": "Space",
+      "rank": 1,
+      "summary": "No summary available: scraping failure",
+      "title_tr": "BepiColombo misyonuna ait iki uzay aracı, Merkür yörüngesine başarıyla girdi",
+      "summary_tr": "Özet bulunmuyor: veri alma işlemi başarısız oldu"
+    },
+    {
+      "title": "China outlines roadmap for crewed Moon landing by 2030",
+      "links": [
+        "https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/"
+      ],
+      "category": "Space",
+      "rank": 2,
+      "summary": "China has laid out a detailed roadmap for its first crewed lunar landing before 2030, involving three uncrewed test missions leading to an Apollo-style landing attempt. The plan centers on the Mengzhou crew spacecraft and the Lanyue lander, which will rendezvous in lunar orbit before two astronauts descend to the surface for a three-day stay while one remains in orbit. Key missions include uncrewed tests of Mengzhou and Lanyue, including a full robotic rehearsal, before the first crewed landing attempt, potentially timed for the PRC’s 80th anniversary. Longer-term goals include expanding lunar stays and contributing to the International Lunar Research Station with Russia.",
+      "title_tr": "Çin, 2030 yılına kadar insanlı Ay inişi için yol haritasını açıkladı",
+      "summary_tr": "Çin, ilk mürettebatlı Ay inişini 2030’dan önce gerçekleştirmek için ayrıntılı bir yol haritası ortaya koydu. Bu plan, ilk mürettebatlı iniş girişiminden önce gerçekleştirilecek üç insansız test göreviyle birlikte, Mengzhou mürettebatlı uzay aracı ve Lanyue iniş aracının yer aldığı Apollo tarzı bir Ay buluşması yöntemine dayanıyor. Astronotlardan ikisi üç günlük bir görev süresince Ay yüzeyine inecek ve eğ birisi yörüngede kalırken, planlanmış insansız testlerin ardından ilk mürettebatlı inişin Çin’in kuruluşunun 80. yıl dönümüne denk gelmesi bekleniyor. Uzun vadede ise çalışmalar, Ay’da kalış sürelerinin uzatılması ve Rusya’yla birlikte Uluslararası Ay Araştırma İstasyonu’na katkı sağlamaya yönelik hedefleri kapsıyor."
+    },
+    {
+      "title": "Celebrating 65 years of human spaceflight at NASA’s Johnson Space Center",
+      "links": [
+        "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/"
+      ],
+      "category": "Space",
+      "rank": 3,
+      "summary": "For 65 years, NASA’s Johnson Space Center has been pivotal in advancing human spaceflight, from leading Gemini missions and building Mission Control for Apollo to managing the International Space Station’s continuous human presence for over 26 years. The center has evolved from lunar exploration and space shuttle programs to spearheading Artemis missions aimed at returning astronauts to the Moon and establishing sustainable lunar bases, while advancing new technologies and fostering international collaboration throughout its history.",
+      "title_tr": "NASA’nın Johnson Uzay Merkezi’nde insanlı uzay uçuşlarının 65. yıl dönümü kutlanıyor",
+      "summary_tr": "NASA'nın Johnson Uzay Merkezi, 65 yıl boyunca Gemini görevlerinden Apollo projesine kadar insanlı uzay uçuşunun ilerlemesinde kilit rol oynayarak, Uluslararası Uzay İstasyonu'nda 26 yılı aşkın süredir kesintisiz insan varlığının yönetimini üstlenmiştir. Merkez, Ay'a iniş programlarından uzay mekiği projelerine kadar genişleyen misyonlarıyla birlikte Artemis görevlerini başlatarak astronotları Ay'a geri döndürme ve sürdürülebilir Ay üsleri kurma hedeflerine yönelmiş, ayrıca teknolojik yenilikleri ilerleterek tarih boyunca uluslararası iş birliğini desteklemiştir."
+    },
+    {
+      "title": "JWST discovers early‑universe black hole that may have outpaced its host galaxy",
+      "links": [
+        "https://phys.org/news/2026-11-jwst-black-hole-grew-faster.html"
+      ],
+      "category": "Space",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "JWST, evrenin erken dönemlerinde, ev sahibi galaksisinden daha hızlı hareket etmiş olabilecek bir kara delik keşfetti",
+      "summary_tr": null
+    },
+    {
+      "title": "Amazon conducts live launch of first internet satellite batch after prior launch failure",
+      "links": [
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ1NhTElEekZkMHVsR3NNYVlrZWVvTUgyQkNsYUVBdlg1dWlMdW5PamFBcXFzdnlETEp5RVljbzZ4UEp4OFppeUcyMF81eVdzcFdmbDR5eWR3N3pvTlJCVFEydUdhVFhZeXQ1NTA5dElPclh6MzFBZmRtaWp2SHZYUTRTa3F1NWxYYUtCNklhN1p6TkdGU1Nib2E4LWhHdHl0aEV2b3RJbDF2X0s0T1NaRVh5dFIzbzhF?oc=5"
+      ],
+      "category": "Space",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "Amazon, önceki fırlatma başarısızlığının ardından ilk internet uydusu grubunun canlı fırlatma işlemini gerçekleştirdi",
+      "summary_tr": null
+    },
+    {
+      "title": "Study suggests some massive stars form black holes without exploding as supernovae",
+      "links": [
+        "https://www.sciencedaily.com/releases/2026/11/261121221126.htm"
+      ],
+      "category": "Space",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "Bir araştırmaya göre, bazı dev yıldızlar süpernova olarak patlamadan kara deliklere dönüşüyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Research reveals unexpected slowdown of solar sails at near‑light speeds",
+      "links": [
+        "https://www.sciencedaily.com/releases/2026/11/261120071305.htm"
+      ],
+      "category": "Space",
+      "rank": 7,
+      "summary": null,
+      "title_tr": "Araştırma, güneş yelkenlerinin ışık hızına yakın hızlarda beklenmedik bir şekilde yavaşladığını ortaya koyuyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Record‑resolution Milky Way simulation achieved with trio of supercomputers",
+      "links": [
+        "https://phys.org/news/2026-11-milky-simulation-resolution-supercomputers.html"
+      ],
+      "category": "Space",
+      "rank": 8,
+      "summary": null,
+      "title_tr": "Üç süper bilgisayarla Samanyolu’nun rekor çözünürlüklü simülasyonu gerçekleştirildi",
+      "summary_tr": null
+    },
+    {
+      "title": "Study indicates dim stars reduce likelihood of habitable planets in the galaxy",
+      "links": [
+        "https://nautil.us/the-fortunes-of-a-dim-sun-1286898/"
+      ],
+      "category": "Space",
+      "rank": 9,
+      "summary": null,
+      "title_tr": "Bir araştırmaya göre, sönük yıldızlar galakside yaşam barındırabilecek gezegenlerin oluşma olasılığını azaltıyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Juno captures colorful swirling storms on Jupiter",
+      "links": [
+        "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/"
+      ],
+      "category": "Space",
+      "rank": 10,
+      "summary": null,
+      "title_tr": "Juno, Jüpiter’deki rengarenk, girdaplı fırtınaları görüntüledi",
+      "summary_tr": null
+    },
+    {
+      "title": "Guion Bluford, born 22 Nov 1942, pioneering African‑American astronaut",
+      "links": [
+        "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-22-1942-the-birth-of-guion-bluford/"
+      ],
+      "category": "Space",
+      "rank": 11,
+      "summary": null,
+      "title_tr": "22 Kasım 1942 doğumlu Guion Bluford, öncü Afro-Amerikalı astronot",
+      "summary_tr": null
+    },
+    {
+      "title": "Stellar nursery in Corona Australis showcases young and mature stars",
+      "links": [
+        "https://www.astronomy.com/science/young-and-old-stars-share-the-southern-sky/"
+      ],
+      "category": "Space",
+      "rank": 12,
+      "summary": null,
+      "title_tr": "Corona Australis’teki muhteşem yıldız oluşum bölgesi, hem genç hem de olgun yıldızları sergiliyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Concerns about pursuing the 2027 total solar eclipse in Egypt",
+      "links": [
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMjI3Qk9ySUNDb2w3NkpLWHA4dHlHTHhiTFBFcHhTeFZwaFVfcGk3Ry0weUtFUlFOc2FObXRFcEFBbHRmT0VkXzdTS1JxSHdsMG90ZjhjSUlCLUxndXNDNXBHcGFPRkJnVmxSeUMtMnlaODdCeU9acTQxWGRHV3U4S0xZQWQ4LUloNUFBMXdNdlJnNWJKaG9lQnFqRmUwSUZCMmcxYlR1MC1OYmxSOE50bk5wcUctWW5JTGhjSzZCVVc?oc=5"
+      ],
+      "category": "Space",
+      "rank": 13,
+      "summary": null,
+      "title_tr": "Mısır’da 2027 tam güneş tutulmasını izlemeye yönelik endişeler",
+      "summary_tr": null
+    },
+    {
+      "title": "Lunar crater Schickard visible in tonight’s sky",
+      "links": [
+        "https://www.astronomy.com/observing/the-sky-today-sunday-november-22-2026/"
+      ],
+      "category": "Space",
+      "rank": 14,
+      "summary": null,
+      "title_tr": "Bu gece gökyüzünde Schickard Ay krateri görülebilecek",
+      "summary_tr": null
+    },
+    {
+      "title": "Finnish forces tow away vessel bound for Russia after suspected Ukrainian drone strike",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 1,
+      "summary": "A Russian cargo vessel bound for Kaliningrad, the Sparta II, was struck by a suspected Ukrainian drone attack in the Gulf of Finland on Saturday, causing a fire and drifting into Finnish waters. The Finnish Border Guard reported the situation as stable on Sunday, with the vessel now being towed away by Russian and allied forces while thermal imagery indicated lingering heat in some containers. Finnish authorities noted Ukraine’s likely involvement, though Kyiv has not commented, and the attack underscored the spillover risks of the Russia-Ukraine war into nearby Baltic Sea regions. The Baltic Sea has recently become a focal point, following Ukraine’s escalation of long-range strikes and a prior drone strike on a Russian warship in the same area earlier this month.",
+      "title_tr": "Finlandiya güçleri, Ukrayna’ya ait olduğu şüphelenilen bir insansız hava aracı saldırısının ardından Rusya’ya giden gemiyi çekerek uzaklaştırdı",
+      "summary_tr": "Finland Körfezi'nde bulunan doğu kısmında, Rusya'nın Kaliningrad bölgesine gitmekte olan 러시아 kargo gemisi Sparta II, Cumartesi günü muhtemel bir Ukrayna dron saldırısına maruz kaldı ve gemide yangın çıktı. Geminin Finlandiya sularına sürüklenmesinin ardından Pazar günü Finlandiya Sınır Güvenliği yetkilileri durumu kontrol altında bildirdi ve gemi artık Rus ve müttefik kuvvetler tarafından çekiliyor; termal kameralar bazı konteynerlerde ısının devam ettiğini göstermekteydi. Finlandiya yetkilileri saldırının Ukrayna tarafından gerçekleştirilmiş olabileceğini bildirse de Kyiv henüz açıklama yapmadı ve saldırı Rusya-Ukrayna savaşının Finlandiya Körfezi gibi yakın bölgelerdeki tansiyon artırıcı etkilerini vurguladı. Baltık Denizi son dönemde Ukrayna'nın uzun menzilli saldırılarını artırmasının ardından çatışmaların odak noktası haline gelmişti, bu bölgede geçtiğimiz ay Rusya savaş gemisine yapılan bir dron saldırısı da kaydedilmişti."
+    },
+    {
+      "title": "South Korea’s education minister steps down amid AI‑assisted exam cheating scandal",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Geopolitics",
+      "rank": 2,
+      "summary": "South Korea’s education minister resigned after controversies surrounding AI-assisted cheating on high-stakes exams. The scandal was triggered when the top scorer in a tax accountancy exam admitted using hidden cameras and AI tools, prompting emergency nationwide mobile alerts during the annual college entrance exam, Suneung. Authorities also inspected candidates for hidden devices and mandated measures like covering shirt buttons. About 111 students were found with unauthorized smart devices during the exam, which is pivotal for millions of students' futures.",
+      "title_tr": "Güney Kore eğitim bakanı, yapay zeka destekli sınav hilesi skandalı üzerine istifa etti",
+      "summary_tr": "Güney Kore’nin eğitim bakanı, yapay zekâ destekli sınav kopya skandalının ardından istifa etti. Bir vergi muhasebecilik sınavında birinci olan kişinin gizli kameralar ve yapay zekâ araçları kullanarak kopya çektiğini itiraf etmesi, ülkedeki üniversite giriş sınavı Suneung öncesinde acil durum uyarılarının ülke çapında gönderilmesine yol açtı. Yetkililer, adayları saklı cihazlar açısından denetledi ve gömlek düğmelerini kapatma gibi önlemler uyguladı. Sınavı yaklaşık 500 bin öğrencinin katıldığı Suneung sırasında 111 öğrencide yetkisiz akıllı cihazlar tespit edildi."
+    },
+    {
+      "title": "Afghan women displaced from Iran face unemployment upon returning to Herat",
+      "links": [
+        "https://news.un.org/feed/view/en/story/2026/11/1168852"
+      ],
+      "category": "Geopolitics",
+      "rank": 3,
+      "summary": "Over six million Afghans, including many women, have been forcibly returned from Iran and Pakistan in recent years, straining Afghanistan's already fragile infrastructure. Many returnees, once employed or educated in their host countries, now face unemployment, poverty, and dire living conditions in Herat, where job opportunities are scarce and support systems are weak. Women, who often served as breadwinners abroad, struggle to rebuild their lives amid limited resources, discrimination, and societal barriers. Aid organizations like UNHCR provide essential cash assistance, vocational training, and legal support to mitigate immediate hardships and foster long-term resilience. Despite these efforts, the future remains uncertain for most, with basic survival needs such as shelter, food, and stable income unmet for many families.",
+      "title_tr": "İran’dan yerinden edilen Afgan kadınlar, Herat’a döndüklerinde işsizlikle karşı karşıya kalıyor",
+      "summary_tr": "Son üç yılda İran ve Pakistan’dan zorla geri gönderilen altı milyondan fazla Afganlar, zaten kırılgan olan Afganistan altyapısına ek yük bindirdi. Host ülkelerinde çalışan ya da eğitim gören birçok Afgan mülteci, özellikle Herat’ta, geçim kaynaklarının az olması ve destek sistemlerinin zayıflığı nedeniyle şimdi işsizlik, yoksulluk ve zorlu yaşam koşullarıyla karşı karşıya. Yurtdışında sıklıkla aile geçimini sağlayan kadınlar, kaynakların sınırlı olduğu, ayrımcılık ve toplumsal engellerin bulunduğu bir ortamda hayatlarını yeniden inşa etmeye çalışıyor. UNHCR gibi yardım kuruluşları, acil ihtiyaçların giderilmesine ve uzun vadeli dayanıklılığın desteklenmesine yönelik temel yardımlar, mesleki eğitim ve yasal destek sunuyor. Buna rağmen, çoğu kişi için gelecek belirsizliğini koruyor ve barınma, gıda ve istikrarlı gelir gibi temel ihtiyaçlar birçok aile için hala karşılanamıyor."
+    },
+    {
+      "title": "Investors seek market bottom as stocks remain volatile",
+      "links": [
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcU03UEttMkt2VHk0czNiZGxHNnB0MTR6Z2lvN01WUEF4VXZaejRWdV9IZ1d1b2YxUTc5bG9NUXVscVV4RjZ1TmdEdGtzWDdlb0JsQzhIWUozSHhGVFNSYW55aWpaalN4V1NlU21GWUpjYURFVU9YajkwZ3ltNXhvM2kwRW51T2RtYzVtajM4M3RvRmYwLUNQU1RHN0hjYmlsR3JGdTQ2WVNoMThMNTNwZmI0VlB5NXhaYzZoLWxralZSSGM?oc=5"
+      ],
+      "category": "Geopolitics",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "Hisse senetleri dalgalı seyrini sürdürürken, yatırımcılar piyasanın dip noktasını arıyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Goldman Sachs warns that cash‑grab-driven sell‑off is hitting gold, silver and Bitcoin",
+      "links": [
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxOakhFbTIzRVU5cXdMWC1oV2hVYk1qSlM5VUNCd2JPMkxsb3Y2Z3NSd2l2b1lLUXc4MGIwU21PNFY0RFh5cEY3SGtiZk5fVzk1b1Q2dHBfNFJCbkU1X3NKLXpDekRRZEJ2UVN1ekctXzJsX1hZdy1OUUJkcWR1ZkY4MkNEMjNYbFNab3JTYkRHcnM4dUc3Yl91QUloMFp5Ul90?oc=5"
+      ],
+      "category": "Geopolitics",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "Goldman Sachs, para kazanma hırsının yol açtığı satış dalgasının altın, gümüş ve Bitcoin’i vurduğuna dair uyarıda bulunuyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Drones strike UN building and residential area in Khartoum, Sudan",
+      "links": [
+        "https://www.dw.com/en/sudan-drones-hit-un-building-residential-area-in-khartoum/a-80015122?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Geopolitics",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "Sudan’ın Hartum kentinde insansız hava araçları BM binasına ve bir yerleşim bölgesine saldırdı",
+      "summary_tr": null
+    },
+    {
+      "title": "Suspected drone strike damages Russian vessel in Benghazi, Libya",
+      "links": [
+        "https://www.dw.com/en/libya-suspected-drone-attack-hits-russian-ship-in-benghazi/a-80014545?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Geopolitics",
+      "rank": 7,
+      "summary": null,
+      "title_tr": "Libya'nın Bingazi kentinde şüpheli bir insansız hava aracı saldırısı sonucu bir Rus gemisi hasar gördü",
+      "summary_tr": null
+    },
+    {
+      "title": "Israeli opposition leader labels recent West Bank arson attacks as Jewish terrorism",
+      "links": [
+        "https://www.dw.com/en/israel-s-eisenkot-condemns-jewish-terrorism-in-west-bank/a-80013861?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Geopolitics",
+      "rank": 8,
+      "summary": null,
+      "title_tr": "İsrailli muhalefet lideri, Batı Şeria’da son dönemde meydana gelen kundaklama saldırılarını “Yahudi terörizmi” olarak nitelendirdi",
+      "summary_tr": null
+    },
+    {
+      "title": "Lebanese villagers find homes destroyed as Israeli forces withdraw",
+      "links": [
+        "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes"
+      ],
+      "category": "Geopolitics",
+      "rank": 9,
+      "summary": null,
+      "title_tr": "İsrail güçlerinin geri çekilmesiyle Lübnanlı köylüler evlerinin yıkıldığını gördü",
+      "summary_tr": null
+    },
+    {
+      "title": "Share of U.S. hourly workers earning below $15 falls dramatically from 2014 to 2024",
+      "links": [
+        "https://feeds.feedblitz.com/~/973768592/0/marginalrevolution~Increasing-pay-for-lower-wage-workers.html"
+      ],
+      "category": "Geopolitics",
+      "rank": 10,
+      "summary": null,
+      "title_tr": "2014’ten 2024’e kadar, saatlik ücreti 15 doların altında olan ABD’li saatlik ücretli çalışanların oranı önemli ölçüde düştü",
+      "summary_tr": null
+    },
+    {
+      "title": "Canada signs onto NATO innovation fund, pledges continued cooperation with United States",
+      "links": [
+        "https://www.defenseone.com/policy/2026/11/canada-joins-nato-innovation-fund-promises-business-usual-us/417391/"
+      ],
+      "category": "Geopolitics",
+      "rank": 11,
+      "summary": null,
+      "title_tr": "Kanada, NATO inovasyon fonuna katıldı ve ABD ile işbirliğini sürdüreceğini taahhüt etti",
+      "summary_tr": null
+    },
+    {
+      "title": "Goldman traders identify US stock buying opportunities while cautioning on risks",
+      "links": [
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSHV3bFNSZmFVVVpJdUhyUUx4UzVhdTVZNVVWUUE1RlBsWDBWMlFGcGlmSzljOHB1SHNkcTUtaG9oZFVkSS1UejEwQk5VdUJzVkpLdlpLcmVvbVhRaHFWbkVOUVhNMmljUmN1NU84cUZvcGZjbHRCT1NoMDFKYzNOZTUwbHBlV2ZHNzRSeGpOUjFQOFBKbXhsbkt0Rkw?oc=5"
+      ],
+      "category": "Geopolitics",
+      "rank": 12,
+      "summary": null,
+      "title_tr": "Goldman tüccarları, ABD hisse senetlerinde alım fırsatlarını belirlerken risklere karşı uyarıda bulunuyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Reagan replaced chief of staff following midterm election defeat",
+      "links": [
+        "https://foreignpolicy.com/2026/11/22/reagan-chief-of-staff-change-midterms/"
+      ],
+      "category": "Geopolitics",
+      "rank": 13,
+      "summary": null,
+      "title_tr": "Reagan, ara seçimlerdeki yenilginin ardından genelkurmay başkanını değiştirdi",
+      "summary_tr": null
+    },
+    {
+      "title": "COP31 climate summit in Antalya ends without agreement",
+      "links": [
+        "https://news.un.org/feed/view/en/story/2026/11/1168855",
+        "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSzRjRFd4RnNSeURKcUZELXpEMHVyanQ1bnpBQkt0RWlnWmxtQzMtclRuUWtHVnVvQ3JqMEY4QlNuazR1UTNqWXZsMzBNRzF2b0l4a2p4NGI2S1JDQV9ZYmlNdkdYZ1ppVU5pcVdINWRUZ3RjWTA0UVBJZUM5amNETkJKVDJVQm1ETG5peGw5Q2VwN2I3dEM3bS1aeURiZzhZTzR3cTY5WjByTExDVVNDbFM5M2hpeVJLQW55Q19BTHR1dEFWUTNCdV9kVzJGaTg2SFd1N296MUZNcFMydW8xQV8yVzJseF9jTThmYlJjaGhyZw?oc=5",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUHZ6em9TdGt2QU5pLUEzcjJzaEc1bmx5SXJabEYwd1hMelp5NXBsbnUtdnZYUV9rM2xqWTNmb0JZTTRmS1hYUjhHN1ZzNUoyYVF6cVVxemFJQ3pNVGtHNjdRbDV0UjAtWnNaZldDeUFTZ3N0UnNyZ1RTbzRXMGpFU2JzYTBZVXZjTW9HRmZfZkpveW4xRGprZGNjNWp2WmQ5aGM0anlDaTU0UE51Y1dxVm9JSXRyVFdBYl8tVmxGX1U?oc=5",
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRGcyWEN5V0RHRC1JM0VGLUVxb3JBRUNMVjd4S0VWeVRRY2ROVk8yUGtIZWtRMkpSQmxUMlpVZk9RLVFFZ2pmekJsbmk0eDdQZEJoSm81REhIdjhqX3VVXzZmcVF3ZHBGaDdPU0xHWTI2X3BqNFlfRnBqajdpU2ljZ2hxcDA2TXB5WXBMTDFuX2dVNE9sWmNnQ3NFODNhVVZnS2c0UzdVMER4YlBtSTB4Tmk0bDh2eDZWWU8xWHVOVVVISDVTcEFrRDNqWW8weW1u?oc=5",
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRWN3aGFJM3cyZnRFME5sOFZ0RG9jZ2VoSGdfVkM4aG12dTMySjY4WUVqMjkwTmtnZ3hBeGI5VzVWRFpTd3ktejdBMlFKS2lya1pwd2RrSEVHa0pwNXFfQzNsV3BZdUpOLWZXS2pBQnQxUWJuWko3TW5reTR2WjBBN2UtbS1sMVJ3RnN3RnRBekNnTURXZmRmcUpjQlIzbURESVd1OWU3bFNQbS1QYWdXSzFtOGVMRTFhSy1XZkVCUVF6dEJ2WENJektjYkFObl9mMW9MUU54Zw?oc=5",
+        "https://www.npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse"
+      ],
+      "category": "Turkey",
+      "rank": 1,
+      "summary": "The COP31 climate summit held in Antalya concluded without reaching a consensus on key climate action measures. Despite discussions among global leaders and delegates, the negotiations failed to produce an agreement, casting uncertainty over future steps to address climate change.",
+      "title_tr": "Antalya’da düzenlenen COP31 iklim zirvesi bir anlaşmaya varılamadan sona erdi",
+      "summary_tr": "Antalya'da gerçekleştirilen COP31 iklim zirvesi, önemli iklim eylemlerine yönelik önlemler konusunda bir anlaşmaya varamadan sona erdi. Küresel liderler ve delegeler arasındaki görüşmelere rağmen müzakereler bir anlaşmaya varılamadan sonuçlandı, iklim değişikliğiyle mücadelede gelecekteki adımlar konusunda belirsizlik yarattı."
+    },
+    {
+      "title": "Thousands protest in Istanbul against shutdown of major media outlets",
+      "links": [
+        "https://www.dw.com/en/turkey-thousands-protest-closure-of-critical-media-outlets/a-80015347?maca=en-rss-en-all-1573-xml-mrss"
+      ],
+      "category": "Turkey",
+      "rank": 2,
+      "summary": "Thousands of protesters marched in Istanbul on Sunday to oppose the government's recent takeover and closure of several opposition-leaning media outlets, including the television channel Sozcu TV and the news channel Halk TV. Organizers framed the demonstration as a defense of press freedom and free expression, emphasizing slogans like 'No to trustee takeovers' and 'The press cannot be silenced.' This crackdown is part of a broader, decade-long pattern of increasing restrictions on critical media in Turkey, marked by arrests, prosecutions, and censorship, which has placed the country 163rd out of 180 in Reporters Without Borders' 2025 Press Freedom Index.",
+      "title_tr": "İstanbul’da binlerce kişi, büyük medya kuruluşlarının kapatılmasına karşı protesto düzenledi",
+      "summary_tr": "Pazar günü binlerce protestocu, hükümetin Sozcu TV ve Halk TV gibi muhalif medya kuruluşlarının kapatılması ve devralınmasına karşı İstanbul’da yürüdü. Organizatörler, basın özgürlüğü ve ifade özgürlüğü savunusunu vurgulayarak 'Vekil atamalarına hayır!' ve 'Basın susturulamaz!' gibi sloganlara odaklandılar. Bu baskı, son on yılda Türkiye’de giderek artan eleştirel medya üzerindeki kısıtlamaların bir parçası olup, Uluslararası Basın Enstitüsü'nün 2025 Basın Özgürlüğü Endeksi'nde ülkeyi 180 ülke arasında 163. sıraya yerleştirdi."
+    },
+    {
+      "title": "Justice minister launches probe into alleged fraud involving Turkey’s fast‑lane toll system",
+      "links": [
+        "https://www.bbc.com/turkce/articles/ck62pgp2vm1qo?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Turkey",
+      "rank": 3,
+      "summary": "Turkey’s Justice Minister Akın Gürlek announced a probe into alleged fraud involving the country’s fast-pass toll system (HGS), triggered by complaints that drivers were slapped with inflated debts when unpaid tolls and incorrect notifications led to unfair fines. The inquiry was opened after claims that court-ordered enforcement mechanisms were manipulated for illicit gain. Previously, Transport Minister Abdülkadir Uraloğlu outlined a 45-day window for drivers to settle unpaid tolls in stages to avoid penalties. Gürlek emphasized that legal processes must never be weaponized to burden citizens with unlawful debt.",
+      "title_tr": "Adalet Bakanı, Türkiye’nin hızlı geçiş gişesi sistemiyle ilgili dolandırıcılık iddialarına yönelik soruşturma başlattı",
+      "summary_tr": "Türkiye Adalet Bakanı Akın Gürlek, ülkedeki hızlı geçiş sistemi (HGS) üzerinden haksız kazanç elde edildiği iddiaları üzerine bir soruşturma başlatıldığını duyurdu. Sürücülerin ödenmeyen ücretler ve yanlış bildirimler nedeniyle haksız borçlandırıldığına dair şikayetler, icra yolunun hukuka aykırı biçimde kötüye kullanıldığı iddialarını tetikledi. Ulaştırma Bakanı Abdülkadir Uraloğlu daha önceden, sürücülere 45 günlük bir süre tanınarak, ödenmeyen ücretleri aşamalı olarak ödeme fırsatı sunulduğunu belirtmişti. Gürlek, yasal süreçlerin vatandaşları haksız borç yükü altında bırakma aracı olarak kullanılamayacağını vurguladı."
+    },
+    {
+      "title": "Police detain 20 individuals in probe of Antalya’s Kepez municipal office",
+      "links": [
+        "https://www.bbc.com/turkce/articles/c6y0xy47q4wpo?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Turkey",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "Polis, Antalya’nın Kepez Belediye Binası’na ilişkin soruşturma kapsamında 20 kişiyi gözaltına aldı",
+      "summary_tr": null
+    },
+    {
+      "title": "Lion sighted on Istanbul streets, local mayor urges residents to stay indoors",
+      "links": [
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUlhjeXFuRHV6OFlOQkt4TURGdWJkWW5PZW1SblFNUzEtX0FkWl9WQmRPdmlyaS1JUENDYUk0VGpVUmFMVDJYS1YzTVZuZXNJc3lvTGw0UUpCXzNXaHMtdzJnUkozMHB4SFFDaHIwa011ZGdsbXl3ckpZVzJ2SkZqOE1tSGpRX3hseU8xa09CbzA2SHVwaFZV?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "İstanbul sokaklarında bir aslan görüldü; belediye başkanı vatandaşlara evlerinde kalmalarını tavsiye etti",
+      "summary_tr": null
+    },
+    {
+      "title": "Constitutional scholar warns delayed Constitutional Court decision loses relevance",
+      "links": [
+        "https://news.google.com/rss/articles/CBMinwJBVV95cUxQX3c3cE1JT3ZNWFpXSEM2R0lOZnBqQWphZFdzaWt6Y2Q0ckpTZmFxb0hOQUJNX2prRmdPdXVLQVVhRXlvaVVtRTZMWXBBeWtiRy1pblRTMm9tZTR0RGR2V2pQblI5OGloVGxaa1lLekVWRVhwMWlBTzEwaTBvTDZHdlhJUlA1dHRvZnZtSlkxcVEyT3NJaFdpRmNsZEJiSW13MVVpbmFYSWI5dHdDdmlXb2FCVl9ob3B6YW9nQ0pIclVkaUlldjNRQTJFQUx5ZzRnTkhjdy1pNjhPOG82a0JmNVR2YU9BUmJXNVd6aHhRR3QwUUF3djZtRmxhM25rMGJYcUtqb25kUTBFbXJ3dEt0bUlxS1Z5UUtoMWRvdnFWUQ?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "Anayasa hukuku uzmanı, Anayasa Mahkemesi’nin kararını geciktirmesinin konunun güncelliğini yitirmesine yol açacağı konusunda uyarıyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Demonstrators demand freedom for press and journalists in Turkey",
+      "links": [
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxOenhGWmVabFdlNGQzQUVnRkxnOG9zYXNSZ0FYTTVuTTJEckZZa3l5Qy1HU0dPOGtGSGphSlE2dkQxS0ViRlNncWRBbEgwUVNIVnRtUDZjcjhBcHF5SnFQRnRyMFdGNlJ1bXZxSGtCRzlTc3NpN3hBOUpjbUh2YmNMakd0aVBQNXZnNS10S0trWEZ5QmdaSERlMEw1UHhVbTg?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 7,
+      "summary": null,
+      "title_tr": "Göstericiler, Türkiye’de basın ve gazeteciler için özgürlük talep ediyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Turkish minister apologizes to Ghanaian official, easing tension with Simon Stiell",
+      "links": [
+        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPczI1NHhQNVYtc0hfZWljdXlPaXhjYVlCdmE4ZVJVQUh6QTdwYTdCYzNaZEVWR1VYU3gxVEd1UW0wcTZVTmNKQ3VqM18xbUtXVWNqSlc0c1AwbjJHY285OHNheHBzTGNxeWZkUzNBV0JZVU1NV1RZeTdRUjF5cnlGcW4wRUpWOWtYSU9uT2RFOUdKaHZjdUdhX2k5Z1hRcUZrZmVzV0RtenQ5QmYtNWxUYlBtZDc3SFhiMWFPd2ttUS1WVURXNTJhd0h4enVRTzVmMFhRTENqNS1qZGpaQTJrQjMxU3BQenRPVkNrV0Zn?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 8,
+      "summary": null,
+      "title_tr": "Türk bakan, Ganalı yetkiliye özür diledi; Simon Stiell ile arasındaki gerginlik azaldı",
+      "summary_tr": null
+    },
+    {
+      "title": "Politician says Fezleke regulation does not imply personal guilt",
+      "links": [
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMXdycVVCVTBDUHZNSXlJSnRKNDAyVmlTTGtyTzJDUHkxMTZwRzNPbXBDN0dBTXpzRGt3ZWx3eVR4QkdYMDJ6a0p3U1hHMEZ1elpWcEZDdGg0bmxteEdxOVhlX3FVS0FGVEhtWWtEVnJkU1hSa0FkMHMyZlBpRDU0UHdkTWZqWjlWWkt4M21Ja09oUjlUM0tJbjAwZ0xPaEd6TDJrRTh4NTBKb3p4TlFDaENDVXFKZkMxb3k4dWZ3?oc=5"
+      ],
+      "category": "Turkey",
+      "rank": 9,
+      "summary": null,
+      "title_tr": "Bir siyasetçi, “Fezleke” düzenlemesinin kişisel suçluluk anlamına gelmediğini söyledi",
+      "summary_tr": null
+    },
+    {
+      "title": "Projected impacts of this year’s strong El Niño on global food security",
+      "links": [
+        "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/"
+      ],
+      "category": "Science",
+      "rank": 1,
+      "summary": "This year’s exceptionally strong El Niño, potentially the strongest in a millennium, is disrupting global weather patterns and worsening food insecurity. Forecast to intensify by early winter, the phenomenon is causing severe droughts, shrinking yields, and threatening aquatic ecosystems such as Peru’s anchovy fishery. Global aid agencies warn that 49 million more people could face acute food shortages by 2027, compounded by high fertilizer costs, geopolitical conflicts, and strained logistics like the Panama Canal. While global crop production remains stable overall, regional shortages—especially in Southern Africa, South Asia, and Central America—are expected to drive hunger and price spikes.",
+      "title_tr": "Bu yılki şiddetli El Niño’nun küresel gıda güvenliği üzerindeki öngörülen etkileri",
+      "summary_tr": "Bu yılın muhtemelen bin yıldırın en güçlüsü olan istisnai El Niño olayı, küresel hava düzenlerini bozmanın yanı sıra gıda güvensizliğini de kötüleştirmektedir. Kış başlarında doruğa ulaşması beklenen bu fenomen, ciddi kuraklıklara, verim kaybına neden olmakta ve Peru’nun hamsi balıkçılığını tehdit etmektedir. Uluslararası yardım kuruluşlarına göre, 2027 yılına kadar 49 milyon kişi daha şiddetli gıda sıkıntısıyla karşı karşıya kalabilir; bunun yanı sıra yüksek gübre maliyetleri, jeopolitik çatışmalar ve Panama Kanalı gibi lojistik sorunlar durumu zorlaştırmaktadır. Genel olarak küresel tarım üretimi istikrarlı görünse de, Güney Afrika, Güney Asya ve Orta Amerika gibi bölgelerdeki bölgesel kıtlıklar gıda fiyatlarının artmasına ve açlık riskinin yükselmesine yol açacaktır."
+    },
+    {
+      "title": "Potential environmental benefits of GLP-1 weight‑loss drugs",
+      "links": [
+        "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/"
+      ],
+      "category": "Science",
+      "rank": 2,
+      "summary": "GLP-1 weight-loss drugs such as Ozempic and Wegovy could significantly impact global food systems if widely adopted, potentially preventing up to 7 million annual deaths and freeing up 46 million hectares of agricultural land by 2050 when combined with healthier diets. A new study simulating world food demand found that reduced calorie intake and dietary improvements could create environmental benefits by lowering agricultural land use and addressing land mismatches. However, the research emphasizes that these medications should not replace systemic changes in food environments, as cheaper food may also drive overconsumption and environmental pressures elsewhere. The findings highlight the interconnected nature of human health, food production, and environmental sustainability.",
+      "title_tr": "GLP-1 bazlı zayıflama ilaçlarının potansiyel çevresel faydaları",
+      "summary_tr": "GLP-1 kilo verme ilaçları Ozempic ve Wegovy gibi, yaygın kullanım görmesi durumunda, küresel gıda sistemlerini önemli ölçüde etkileyerek 2050 yılına kadar daha sağlıklı diyetlerle birleştiklerinde yılda 7 milyon ölümün önlenmesi ve 46 milyon hektarlık tarımsal arazinin serbest kalmasına yol açabilir. Dünyadaki gıda talebinin simüle edildiği yeni bir araştırma, azalan kalori alımı ve diyet iyileştirmelerinin tarımsal arazi kullanımını azaltarak ve arazi kullanımındaki dengesizlikleri gidererek çevresel faydalar yaratabileceğini ortaya koydu. Bununla birlikte, araştırma, bu ilaçların gıda ortamındaki sistemik değişikliklerin yerini almasını önermiyor; çünkü ucuz gıdalar başka yerlerde de aşırı tüketimi ve çevresel baskıları tetikleyebilir. Bulgular, insan sağlığı, gıda üretimi ve çevresel sürdürülebilirlik arasındaki bağlantıya dikkat çekiyor."
+    },
+    {
+      "title": "Pharmacogenomic testing can identify genetic factors influencing medication effectiveness",
+      "links": [
+        "https://nautil.us/you-likely-have-genes-that-affect-how-well-your-medications-work-testing-for-them-could-improve-treatment-1286903/"
+      ],
+      "category": "Science",
+      "rank": 3,
+      "summary": "Pharmacogenomic testing can reveal how genetic differences influence medication responses, potentially addressing the trial-and-error approach often used in prescribing drugs. Research analyzing nearly 100,000 genomes in the All of Us Research Program found that every participant carried at least one relevant genetic variant affecting drug metabolism or effectiveness, with 24% having taken a drug impacted by their genetics. The study also identified thousands of previously unreported variants linked to medication responses, highlighting the potential for broader genetic testing to optimize treatment plans. However, routine implementation is hindered by data gaps, especially regarding underrepresented populations, and requires further evidence to confirm direct patient benefit.",
+      "title_tr": "Farmakogenomik testler, ilaçların etkinliğini etkileyen genetik faktörleri belirleyebilir",
+      "summary_tr": "Farmakogenomik testler, reçete edilen ilaçların etkinliğini etkileyen genetik farklılıkları ortaya çıkararak, doktorların ilaç reçetelerinde deneme-yanılma yaklaşımını iyileştirebilir. All of Us Araştırma Programı'nda yer alan yaklaşık 100.000 genomu inceleyen araştırmalar, her katılımcının en az bir önemli genetik varyanta sahip olduğunu ve %24'ünün genetik varyantları nedeniyle etkilenmiş bir ilaç kullandığını ortaya koydu. Çalışma ayrıca, ilaç tepkileriyle bağlantılı binlerce yeni bildirilmemiş varyant da tanımladı ve genetik testlerin tedavi planlarını optimize etme potansiyeline dikkat çekti. Bununla birlikte, rutin uygulamanın hayata geçirilmesi, özellikle temsil edilmeyen popülasyonlara yönelik veri eksiklikleri nedeniyle zorluklarla karşı karşıyadır. Ayrıca, doğrudan hasta faydası konusunda daha fazla kanıta ihtiyaç bulunmaktadır."
+    },
+    {
+      "title": "Sterilized soil retains key chemical reactions, shedding light on life's origins",
+      "links": [
+        "https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/"
+      ],
+      "category": "Science",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "Sterilize edilmiş toprak, hayati öneme sahip kimyasal reaksiyonları muhafaza ederek yaşamın kökenine ışık tutuyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Researchers discover new flying frog species in Indonesia with unique egg‑laying method",
+      "links": [
+        "https://nautil.us/new-species-of-flying-frog-discovered-in-indonesia-1286962/"
+      ],
+      "category": "Science",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "Araştırmacılar, Endonezya’da benzersiz bir yumurtlama yöntemine sahip yeni bir uçan kurbağa türü keşfettiler",
+      "summary_tr": null
+    },
+    {
+      "title": "Study links children's gender to parental stroke risk using Danish data",
+      "links": [
+        "https://feeds.feedblitz.com/~/973706111/0/marginalrevolution~Danish-daughters.html"
+      ],
+      "category": "Science",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "Danimarka verilerini kullanan bir araştırma, çocukların cinsiyetiyle ebeveynlerin inme riski arasında bir bağlantı olduğunu ortaya koyuyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Hackers compromise GL.iNet routers via cloud vulnerability",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/"
+      ],
+      "category": "Tech",
+      "rank": 1,
+      "summary": "Attackers exploited a flaw in GL.iNet’s GoodCloud remote management platform to deploy custom malware on routers and KVM devices, creating persistent backdoors and reverse shells for remote access. GL.iNet confirmed the vulnerability was fixed and released guidance for detection and remediation, though some compromised devices may require full firmware reinstallation. Malware contained Chinese developer comments and used infrastructure including IP addresses 66.245.219.252 and 65.20.71.131. The incident highlights risks in cloud-managed networking devices and the need for immediate security updates.",
+      "title_tr": "Bilgisayar korsanları, bulut güvenlik açığını kullanarak GL.iNet yönlendiricilerini ele geçirdi",
+      "summary_tr": "Saldırganlar, GL.iNet’in GoodCloud uzaktan yönetim platformundaki bir güvenlik açığını istismar ederek yönlendiriciler ve KVM cihazlarına özel olarak tasarlanmış kötü amaçlı yazılımlar yükledi; bu sayede kalıcı olarak erişim sağlayan arka kapılar ve ters kabuklar oluşturuldu. GL.iNet, güvenlik açığının kapatıldığını doğruladı ve tespit ile temizlik için kılavuz yayınladıysa da bazı bulaşmış cihazların tam bir firmware yeniden yüklemesi gerektirebileceği belirtildi. Kötü amaçlı yazılımın içinde Çince geliştirici yorumları bulunmuş ve saldırgan altyapısı olarak 66.245.219.252 ve 65.20.71.131 IP adresleri kullanılmıştır. Olay, bulut tabanlı yönetilen ağ cihazlarındaki riskleri ve acil güvenlik güncellemelerinin önemini ortaya koydu."
+    },
+    {
+      "title": "E‑commerce platform Cleverbridge reports credit‑card data breach",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/"
+      ],
+      "category": "Tech",
+      "rank": 2,
+      "summary": "E-commerce platform Cleverbridge reported a data breach detected on November 4, 2026, during which hackers stole customers' payment card details—including card numbers, expiration dates, and CVV/CVC security codes—while systems were briefly taken offline. Cleverbridge provides e-commerce services for software firms and SaaS companies, including Red Hat, SUSE, Tenable, and more, though the exact number of affected customers and businesses remains undisclosed. The company clarified that no personal data or ransomware activity was involved but emphasized the particular risk of CVV/CVC exposure. Affected users are advised to monitor statements and contact card issuers for potential replacements.",
+      "title_tr": "E-ticaret platformu Cleverbridge, kredi kartı verilerinde bir sızıntı yaşandığını bildirdi",
+      "summary_tr": "E-ticaret platformu Cleverbridge, 4 Kasım 2026 tarihinde tespit edilen bir veri ihlali sırasında, sistemler kısa süreliğine kapatılırken müşterilerden kart numaraları, son kullanma tarihleri ve CVV/CVC güvenlik kodları dahil olmak üzere ödeme kartı bilgilerinin çalındığını bildirdi. Cleverbridge, Red Hat, SUSE, Tenable ve daha birçok firmanın da aralarında bulunduğu yazılım ve SaaS şirketlerine e-ticaret hizmeti sağlamaktadır; ancak kaç müşterinin etkilendiği ve hangi şirketlere ait verilerin sızdırıldığı açıklanmadı. Şirket, kişisel verilerin veya fidye yazılımı faaliyetinin olmadığını belirtirken, CVV/CVC kodlarının ele geçirilmesinin oluşturduğu riskin özellikle vurguladı. Etkilenen kullanıcılar, hesap hareketlerini izlemelerini ve olası kart değiştirmeler için kart çıkaran kuruluşlarla iletişime geçmelerini tavsiye edildi."
+    },
+    {
+      "title": "US car owners face $12 billion annual increase in repair costs due to software subscriptions",
+      "links": [
+        "https://www.theregister.com/personal-tech/2026/11/22/as-cars-go-digital-us-consumers-pay-an-extra-12-billion-a-year-for-repairs/5311412"
+      ],
+      "category": "Tech",
+      "rank": 3,
+      "summary": "The computerization of modern vehicles has driven up repair costs in the US by an estimated $12 billion annually, according to the Public Interest Research Group (PIRG). Car manufacturers now require mechanics to use paid software subscriptions and tools to diagnose and repair computerized systems, forcing independent shops to either pay substantial fees or redirect customers to authorized dealerships where repairs are more expensive. These costs contribute to rising auto insurance premiums and result in inefficiencies, as technicians spend an estimated 83 million hours yearly managing software and access protocols. PIRG advocates for legislative measures to enable independent repairers, standardize access to diagnostic data, and cap software licensing fees to protect consumer interests.",
+      "title_tr": "ABD’deki araç sahipleri, yazılım abonelikleri nedeniyle onarım maliyetlerinde yıllık 12 milyar dolarlık bir artışla karşı karşıya",
+      "summary_tr": "Modern araçların bilgisayarlaşması, ABD'de yılda tahmini 12 milyar dolarlık bir artışa neden olarak, araç onarım maliyetlerini yükseltmiştir. PIRG (Public Interest Research Group) raporuna göre otomobil üreticileri, bilgisayarlı sistemlerin teşhis ve onarımını yapabilmek için tamircilerin ücretli yazılım aboneliklerine ve araçlara erişim ücretlerine bağımlı hale getirmiştir. Bağımsız tamirciler yüksek maliyetler nedeniyle ya bu yazılımları satın almak ya da müşterileri, daha pahalı onarımlar yapılan yetkili bayilere yönlendirmek zorunda kalmaktadır. Bu durum artan sigorta primi maliyetlerine katkıda bulunmakta ve tamircilerin yazılım yönetim sürecinde yılda yaklaşık 83 milyon saat harcama yapmalarına yol açmaktadır. PIRG, tüketicilerin korunmasını amaçlayan yasal düzenlemelerin yapılması, bağımsız tamircilerin standartlara uygun diagnistik veriye erişiminin sağlanması ve yazılım lisans ücretlerine üst sınır konulmasını önermektedir."
+    },
+    {
+      "title": "Signal adds protection to stop AI assistants from recording chats",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/"
+      ],
+      "category": "Tech",
+      "rank": 4,
+      "summary": null,
+      "title_tr": "Signal, yapay zeka asistanlarının sohbetleri kaydetmesini engelleyen bir koruma özelliği ekledi",
+      "summary_tr": null
+    },
+    {
+      "title": "New passive radar system can track airborne threats without revealing its position",
+      "links": [
+        "https://www.theregister.com/offbeat/2026/11/22/passive-ghost-radar-can-detect-airborne-threats-without-revealing-its-own-position/5311023"
+      ],
+      "category": "Tech",
+      "rank": 5,
+      "summary": null,
+      "title_tr": "Yeni pasif radar sistemi, konumunu açığa çıkarmadan havadaki tehditleri takip edebiliyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Amazon faces criticism over $5 delivery fee increase in New York City",
+      "links": [
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQam5tX3p6SEhjX0xlWlJBSUs0VXRuTFZ5OXkxVzlRYUFSdXNXU3BrQzRGOWpTUXVjbHh6NWNiSkt4RlktM2lteGpxTWNoVm5DNXdoYmh5YkJfckRJWVBkcDBhWGhfenpkVDhMRWJrYmRmUWYzRlZGMC15c2Y5VDNXZ0xvMkxjX3Z5T1hCeDNuVjZrNEZzcnQwUkxiSEhqN3BF?oc=5"
+      ],
+      "category": "Tech",
+      "rank": 6,
+      "summary": null,
+      "title_tr": "Amazon, New York’ta 5 dolarlık kargo ücreti artışı nedeniyle eleştirilere maruz kalıyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Prices for older Nvidia GPUs climb despite declining stock",
+      "links": [
+        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbmNXRjNhZUdxb2NzZG03T1VJOFdieU1vTWwwNllJRGV3N0h5ei1ZRldwTk5TNmFFSzNFblhCdnVhcFowOXlNZm54a29aeTJEOFJhUU03Z0ZTUU5Hc0doOF8xOE0tcDhlQjBIQ0o5R3p6dFo3eEdwQVFJQUU3bktTSUFDUzl6R2N6a096SGdOejhGdmhFQkRFZS1YMnpNUHpiSDdYU3VNdWloR3g0WFNtM2h0RmxjMUFwU0JUX0ZLa01IdEJZelBUMWdmbEpYVWJLR3ZzdWYwcExNWjJWVjZqNjdNeG9iTjBMcUE?oc=5"
+      ],
+      "category": "Tech",
+      "rank": 7,
+      "summary": null,
+      "title_tr": "Stokların azalmasına rağmen eski model Nvidia GPU'ların fiyatları yükseliyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Supercomputer administrator discusses evolution from dot‑com era to 200,000‑core machines",
+      "links": [
+        "https://www.theregister.com/hpc/2026/11/22/come-for-the-science-stay-for-the-big-iron-supercomputer-admin-on-why-he-loves-the-job/5311247"
+      ],
+      "category": "Tech",
+      "rank": 8,
+      "summary": null,
+      "title_tr": "Süper bilgisayar yöneticisi, dot-com döneminden 200.000 çekirdekli makinelere uzanan gelişim sürecini ele alıyor",
+      "summary_tr": null
+    },
+    {
+      "title": "Analysis of recent widespread tech outages and security incidents",
+      "links": [
+        "https://www.bbc.com/turkce/articles/cw7728xx70z5o?at_medium=RSS&at_campaign=rss"
+      ],
+      "category": "Tech",
+      "rank": 9,
+      "summary": null,
+      "title_tr": "Son dönemde yaygın olarak görülen teknoloji kesintileri ve güvenlik olaylarının analizi",
+      "summary_tr": null
+    },
+    {
+      "title": "Review of top consumer star projectors hyped for space-themed displays",
+      "links": [
+        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVllLTlowdXdpUzQxdVdwOUVDbjhJem1Ta29Ubl9STXZicW9aMTYtSkhlWXRmUFhQR0NOWTRUYU8xQ1BsM2YzZWdLSjNoRFhlZ1BBYTllT0NwdVU1aElWd3BwZjlQVWE1THc5N3dPZUEya2NpR0N5T3BuTkVtQUp5SEdkd0dzeW9yYm52TzltcXh4THJXaEN4X01RZTF2OUFfSE1zV0VqVzZ2WEMyX1QxU0ZWYTMtMzQzOUhzeFFOcnBMTkdNVFVtRDA5U0pJQTNucTF4RV9GS0xPaHgzRWFiZGx1cHRyVU8zWUE?oc=5"
+      ],
+      "category": "Tech",
+      "rank": 10,
+      "summary": null,
+      "title_tr": "Uzay temalı gösterimleriyle büyük ilgi gören en iyi tüketici sınıfı yıldız projektörlerinin incelemesi",
+      "summary_tr": null
+    },
+    {
+      "title": "Top travel adapters tested for 2026",
+      "links": [
+        "https://www.wired.com/gallery/best-travel-adapters/"
+      ],
+      "category": "Tech",
+      "rank": 11,
+      "summary": null,
+      "title_tr": "2026 için test edilen en iyi seyahat adaptörleri",
+      "summary_tr": null
+    },
+    {
+      "title": "Black Friday bundles and discounts for Nintendo Switch 2",
+      "links": [
+        "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-22-26/"
+      ],
+      "category": "Tech",
+      "rank": 12,
+      "summary": null,
+      "title_tr": "Nintendo Switch 2 için Kara Cuma paketleri ve indirimleri 2",
+      "summary_tr": null
+    },
+    {
+      "title": "Gift ideas for mothers in 2026, from calendars to jewelry",
+      "links": [
+        "https://www.wired.com/story/best-gifts-for-moms-2026/"
+      ],
+      "category": "Tech",
+      "rank": 13,
+      "summary": null,
+      "title_tr": "2026'da anneler için hediye önerileri: takvimlerden takılara",
+      "summary_tr": null
+    }
+  ]
+}
